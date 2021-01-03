@@ -1,0 +1,57 @@
+* {
+  font-family: monospace;
+}
+
+#title {
+  font-size: 5em;
+}
+
+#person {
+  cursor: pointer;
+}
+
+#content > div {
+  display: inline-block;
+  vertical-align: top;
+}
+
+a:link {
+  color: magenta;
+}
+a:visited {
+  color: magenta;
+}
+a:hover {
+  color: #0f0;
+}
+
+
+#main {
+  text-align: center;
+  width: 100%;
+}
+
+#links {
+  list-style-type: none;
+}
+
+.linkDiv {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+#links img {
+  height: 50px; // default
+}
+
+.linkImgDiv {
+  // account for variable widths of images
+  text-align: center;
+  width: 100px;
+}
+
+#links span {
+  font-size: 2em;
+}
