@@ -1,3 +1,5 @@
+@import url("https://github.com/ryantuck/roam-themez/raw/master/roam_1337_dark.user.css");
+
 * {
   font-family: monospace;
 }
@@ -47,7 +49,7 @@ a:hover {
 }
 
 .linkImgDiv {
-  // account for variable widths of images
+  /* account for variable widths of images */
   text-align: center;
   width: 100px;
 }
