@@ -1,3 +1,6 @@
+// TODO - make face object cleaner to work with and update
+// TODO - use lodash more
+
 var randomItem = function (inputArray) {
   return inputArray[Math.floor(Math.random() * inputArray.length)];
 }
