@@ -1,4 +1,4 @@
-@import url("https://github.com/ryantuck/roam-themez/raw/master/roam_1337_dark.user.css");
+/* @import url("https://github.com/ryantuck/roam-themez/raw/master/roam_1337_dark.user.css"); */
 
 * {
   font-family: monospace;
@@ -6,6 +6,7 @@
 
 #title {
   font-size: 5em;
+  color: blue;
 }
 
 #person {
