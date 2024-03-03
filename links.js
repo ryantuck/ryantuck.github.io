@@ -1,25 +1,25 @@
 // Populating a table with basic jQuery because it's nicer than hardcoding html
 var links = [
   {
-    name: 'Roam',
-    description: "Thinkin'",
-    linkHref: 'https://roamresearch.com/#/app/tuck/page/m8BM0mvW0',
-    imgSrc: 'https://preview.redd.it/ctvemkioy7741.png?width=428&format=png&auto=webp&s=b685204aa024e3665d0abb3cf42145494e975375',
-    imgHeight: '40px',
-  },
-  {
-    name: 'Twitter',
-    description: "Yakkin'",
-    linkHref: 'https://twitter.com/ryntck',
-    imgSrc: 'https://image.flaticon.com/icons/png/512/23/23931.png',
-    imgHeight: '40px',
-  },
-  {
     name: 'GitHub',
     description: "Hackin'",
     linkHref: 'https://github.com/ryantuck',
     imgSrc: "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
     imgHeight: '50px',
+  },
+  {
+    name: 'Twitter',
+    description: "Yakkin'",
+    linkHref: 'https://twitter.com/ryntck',
+    imgSrc: 'https://www.kindpng.com/picc/m/433-4339184_twitter-black-logo-png-transparent-clipart-png-download.png',
+    imgHeight: '40px',
+  },
+  {
+    name: 'Roam',
+    description: "Thinkin'",
+    linkHref: 'https://roamresearch.com/#/app/tuck/page/m8BM0mvW0',
+    imgSrc: 'https://preview.redd.it/ctvemkioy7741.png?width=428&format=png&auto=webp&s=b685204aa024e3665d0abb3cf42145494e975375',
+    imgHeight: '40px',
   },
   {
     name: 'Stack Overflow',
