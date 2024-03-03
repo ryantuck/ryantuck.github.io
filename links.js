@@ -8,10 +8,10 @@ var links = [
     imgHeight: '50px',
   },
   {
-    name: 'Twitter',
+    name: 'X',
     description: "Yakkin'",
     linkHref: 'https://twitter.com/ryntck',
-    imgSrc: 'https://www.kindpng.com/picc/m/433-4339184_twitter-black-logo-png-transparent-clipart-png-download.png',
+    imgSrc: 'https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg',
     imgHeight: '40px',
   },
   {
