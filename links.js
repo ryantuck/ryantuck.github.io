@@ -15,13 +15,6 @@ var links = [
     imgHeight: '40px',
   },
   {
-    name: 'Roam',
-    description: "Thinkin'",
-    linkHref: 'https://roamresearch.com/#/app/tuck/page/m8BM0mvW0',
-    imgSrc: 'https://preview.redd.it/ctvemkioy7741.png?width=428&format=png&auto=webp&s=b685204aa024e3665d0abb3cf42145494e975375',
-    imgHeight: '40px',
-  },
-  {
     name: 'Stack Overflow',
     description: "Askin'",
     linkHref: 'https://stackoverflow.com/users/1700270/ryantuck',
