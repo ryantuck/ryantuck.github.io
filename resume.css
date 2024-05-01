@@ -1,0 +1,159 @@
+@import url('https://unpkg.com/purecss@2.0.3/build/pure-min.css');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Muli&family=Roboto+Mono&display=swap');
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+@media print {
+  body, .paper {
+    margin: 0;
+    box-shadow: 0;
+  }
+}
+
+body {
+  font-size: 80%;
+  background: #008;
+}
+
+
+.app {
+  background: #666;
+}
+
+  .paper {
+  background: #fff;
+  display: grid;
+  grid-template-columns: 160mm 50mm;
+  margin: 0 auto;
+  margin-bottom: 0.5cm;
+  padding: 15px;
+  height: 275mm;
+  width: 215mm;
+  /* border: 10px solid black; */
+}
+
+a {color: black; }
+a:visited { color: black; }
+a { text-decoration: none; }
+
+* {
+  font-family: 'Muli', serif;
+}
+
+.mono {
+  font-family: 'Roboto Mono', monospace;
+  text-decoration: none;
+}
+
+.serif {
+  font-family: 'Merriweather', serif;
+}
+
+.sans {
+  font-family: 'Muli', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Merriweather', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Roboto Mono', monospace;
+}
+
+
+#name {
+  font-size: 40px;
+  font-family: 'Muli', sans-serif;
+  padding: 0px;
+  margin-top: 10px;
+}
+
+.left {
+  display: grid;
+  grid-template-rows: 50mm 225mm;
+  border-right: solid black 1px;
+}
+
+.right {
+  display: grid;
+  grid-template-rows: 225mm 50mm;
+  margin-left: 5px;
+  /* text-align: right; */
+}
+
+.box {
+  /* border: solid black 1px; */
+  /* margin: 5px; */
+  padding: 2px;
+}
+
+
+.basics {
+  padding-right: 5px;
+}
+
+.work {
+  border-top: solid black 1px;
+}
+
+.work-item {
+}
+
+.education {
+  border-top: solid black 1px;
+  /* text-align: center; */
+}
+
+.education-item * {
+  /* font-family: 'Didot', Times, serif; */
+}
+
+.skills {
+}
+
+.skill-item p {
+  margin: 0px;
+  padding: 0px;
+  font-size: 70%;
+}
+
+li {
+  margin: 0 0 2px 0;
+}
+
+ul {
+  list-style-type: none;
+  list-style-position: outside;
+}
+
+ul li::before {
+    content: "\f105";
+    font-family: "FontAwesome";
+    padding: 0 10px 0 0;
+    margin: 0 0 0 -15px;
+}
+
+#li-location::before      { content: "\f015" }
+#li-github::before        { content: "\f09b" }
+#li-email::before         { content: "\f1d8" }
+#li-site::before          { content: "\f14e" }
+#li-stackoverflow::before { content: "\f16c" }
+
+#links * {
+  font-family: 'Roboto Mono', monospace;
+}
+
+h2,h3 {
+  margin-block-start: 0.5em;
+  margin-block-end: 0.5em;
+}
+
+.prof {
+  margin-right: 10px;
+}
+
+
+
+
+
+
