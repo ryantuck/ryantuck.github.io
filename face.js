@@ -133,8 +133,8 @@ svg.append('circle')
 
 var smileArc = function (rads) {
   return d3.arc()  // starts at North, deg in rads
-    .innerRadius(80)
-    .outerRadius(85)
+    .innerRadius(0.8 * faceRadius)
+    .outerRadius(0.80 * faceRadius + 5)
     .startAngle(rads)
     .endAngle(Math.PI * 2 - rads);
 }
