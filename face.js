@@ -5,8 +5,8 @@ var randomItem = function (inputArray) {
   return inputArray[Math.floor(Math.random() * inputArray.length)];
 }
 
-var width = 400;
-var height = 400;
+var width = 300;
+var height = 300;
 
 var faceRadius = width / 4;
 
