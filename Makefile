@@ -1,6 +1,6 @@
 moby-dick.html :
 	rm -f $@
-	find books/moby-dick/* | sort | xargs -I % echo '<img src="%" />\n' >> $@
+	find books/moby-dick/* | sort | xargs -I % echo '<img src="%" />' >> $@
 
 # ----------------
 
