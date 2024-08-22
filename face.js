@@ -5,8 +5,8 @@ var randomItem = function (inputArray) {
   return inputArray[Math.floor(Math.random() * inputArray.length)];
 }
 
-var width = 300;
-var height = 300;
+var width = 200;
+var height = 200;
 
 var faceRadius = width / 4;
 
@@ -18,7 +18,7 @@ var eyeHeight = height / 2 - faceRadius / 4;
 var eyePd = faceRadius;
 var pupilRadius = eyeRadius / 4;
 
-var eyeNoise = 20;
+var eyeNoise = width / 15;
 
 var bgColors = ['#111', '#333', '#555', '#777', '#999', '#aaa', '#ccc'];
 var faceColors = ['hotpink', '#0f0', 'cyan', 'magenta', 'yellow', 'red', 'blue'];
