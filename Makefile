@@ -38,6 +38,9 @@ country-bracket-4.jpg : country-music/IMG_5491.jpeg
 
 
 # ----------------
+etc.json : etc.yml
+	yq r -j $< > $@
+# ----------------
 
 .PHONY : install serve
 
