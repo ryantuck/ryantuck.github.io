@@ -1,4 +1,4 @@
-books : war-and-peace.html moby-dick.html
+books : war-and-peace.html moby-dick.html candide.html
 
 war-and-peace.html :
 	rm -f $@
@@ -7,6 +7,10 @@ war-and-peace.html :
 moby-dick.html :
 	rm -f $@
 	find books/moby-dick/* | sort | xargs -I % echo '<img src="%" />' >> $@
+
+candide.html :
+	rm -f $@
+	find books/candide/* | sort | xargs -I % echo '<img src="%" />' >> $@
 
 # ----------------
 
@@ -39,6 +43,7 @@ country-bracket-4.jpg : country-music/IMG_5491.jpeg
 
 install : 
 	npm install -g http-server
+	pip install google-api-python-client
 
 serve :
 	http-server -c-1
