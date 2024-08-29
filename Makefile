@@ -1,4 +1,4 @@
-books : war-and-peace.html moby-dick.html candide.html
+books : war-and-peace.html moby-dick.html candide.html catcher-in-the-rye.html
 
 war-and-peace.html :
 	rm -f $@
@@ -11,6 +11,11 @@ moby-dick.html :
 candide.html :
 	rm -f $@
 	find books/candide/* | sort | xargs -I % echo '<img src="%" />' >> $@
+
+catcher-in-the-rye.html :
+	rm -f $@
+	find books/catcher-in-the-rye/* | sort | xargs -I % echo '<img style="max-width: 400px" src="%" />' >> $@
+
 
 # ----------------
 
