@@ -45,6 +45,11 @@ country-bracket-4.jpg : country-music/IMG_5491.jpeg
 # ----------------
 etc.json : etc.yml
 	yq r -j $< > $@
+
+# TODO - most elegant way to account for / interact with subdir makefiles?
+spotify-playlists.html : 
+	$(MAKE) -C spotify playlists.html
+	cp spotify/playlists.html $@
 # ----------------
 
 .PHONY : install serve
