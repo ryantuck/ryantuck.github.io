@@ -16,14 +16,33 @@ def service():
     return build('drive', 'v3', credentials=creds)
 
 
-def ls():
+def ls(q=None):
     """
     List files.
     """
-    # TODO support pagination
+    # TODO support paginatikon
+    page_token = None
     svc = service()
-    result = svc.files().list().execute()
-    return result['files']
+    files = []
+    while True:
+        result = svc.files().list(q=q, pageToken=page_token).execute()
+        files += result['files']
+        page_token = result.get('nextPageToken')
+        if not page_token:
+            return files
+
+
+def folders():
+    """
+    """
+    return ls(q="mimeType = 'application/vnd.google-apps.folder'")
+
+
+def files(folder_id):
+    """
+    List files in given folder.
+    """
+    return ls(q=f"'{folder_id}' in parents")
 
 
 def get(file_id):
