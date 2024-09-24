@@ -5,7 +5,17 @@ books : \
 	catcher-in-the-rye.html \
 	watership-down.html \
 	fight-club.html \
-	atlas-shrugged.html
+	atlas-shrugged.html \
+	1984.html \
+	a-tale-of-two-cities.html \
+	fahrenheit-451.html \
+	brave-new-world.html \
+	lord-of-the-flies.html \
+	we.html \
+	frankenstein.html \
+	the-dispossessed.html \
+	the-republic.html \
+	two-cheers-for-anarchism.html
 
 war-and-peace.html :
 	rm -f $@
@@ -34,6 +44,58 @@ fight-club.html : drive-structure.json
 atlas-shrugged.html : drive-structure.json
 	rm -f $@
 	cat $< | jq '."Atlas Shrugged" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+1984.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."1984" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+brave-new-world.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."Brave New World" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+a-tale-of-two-cities.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."A Tale of Two Cities" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+fahrenheit-451.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."Fahrenheit 451" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+lord-of-the-flies.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."Lord of the Flies" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+we.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."We" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+the-republic.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."The Republic" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+the-dispossessed.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."The Dispossessed" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+frankenstein.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."Frankenstein" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+two-cheers-for-anarchism.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."two-cheers-for-anarchism-highlights" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
