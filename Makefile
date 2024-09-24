@@ -1,4 +1,11 @@
-books : war-and-peace.html moby-dick.html candide.html catcher-in-the-rye.html watership-down.html
+books : \
+	war-and-peace.html \
+	moby-dick.html \
+	candide.html \
+	catcher-in-the-rye.html \
+	watership-down.html \
+	fight-club.html \
+	atlas-shrugged.html
 
 war-and-peace.html :
 	rm -f $@
@@ -19,6 +26,15 @@ catcher-in-the-rye.html :
 watership-down.html :
 	rm -f $@
 	find books/watership-down/* | sort | xargs -I % echo '<img src="%" />' >> $@
+
+fight-club.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."Fight Club" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+atlas-shrugged.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."Atlas Shrugged" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
 
 
 # ----------------
@@ -55,6 +71,9 @@ spotify-playlists.html :
 	$(MAKE) -C spotify playlists.html
 	cp spotify/playlists.html $@
 # ----------------
+
+drive-structure.json : drive.py
+	python drive.py | jq > $@
 
 .PHONY : install serve
 

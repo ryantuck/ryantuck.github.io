@@ -66,6 +66,22 @@ def download_file(file_id, file_name, target_dir, decode=False, binary=True):
     with open(target_path, write_options) as f:
         f.write(file_contents)
 
+
+def download_folder(folder_name, target_dir):
+    folder_id = next(f['id'] for f in folders() if f['name'] == folder_name)
+    for f in files(folder_id):
+        download_file(
+            file_id=f['id'],
+            file_name=f['name'].lower().replace(' - ', ' ').replace(' ','-'),
+            target_dir=target_dir,
+        )
+
+
+def public_url(file_id):
+    return f"https://lh3.googleusercontent.com/d/{file_id}"
+    
+
+
 def download_all():
     """
     """
@@ -77,7 +93,23 @@ def download_all():
             file_name=png['name'].lower().replace(' - ', ' ').replace(' ','-'),
             target_dir='books/candide'
         )
-        
+
+
+def structure():
+    """
+    Return json blob of directory structure.
+    """
+    output = {}
+    for folder in folders():
+        name = folder['name']
+        folder_id = folder['id']
+        output[name] = [
+            public_url(f['id']) 
+            for f in sorted(files(folder_id), key=lambda x: x['name'])
+        ]
+    return output
+
 
 if __name__ == '__main__':
-    download_all()
+    output = structure()
+    print(json.dumps(output))
