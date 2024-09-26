@@ -102,6 +102,8 @@ def structure():
     output = {}
     for folder in folders():
         name = folder['name']
+        if name == 'Book Highlights':
+            continue
         folder_id = folder['id']
         output[name] = [
             public_url(f['id']) 

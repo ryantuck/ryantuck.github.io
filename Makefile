@@ -15,7 +15,13 @@ books : \
 	frankenstein.html \
 	the-dispossessed.html \
 	the-republic.html \
-	two-cheers-for-anarchism.html
+	two-cheers-for-anarchism.html \
+	dune.html \
+	dune-messiah.html \
+	children-of-dune.html \
+	god-emperor-of-dune.html \
+	heretics-of-dune.html \
+	chapterhouse-dune.html
 
 war-and-peace.html :
 	rm -f $@
@@ -84,6 +90,32 @@ frankenstein.html : drive-structure.json
 two-cheers-for-anarchism.html : drive-structure.json
 	rm -f $@
 	cat $< | jq '."two-cheers-for-anarchism-highlights" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+dune.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."Dune" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+dune-messiah.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."Dune Messiah" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+children-of-dune.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."Children of Dune" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+god-emperor-of-dune.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."God Emperor of Dune" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+heretics-of-dune.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."Heretics of Dune" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+chapterhouse-dune.html : drive-structure.json
+	rm -f $@
+	cat $< | jq '."Chapterhouse: Dune" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
+
+
 
 
 
