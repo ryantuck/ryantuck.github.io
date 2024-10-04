@@ -123,6 +123,8 @@ country-bracket-3.jpg : country-music/IMG_5490.jpeg
 country-bracket-4.jpg : country-music/IMG_5491.jpeg
 	cp $< $@
 
+country.html : country.md
+	pandoc $< -o $@
 
 # ----------------
 etc.json : etc.yml
