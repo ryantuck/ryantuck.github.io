@@ -30,10 +30,10 @@ body {
 }
 
 a:link {
-  color: magenta;
+  color: darkred;
 }
 a:visited {
-  color: magenta;
+  color: darkred;
 }
 a:hover {
   color: #0f0;

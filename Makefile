@@ -93,6 +93,7 @@ two-cheers-for-anarchism.html : drive-structure.json
 
 dune.html : drive-structure.json
 	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
 	cat $< | jq '."Dune" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
 
 dune-messiah.html : drive-structure.json
