@@ -24,6 +24,7 @@ body::before {
   width: 100vw;
   height: 100vh;
   background-size: auto 120vh;
+  background-position: top;
   background-image: url('tzb.jpg');
   z-index: -1;
 }
@@ -43,10 +44,10 @@ body::before {
 }
 
 a:link {
-  color: darkred;
+  color: darkslategray;
 }
 a:visited {
-  color: darkred;
+  color: darkslategray;
 }
 a:hover {
   color: #0f0;
