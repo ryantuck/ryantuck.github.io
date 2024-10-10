@@ -6,13 +6,26 @@
 
 body {
   margin: 0;
-  background-image: url('tzb.jpg');
+  /* background-image: url('tzb.jpg');
   background-repeat: no-repeat;
   background-position: top;
-  background-size: auto 120vh;
+  background-size: auto 120vh; */
 /*   width: 100vh;
   height: 100vh;
   border: 5px solid blue; */
+}
+
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-size: auto 120vh;
+  background-image: url('tzb.jpg');
+  z-index: -1;
 }
 
 #title {
