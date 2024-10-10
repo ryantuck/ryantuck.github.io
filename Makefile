@@ -157,7 +157,12 @@ country-bracket-4.jpg : country-music/IMG_5491.jpeg
 	cp $< $@
 
 country.html : country.md
-	pandoc $< -o $@
+	pandoc $< -s -o $@
+
+# ----------------
+
+nashville.html : nashville.md
+	pandoc $< -s -o $@
 
 # ----------------
 etc.json : etc.yml
