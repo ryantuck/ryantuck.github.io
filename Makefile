@@ -21,7 +21,9 @@ books : \
 	children-of-dune.html \
 	god-emperor-of-dune.html \
 	heretics-of-dune.html \
-	chapterhouse-dune.html
+	chapterhouse-dune.html \
+	old-man-and-the-sea.html \
+	the-stranger.html
 
 war-and-peace.html :
 	rm -f $@
@@ -138,9 +140,15 @@ chapterhouse-dune.html : drive-structure.json
 	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
 	cat $< | jq '."Chapterhouse: Dune" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
 
+old-man-and-the-sea.html : drive-structure.json
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	cat $< | jq '."Old Man and the Sea" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
 
-
-
+the-stranger.html : drive-structure.json
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	cat $< | jq '."The Stranger" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
 
 
 
