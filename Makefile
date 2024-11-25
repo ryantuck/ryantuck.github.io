@@ -156,6 +156,12 @@ the-stranger.html : drive-structure.json
 
 
 
+# ----------------
+
+2024-10.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-10/ -type f | sort | xargs -I % echo '<img src="%" />' >> $@
 
 
 
