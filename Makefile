@@ -23,7 +23,9 @@ books : \
 	heretics-of-dune.html \
 	chapterhouse-dune.html \
 	old-man-and-the-sea.html \
-	the-stranger.html
+	the-stranger.html\
+	the-brothers-karamazov.html \
+	the-handmaids-tale.html
 
 war-and-peace.html :
 	rm -f $@
@@ -150,6 +152,15 @@ the-stranger.html : drive-structure.json
 	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
 	cat $< | jq '."The Stranger" | .[]' -r | xargs -I % echo '<img src="%" />' >> $@
 
+the-brothers-karamazov.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/bro-k/* | sort | xargs -I % echo '<img src="%" />' >> $@
+
+the-handmaids-tale.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/handmaids-tale/* | sort | xargs -I % echo '<img src="%" />' >> $@
 
 
 
@@ -216,8 +227,7 @@ drive-structure.json : drive.py
 .PHONY : install serve
 
 install : 
-	npm install -g http-server
 	pip install google-api-python-client
 
 serve :
-	http-server -c-1
+	python -m http.server
