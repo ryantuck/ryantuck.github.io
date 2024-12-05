@@ -25,7 +25,8 @@ books : \
 	old-man-and-the-sea.html \
 	the-stranger.html\
 	the-brothers-karamazov.html \
-	the-handmaids-tale.html
+	the-handmaids-tale.html \
+	identity.html
 
 war-and-peace.html :
 	rm -f $@
@@ -162,6 +163,11 @@ the-handmaids-tale.html :
 	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
 	find books/handmaids-tale/* | sort | xargs -I % echo '<img src="%" />' >> $@
 
+identity.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/identity/* | sort | xargs -I % echo '<img src="%" />' >> $@
+
 
 
 
@@ -169,10 +175,20 @@ the-handmaids-tale.html :
 
 # ----------------
 
+2024-09.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-09/ -type f | sort | xargs -I % echo '<img src="%" />' >> $@
+
 2024-10.html :
 	rm -f $@
 	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
 	find 2024-10/ -type f | sort | xargs -I % echo '<img src="%" />' >> $@
+
+2024-11.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-11/ -type f | sort | xargs -I % echo '<img src="%" />' >> $@
 
 
 
