@@ -175,6 +175,60 @@ identity.html :
 
 # ----------------
 
+2024 : \
+	2024-01.html \
+	2024-02.html \
+	2024-03.html \
+	2024-04.html \
+	2024-05.html \
+	2024-06.html \
+	2024-07.html \
+	2024-08.html \
+	2024-09.html \
+	2024-10.html \
+	2024-11.html
+
+
+2024-01.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-01/ -type f | sort | xargs -I % echo '<img src="%" />' >> $@
+
+2024-02.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-02/ -type f | sort | xargs -I % echo '<img src="%" />' >> $@
+
+2024-03.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-03/ -type f | sort | xargs -I % echo '<img src="%" />' >> $@
+
+2024-04.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-04/ -type f | sort | xargs -I % echo '<img src="%" />' >> $@
+
+2024-05.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-05/ -type f | sort | xargs -I % echo '<img src="%" />' >> $@
+
+2024-06.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-06/ -type f | sort | xargs -I % echo '<img src="%" />' >> $@
+
+2024-07.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-07/ -type f | sort | xargs -I % echo '<img src="%" />' >> $@
+
+2024-08.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-08/ -type f | sort | xargs -I % echo '<img src="%" />' >> $@
+
 2024-09.html :
 	rm -f $@
 	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
@@ -225,6 +279,11 @@ country.html : country.md
 # ----------------
 
 nashville.html : nashville.md
+	pandoc $< -s -o $@
+
+# ---------------
+
+notes/%.html : notes/md/%.md
 	pandoc $< -s -o $@
 
 # ----------------
