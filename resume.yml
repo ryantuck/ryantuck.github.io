@@ -3,12 +3,7 @@ basics:
   email: ryan@ryantuck.io
   phone: 609-315-1847
   website: ryantuck.io
-  summary: |
-    Over ten years of backend tech startup experience at all stages of growth, I've developed an in-demand skillset that's likely to provide a positive return to your organization.
-    If you let me, I'll maintain your production app, manage your 
-    team, coach your engineers, stand up your cloud from scratch, containerize 
-    your infrastructure, automate your deploys, run your analytics workloads, 
-    minimize your complexity, firefight your outages, and lead your people.
+  summary: Over ten years of backend tech startup experience at all stages of growth, I've developed an in-demand skillset that's likely to provide a positive return to your organization. If you let me, I'll maintain your production app, manage your team, coach your engineers, stand up your cloud from scratch, containerize your infrastructure, automate your deploys, run your analytics workloads, minimize your complexity, firefight your outages, and lead your people.
 
 
   profiles:
@@ -25,18 +20,27 @@ basics:
 
 work:
 
+  - company: AngelList
+    industry: Finance, B2B/B2C
+    position: Senior Software Engineer
+    start_date: "2024-07"
+    end_date: "2024-12"
+    highlights:
+      - Maintained and fine-tuned LLM document classification and parsing workloads interfacing with GPT-4 and Claude using prompt engineering and RAG, monitored via LangSmith
+      - Maintained production backend serverless document service using TypeScript, ElasticSearch, CDK
+      - Maintained production monolith codebase in Ruby, GraphQL, React
+
+
   - company: Horizon3.ai
     industry: Cybersecurity, B2B
     position: Engineering Manager, Backend
     start_date: "2022"
-    end_date: "Present"
+    end_date: "2024-06"
     highlights:
-      - Grew from senior engineer to formally managing team of seven engineers and oversaw all aspects of backend application development for hundreds of clients on our autonomous penetration testing platform
+      - Senior engineer on and later manager of the backend team of seven engineers and oversaw all aspects of backend application development for hundreds of clients on our autonomous penetration testing platform
       - Maintained production GraphQL API, PostgreSQL database, data warehouse, and orchestration framework in AWS
       - Coordinated with Attack, Systems, and Frontend team leads on shipping all major product features
       - Containerized main data pipeline orchestration tooling in preparation for full migration to Kubernetes
-      - Handled day-to-day support and occasional production outage-fighting
-      - Consolidated repos and CICD flows to monorepo, reducing complexity, and simplifying development and pipelines      
       - Architected data lake to support rapid analytics on identifying breaking N-day vulnerabilities discovered in the wild
 
   - company: Songspace
@@ -83,6 +87,7 @@ college:
 
 buzzwords:
   Wisdom: Complexity is the velocity killer. Premature optimization is the root of all evil. Code is meant to be read by humans and only incidentally executed by machines. Don't be smart, just restart. Stop duplicating state, network is fast in the cloud.
+  LLMs: Up-to-date with the latest developments, hallucinations are a headache to work with, read Bostrom in 2015, Yudkowsky is generally correct
   Python: You probably actually want to use setup.py but are using requirements.txt because you read to do that online when you set up your deployment two years ago and don't understand why you're seeing dependency issues with pip. Also, pandas is overkill.
   SQL: Not every problem calls for a relational database, CTEs help readability, Postgres is a fine choice, UPDATEs are an antipattern for large workloads, online alembic migrations are painful at times
   AWS: Good default cloud, IaC is the ideal, battle scars from RDS, DynamoDB, S3, Lambda, EC2, Fargate, IAM, API Gateway, etc etc etc, GCP is the same thing with a prettier interface
@@ -90,4 +95,3 @@ buzzwords:
   Docker: Containers are virtuous if you can get Docker installed on your machine correctly, k8s is probably overkill
   BI: BigQuery, dbt, Looker is a sweet stack, dimensional modeling and Kimball are probably overkill, spreadsheets are the lingua franca of data, pivot tables are cool
   Hardware: I went from dabbling with Arduino and Raspberry Pi to raising thousands of dollars on Kickstarter for a hardware product I built from scratch, unleaded solder is harder to work with
-  LLMs: I read Bostrom in 2015, am abreast of the latest developments, open to using professionally, no interest in using this grotesque technology in my personal life
