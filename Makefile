@@ -1,3 +1,5 @@
+all : books 2024
+
 books : \
 	war-and-peace.html \
 	moby-dick.html \
@@ -25,32 +27,33 @@ books : \
 	old-man-and-the-sea.html \
 	the-stranger.html\
 	the-brothers-karamazov.html \
-	the-handmaids-tale.html
+	the-handmaids-tale.html \
+	identity.html
 
 war-and-peace.html :
 	rm -f $@
 	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
-	find books/war-and-peace/* | sort | xargs -I % echo '<img src="%" />' >> $@
+	find books/war-and-peace/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
 
 moby-dick.html :
 	rm -f $@
 	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
-	find books/moby-dick/* | sort | xargs -I % echo '<img src="%" />' >> $@
+	find books/moby-dick/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
 
 candide.html :
 	rm -f $@
 	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
-	find books/candide/* | sort | xargs -I % echo '<img src="%" />' >> $@
+	find books/candide/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
 
 catcher-in-the-rye.html :
 	rm -f $@
 	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
-	find books/catcher-in-the-rye/* | sort | xargs -I % echo '<img src="%" />' >> $@
+	find books/catcher-in-the-rye/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
 
 watership-down.html :
 	rm -f $@
 	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
-	find books/watership-down/* | sort | xargs -I % echo '<img src="%" />' >> $@
+	find books/watership-down/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
 
 fight-club.html : drive-structure.json
 	rm -f $@
@@ -155,12 +158,17 @@ the-stranger.html : drive-structure.json
 the-brothers-karamazov.html :
 	rm -f $@
 	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
-	find books/bro-k/* | sort | xargs -I % echo '<img src="%" />' >> $@
+	find books/bro-k/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
 
 the-handmaids-tale.html :
 	rm -f $@
 	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
-	find books/handmaids-tale/* | sort | xargs -I % echo '<img src="%" />' >> $@
+	find books/handmaids-tale/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+identity.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/identity/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
 
 
 
@@ -169,12 +177,80 @@ the-handmaids-tale.html :
 
 # ----------------
 
+2024 : \
+	2024-01.html \
+	2024-02.html \
+	2024-03.html \
+	2024-04.html \
+	2024-05.html \
+	2024-06.html \
+	2024-07.html \
+	2024-08.html \
+	2024-09.html \
+	2024-10.html \
+	2024-11.html \
+	2024-jackson-hole.html
+
+
+2024-01.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-01/ -type f | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+2024-02.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-02/ -type f | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+2024-03.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-03/ -type f | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+2024-04.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-04/ -type f | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+2024-05.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-05/ -type f | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+2024-06.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-06/ -type f | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+2024-07.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-07/ -type f | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+2024-08.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-08/ -type f | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+2024-09.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-09/ -type f | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
 2024-10.html :
 	rm -f $@
 	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
-	find 2024-10/ -type f | sort | xargs -I % echo '<img src="%" />' >> $@
+	find 2024-10/ -type f | sort -V | xargs -I % echo '<img src="%" />' >> $@
 
+2024-11.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-11/ -type f | sort -V | xargs -I % echo '<img src="%" />' >> $@
 
+2024-jackson-hole.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find 2024-jackson-hole/ -type f | sort -V | xargs -I % echo '<img src="%" />' >> $@
 
 
 
@@ -209,6 +285,11 @@ country.html : country.md
 # ----------------
 
 nashville.html : nashville.md
+	pandoc $< -s -o $@
+
+# ---------------
+
+notes/%.html : notes/md/%.md
 	pandoc $< -s -o $@
 
 # ----------------
