@@ -1,5 +1,6 @@
 playlists.html : playlists.md
-	docker run -v $$PWD:/data pandoc/minimal /data/$< -o $@
+	# docker run -v $$PWD:/data pandoc/minimal /data/$< -o $@
+	pandoc -s $< -o $@
 
 playlists.md : playlists.jsonl
 	echo "# Spotify Playlists" > $@

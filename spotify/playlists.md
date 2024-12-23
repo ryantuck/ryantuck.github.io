@@ -1,4 +1,7 @@
 # Spotify Playlists
+-  [2024-12](https://open.spotify.com/playlist/5AJQa3Xx4qffXOry4ujglL)
+-  [2024-11](https://open.spotify.com/playlist/2IcNxDCbJEsNP30lXO4Ehw)
+-  [2024-10](https://open.spotify.com/playlist/6Pa9L6F6m78rdYf7bS6hO0)
 -  [2024-09](https://open.spotify.com/playlist/3Owh1BGIqF285hcOu2F6TJ)
 -  [2024-08](https://open.spotify.com/playlist/5NURIe02TZI4THT5yKoUmV)
 -  [2024-07](https://open.spotify.com/playlist/2XBuSZepvxPE2TF1yTqOo4)
