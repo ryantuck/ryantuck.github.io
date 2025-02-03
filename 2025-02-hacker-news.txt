@@ -1,0 +1,15 @@
+Ryan Tuck
+
+    Location: NYC
+    Remote: Remote or Hybrid
+    Willing to relocate: No
+    Technologies: AWS, Python (EC2, Fargate, Lambda, Localdev), SQL (Postgres, dbt, Redshift, BigQuery), docker, unix, make, vim, Arduino, Ruby, TypeScript, LLMs
+    Resume (JSON): curl -L ryantuck.io/resume.json | jq
+    Resume (PDF): https://ryantuck.io/resume.pdf
+    GitHub: https://github.com/ryantuck
+    StackOverflow: https://stackoverflow.com/users/1700270/ryantuck
+    Email: ryan at ryantuck.io
+
+Looking for exciting full-time or contract work ideally within the following domains: AI Safety, Computational Science, Crypto, Research, Dev Tooling.
+
+Focusing on senior / principal / management full-time roles or short-term contract engagement. 10+ years tech startup experience at varying stages of growth, high-agency generalist, enjoy leadership, remote since 2017, have maintained LLM workloads, familiar and comfortable with LLM-assisted coding. Most of my career has been working in data-intensive settings and backend application development and handling devops on AWS infrastructure. Started my professional career at Warby Parker, and before that I taught myself to code trying to start a company building LED wearables for raves out of college. Physics and philosophy degrees, interested in everything, especially governance and complexity reduction in technical systems. Reach out to chat!
