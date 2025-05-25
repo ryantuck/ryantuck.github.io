@@ -1,0 +1,19 @@
+group-00 b>a c>d
+group-01 a>b d>c
+group-02 a-b d>c
+group-03 b>a c>d
+
+group-04 a>b d>c
+group-05 b>a c-d
+group-06 a>b c>d
+group-07 a>b d>c
+
+group-08 a>b c>d
+group-09 a>b d>c
+group-10 a-b d>c
+group-11 b>a d>c
+
+group-12 b>a d>c
+group-13 b>a c>d
+group-14 a>b d>c
+group-15 a>b d>c
