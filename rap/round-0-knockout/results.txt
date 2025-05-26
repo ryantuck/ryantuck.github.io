@@ -26,7 +26,7 @@ group-19 a>b d>c a>c d>b d>a c>b
 group-20 a>b d>c a>c b>d a>d b>c
 group-21 a>b c>d a>c d>b a>d c>b
 
-group-22
-group-23
-group-24
-group-25
+group-22 a>b d>c a>c d>b d>a c>b
+group-23 a>b d>c a>c b>d a>d b>c
+group-24 b>a d>c c>a b>d d>a b>c
+group-25 a>b c>d a>c b>d a>d c>b
