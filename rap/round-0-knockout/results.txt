@@ -26,35 +26,7 @@ group-19 a>b d>c a>c d>b d>a c>b
 group-20 a>b d>c a>c b>d a>d b>c
 group-21 a>b c>d a>c d>b a>d c>b
 
-==================================
-
-GROUP 00
-
-1. * b 9 3-0-0 Blow the Whistle - Too $hort
-2. * c 6 2-1-0 Gotta Lotta - 2 Chainz, Lil Wayne
-3. x d 3 1-2-0 Sippin On Some Syrup - Three 6 Mafia
-4. x a 0 0-3-0 Bitch Please - Snoop Dogg, Xzibit
-
-GROUP 01
-
-1. * d 9 3-0-0 Castro - Yo Gotti, ...
-2. * a 6 2-1-0 Gucci On My - Mike Will Made-It
-3. x b 3 1-2-0 Oh Boy - Cam'ron
-4. x c 0 0-3-0 Blue C-Note - 2 Chainz
-
-
-GROUP 02
-
-1. * 7 2-0-1 Colt 45 - Afroman
-2. * 7 2-0-1 Point of No Return - Immortal Technique
-3. x 3 1-2-0 Talib Kweli - Get By
-4. x 0 0-3-0 Wicked - Future
-
-GROUP 03
-
-1. * 9 3-0-0 Welcome to Atlanta Remix - Jermaine Dupri
-2. * 4 1-1-1 I'm On One - DJ Khaled
-3. x 4 1-1-1 Lovin On Me - Jack Harlow
-4. x 0 0-3-0 Space Jam - Quad City DJ's
-
-... automate :) ...
+group-22
+group-23
+group-24
+group-25
