@@ -1,5 +1,7 @@
 
 
+groups = ['000', '001', '002', '003']
+
 
 def results():
     return open('results.txt').read().splitlines()
@@ -18,7 +20,9 @@ def pretty_results(gr):
         print(f'{r}. {s}')
 
 
-g = group('000')
-r = results()[0]
-gr = group_results(g, r)
-print(pretty_results(gr))
+for idx, grp in enumerate(groups):
+    g = group(grp)
+    r = results()[idx]
+    gr = group_results(g, r)
+    print(f'GROUP-{grp}')
+    print(pretty_results(gr))
