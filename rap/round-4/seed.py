@@ -42,40 +42,50 @@ def rank_group_id(x,y):
     return f'rankings-{x}-{y}'
 
 
-
-
 # 1 1,2 1v4
 # 2 1,2 3v2
 # 2 4,3 2v3
 # 1 4,3 4v1
 
-def ocho(x):
+def ocho(x,y,t=False):
 
-    y = x+1
+    a,b = 1,2
+    c,d = 4,3
+    if t:
+        a,b = 4,3
+        c,d = 1,2
 
-    print(rank_group_id(x,1), 1)
-    print(rank_group_id(x,2), 4)
-
-    print(rank_group_id(y,1), 3)
-    print(rank_group_id(y,2), 2)
-
-    print(rank_group_id(y,4), 2)
-    print(rank_group_id(y,3), 3)
-
-    print(rank_group_id(x,4), 4)
-    print(rank_group_id(x,3), 1)
-
-
-
-
-
+    return [
+        (rank_group_id(x,a), 1),
+        (rank_group_id(x,b), 4),
+        (rank_group_id(y,a), 3),
+        (rank_group_id(y,b), 2),
+        (rank_group_id(y,c), 2),
+        (rank_group_id(y,d), 3),
+        (rank_group_id(x,c), 4),
+        (rank_group_id(x,d), 1),
+    ]
 
 
-print(song('rankings-8-3', 3))
+octets = [
+    ocho(1,2),
+    ocho(5,6),
+    ocho(3,4),
+    ocho(7,8),
+    ocho(1,2, True),
+    ocho(5,6, True),
+    ocho(3,4, True),
+    ocho(7,8, True),
+    ocho(2,1),
+    ocho(6,5),
+    ocho(4,3),
+    ocho(8,7),
+    ocho(2,1, True),
+    ocho(6,5, True),
+    ocho(4,3, True),
+    ocho(8,7, True),
+]
 
-ocho(1)
-ocho(5)
-ocho(3)
-ocho(7)
-
-
+for octet in octets:
+    for seed in octet:
+        print(song(seed[0], seed[1]))
