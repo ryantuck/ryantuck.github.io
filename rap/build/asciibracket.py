@@ -78,8 +78,10 @@ def gen_bracket(rounds=3, results=[], width=20):
 
         vals = results[col]
         for row, val in zip(row_idxs, vals):
-            just_song = ' - '.join(val.split(" - ")[1:])
-            just_song = just_song.split(' (feat')[0]
+            just_song = val.split(" - ")[1:][0]
+            just_song = just_song.split('feat')[0]
+            just_song = just_song.split('(')[0]
+            just_song = just_song.strip()
 
             for _ in range(col):
                 output[row] += ' '*width
@@ -102,7 +104,7 @@ def gen_bracket(rounds=3, results=[], width=20):
 
                         # output[row-1]
                         # output[row+2]
-            output[row] += pad_string(just_song, width)
+            output[row] += pad_string(just_song, width-1 if col>0 else width)
 
     for row in output:
         print(row)
@@ -110,10 +112,10 @@ def gen_bracket(rounds=3, results=[], width=20):
 # print(coordinates(8))
 
 rounds = 7
-width=30
+width=40
 # results = gen_sample_results(rounds)
 results = get_results()
-gen_bracket(rounds=rounds, results=results, width=30)
+gen_bracket(rounds=rounds, results=results, width=width)
 # gen_bracket()
 # gen_bracket()
 # gen_bracket()
