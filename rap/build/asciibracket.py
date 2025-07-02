@@ -39,12 +39,24 @@ def coordinates(depth):
     return list(reversed(output))
 
 
+def gen_sample_results(rounds):
+    entries = [f'Entry {x}' for x in range(pow(2, rounds))]
+    results = []
+    results.append(entries)
+    for x in range(rounds):
+        latest = [e for idx, e in enumerate(entries) if idx % pow(2,x+1) == 0]
+        results.append(latest)
+    return results
+
+
+
 def gen_bracket(rounds=3, width=20):
 
     n_songs = pow(2, rounds)
     n_lines = n_songs * 2
 
     indices = coordinates(rounds+1)
+    results = gen_sample_results(rounds)
 
     # indices = [
     #     [1,3,5,7,9,11,13,15],
@@ -53,14 +65,15 @@ def gen_bracket(rounds=3, width=20):
     #     [8],
     # ]
 
-
     output = ['']*n_lines
 
     for col, row_idxs in enumerate(indices):
-        for row in row_idxs:
+        vals = results[col]
+        print(vals)
+        for row, val in zip(row_idxs, vals):
             for _ in range(col):
                 output[row] += ' '*width
-            output[row] += pad_string(f'SONG {row}', width)
+            output[row] += pad_string(val, width)
 
     for row in output:
         print(row)
