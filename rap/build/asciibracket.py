@@ -39,17 +39,19 @@ def coordinates(depth):
     return list(reversed(output))
 
 
-def gen_bracket():
+def gen_bracket(rounds=3, width=20):
 
-    n_lines = 16
-    width = 20
+    n_songs = pow(2, rounds)
+    n_lines = n_songs * 2
 
-    indices = [
-        [1,3,5,7,9,11,13,15],
-        [2,6,10,14],
-        [4,12],
-        [8],
-    ]
+    indices = coordinates(rounds+1)
+
+    # indices = [
+    #     [1,3,5,7,9,11,13,15],
+    #     [2,6,10,14],
+    #     [4,12],
+    #     [8],
+    # ]
 
 
     output = ['']*n_lines
@@ -63,9 +65,9 @@ def gen_bracket():
     for row in output:
         print(row)
 
-print(coordinates(8))
+# print(coordinates(8))
 
-gen_bracket()
+gen_bracket(rounds=7)
 # gen_bracket()
 # gen_bracket()
 # gen_bracket()
