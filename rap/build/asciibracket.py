@@ -49,14 +49,18 @@ def gen_sample_results(rounds):
     return results
 
 
+def get_results():
+    import json
+    data = json.load(open('../round-5-tournament/songs-by-round.json'))
+    return list(data.values())
 
-def gen_bracket(rounds=3, width=20):
+
+def gen_bracket(rounds=3, results=[], width=20):
 
     n_songs = pow(2, rounds)
     n_lines = n_songs * 2
 
     indices = coordinates(rounds+1)
-    results = gen_sample_results(rounds)
 
     # indices = [
     #     [1,3,5,7,9,11,13,15],
@@ -68,19 +72,48 @@ def gen_bracket(rounds=3, width=20):
     output = ['']*n_lines
 
     for col, row_idxs in enumerate(indices):
+
+        # for line in set(range(n_lines)) - set(row_idxs):
+        #     output[line] += ' '*width + '|'
+
         vals = results[col]
-        print(vals)
         for row, val in zip(row_idxs, vals):
+            just_song = ' - '.join(val.split(" - ")[1:])
+            just_song = just_song.split(' (feat')[0]
+
             for _ in range(col):
                 output[row] += ' '*width
-            output[row] += pad_string(val, width)
+            # if is_odd and col != 0:
+            #     output[row] += '|'
+            # is_odd = not is_odd
+            if col != 0:
+                # output[row] += '|'
+                # padding = width * (col) - len(output[row+1])
+                # output[row+1] += ' '*padding + '|'
+                if col > 0:
+                    for i in range(pow(2,col-1)):
+                        line_idx = row - i
+                        padding = width * (col) - len(output[line_idx])
+                        output[line_idx] += ' '*padding + '|'
+
+                        line_idx = row + 1 + i
+                        padding = width * (col) - len(output[line_idx])
+                        output[line_idx] += ' '*padding + '|'
+
+                        # output[row-1]
+                        # output[row+2]
+            output[row] += pad_string(just_song, width)
 
     for row in output:
         print(row)
 
 # print(coordinates(8))
 
-gen_bracket(rounds=7)
+rounds = 7
+width=30
+# results = gen_sample_results(rounds)
+results = get_results()
+gen_bracket(rounds=rounds, results=results, width=30)
 # gen_bracket()
 # gen_bracket()
 # gen_bracket()
