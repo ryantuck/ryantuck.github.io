@@ -1,24 +1,26 @@
 def pad_string(s, width, pad_char='_', left_padding=2):
+    """
+    Example:
+        '__ Shook Ones, Pt. II __________________'
+    """
     padding_1 = pad_char * left_padding
     padding_str = pad_char * (width-len(s)-left_padding-2)
     return f'{padding_1} {s} {padding_str}'
 
 
-
-def bracket(a, b, width, height, a_wins=None):
-    print(pad_string(a, width))
-    for _ in range(height):
-        print(' '*width + '|')
-    print(' '*width + '|' + pad_string(a, width))
-    for _ in range(height):
-        print(' '*width + '|')
-    print(pad_string(b, width) + '|')
-
-
 def coordinates(depth):
-
+    """
+    Method: start from midpoint of total lines, get midpoint of above and below, repeat to end.
+    Example 8-entry, 3-round bracket:
+        indices = [
+            [1,3,5,7,9,11,13,15],
+            [2,6,10,14],
+            [4,12],
+            [8],
+        ]
+    """
     n0 = pow(2, depth - 1)      # original entries
-    n_lines = n0 * 2            # fn(n0, height)
+    n_lines = n0 * 2            # fn(n0, h=1)
     mid_line = int(n_lines / 2) # starting point
 
     output = []
@@ -39,97 +41,69 @@ def coordinates(depth):
     return list(reversed(output))
 
 
-def gen_sample_results(rounds):
-    entries = [f'Entry {x}' for x in range(pow(2, rounds))]
-    results = []
-    results.append(entries)
-    for x in range(rounds):
-        latest = [e for idx, e in enumerate(entries) if idx % pow(2,x+1) == 0]
-        results.append(latest)
-    return results
+def _tidy_song(song):
+    just_song = song.split(" - ")[1:][0]
+    just_song = just_song.split('feat')[0]
+    just_song = just_song.split('(')[0]
+    just_song = just_song.strip()
+    return just_song
 
 
 def get_results():
     import json
     data = json.load(open('../round-5-tournament/songs-by-round.json'))
-    return list(data.values())
+    return [
+        [_tidy_song(s) for s in songs]
+        for songs in data.values()
+    ]
 
 
-def gen_bracket(rounds=3, results=[], width=20):
-
+def gen_bracket(results, width=30):
+    rounds = len(results)-1
     n_songs = pow(2, rounds)
     n_lines = n_songs * 2
 
     indices = coordinates(rounds+1)
 
-    # indices = [
-    #     [1,3,5,7,9,11,13,15],
-    #     [2,6,10,14],
-    #     [4,12],
-    #     [8],
-    # ]
-
     output = ['']*n_lines
 
+    # iterate through all coordinates and place entries accordingly
     for col, row_idxs in enumerate(indices):
-
-        # for line in set(range(n_lines)) - set(row_idxs):
-        #     output[line] += ' '*width + '|'
-
         vals = results[col]
-        for row, val in zip(row_idxs, vals):
-            just_song = val.split(" - ")[1:][0]
-            just_song = just_song.split('feat')[0]
-            just_song = just_song.split('(')[0]
-            just_song = just_song.strip()
 
+        # zip together locations and entries that should populate those slots
+        for row, val in zip(row_idxs, vals):
+
+            # pad row n cols worth
             for _ in range(col):
                 output[row] += ' '*width
-            # if is_odd and col != 0:
-            #     output[row] += '|'
-            # is_odd = not is_odd
+
+            # add vertical bars to brackets, padding where needed
             if col != 0:
-                # output[row] += '|'
-                # padding = width * (col) - len(output[row+1])
-                # output[row+1] += ' '*padding + '|'
-                if col > 0:
-                    for i in range(pow(2,col-1)):
-                        line_idx = row - i
-                        padding = width * (col) - len(output[line_idx])
-                        output[line_idx] += ' '*padding + '|'
+                for i in range(pow(2,col-1)):
+                    # above
+                    line_idx = row - i
+                    padding = width * (col) - len(output[line_idx])
+                    output[line_idx] += ' '*padding + '|'
+                    # and below
+                    line_idx = row + 1 + i
+                    padding = width * (col) - len(output[line_idx])
+                    output[line_idx] += ' '*padding + '|'
 
-                        line_idx = row + 1 + i
-                        padding = width * (col) - len(output[line_idx])
-                        output[line_idx] += ' '*padding + '|'
+            # finally, write the row for the entry
+            output[row] += pad_string(val, width-1 if col>0 else width)
 
-                        # output[row-1]
-                        # output[row+2]
-            output[row] += pad_string(just_song, width-1 if col>0 else width)
-
-    for row in output:
-        print(row)
-
-# print(coordinates(8))
-
-rounds = 7
-width=40
-# results = gen_sample_results(rounds)
-results = get_results()
-gen_bracket(rounds=rounds, results=results, width=width)
-# gen_bracket()
-# gen_bracket()
-# gen_bracket()
+    # return one big text string for later printing
+    return '\n'.join(output)
 
 
-# bracket('Soldier - Eminem', "Ludacris - What's Your Fantasy?", 40, 0, True)
-# print()
-# bracket('Soldier - Eminem', "Ludacris - What's Your Fantasy?", 40, 0, True)
-# print()
-# bracket('Soldier - Eminem', "Ludacris - What's Your Fantasy?", 40, 0, True)
-# print()
-# bracket('Soldier - Eminem', "Ludacris - What's Your Fantasy?", 40, 0, True)
+def main():
+    import sys
+    import json
+    width = 40
+    results = json.loads(''.join(line for line in sys.stdin))
+    output = gen_bracket(results=results, width=width)
+    print(output)
 
 
-
-# print(pad_string('Role Model'))
-# print(pad_string('Still Fly'))
+main()
