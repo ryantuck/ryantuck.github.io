@@ -40,6 +40,10 @@ def coordinates(depth):
 
 
 def gen_bracket():
+
+    n_lines = 16
+    width = 20
+
     indices = [
         [1,3,5,7,9,11,13,15],
         [2,6,10,14],
@@ -47,20 +51,21 @@ def gen_bracket():
         [8],
     ]
 
-    output = ['']*16
+
+    output = ['']*n_lines
 
     for col, row_idxs in enumerate(indices):
         for row in row_idxs:
             for _ in range(col):
-                output[row] += ' '*20
-            output[row] += pad_string(f'SONG {row}', 20)
+                output[row] += ' '*width
+            output[row] += pad_string(f'SONG {row}', width)
 
     for row in output:
         print(row)
 
-print(coordinates(6))
+print(coordinates(8))
 
-# gen_bracket()
+gen_bracket()
 # gen_bracket()
 # gen_bracket()
 # gen_bracket()
