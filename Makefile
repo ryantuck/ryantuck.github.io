@@ -307,6 +307,11 @@ nashville.html : nashville.md
 
 # ---------------
 
+lit.html : lit.md
+	pandoc $< -s -o $@
+
+# ---------------
+
 notes/%.html : notes/md/%.md
 	pandoc $< -s -o $@
 
