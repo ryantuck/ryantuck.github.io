@@ -6,7 +6,10 @@ def group_ids():
 
 
 def rankings():
-    return open('results.txt').read().splitlines()
+    lines = open('rankings.txt').read().splitlines()
+    assert all(len(line) == 4 for line in lines)
+    assert all(set(line) == set('1234') for line in lines)
+    return lines
 
 
 def group(grp_id):
@@ -28,6 +31,14 @@ def results_full():
     return output
 
 
+def dump_results():
+    import json
+    print(json.dumps(results_full()))
+
+dump_results()
+
+
+
 def print_pretty_group_results(grp_ranked):
     for rank, song in enumerate(grp_ranked):
         print(f'{rank+1}. {song}')
@@ -39,5 +50,5 @@ def print_pretty_all_results():
         print_pretty_group_results(songs)
         print()
 
+# print_pretty_all_results()
 
-print_pretty_all_results()
