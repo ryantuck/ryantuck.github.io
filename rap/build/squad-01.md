@@ -1,3 +1,11 @@
+<style>
+    body {
+        background-color: black;
+        width: 100%;
+        color: white;
+    }
+</style>
+
 # Squad 01
 
 ## Rankings
@@ -6,6 +14,20 @@
 2. **Eazy-E - Boyz-N-The-Hood**
 3. **Ja Rule - New York**
 4. **Drake - Furthest Thing**
+
+---
+
+## Rankings
+
+###  1. Eminem - Soldier
+
+### 2. Eazy-E - Boyz-n-The-Hood
+
+### 3. Ja Rule - New York
+
+### 4. Drake - Furthest Thing
+
+---
 
 ## Group Round 1
 
@@ -38,6 +60,8 @@ RIP to *Snap Yo Fingers*, gone too soon.
 2. **Eazy-E - Boyz-N-The-Hood**
 3. Rich The Kid - Plug Walk
 4. Murphy Lee - Wat Da Hook Gon Be
+
+---
 
 ## Group Round 2
 

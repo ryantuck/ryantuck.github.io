@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
+
+* {
+  font-family: "Lacquer", system-ui;
+}
+
+body {
+}
+
+code {
+  white-space: pre;
+}

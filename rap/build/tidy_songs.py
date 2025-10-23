@@ -5,6 +5,7 @@ def _tidy_song(song):
     just_song = song.split(" - ")[1:][0]
     just_song = just_song.split('feat')[0]
     just_song = just_song.split('(')[0]
+    just_song = just_song.split('(feat')[0]
     just_song = just_song.strip()
     return just_song
 

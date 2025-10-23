@@ -14,7 +14,7 @@ def results_round_2():
 
 
 def results_round_3_rankings():
-    return yaml.load(open('../round-3/tournament-seed-batches.yml'))
+    return yaml.safe_load(open('../round-3/tournament-seed-batches.yml'))
 
 
 class Results(BaseModel):
