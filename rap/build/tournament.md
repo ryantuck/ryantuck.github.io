@@ -132,6 +132,9 @@ GROUP-25
 3 b 3 1-2-0 Warren G - So Many Ways
 4 d 0 0-3-0 Rick Ross - Stay Schemin
 ```
+<div>
+<div style="display:inline-block;vertical-align:top">
+
 # SQUAD 0
 
 # 1 - Eminem - Soldier
@@ -140,25 +143,35 @@ GROUP-25
 
 ### 3 - Ja Rule - New York
 
-#### 4 - Drake - Furthest Thing
+### 4 - Drake - Furthest Thing
 
-### _ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _ 
+</div>
+</div>
+<div>
+<div style="display:inline-block;font-size:120%">
 
-## 0 / 2 / X
+### 0 / 2 / X
 
 1. Eazy-E - Boyz-N-The-Hood
 2. Drake - Furthest Thing
 3. ~~_City Girls - Act Up_~~
 4. ~~_Junior M.A.F.I.A. - Player's Anthem_~~
 
-## 0 / 2 / Y
+</div>
+<div style="display:inline-block;font-size:120%">
+
+### 0 / 2 / Y
 
 1. Eminem - Soldier
 2. Ja Rule - New York
 3. ~~_Lil' Troy - Wanna Be A Baller_~~
 4. ~~_Ludacris - My Chick Bad_~~
 
-### _ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _
+</div>
+</div>
+
+<div>
+<div style="display:inline-block">
 
 #### 0 / 1 / A
 
@@ -167,12 +180,18 @@ GROUP-25
 3. ~~_Lil Jon - Snap Yo Fingers_~~
 4. ~~_Baby E - Finessin_~~
 
+</div>
+<div style="display:inline-block">
+
 #### 0 / 1 / B
 
 1. Ja Rule - New York
 2. Junior M.A.F.I.A. - Player's Anthem
 3. ~~_Travis Scott - Oh My Dis Side (feat. Quavo)_~~
 4. ~~_2 Chainz - 4 AM_~~
+
+</div>
+<div style="display:inline-block">
 
 #### 0 / 1 / C
 
@@ -181,12 +200,18 @@ GROUP-25
 3. ~~_Drake - Started From the Bottom_~~
 4. ~~_Drake - Wu-Tang Forever_~~
 
+</div>
+<div style="display:inline-block">
+
 #### 0 / 1 / D
 
 1. Eminem - Soldier
 2. Eazy-E - Boyz-N-The-Hood
 3. ~~_Rich The Kid - Plug Walk_~~
 4. ~~_Murphy Lee - Wat Da Hook Gon Be_~~
+
+</div>
+</div>
 
 ---
 
@@ -2052,263 +2077,353 @@ GROUP-25
 
 
 
-# Bracket
+<style>
+    ul {
+        display: flex;
+        flex-direction: column;
+        list-style-type: none;
+        padding-left: 0px;
+    }
+    body {background-color: black}
+    * {color: white}
 
-```
+    #round-128 li:nth-child(4n+1) {
+      background-color: #444;
+    }
+    #round-128 li:nth-child(4n+2) {
+      background-color: #444;
+    }
 
-__ Soldier _____________________________
-                                        |__ Soldier ____________________________
-__ What's Your Fantasy _________________|                                       |
-                                                                                |__ My Name Is _________________________
-__ My Name Is __________________________                                        |                                       |
-                                        |__ My Name Is _________________________|                                       |
-__ Role Model __________________________|                                                                               |
-                                                                                                                        |__ Still Fly __________________________
-__ Still Fly ___________________________                                                                                |                                       |
-                                        |__ Still Fly __________________________                                        |                                       |
-__ You Ain't a Killer __________________|                                       |                                       |                                       |
-                                                                                |__ Still Fly __________________________|                                       |
-__ Guilty Conscience ___________________                                        |                                                                               |
-                                        |__ White America ______________________|                                                                               |
-__ White America _______________________|                                                                                                                       |
-                                                                                                                                                                |__ Dance with the Devil _______________
-__ Dance with the Devil ________________                                                                                                                        |                                       |
-                                        |__ Dance with the Devil _______________                                                                                |                                       |
-__ Regulate ____________________________|                                       |                                                                               |                                       |
-                                                                                |__ Dance with the Devil _______________                                        |                                       |
-__ Straight Outta Compton ______________                                        |                                       |                                       |                                       |
-                                        |__ The Real Slim Shady ________________|                                       |                                       |                                       |
-__ The Real Slim Shady _________________|                                                                               |                                       |                                       |
-                                                                                                                        |__ Dance with the Devil _______________|                                       |
-__ Patiently Waiting ___________________                                                                                |                                                                               |
-                                        |__ Patiently Waiting __________________                                        |                                                                               |
-__ Hustlin' ____________________________|                                       |                                       |                                                                               |
-                                                                                |__ Going Back to Cali _________________|                                                                               |
-__ Going Back to Cali __________________                                        |                                                                                                                       |
-                                        |__ Going Back to Cali _________________|                                                                                                                       |
-__ Hot N**** ___________________________|                                                                                                                                                               |
-                                                                                                                                                                                                        |__ Fuck Tha Police ____________________
-__ Push It _____________________________                                                                                                                                                                |                                       |
-                                        |__ Push It ____________________________                                                                                                                        |                                       |
-__ Killa Cam / Roll That Skit __________|                                       |                                                                                                                       |                                       |
-                                                                                |__ Consipracy Theory __________________                                                                                |                                       |
-__ What's The Difference _______________                                        |                                       |                                                                               |                                       |
-                                        |__ Consipracy Theory __________________|                                       |                                                                               |                                       |
-__ Consipracy Theory ___________________|                                                                               |                                                                               |                                       |
-                                                                                                                        |__ Consipracy Theory __________________                                        |                                       |
-__ My Chain ____________________________                                                                                |                                       |                                       |                                       |
-                                        |__ Before I Go ________________________                                        |                                       |                                       |                                       |
-__ Before I Go _________________________|                                       |                                       |                                       |                                       |                                       |
-                                                                                |__ Before I Go ________________________|                                       |                                       |                                       |
-__ I'm A Gangsta _______________________                                        |                                                                               |                                       |                                       |
-                                        |__ I'm A Gangsta ______________________|                                                                               |                                       |                                       |
-__ The Next Episode ____________________|                                                                                                                       |                                       |                                       |
-                                                                                                                                                                |__ Fuck Tha Police ____________________|                                       |
-__ Shook Ones, Pt. II __________________                                                                                                                        |                                                                               |
-                                        |__ Shook Ones, Pt. II _________________                                                                                |                                                                               |
-__ Survival of the Fittest _____________|                                       |                                                                               |                                                                               |
-                                                                                |__ Where The Hood At __________________                                        |                                                                               |
-__ Where The Hood At ___________________                                        |                                       |                                       |                                                                               |
-                                        |__ Where The Hood At __________________|                                       |                                       |                                                                               |
-__ Like A Pimp _________________________|                                                                               |                                       |                                                                               |
-                                                                                                                        |__ Fuck Tha Police ____________________|                                                                               |
-__ Gettin' Jiggy Wit It ________________                                                                                |                                                                                                                       |
-                                        |__ Eazy-Duz-It ________________________                                        |                                                                                                                       |
-__ Eazy-Duz-It _________________________|                                       |                                       |                                                                                                                       |
-                                                                                |__ Fuck Tha Police ____________________|                                                                                                                       |
-__ Ambitionz Az A Ridah ________________                                        |                                                                                                                                                               |
-                                        |__ Fuck Tha Police ____________________|                                                                                                                                                               |
-__ Fuck Tha Police _____________________|                                                                                                                                                                                                       |
-                                                                                                                                                                                                                                                |__ What If ____________________________
-__ Ruff Ryders Anthem __________________                                                                                                                                                                                                        |                                       |
-                                        |__ Ruff Ryders Anthem _________________                                                                                                                                                                |                                       |
-__ #1 Stunna ___________________________|                                       |                                                                                                                                                               |                                       |
-                                                                                |__ Who Shot Ya? _______________________                                                                                                                        |                                       |
-__ Tha Shiznit _________________________                                        |                                       |                                                                                                                       |                                       |
-                                        |__ Who Shot Ya? _______________________|                                       |                                                                                                                       |                                       |
-__ Who Shot Ya? ________________________|                                                                               |                                                                                                                       |                                       |
-                                                                                                                        |__ What If ____________________________                                                                                |                                       |
-__ Oh No _______________________________                                                                                |                                       |                                                                               |                                       |
-                                        |__ Oh No ______________________________                                        |                                       |                                                                               |                                       |
-__ Go To Church ________________________|                                       |                                       |                                       |                                                                               |                                       |
-                                                                                |__ What If ____________________________|                                       |                                                                               |                                       |
-__ Furthest Thing ______________________                                        |                                                                               |                                                                               |                                       |
-                                        |__ What If ____________________________|                                                                               |                                                                               |                                       |
-__ What If _____________________________|                                                                                                                       |                                                                               |                                       |
-                                                                                                                                                                |__ What If ____________________________                                        |                                       |
-__ Freaky Girl _________________________                                                                                                                        |                                       |                                       |                                       |
-                                        |__ Freaky Girl ________________________                                                                                |                                       |                                       |                                       |
-__ Men In Black ________________________|                                       |                                                                               |                                       |                                       |                                       |
-                                                                                |__ Freaky Girl ________________________                                        |                                       |                                       |                                       |
-__ Bow Down ____________________________                                        |                                       |                                       |                                       |                                       |                                       |
-                                        |__ Bow Down ___________________________|                                       |                                       |                                       |                                       |                                       |
-__ I Can _______________________________|                                                                               |                                       |                                       |                                       |                                       |
-                                                                                                                        |__ Freaky Girl ________________________|                                       |                                       |                                       |
-__ Stuntin' Like My Daddy ______________                                                                                |                                                                               |                                       |                                       |
-                                        |__ Stuntin' Like My Daddy _____________                                        |                                                                               |                                       |                                       |
-__ Nonstop _____________________________|                                       |                                       |                                                                               |                                       |                                       |
-                                                                                |__ Stuntin' Like My Daddy _____________|                                                                               |                                       |                                       |
-__ 99 Problems _________________________                                        |                                                                                                                       |                                       |                                       |
-                                        |__ 99 Problems ________________________|                                                                                                                       |                                       |                                       |
-__ Crazy Rap ___________________________|                                                                                                                                                               |                                       |                                       |
-                                                                                                                                                                                                        |__ What If ____________________________|                                       |
-__ Miami _______________________________                                                                                                                                                                |                                                                               |
-                                        |__ Miami ______________________________                                                                                                                        |                                                                               |
-__ Deuces ______________________________|                                       |                                                                                                                       |                                                                               |
-                                                                                |__ Miami ______________________________                                                                                |                                                                               |
-__ Castro ______________________________                                        |                                       |                                                                               |                                                                               |
-                                        |__ Castro _____________________________|                                       |                                                                               |                                                                               |
-__ I'm Not a Player ____________________|                                                                               |                                                                               |                                                                               |
-                                                                                                                        |__ Nuthin' But A "G" Thang ____________                                        |                                                                               |
-__ Da Graveyard ________________________                                                                                |                                       |                                       |                                                                               |
-                                        |__ Nuthin' But A "G" Thang ____________                                        |                                       |                                       |                                                                               |
-__ Nuthin' But A "G" Thang _____________|                                       |                                       |                                       |                                       |                                                                               |
-                                                                                |__ Nuthin' But A "G" Thang ____________|                                       |                                       |                                                                               |
-__ shining on my ex ____________________                                        |                                                                               |                                       |                                                                               |
-                                        |__ Leather So Soft ____________________|                                                                               |                                       |                                                                               |
-__ Leather So Soft _____________________|                                                                                                                       |                                       |                                                                               |
-                                                                                                                                                                |__ Young N***** _______________________|                                                                               |
-__ I Wanna Love You ____________________                                                                                                                        |                                                                                                                       |
-                                        |__ I Wanna Love You ___________________                                                                                |                                                                                                                       |
-__ Ready to Die ________________________|                                       |                                                                               |                                                                                                                       |
-                                                                                |__ I Wanna Love You ___________________                                        |                                                                                                                       |
-__ Work It _____________________________                                        |                                       |                                       |                                                                                                                       |
-                                        |__ Work It ____________________________|                                       |                                       |                                                                                                                       |
-__ Aston Martin Music __________________|                                                                               |                                       |                                                                                                                       |
-                                                                                                                        |__ Young N***** _______________________|                                                                                                                       |
-__ Lowrider ____________________________                                                                                |                                                                                                                                                               |
-                                        |__ Lowrider ___________________________                                        |                                                                                                                                                               |
-__ Drug Dealers Anonymous ______________|                                       |                                       |                                                                                                                                                               |
-                                                                                |__ Young N***** _______________________|                                                                                                                                                               |
-__ Rap Game ____________________________                                        |                                                                                                                                                                                                       |
-                                        |__ Young N***** _______________________|                                                                                                                                                                                                       |
-__ Young N***** ________________________|                                                                                                                                                                                                                                               |
-                                                                                                                                                                                                                                                                                        |__ Gangsta Rap Made Me Do It __________
-__ The Way I Am ________________________                                                                                                                                                                                                                                                |
-                                        |__ The Way I Am _______________________                                                                                                                                                                                                        |
-__ Down On Me __________________________|                                       |                                                                                                                                                                                                       |
-                                                                                |__ The Way I Am _______________________                                                                                                                                                                |
-__ New York ____________________________                                        |                                       |                                                                                                                                                               |
-                                        |__ New York ___________________________|                                       |                                                                                                                                                               |
-__ N.Y. State of Mind __________________|                                                                               |                                                                                                                                                               |
-                                                                                                                        |__ The Way I Am _______________________                                                                                                                        |
-__ Damn It Feels Good to Be a Gangsta __                                                                                |                                       |                                                                                                                       |
-                                        |__ Damn It Feels Good to Be a Gangsta _                                        |                                       |                                                                                                                       |
-__ Shot For Me _________________________|                                       |                                       |                                       |                                                                                                                       |
-                                                                                |__ One Mic ____________________________|                                       |                                                                                                                       |
-__ What's Beef? ________________________                                        |                                                                               |                                                                                                                       |
-                                        |__ One Mic ____________________________|                                                                               |                                                                                                                       |
-__ One Mic _____________________________|                                                                                                                       |                                                                                                                       |
-                                                                                                                                                                |__ Gangsta Rap Made Me Do It __________                                                                                |
-__ Time's Up ___________________________                                                                                                                        |                                       |                                                                               |
-                                        |__ Time's Up __________________________                                                                                |                                       |                                                                               |
-__ Gin and Juice _______________________|                                       |                                                                               |                                       |                                                                               |
-                                                                                |__ Gangsta Rap Made Me Do It __________                                        |                                       |                                                                               |
-__ Gangsta Rap Made Me Do It ___________                                        |                                       |                                       |                                       |                                                                               |
-                                        |__ Gangsta Rap Made Me Do It __________|                                       |                                       |                                       |                                                                               |
-__ Don't Tell 'Em ______________________|                                                                               |                                       |                                       |                                                                               |
-                                                                                                                        |__ Gangsta Rap Made Me Do It __________|                                       |                                                                               |
-__ Work Out ____________________________                                                                                |                                                                               |                                                                               |
-                                        |__ Money In The Grave _________________                                        |                                                                               |                                                                               |
-__ Money In The Grave __________________|                                       |                                       |                                                                               |                                                                               |
-                                                                                |__ Money In The Grave _________________|                                                                               |                                                                               |
-__ Over Here Hustlin' __________________                                        |                                                                                                                       |                                                                               |
-                                        |__ Caribou Lou ________________________|                                                                                                                       |                                                                               |
-__ Caribou Lou _________________________|                                                                                                                                                               |                                                                               |
-                                                                                                                                                                                                        |__ Gangsta Rap Made Me Do It __________                                        |
-__ Back That Azz Up ____________________                                                                                                                                                                |                                       |                                       |
-                                        |__ Money On My Mind ___________________                                                                                                                        |                                       |                                       |
-__ Money On My Mind ____________________|                                       |                                                                                                                       |                                       |                                       |
-                                                                                |__ Money On My Mind ___________________                                                                                |                                       |                                       |
-__ Pillz _______________________________                                        |                                       |                                                                               |                                       |                                       |
-                                        |__ Jada's Got A Gun ___________________|                                       |                                                                               |                                       |                                       |
-__ Jada's Got A Gun ____________________|                                                                               |                                                                               |                                       |                                       |
-                                                                                                                        |__ On Fire ____________________________                                        |                                       |                                       |
-__ No Frauds ___________________________                                                                                |                                       |                                       |                                       |                                       |
-                                        |__ Ice Cream Paint Job ________________                                        |                                       |                                       |                                       |                                       |
-__ Ice Cream Paint Job _________________|                                       |                                       |                                       |                                       |                                       |                                       |
-                                                                                |__ On Fire ____________________________|                                       |                                       |                                       |                                       |
-__ INDUSTRY BABY _______________________                                        |                                                                               |                                       |                                       |                                       |
-                                        |__ On Fire ____________________________|                                                                               |                                       |                                       |                                       |
-__ On Fire _____________________________|                                                                                                                       |                                       |                                       |                                       |
-                                                                                                                                                                |__ When I Die _________________________|                                       |                                       |
-__ Get Your Roll On ____________________                                                                                                                        |                                                                               |                                       |
-                                        |__ Point of No Return _________________                                                                                |                                                                               |                                       |
-__ Point of No Return __________________|                                       |                                                                               |                                                                               |                                       |
-                                                                                |__ When I Die _________________________                                        |                                                                               |                                       |
-__ Dirt Off Your Shoulder ______________                                        |                                       |                                       |                                                                               |                                       |
-                                        |__ When I Die _________________________|                                       |                                       |                                                                               |                                       |
-__ When I Die __________________________|                                                                               |                                       |                                                                               |                                       |
-                                                                                                                        |__ When I Die _________________________|                                                                               |                                       |
-__ Buy U a Drank _______________________                                                                                |                                                                                                                       |                                       |
-                                        |__ Buy U a Drank ______________________                                        |                                                                                                                       |                                       |
-__ WW III ______________________________|                                       |                                       |                                                                                                                       |                                       |
-                                                                                |__ Beamer, Benz, Or Bentley ___________|                                                                                                                       |                                       |
-__ Late Night Hour _____________________                                        |                                                                                                                                                               |                                       |
-                                        |__ Beamer, Benz, Or Bentley ___________|                                                                                                                                                               |                                       |
-__ Beamer, Benz, Or Bentley ____________|                                                                                                                                                                                                       |                                       |
-                                                                                                                                                                                                                                                |__ Gangsta Rap Made Me Do It __________|
-__ Bad Boy for Life ____________________                                                                                                                                                                                                        |
-                                        |__ Bad Boy for Life ___________________                                                                                                                                                                |
-__ Blow the Whistle ____________________|                                       |                                                                                                                                                               |
-                                                                                |__ Dear Mama __________________________                                                                                                                        |
-__ Dear Mama ___________________________                                        |                                       |                                                                                                                       |
-                                        |__ Dear Mama __________________________|                                       |                                                                                                                       |
-__ Marvins Room ________________________|                                                                               |                                                                                                                       |
-                                                                                                                        |__ Dear Mama __________________________                                                                                |
-__ Boyz-N-The-Hood _____________________                                                                                |                                       |                                                                               |
-                                        |__ Yung and Bhad ______________________                                        |                                       |                                                                               |
-__ Yung and Bhad _______________________|                                       |                                       |                                       |                                                                               |
-                                                                                |__ Welcome To Atlanta Remix ___________|                                       |                                                                               |
-__ Ten Crack Commandments ______________                                        |                                                                               |                                                                               |
-                                        |__ Welcome To Atlanta Remix ___________|                                                                               |                                                                               |
-__ Welcome To Atlanta Remix ____________|                                                                                                                       |                                                                               |
-                                                                                                                                                                |__ E.I. _______________________________                                        |
-__ E.I. ________________________________                                                                                                                        |                                       |                                       |
-                                        |__ E.I. _______________________________                                                                                |                                       |                                       |
-__ King Kong ___________________________|                                       |                                                                               |                                       |                                       |
-                                                                                |__ E.I. _______________________________                                        |                                       |                                       |
-__ Without Me __________________________                                        |                                       |                                       |                                       |                                       |
-                                        |__ Simon Says _________________________|                                       |                                       |                                       |                                       |
-__ Simon Says __________________________|                                                                               |                                       |                                       |                                       |
-                                                                                                                        |__ E.I. _______________________________|                                       |                                       |
-__ The 4th Branch ______________________                                                                                |                                                                               |                                       |
-                                        |__ Hello ______________________________                                        |                                                                               |                                       |
-__ Hello _______________________________|                                       |                                       |                                                                               |                                       |
-                                                                                |__ Tha Mobb ___________________________|                                                                               |                                       |
-__ Platinum Plus _______________________                                        |                                                                                                                       |                                       |
-                                        |__ Tha Mobb ___________________________|                                                                                                                       |                                       |
-__ Tha Mobb ____________________________|                                                                                                                                                               |                                       |
-                                                                                                                                                                                                        |__ E.I. _______________________________|
-__ My N**** ____________________________                                                                                                                                                                |
-                                        |__ My N**** ___________________________                                                                                                                        |
-__ Play ________________________________|                                       |                                                                                                                       |
-                                                                                |__ My N**** ___________________________                                                                                |
-__ Lay Low _____________________________                                        |                                       |                                                                               |
-                                        |__ C-Walk _____________________________|                                       |                                                                               |
-__ C-Walk ______________________________|                                                                               |                                                                               |
-                                                                                                                        |__ Stan _______________________________                                        |
-__ Colombia Heights ____________________                                                                                |                                       |                                       |
-                                        |__ Colombia Heights ___________________                                        |                                       |                                       |
-__ I'm On One __________________________|                                       |                                       |                                       |                                       |
-                                                                                |__ Stan _______________________________|                                       |                                       |
-__ Big Bank ____________________________                                        |                                                                               |                                       |
-                                        |__ Stan _______________________________|                                                                               |                                       |
-__ Stan ________________________________|                                                                                                                       |                                       |
-                                                                                                                                                                |__ Stan _______________________________|
-__ Got Ur Self A Gun ___________________                                                                                                                        |
-                                        |__ I Got 5 On It ______________________                                                                                |
-__ I Got 5 On It _______________________|                                       |                                                                               |
-                                                                                |__ Many Men ___________________________                                        |
-__ Hard in Da Paint ____________________                                        |                                       |                                       |
-                                        |__ Many Men ___________________________|                                       |                                       |
-__ Many Men ____________________________|                                                                               |                                       |
-                                                                                                                        |__ Many Men ___________________________|
-__ Quiet Storm _________________________                                                                                |
-                                        |__ Big Pimpin' ________________________                                        |
-__ Big Pimpin' _________________________|                                       |                                       |
-                                                                                |__ Forgot About Dre ___________________|
-__ Feels _______________________________                                        |
-                                        |__ Forgot About Dre ___________________|
-__ Forgot About Dre ____________________|
-```
+    #round-64 li:nth-child(4n+1) {
+      background-color: #333;
+    }
+    #round-64 li:nth-child(4n+2) {
+      background-color: #333;
+    }
+
+    #round-32 li:nth-child(4n+1) {
+      background-color: #222;
+    }
+    #round-32 li:nth-child(4n+2) {
+      background-color: #222;
+    }
+
+
+    #round-16 li:nth-child(4n+1) { background-color: #222; }
+    #round-16 li:nth-child(4n+2) { background-color: #222; }
+
+    #round-8 li:nth-child(4n+1) { background-color: #111; }
+    #round-8 li:nth-child(4n+2) { background-color: #111; }
+
+    #round-4 li:nth-child(4n+1) { background-color: #444; }
+    #round-4 li:nth-child(4n+2) { background-color: #444; }
+
+
+</style>
+
+<div id="container" style="vertical-align:top;white-space:nowrap">
+<div id="round-128" style="display:inline-block;vertical-align:top;line-height:16px;background-color:#000;width:14vw">
+
+- Soldier
+- What's Your Fantasy
+- My Name Is
+- Role Model
+- Still Fly
+- You Ain't a Killer
+- Guilty Conscience
+- White America
+- Dance with the Devil
+- Regulate
+- Straight Outta Compton
+- The Real Slim Shady
+- Patiently Waiting
+- Hustlin'
+- Going Back to Cali
+- Hot N****
+- Push It
+- Killa Cam / Roll That Skit
+- What's The Difference
+- Consipracy Theory
+- My Chain
+- Before I Go
+- I'm A Gangsta
+- The Next Episode
+- Shook Ones, Pt. II
+- Survival of the Fittest
+- Where The Hood At
+- Like A Pimp
+- Gettin' Jiggy Wit It
+- Eazy-Duz-It
+- Ambitionz Az A Ridah
+- Fuck Tha Police
+- Ruff Ryders Anthem
+- #1 Stunna
+- Tha Shiznit
+- Who Shot Ya?
+- Oh No
+- Go To Church
+- Furthest Thing
+- What If
+- Freaky Girl
+- Men In Black
+- Bow Down
+- I Can
+- Stuntin' Like My Daddy
+- Nonstop
+- 99 Problems
+- Crazy Rap
+- Miami
+- Deuces
+- Castro
+- I'm Not a Player
+- Da Graveyard
+- Nuthin' But A "G" Thang
+- shining on my ex
+- Leather So Soft
+- I Wanna Love You
+- Ready to Die
+- Work It
+- Aston Martin Music
+- Lowrider
+- Drug Dealers Anonymous
+- Rap Game
+- Young N*****
+- The Way I Am
+- Down On Me
+- New York
+- N.Y. State of Mind
+- Damn It Feels Good to Be a Gangsta
+- Shot For Me
+- What's Beef?
+- One Mic
+- Time's Up
+- Gin and Juice
+- Gangsta Rap Made Me Do It
+- Don't Tell 'Em
+- Work Out
+- Money In The Grave
+- Over Here Hustlin'
+- Caribou Lou
+- Back That Azz Up
+- Money On My Mind
+- Pillz
+- Jada's Got A Gun
+- No Frauds
+- Ice Cream Paint Job
+- INDUSTRY BABY
+- On Fire
+- Get Your Roll On
+- Point of No Return
+- Dirt Off Your Shoulder
+- When I Die
+- Buy U a Drank
+- WW III
+- Late Night Hour
+- Beamer, Benz, Or Bentley
+- Bad Boy for Life
+- Blow the Whistle
+- Dear Mama
+- Marvins Room
+- Boyz-N-The-Hood
+- Yung and Bhad
+- Ten Crack Commandments
+- Welcome To Atlanta Remix
+- E.I.
+- King Kong
+- Without Me
+- Simon Says
+- The 4th Branch
+- Hello
+- Platinum Plus
+- Tha Mobb
+- My N****
+- Play
+- Lay Low
+- C-Walk
+- Colombia Heights
+- I'm On One
+- Big Bank
+- Stan
+- Got Ur Self A Gun
+- I Got 5 On It
+- Hard in Da Paint
+- Many Men
+- Quiet Storm
+- Big Pimpin'
+- Feels
+- Forgot About Dre
+
+</div>
+
+
+<div id="round-64" style="display:inline-block;background-color: #111;line-height:32px;vertical-align:top;width:14vw">
+
+- Soldier
+- My Name Is
+- Still Fly
+- White America
+- Dance with the Devil
+- The Real Slim Shady
+- Patiently Waiting
+- Going Back to Cali
+- Push It
+- Consipracy Theory
+- Before I Go
+- I'm A Gangsta
+- Shook Ones, Pt. II
+- Where The Hood At
+- Eazy-Duz-It
+- Fuck Tha Police
+- Ruff Ryders Anthem
+- Who Shot Ya?
+- Oh No
+- What If
+- Freaky Girl
+- Bow Down
+- Stuntin' Like My Daddy
+- 99 Problems
+- Miami
+- Castro
+- Nuthin' But A "G" Thang
+- Leather So Soft
+- I Wanna Love You
+- Work It
+- Lowrider
+- Young N*****
+- The Way I Am
+- New York
+- Damn It Feels Good to Be a Gangsta
+- One Mic
+- Time's Up
+- Gangsta Rap Made Me Do It
+- Money In The Grave
+- Caribou Lou
+- Money On My Mind
+- Jada's Got A Gun
+- Ice Cream Paint Job
+- On Fire
+- Point of No Return
+- When I Die
+- Buy U a Drank
+- Beamer, Benz, Or Bentley
+- Bad Boy for Life
+- Dear Mama
+- Yung and Bhad
+- Welcome To Atlanta Remix
+- E.I.
+- Simon Says
+- Hello
+- Tha Mobb
+- My N****
+- C-Walk
+- Colombia Heights
+- Stan
+- I Got 5 On It
+- Many Men
+- Big Pimpin'
+- Forgot About Dre
+
+
+</div>
+
+<div id="round-32" style="display:inline-block;background-color: #555;line-height:64px;vertical-align:top;width:11vw">
+
+- My Name Is
+- Still Fly
+- Dance with the Devil
+- Going Back to Cali
+- Consipracy Theory
+- Before I Go
+- Where The Hood At
+- Fuck Tha Police
+- Who Shot Ya?
+- What If
+- Freaky Girl
+- Stuntin' Like My Daddy
+- Miami
+- Nuthin' But A "G" Thang
+- I Wanna Love You
+- Young N*****
+- The Way I Am
+- One Mic
+- Gangsta Rap Made Me Do It
+- Money In The Grave
+- Money On My Mind
+- On Fire
+- When I Die
+- Beamer, Benz, Or Bentley
+- Dear Mama
+- Welcome To Atlanta Remix
+- E.I.
+- Tha Mobb
+- My N****
+- Stan
+- Many Men
+- Forgot About Dre
+
+
+</div>
+
+
+<div id="round-16" style="display:inline-block;background-color: #444;line-height:128px;vertical-align:top;width:11vw">
+
+- Still Fly
+- Dance with the Devil
+- Consipracy Theory
+- Fuck Tha Police
+- What If
+- Freaky Girl
+- Nuthin' But A "G" Thang
+- Young N*****
+- The Way I Am
+- Gangsta Rap Made Me Do It
+- On Fire
+- When I Die
+- Dear Mama
+- E.I.
+- Stan
+- Many Men
+
+
+</div>
+
+<div id="round-8" style="display:inline-block;background-color: #333;line-height:256px;vertical-align:top;width:11vw">
+
+- Dance with the Devil
+- Fuck Tha Police
+- What If
+- Young N*****
+- Gangsta Rap Made Me Do It
+- When I Die
+- E.I.
+- Stan
+
+
+</div>
+
+
+<div id="round-4" style="display:inline-block;background-color: #222;line-height:512px;vertical-align:top;width:11vw">
+
+- Fuck Tha Police
+- What If
+- Gangsta Rap Made Me Do It
+- E.I.
+
+</div>
+
+<div id="round-2" style="display:inline-block;background-color: #111;line-height:1024px;vertical-align:top;width:11vw">
+
+- What If
+- Gangsta Rap Made Me Do It
+
+</div>
+
+<div id="round-1" style="display:inline-block;background-color: #000;line-height:2048px;vertical-align:top;width:11vw">
+
+- Gangsta Rap Made Me Do It
+
+</div>
+
+
+</div>
+

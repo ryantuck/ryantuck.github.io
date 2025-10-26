@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+}
+* {
+    color: white;
+    box-sizing: border-box;
+}
+.squad-container {
+    height:80vh;
+
+    display:flex;
+    justify-content:flex-start;
+    align-items:flex-start;
+}
+
+.round-1 {
+    height:100%;
+    width:24vw;
+
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+
+    background-color:#333;
+}
+.round-1 div { padding: 10px }
+
+.round-2 {
+
+    height:100%;
+    width:36vw;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+
+    background-color:#222;
+    font-size:1.5em;
+}
+.round-2 div { padding: 20px }
+
+.rankings {
+    height:100%;
+    width:36vw;
+
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+
+    background-color:#111;
+    font-size:2em;
+}
+.rankings div { padding: 30px }

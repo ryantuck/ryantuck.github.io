@@ -1,4 +1,4 @@
-import sys, json
+import sys, json, argparse
 
 def track(data):
     track = data['track']
@@ -24,9 +24,67 @@ def _tidy_title(song):
     just_song = just_song.strip()
     return just_song
 
-t_fn_name = sys.argv[1]
-t_fn = eval(t_fn_name)
 
-for line in sys.stdin:
-    data = json.loads(line)
-    print(json.dumps(t_fn(data)))
+def echo(d):
+    return d
+
+
+def ol(strs):
+    output = []
+    for idx, s in enumerate(strs):
+        line = f'{idx+1}. {s}'
+        output.append(line)
+    return '\n'.join(output)
+
+
+def i(s):
+    return f'_{s}_'
+
+def strikethrough(s):
+    return f'~~{s}~~'
+
+
+
+def group_results_stylized(results):
+    return ol([
+        results[0],
+        results[1],
+        strikethrough(i(results[2])),
+        strikethrough(i(results[3])),
+    ])
+
+
+def json_graceful(lines):
+    body = []
+    results = []
+    for line in lines:
+        body.append(line)
+        try:
+            x = json.loads('\n'.join(body))
+            results.append(x)
+            body = []
+        except:
+            pass
+    if body != []:
+        raise Exception('\n'.join(body))
+    return results
+
+def track_id_map(tracks_list):
+    return {track['title']: track['id'] for track in tracks_list}
+
+
+parser = argparse.ArgumentParser()
+parser.add_argument('transform_name')
+parser.add_argument('-s', '--slurp', required=False, action='store_true')
+args = parser.parse_args()
+
+assert " " not in args.transform_name
+transform_fn = eval(args.transform_name)
+
+data = json_graceful(sys.stdin)
+records = [transform_fn(record) for record in data]
+if args.slurp:
+    print(json.dumps(records))
+else:
+    for record in records:
+        print(json.dumps(record))

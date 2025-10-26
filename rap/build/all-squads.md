@@ -1,45 +1,68 @@
-<div>
-<div style="display:inline-block;vertical-align:top">
+<style>
+    body {
+        background-color: black;
+    }
+    * {
+        color: white;
+        box-sizing: border-box;
+    }
+    .squad-container {
+        height:64vh;
+
+        display:flex;
+        justify-content:flex-start;
+        align-items:flex-start;
+    }
+
+    .round-1 {
+        height:100%;
+        width:25vw;
+
+        display:flex;
+        flex-direction:column;
+        justify-content:space-between;
+
+        background-color:#333;
+    }
+    .round1 div { padding: 10px }
+
+    .round-2 {
+
+        height:100%;
+        width:33vw;
+        display:flex;
+        flex-direction:column;
+        justify-content:space-around;
+
+        background-color:#222;
+        font-size:1.5em;
+    }
+    .round2 div { padding: 20px }
+
+    .rankings {
+        height:100%;
+        width:40vw;
+
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+
+        background-color:#111;
+        font-size:2em;
+    }
+    .rankings div { padding: 30px }
+
+</style>
 
 # SQUAD 0
 
-# 1 - Eminem - Soldier
+<div class="squad-container">
 
-## 2 - Eazy-E - Boyz-N-The-Hood
-
-### 3 - Ja Rule - New York
-
-### 4 - Drake - Furthest Thing
-
-</div>
-</div>
-<div>
-<div style="display:inline-block;font-size:120%">
-
-### 0 / 2 / X
-
-1. Eazy-E - Boyz-N-The-Hood
-2. Drake - Furthest Thing
-3. ~~_City Girls - Act Up_~~
-4. ~~_Junior M.A.F.I.A. - Player's Anthem_~~
-
-</div>
-<div style="display:inline-block;font-size:120%">
-
-### 0 / 2 / Y
-
-1. Eminem - Soldier
-2. Ja Rule - New York
-3. ~~_Lil' Troy - Wanna Be A Baller_~~
-4. ~~_Ludacris - My Chick Bad_~~
-
-</div>
-</div>
+<div class="round-1">
 
 <div>
-<div style="display:inline-block">
 
-#### 0 / 1 / A
+
 
 1. Drake - Furthest Thing
 2. Lil' Troy - Wanna Be A Baller
@@ -47,9 +70,8 @@
 4. ~~_Baby E - Finessin_~~
 
 </div>
-<div style="display:inline-block">
+<div>
 
-#### 0 / 1 / B
 
 1. Ja Rule - New York
 2. Junior M.A.F.I.A. - Player's Anthem
@@ -57,9 +79,8 @@
 4. ~~_2 Chainz - 4 AM_~~
 
 </div>
-<div style="display:inline-block">
+<div>
 
-#### 0 / 1 / C
 
 1. City Girls - Act Up
 2. Ludacris - My Chick Bad
@@ -67,9 +88,8 @@
 4. ~~_Drake - Wu-Tang Forever_~~
 
 </div>
-<div style="display:inline-block">
+<div>
 
-#### 0 / 1 / D
 
 1. Eminem - Soldier
 2. Eazy-E - Boyz-N-The-Hood
@@ -79,67 +99,137 @@
 </div>
 </div>
 
----
+<div class="round-2">
+
+<div>
+
+
+1. Eazy-E - Boyz-N-The-Hood
+2. Drake - Furthest Thing
+3. ~~_City Girls - Act Up_~~
+4. ~~_Junior M.A.F.I.A. - Player's Anthem_~~
+
+</div>
+<div>
+
+
+1. Eminem - Soldier
+2. Ja Rule - New York
+3. ~~_Lil' Troy - Wanna Be A Baller_~~
+4. ~~_Ludacris - My Chick Bad_~~
+
+</div>
+</div>
+
+
+<div class="rankings">
+
+<div>
+
+1. Eminem - Soldier
+2. Eazy-E - Boyz-N-The-Hood
+3. Ja Rule - New York
+4. Drake - Furthest Thing
+
+</div>
+
+</div>
+
+</div>
+
 
 
 
 # SQUAD 1
 
-# 1 - Jadakiss - What If
+<div style="display:flex;justify-content:flex-start;align-items:flex-start;height:64vh">
 
-## 2 - Nas - N.Y. State of Mind
+<div style="width:25vw;background-color:#333;height:100%;display:flex;flex-direction:column;justify-content:space-between">
 
-### 3 - Bhad Bhabie - Yung and Bhad (feat. City Girls)
-
-#### 4 - Ludacris - What's Your Fantasy (Featuring Shawna)
-
-### _ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _ 
-
-## 1 / 2 / X
-
-1. Nas - N.Y. State of Mind
-2. Ludacris - What's Your Fantasy (Featuring Shawna)
-3. ~~_Jadakiss - Knock Yourself Out_~~
-4. ~~_Dr. Dre - Let Me Ride_~~
-
-## 1 / 2 / Y
-
-1. Jadakiss - What If
-2. Bhad Bhabie - Yung and Bhad (feat. City Girls)
-3. ~~_Westside Connection - Gangsta Nation_~~
-4. ~~_Cardi B - Bartier Cardi (feat. 21 Savage)_~~
-
-### _ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _
-
-#### 1 / 1 / A
+<div>
 
 1. Nas - N.Y. State of Mind
 2. Bhad Bhabie - Yung and Bhad (feat. City Girls)
 3. ~~_Big L - Put It On_~~
 4. ~~_Jeezy - Put On_~~
 
-#### 1 / 1 / B
+</div>
+
+
+<div>
 
 1. Cardi B - Bartier Cardi (feat. 21 Savage)
 2. Dr. Dre - Let Me Ride
 3. ~~_Drake - Headlines_~~
 4. ~~_JAY-Z - I Just Wanna Love U (Give It 2 Me)_~~
 
-#### 1 / 1 / C
+</div>
+
+
+<div>
 
 1. Jadakiss - Knock Yourself Out
 2. Westside Connection - Gangsta Nation
 3. ~~_The Notorious B.I.G. - Things Done Changed - 2005 Remaster_~~
 4. ~~_Drake - Pound Cake / Paris Morton Music 2_~~
 
-#### 1 / 1 / D
+</div>
+
+
+<div>
 
 1. Jadakiss - What If
 2. Ludacris - What's Your Fantasy (Featuring Shawna)
 3. ~~_Big L - Holdin' It Down_~~
 4. ~~_Jermaine Dupri - Money Ain't a Thang (feat. JAY-Z)_~~
 
----
+</div>
+</div>
+
+<div style="display:flex;flex-direction:column;justify-content:space-around;width:33vw;background-color:#222;font-size:1.5em;height:100%">
+
+<div style="padding:20px">
+
+
+1. Nas - N.Y. State of Mind
+2. Ludacris - What's Your Fantasy (Featuring Shawna)
+3. ~~_Jadakiss - Knock Yourself Out_~~
+4. ~~_Dr. Dre - Let Me Ride_~~
+
+</div>
+<div style="padding:20px">
+
+
+1. Jadakiss - What If
+2. Bhad Bhabie - Yung and Bhad (feat. City Girls)
+3. ~~_Westside Connection - Gangsta Nation_~~
+4. ~~_Cardi B - Bartier Cardi (feat. 21 Savage)_~~
+
+</div>
+</div>
+
+
+<div style="width:40vw;background-color:#111;display:flex;flex-direction:column;font-size:2em;justify-content:center;height:100%">
+
+<div style="padding:30px">
+
+1. Jadakiss - What If
+2. Nas - N.Y. State of Mind
+3. Bhad Bhabie - Yung and Bhad (feat. City Girls)
+4. Ludacris - What's Your Fantasy (Featuring Shawna)
+
+</div>
+
+</div>
+
+</div>
+
+
+
+
+
+
+
 
 
 
@@ -743,61 +833,90 @@
 
 
 
-# SQUAD 2
+<div>
 
-# 1 - Eminem - White America
+# Squad-2
 
-## 2 - Drake - Marvins Room
+<div class="squad-container">
 
-### 3 - Drake - Shot For Me
+<div class="round-1">
 
-#### 4 - Big Tymers - #1 Stunna
-
-### _ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _ 
-
-## 2 / 2 / X
-
-1. Eminem - White America
-2. Big Tymers - #1 Stunna
-3. ~~_Iggy Azalea - Started_~~
-4. ~~_Drake - 0 To 100 / The Catch Up_~~
-
-## 2 / 2 / Y
-
-1. Drake - Marvins Room
-2. Drake - Shot For Me
-3. ~~_Big L - Flamboyant_~~
-4. ~~_Gucci Mane - Met Gala (feat. Offset)_~~
-
-### _ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _
-
-#### 2 / 1 / A
+<div>
 
 1. Eminem - White America
 2. Big L - Flamboyant
 3. ~~_21 Savage - X (feat. Future)_~~
 4. ~~_Migos - Highway 85_~~
 
-#### 2 / 1 / B
+</div>
+
+<div>
 
 1. Drake - Shot For Me
 2. Drake - 0 To 100 / The Catch Up
 3. ~~_2 Chainz - 100 Joints_~~
 4. ~~_Travis Scott - TOPIA TWINS (feat. Rob49 & 21 Savage)_~~
 
-#### 2 / 1 / C
+</div>
+
+<div>
 
 1. Big Tymers - #1 Stunna
 2. Gucci Mane - Met Gala (feat. Offset)
 3. ~~_Lil Wayne - Fireman_~~
 4. ~~_Future - Seven Rings_~~
 
-#### 2 / 1 / D
+</div>
+
+<div>
 
 1. Drake - Marvins Room
 2. Iggy Azalea - Started
 3. ~~_Bhad Bhabie - Gucci Flip Flops (feat. Lil Yachty)_~~
 4. ~~_Gucci Mane - Curve (feat. The Weeknd)_~~
+
+</div>
+
+</div>
+
+<div class="round-2">
+
+<div>
+
+1. Eminem - White America
+2. Big Tymers - #1 Stunna
+3. ~~_Iggy Azalea - Started_~~
+4. ~~_Drake - 0 To 100 / The Catch Up_~~
+
+</div>
+
+<div>
+
+1. Drake - Marvins Room
+2. Drake - Shot For Me
+3. ~~_Big L - Flamboyant_~~
+4. ~~_Gucci Mane - Met Gala (feat. Offset)_~~
+
+</div>
+
+</div>
+
+<div class="rankings">
+
+<div>
+
+1. Eminem - White America
+2. Drake - Marvins Room
+3. Drake - Shot For Me
+4. Big Tymers - #1 Stunna
+
+</div>
+
+</div>
+
+</div>
+
+</div>
 
 ---
 

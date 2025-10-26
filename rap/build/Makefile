@@ -1,7 +1,24 @@
-outputs : bracket.html squad-results.json all-squads.html
+outputs : bracket.html squad-results.json all-squads.html x.html ko.html squad-round.html all.html
+
+artist-counts.txt :
+	jq . tracks.jsonl | jq '.artists | .[]' -r | sort | uniq -c | sort -nr > $@
 
 all-squads.md :
 	cat Squad-*.md > $@
+
+all.md : header.md ko.md header-squad-round.md squad-round.md header-bracket-round.md x.md
+	cat header.md ko.md header-squad-round.md squad-round.md header-bracket-round.md x.md > $@
+
+squad-round.md : squad-results.json gen_pages.py
+	cat $< \
+		| jq 'keys | .[]' -r | sort -t- -k 2n \
+		| xargs -I % python gen_pages.py % > $@
+
+knockout-groups.md : knockout-results.json
+	jq . knockout-results.json | python transform.py group_results_stylized | jq -r | sed -e 's/1\./\n1\./g' > $@
+
+knockout-results.json :
+	cat ../knockout-results-round-0.txt | grep -v GROUP | cut -c 13- | jq -R | jq -s | jq '_nwise(4)' > $@
 
 .PHONY : md-pages
 md-pages : squad-results.json

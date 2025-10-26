@@ -20,43 +20,69 @@
   <![endif]-->
 </head>
 <body>
-<div>
-<div style="display:inline-block;vertical-align:top">
+<style>
+    body {
+        background-color: black;
+    }
+    * {
+        color: white;
+        box-sizing: border-box;
+    }
+    .squad-container {
+        height:64vh;
+
+        display:flex;
+        justify-content:flex-start;
+        align-items:flex-start;
+    }
+
+    .round-1 {
+        height:100%;
+        width:25vw;
+
+        display:flex;
+        flex-direction:column;
+        justify-content:space-between;
+
+        background-color:#333;
+    }
+    .round1 div { padding: 10px }
+
+    .round-2 {
+
+        height:100%;
+        width:33vw;
+        display:flex;
+        flex-direction:column;
+        justify-content:space-around;
+
+        background-color:#222;
+        font-size:1.5em;
+    }
+    .round2 div { padding: 20px }
+
+    .rankings {
+        height:100%;
+        width:40vw;
+
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+
+        background-color:#111;
+        font-size:2em;
+    }
+    .rankings div { padding: 30px }
+
+</style>
 
 <h1 id="squad-0">SQUAD 0</h1>
-<h1 id="1---eminem---soldier">1 - Eminem - Soldier</h1>
-<h2 id="2---eazy-e---boyz-n-the-hood">2 - Eazy-E - Boyz-N-The-Hood</h2>
-<h3 id="3---ja-rule---new-york">3 - Ja Rule - New York</h3>
-<h3 id="4---drake---furthest-thing">4 - Drake - Furthest Thing</h3>
-</div>
-</div>
-<div>
-<div style="display:inline-block;font-size:120%">
+<div class="squad-container">
 
-<h3 id="0--2--x">0 / 2 / X</h3>
-<ol type="1">
-<li>Eazy-E - Boyz-N-The-Hood</li>
-<li>Drake - Furthest Thing</li>
-<li><del><em>City Girls - Act Up</em></del></li>
-<li><del><em>Junior M.A.F.I.A. - Player's Anthem</em></del></li>
-</ol>
-</div>
-<div style="display:inline-block;font-size:120%">
-
-<h3 id="0--2--y">0 / 2 / Y</h3>
-<ol type="1">
-<li>Eminem - Soldier</li>
-<li>Ja Rule - New York</li>
-<li><del><em>Lil' Troy - Wanna Be A Baller</em></del></li>
-<li><del><em>Ludacris - My Chick Bad</em></del></li>
-</ol>
-</div>
-</div>
+<div class="round-1">
 
 <div>
-<div style="display:inline-block">
 
-<h4 id="0--1--a">0 / 1 / A</h4>
 <ol type="1">
 <li>Drake - Furthest Thing</li>
 <li>Lil' Troy - Wanna Be A Baller</li>
@@ -64,9 +90,8 @@
 <li><del><em>Baby E - Finessin</em></del></li>
 </ol>
 </div>
-<div style="display:inline-block">
+<div>
 
-<h4 id="0--1--b">0 / 1 / B</h4>
 <ol type="1">
 <li>Ja Rule - New York</li>
 <li>Junior M.A.F.I.A. - Player's Anthem</li>
@@ -74,9 +99,8 @@
 <li><del><em>2 Chainz - 4 AM</em></del></li>
 </ol>
 </div>
-<div style="display:inline-block">
+<div>
 
-<h4 id="0--1--c">0 / 1 / C</h4>
 <ol type="1">
 <li>City Girls - Act Up</li>
 <li>Ludacris - My Chick Bad</li>
@@ -84,9 +108,8 @@
 <li><del><em>Drake - Wu-Tang Forever</em></del></li>
 </ol>
 </div>
-<div style="display:inline-block">
+<div>
 
-<h4 id="0--1--d">0 / 1 / D</h4>
 <ol type="1">
 <li>Eminem - Soldier</li>
 <li>Eazy-E - Boyz-N-The-Hood</li>
@@ -96,63 +119,134 @@
 </div>
 </div>
 
-<hr />
+<div class="round-2">
+
+<div>
+
+<ol type="1">
+<li>Eazy-E - Boyz-N-The-Hood</li>
+<li>Drake - Furthest Thing</li>
+<li><del><em>City Girls - Act Up</em></del></li>
+<li><del><em>Junior M.A.F.I.A. - Player's Anthem</em></del></li>
+</ol>
+</div>
+<div>
+
+<ol type="1">
+<li>Eminem - Soldier</li>
+<li>Ja Rule - New York</li>
+<li><del><em>Lil' Troy - Wanna Be A Baller</em></del></li>
+<li><del><em>Ludacris - My Chick Bad</em></del></li>
+</ol>
+</div>
+</div>
+
+<div class="rankings">
+
+<div>
+
+<ol type="1">
+<li>Eminem - Soldier</li>
+<li>Eazy-E - Boyz-N-The-Hood</li>
+<li>Ja Rule - New York</li>
+<li>Drake - Furthest Thing</li>
+</ol>
+</div>
+
+</div>
+
+</div>
+
 <h1 id="squad-1">SQUAD 1</h1>
-<h1 id="1---jadakiss---what-if">1 - Jadakiss - What If</h1>
-<h2 id="2---nas---ny-state-of-mind">2 - Nas - N.Y. State of Mind</h2>
-<h3 id="3---bhad-bhabie---yung-and-bhad-feat-city-girls">3 - Bhad Bhabie - Yung and Bhad (feat. City Girls)</h3>
-<h4 id="4---ludacris---whats-your-fantasy-featuring-shawna">4 - Ludacris - What's Your Fantasy (Featuring Shawna)</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
-<h2 id="1--2--x">1 / 2 / X</h2>
-<ol type="1">
-<li>Nas - N.Y. State of Mind</li>
-<li>Ludacris - What's Your Fantasy (Featuring Shawna)</li>
-<li><del><em>Jadakiss - Knock Yourself Out</em></del></li>
-<li><del><em>Dr. Dre - Let Me Ride</em></del></li>
-</ol>
-<h2 id="1--2--y">1 / 2 / Y</h2>
-<ol type="1">
-<li>Jadakiss - What If</li>
-<li>Bhad Bhabie - Yung and Bhad (feat. City Girls)</li>
-<li><del><em>Westside Connection - Gangsta Nation</em></del></li>
-<li><del><em>Cardi B - Bartier Cardi (feat. 21 Savage)</em></del></li>
-</ol>
-<h3 id="_---_-_---_-_---_-_---_">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
-<h4 id="1--1--a">1 / 1 / A</h4>
+<div style="display:flex;justify-content:flex-start;align-items:flex-start;height:64vh">
+
+<div style="width:25vw;background-color:#333;height:100%;display:flex;flex-direction:column;justify-content:space-between">
+
+<div>
+
 <ol type="1">
 <li>Nas - N.Y. State of Mind</li>
 <li>Bhad Bhabie - Yung and Bhad (feat. City Girls)</li>
 <li><del><em>Big L - Put It On</em></del></li>
 <li><del><em>Jeezy - Put On</em></del></li>
 </ol>
-<h4 id="1--1--b">1 / 1 / B</h4>
+</div>
+
+<div>
+
 <ol type="1">
 <li>Cardi B - Bartier Cardi (feat. 21 Savage)</li>
 <li>Dr. Dre - Let Me Ride</li>
 <li><del><em>Drake - Headlines</em></del></li>
 <li><del><em>JAY-Z - I Just Wanna Love U (Give It 2 Me)</em></del></li>
 </ol>
-<h4 id="1--1--c">1 / 1 / C</h4>
+</div>
+
+<div>
+
 <ol type="1">
 <li>Jadakiss - Knock Yourself Out</li>
 <li>Westside Connection - Gangsta Nation</li>
 <li><del><em>The Notorious B.I.G. - Things Done Changed - 2005 Remaster</em></del></li>
 <li><del><em>Drake - Pound Cake / Paris Morton Music 2</em></del></li>
 </ol>
-<h4 id="1--1--d">1 / 1 / D</h4>
+</div>
+
+<div>
+
 <ol type="1">
 <li>Jadakiss - What If</li>
 <li>Ludacris - What's Your Fantasy (Featuring Shawna)</li>
 <li><del><em>Big L - Holdin' It Down</em></del></li>
 <li><del><em>Jermaine Dupri - Money Ain't a Thang (feat. JAY-Z)</em></del></li>
 </ol>
-<hr />
+</div>
+</div>
+
+<div style="display:flex;flex-direction:column;justify-content:space-around;width:33vw;background-color:#222;font-size:1.5em;height:100%">
+
+<div style="padding:20px">
+
+<ol type="1">
+<li>Nas - N.Y. State of Mind</li>
+<li>Ludacris - What's Your Fantasy (Featuring Shawna)</li>
+<li><del><em>Jadakiss - Knock Yourself Out</em></del></li>
+<li><del><em>Dr. Dre - Let Me Ride</em></del></li>
+</ol>
+</div>
+<div style="padding:20px">
+
+<ol type="1">
+<li>Jadakiss - What If</li>
+<li>Bhad Bhabie - Yung and Bhad (feat. City Girls)</li>
+<li><del><em>Westside Connection - Gangsta Nation</em></del></li>
+<li><del><em>Cardi B - Bartier Cardi (feat. 21 Savage)</em></del></li>
+</ol>
+</div>
+</div>
+
+<div style="width:40vw;background-color:#111;display:flex;flex-direction:column;font-size:2em;justify-content:center;height:100%">
+
+<div style="padding:30px">
+
+<ol type="1">
+<li>Jadakiss - What If</li>
+<li>Nas - N.Y. State of Mind</li>
+<li>Bhad Bhabie - Yung and Bhad (feat. City Girls)</li>
+<li>Ludacris - What's Your Fantasy (Featuring Shawna)</li>
+</ol>
+</div>
+
+</div>
+
+</div>
+
 <h1 id="squad-10">SQUAD 10</h1>
 <h1 id="1---dr-dre---the-next-episode">1 - Dr. Dre - The Next Episode</h1>
 <h2 id="2---kurupt---c-walk">2 - Kurupt - C-Walk</h2>
 <h3 id="3---dorrough-music---ice-cream-paint-job">3 - Dorrough Music - Ice Cream Paint Job</h3>
 <h4 id="4---chris-brown---deuces-feat-tyga--kevin-mccall">4 - Chris Brown - Deuces (feat. Tyga &amp; Kevin McCall)</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-1">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="10--2--x">10 / 2 / X</h2>
 <ol type="1">
 <li>Kurupt - C-Walk</li>
@@ -167,7 +261,7 @@
 <li><del><em>Jedi Mind Tricks - Suicide</em></del></li>
 <li><del><em>Lil Wayne - No Worries</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-1">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="10--1--a">10 / 1 / A</h4>
 <ol type="1">
 <li>Kurupt - C-Walk</li>
@@ -202,7 +296,7 @@
 <h2 id="2---nicki-minaj---no-frauds">2 - Nicki Minaj - No Frauds</h2>
 <h3 id="3---snoop-dogg---lay-low">3 - Snoop Dogg - Lay Low</h3>
 <h4 id="4---jadakiss---im-a-gangsta">4 - Jadakiss - I'm A Gangsta</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-2">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-1">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="11--2--x">11 / 2 / X</h2>
 <ol type="1">
 <li>Will Smith - Miami</li>
@@ -217,7 +311,7 @@
 <li><del><em>Post Malone - White Iverson</em></del></li>
 <li><del><em>City Girls - Pussy Talk</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-2">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-1">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="11--1--a">11 / 1 / A</h4>
 <ol type="1">
 <li>Will Smith - Miami</li>
@@ -252,7 +346,7 @@
 <h2 id="2---big-l---da-graveyard">2 - Big L - Da Graveyard</h2>
 <h3 id="3---dr-dre---whats-the-difference">3 - Dr. Dre - What's The Difference</h3>
 <h4 id="4---yg---big-bank-feat-2-chainz-big-sean-nicki-minaj">4 - YG - Big Bank feat. 2 Chainz, Big Sean, Nicki Minaj</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-3">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-2">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="12--2--x">12 / 2 / X</h2>
 <ol type="1">
 <li>Big L - Da Graveyard</li>
@@ -267,7 +361,7 @@
 <li><del><em>JAY-Z - Izzo (H.O.V.A.)</em></del></li>
 <li><del><em>Big Sean - So Good (&amp; Metro Boomin)</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-3">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-2">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="12--1--a">12 / 1 / A</h4>
 <ol type="1">
 <li>YG - Big Bank feat. 2 Chainz, Big Sean, Nicki Minaj</li>
@@ -302,7 +396,7 @@
 <h2 id="2---jedi-mind-tricks---consipracy-theory">2 - Jedi Mind Tricks - Consipracy Theory</h2>
 <h3 id="3---dr-dre---nuthin-but-a-g-thang">3 - Dr. Dre - Nuthin' But A "G" Thang</h3>
 <h4 id="4---lil-wayne---money-on-my-mind">4 - Lil Wayne - Money On My Mind</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-4">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-3">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="13--2--x">13 / 2 / X</h2>
 <ol type="1">
 <li>Eminem - Stan</li>
@@ -317,7 +411,7 @@
 <li><del><em>N.W.A. - Chin Check</em></del></li>
 <li><del><em>21 Savage - Numb</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-4">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-3">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="13--1--a">13 / 1 / A</h4>
 <ol type="1">
 <li>Eminem - Stan</li>
@@ -352,7 +446,7 @@
 <h2 id="2---big-pun---im-not-a-player">2 - Big Pun - I'm Not a Player</h2>
 <h3 id="3---bizzy-bone---before-i-go">3 - Bizzy Bone - Before I Go</h3>
 <h4 id="4---david-banner---play">4 - David Banner - Play</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-5">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-4">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="14--2--x">14 / 2 / X</h2>
 <ol type="1">
 <li>Lloyd Banks - On Fire</li>
@@ -367,7 +461,7 @@
 <li><del><em>Dr. Dre - A N**** Witta Gun</em></del></li>
 <li><del><em>2Pac - All Eyez On Me (ft. Big Syke)</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-5">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-4">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="14--1--a">14 / 1 / A</h4>
 <ol type="1">
 <li>David Banner - Play</li>
@@ -402,7 +496,7 @@
 <h2 id="2---gucci-mane---my-chain">2 - Gucci Mane - My Chain</h2>
 <h3 id="3---yo-gotti---castro-feat-kanye-west-big-sean-quavo--2-chainz">3 - Yo Gotti - Castro (feat. Kanye West, Big Sean, Quavo &amp; 2 Chainz)</h3>
 <h4 id="4---lil-nas-x---industry-baby-feat-jack-harlow">4 - Lil Nas X - INDUSTRY BABY (feat. Jack Harlow)</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-6">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-5">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="15--2--x">15 / 2 / X</h2>
 <ol type="1">
 <li>YG - My N****</li>
@@ -417,7 +511,7 @@
 <li><del><em>Meek Mill - Going Bad (feat. Drake)</em></del></li>
 <li><del><em>Eminem - Kill You</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-6">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-5">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="15--1--a">15 / 1 / A</h4>
 <ol type="1">
 <li>Lil Nas X - INDUSTRY BABY (feat. Jack Harlow)</li>
@@ -452,7 +546,7 @@
 <h2 id="2---immortal-technique---the-4th-branch">2 - Immortal Technique - The 4th Branch</h2>
 <h3 id="3---ice-cube---gangsta-rap-made-me-do-it">3 - Ice Cube - Gangsta Rap Made Me Do It</h3>
 <h4 id="4---jay-z---99-problems">4 - JAY-Z - 99 Problems</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-7">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-6">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="16--2--x">16 / 2 / X</h2>
 <ol type="1">
 <li>Immortal Technique - The 4th Branch</li>
@@ -467,7 +561,7 @@
 <li><del><em>Gang Starr - Rite Where U Stand</em></del></li>
 <li><del><em>YG - Bicken Back Being Bool</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-7">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-6">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="16--1--a">16 / 1 / A</h4>
 <ol type="1">
 <li>21 Savage - Ghostface Killers (feat. Travis Scott)</li>
@@ -502,7 +596,7 @@
 <h2 id="2---jeremih---dont-tell-em">2 - Jeremih - Don't Tell 'Em</h2>
 <h3 id="3---ice-cube---hello">3 - Ice Cube - Hello</h3>
 <h4 id="4---warren-g---regulate">4 - Warren G - Regulate</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-8">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-7">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="17--2--x">17 / 2 / X</h2>
 <ol type="1">
 <li>Jeremih - Don't Tell 'Em</li>
@@ -517,7 +611,7 @@
 <li><del><em>Cardi B - WAP (feat. Megan Thee Stallion)</em></del></li>
 <li><del><em>Curren$y - The Type (feat. Prodigy)</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-8">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-7">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="17--1--a">17 / 1 / A</h4>
 <ol type="1">
 <li>Jeremih - Don't Tell 'Em</li>
@@ -552,7 +646,7 @@
 <h2 id="2---pharoahe-monch---simon-says">2 - Pharoahe Monch - Simon Says</h2>
 <h3 id="3---drake---money-in-the-grave-drake-ft-rick-ross">3 - Drake - Money In The Grave (Drake ft. Rick Ross)</h3>
 <h4 id="4---will-smith---men-in-black---from-men-in-black-soundtrack">4 - Will Smith - Men In Black - From "Men In Black" Soundtrack</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-9">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-8">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="18--2--x">18 / 2 / X</h2>
 <ol type="1">
 <li>Pharoahe Monch - Simon Says</li>
@@ -567,7 +661,7 @@
 <li><del><em>Dead Prez - Hip-Hop</em></del></li>
 <li><del><em>DMX - X Gon' Give It To Ya</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-9">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-8">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="18--1--a">18 / 1 / A</h4>
 <ol type="1">
 <li>Future - Comin Out Strong (feat. The Weeknd)</li>
@@ -602,7 +696,7 @@
 <h2 id="2---j-cole---work-out">2 - J. Cole - Work Out</h2>
 <h3 id="3---eminem---without-me">3 - Eminem - Without Me</h3>
 <h4 id="4---the-notorious-big---going-back-to-cali---2014-remaster">4 - The Notorious B.I.G. - Going Back to Cali - 2014 Remaster</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-10">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-9">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="19--2--x">19 / 2 / X</h2>
 <ol type="1">
 <li>Gucci Mane - Freaky Girl</li>
@@ -617,7 +711,7 @@
 <li><del><em>2 Chainz - No Lie</em></del></li>
 <li><del><em>Cam'ron - Hey Ma</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-10">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-9">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="19--1--a">19 / 1 / A</h4>
 <ol type="1">
 <li>Gucci Mane - Freaky Girl</li>
@@ -647,62 +741,104 @@
 <li><del><em>21 Savage - Run Up the Racks</em></del></li>
 </ol>
 <hr />
-<h1 id="squad-2">SQUAD 2</h1>
-<h1 id="1---eminem---white-america">1 - Eminem - White America</h1>
-<h2 id="2---drake---marvins-room">2 - Drake - Marvins Room</h2>
-<h3 id="3---drake---shot-for-me">3 - Drake - Shot For Me</h3>
-<h4 id="4---big-tymers---1-stunna">4 - Big Tymers - #1 Stunna</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-11">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
-<h2 id="2--2--x">2 / 2 / X</h2>
-<ol type="1">
-<li>Eminem - White America</li>
-<li>Big Tymers - #1 Stunna</li>
-<li><del><em>Iggy Azalea - Started</em></del></li>
-<li><del><em>Drake - 0 To 100 / The Catch Up</em></del></li>
-</ol>
-<h2 id="2--2--y">2 / 2 / Y</h2>
-<ol type="1">
-<li>Drake - Marvins Room</li>
-<li>Drake - Shot For Me</li>
-<li><del><em>Big L - Flamboyant</em></del></li>
-<li><del><em>Gucci Mane - Met Gala (feat. Offset)</em></del></li>
-</ol>
-<h3 id="_---_-_---_-_---_-_---_-11">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
-<h4 id="2--1--a">2 / 1 / A</h4>
+<div>
+
+<h1 id="squad-2">Squad-2</h1>
+<div class="squad-container">
+
+<div class="round-1">
+
+<div>
+
 <ol type="1">
 <li>Eminem - White America</li>
 <li>Big L - Flamboyant</li>
 <li><del><em>21 Savage - X (feat. Future)</em></del></li>
 <li><del><em>Migos - Highway 85</em></del></li>
 </ol>
-<h4 id="2--1--b">2 / 1 / B</h4>
+</div>
+
+<div>
+
 <ol type="1">
 <li>Drake - Shot For Me</li>
 <li>Drake - 0 To 100 / The Catch Up</li>
 <li><del><em>2 Chainz - 100 Joints</em></del></li>
 <li><del><em>Travis Scott - TOPIA TWINS (feat. Rob49 &amp; 21 Savage)</em></del></li>
 </ol>
-<h4 id="2--1--c">2 / 1 / C</h4>
+</div>
+
+<div>
+
 <ol type="1">
 <li>Big Tymers - #1 Stunna</li>
 <li>Gucci Mane - Met Gala (feat. Offset)</li>
 <li><del><em>Lil Wayne - Fireman</em></del></li>
 <li><del><em>Future - Seven Rings</em></del></li>
 </ol>
-<h4 id="2--1--d">2 / 1 / D</h4>
+</div>
+
+<div>
+
 <ol type="1">
 <li>Drake - Marvins Room</li>
 <li>Iggy Azalea - Started</li>
 <li><del><em>Bhad Bhabie - Gucci Flip Flops (feat. Lil Yachty)</em></del></li>
 <li><del><em>Gucci Mane - Curve (feat. The Weeknd)</em></del></li>
 </ol>
+</div>
+
+</div>
+
+<div class="round-2">
+
+<div>
+
+<ol type="1">
+<li>Eminem - White America</li>
+<li>Big Tymers - #1 Stunna</li>
+<li><del><em>Iggy Azalea - Started</em></del></li>
+<li><del><em>Drake - 0 To 100 / The Catch Up</em></del></li>
+</ol>
+</div>
+
+<div>
+
+<ol type="1">
+<li>Drake - Marvins Room</li>
+<li>Drake - Shot For Me</li>
+<li><del><em>Big L - Flamboyant</em></del></li>
+<li><del><em>Gucci Mane - Met Gala (feat. Offset)</em></del></li>
+</ol>
+</div>
+
+</div>
+
+<div class="rankings">
+
+<div>
+
+<ol type="1">
+<li>Eminem - White America</li>
+<li>Drake - Marvins Room</li>
+<li>Drake - Shot For Me</li>
+<li>Big Tymers - #1 Stunna</li>
+</ol>
+</div>
+
+</div>
+
+</div>
+
+</div>
+
 <hr />
 <h1 id="squad-20">SQUAD 20</h1>
 <h1 id="1---jadakiss---times-up">1 - Jadakiss - Time's Up</h1>
 <h2 id="2---birdman---stuntin-like-my-daddy---street">2 - Birdman - Stuntin' Like My Daddy - Street</h2>
 <h3 id="3---nwa---straight-outta-compton">3 - N.W.A. - Straight Outta Compton</h3>
 <h4 id="4---big-l---platinum-plus">4 - Big L - Platinum Plus</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-12">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-10">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="20--2--x">20 / 2 / X</h2>
 <ol type="1">
 <li>Birdman - Stuntin' Like My Daddy - Street</li>
@@ -717,7 +853,7 @@
 <li><del><em>Tory Lanez - LUV</em></del></li>
 <li><del><em>50 Cent - Disco Inferno</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-12">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-10">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="20--1--a">20 / 1 / A</h4>
 <ol type="1">
 <li>Birdman - Stuntin' Like My Daddy - Street</li>
@@ -752,7 +888,7 @@
 <h2 id="2---eminem---the-real-slim-shady">2 - Eminem - The Real Slim Shady</h2>
 <h3 id="3---drake---nonstop">3 - Drake - Nonstop</h3>
 <h4 id="4---snoop-dogg---gin-and-juice">4 - Snoop Dogg - Gin and Juice</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-13">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-11">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="21--2--x">21 / 2 / X</h2>
 <ol type="1">
 <li>Eminem - The Real Slim Shady</li>
@@ -767,7 +903,7 @@
 <li><del><em>21 Savage - redrum</em></del></li>
 <li><del><em>Drake - Too Good</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-13">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-11">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="21--1--a">21 / 1 / A</h4>
 <ol type="1">
 <li>DJ Felli Fel - Get Buck In Here</li>
@@ -802,7 +938,7 @@
 <h2 id="2---nas---i-can">2 - Nas - I Can</h2>
 <h3 id="3---rick-ross---hustlin">3 - Rick Ross - Hustlin'</h3>
 <h4 id="4---jibbs---king-kong">4 - Jibbs - King Kong</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-14">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-12">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="22--2--x">22 / 2 / X</h2>
 <ol type="1">
 <li>Tech N9ne - Caribou Lou (Album Version (Explicit))</li>
@@ -817,7 +953,7 @@
 <li><del><em>2 Chainz - Crack</em></del></li>
 <li><del><em>Jibbs - Chain Hang Low</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-14">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-12">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="22--1--a">22 / 1 / A</h4>
 <ol type="1">
 <li>Tech N9ne - Caribou Lou (Album Version (Explicit))</li>
@@ -852,7 +988,7 @@
 <h2 id="2---50-cent---patiently-waiting">2 - 50 Cent - Patiently Waiting</h2>
 <h3 id="3---westside-connection---bow-down">3 - Westside Connection - Bow Down</h3>
 <h4 id="4---birdman---over-here-hustlin">4 - Birdman - Over Here Hustlin'</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-15">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-13">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="23--2--x">23 / 2 / X</h2>
 <ol type="1">
 <li>Nelly - E.I.</li>
@@ -867,7 +1003,7 @@
 <li><del><em>Drake - Take Care</em></del></li>
 <li><del><em>Drake - The Motto</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-15">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-13">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="23--1--a">23 / 1 / A</h4>
 <ol type="1">
 <li>Nelly - E.I.</li>
@@ -902,7 +1038,7 @@
 <h2 id="2---mobb-deep---quiet-storm">2 - Mobb Deep - Quiet Storm</h2>
 <h3 id="3---jay-z---dirt-off-your-shoulder">3 - JAY-Z - Dirt Off Your Shoulder</h3>
 <h4 id="4---d12---rap-game">4 - D12 - Rap Game</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-16">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-14">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="24--2--x">24 / 2 / X</h2>
 <ol type="1">
 <li>Mobb Deep - Shook Ones, Pt. II</li>
@@ -917,7 +1053,7 @@
 <li><del><em>50 Cent - In Da Club</em></del></li>
 <li><del><em>Mike WiLL Made-It - Gucci On My (feat. 21 Savage, YG &amp; Migos)</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-16">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-14">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="24--1--a">24 / 1 / A</h4>
 <ol type="1">
 <li>JAY-Z - Dirt Off Your Shoulder</li>
@@ -952,7 +1088,7 @@
 <h2 id="2---krayzie-bone---when-i-die-feat-fat-joe-big-pun--layzie-bone">2 - Krayzie Bone - When I Die (feat. Fat Joe, Big Pun &amp; Layzie Bone)</h2>
 <h3 id="3---jay-z---big-pimpin">3 - JAY-Z - Big Pimpin'</h3>
 <h4 id="4---mobb-deep---survival-of-the-fittest">4 - Mobb Deep - Survival of the Fittest</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-17">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-15">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="25--2--x">25 / 2 / X</h2>
 <ol type="1">
 <li>Gucci Mane - Young N*****</li>
@@ -967,7 +1103,7 @@
 <li><del><em>Future - Mask Off</em></del></li>
 <li><del><em>JAY-Z - Holy Grail</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-17">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-15">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="25--1--a">25 / 1 / A</h4>
 <ol type="1">
 <li>Gucci Mane - Young N*****</li>
@@ -1002,7 +1138,7 @@
 <h2 id="2---50-cent---many-men-wish-death">2 - 50 Cent - Many Men (Wish Death)</h2>
 <h3 id="3---ruff-ryders---ww-iii">3 - Ruff Ryders - WW III</h3>
 <h4 id="4---the-notorious-big---ready-to-die---2005-remaster">4 - The Notorious B.I.G. - Ready to Die - 2005 Remaster</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-18">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-16">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="26--2--x">26 / 2 / X</h2>
 <ol type="1">
 <li>50 Cent - Many Men (Wish Death)</li>
@@ -1017,7 +1153,7 @@
 <li><del><em>Eminem - I'm Back</em></del></li>
 <li><del><em>Lil Wayne - Lollipop</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-18">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-16">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="26--1--a">26 / 1 / A</h4>
 <ol type="1">
 <li>The Notorious B.I.G. - Ready to Die - 2005 Remaster</li>
@@ -1052,7 +1188,7 @@
 <h2 id="2---t-pain---buy-u-a-drank-shawty-snappin-feat-yung-joc">2 - T-Pain - Buy U a Drank (Shawty Snappin') (feat. Yung Joc)</h2>
 <h3 id="3---waka-flocka-flame---hard-in-da-paint">3 - Waka Flocka Flame - Hard in Da Paint</h3>
 <h4 id="4---2pac---ambitionz-az-a-ridah">4 - 2Pac - Ambitionz Az A Ridah</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-19">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-17">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="27--2--x">27 / 2 / X</h2>
 <ol type="1">
 <li>Akon - I Wanna Love You</li>
@@ -1067,7 +1203,7 @@
 <li><del><em>2Pac - Life Goes On</em></del></li>
 <li><del><em>Public Enemy - He Got Game</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-19">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-17">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="27--1--a">27 / 1 / A</h4>
 <ol type="1">
 <li>Akon - I Wanna Love You</li>
@@ -1102,7 +1238,7 @@
 <h2 id="2---cypress-hill---lowrider">2 - Cypress Hill - Lowrider</h2>
 <h3 id="3---dmx---where-the-hood-at">3 - DMX - Where The Hood At</h3>
 <h4 id="4---tory-lanez---feels-feat-chris-brown">4 - Tory Lanez - Feels (feat. Chris Brown)</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-20">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-18">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="28--2--x">28 / 2 / X</h2>
 <ol type="1">
 <li>Cypress Hill - Lowrider</li>
@@ -1117,7 +1253,7 @@
 <li><del><em>Eminem - Criminal</em></del></li>
 <li><del><em>DMX - We Right Here</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-20">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-18">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="28--1--a">28 / 1 / A</h4>
 <ol type="1">
 <li>Jack Harlow - WHATS POPPIN</li>
@@ -1152,7 +1288,7 @@
 <h2 id="2---david-banner---like-a-pimp">2 - David Banner - Like A Pimp</h2>
 <h3 id="3---pusha-t---drug-dealers-anonymous">3 - Pusha T - Drug Dealers Anonymous</h3>
 <h4 id="4---immortal-technique---point-of-no-return">4 - Immortal Technique - Point of No Return</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-21">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-19">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="29--2--x">29 / 2 / X</h2>
 <ol type="1">
 <li>Dr. Dre - Forgot About Dre</li>
@@ -1167,7 +1303,7 @@
 <li><del><em>Big Pun - Beware</em></del></li>
 <li><del><em>Gucci Mane - Spanish Plug</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-21">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-19">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="29--1--a">29 / 1 / A</h4>
 <ol type="1">
 <li>Dr. Dre - Forgot About Dre</li>
@@ -1202,7 +1338,7 @@
 <h2 id="2---geto-boys---damn-it-feels-good-to-be-a-gangsta">2 - Geto Boys - Damn It Feels Good to Be a Gangsta</h2>
 <h3 id="3---2pac---dear-mama">3 - 2Pac - Dear Mama</h3>
 <h4 id="4---eminem---guilty-conscience">4 - Eminem - Guilty Conscience</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-22">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-20">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="3--2--x">3 / 2 / X</h2>
 <ol type="1">
 <li>Geto Boys - Damn It Feels Good to Be a Gangsta</li>
@@ -1217,7 +1353,7 @@
 <li><del><em>Kurupt - Space Boogie</em></del></li>
 <li><del><em>2 Chainz - Gotta Lotta</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-22">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-20">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="3--1--a">3 / 1 / A</h4>
 <ol type="1">
 <li>Eminem - Guilty Conscience</li>
@@ -1252,7 +1388,7 @@
 <h2 id="2---rick-ross---aston-martin-music">2 - Rick Ross - Aston Martin Music</h2>
 <h3 id="3---eazy-e---eazy-duz-it">3 - Eazy-E - Eazy-Duz-It</h3>
 <h4 id="4---luniz---i-got-5-on-it">4 - Luniz - I Got 5 On It</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-23">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-21">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="30--2--x">30 / 2 / X</h2>
 <ol type="1">
 <li>Lloyd Banks - Beamer, Benz, Or Bentley</li>
@@ -1267,7 +1403,7 @@
 <li><del><em>Drake - Too Much</em></del></li>
 <li><del><em>50 Cent - Candy Shop</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-23">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-21">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="30--1--a">30 / 1 / A</h4>
 <ol type="1">
 <li>Eazy-E - Eazy-Duz-It</li>
@@ -1302,7 +1438,7 @@
 <h2 id="2---will-smith---gettin-jiggy-wit-it">2 - Will Smith - Gettin' Jiggy Wit It</h2>
 <h3 id="3---missy-elliott---work-it">3 - Missy Elliott - Work It</h3>
 <h4 id="4---ice-cube---late-night-hour">4 - Ice Cube - Late Night Hour</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-24">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-22">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="31--2--x">31 / 2 / X</h2>
 <ol type="1">
 <li>Nas - Got Ur Self A Gun</li>
@@ -1317,7 +1453,7 @@
 <li><del><em>Drake - Cameras / Good Ones Go Interlude - Medley</em></del></li>
 <li><del><em>2Pac - Breathin</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-24">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-22">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="31--1--a">31 / 1 / A</h4>
 <ol type="1">
 <li>DMX - Ruff Ryders' Anthem</li>
@@ -1352,7 +1488,7 @@
 <h2 id="2---mos-def---oh-no">2 - Mos Def - Oh No</h2>
 <h3 id="3---eminem---my-name-is">3 - Eminem - My Name Is</h3>
 <h4 id="4---the-notorious-big---ten-crack-commandments---2014-remaster">4 - The Notorious B.I.G. - Ten Crack Commandments - 2014 Remaster</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-25">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-23">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="4--2--x">4 / 2 / X</h2>
 <ol type="1">
 <li>Mos Def - Oh No</li>
@@ -1367,7 +1503,7 @@
 <li><del><em>50 Cent - High All The Time</em></del></li>
 <li><del><em>Die Antwoord - Fatty Boom Boom</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-25">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-23">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="4--1--a">4 / 1 / A</h4>
 <ol type="1">
 <li>Mos Def - Oh No</li>
@@ -1402,7 +1538,7 @@
 <h2 id="2---eminem---role-model">2 - Eminem - Role Model</h2>
 <h3 id="3---ice-cube---go-to-church">3 - Ice Cube - Go To Church</h3>
 <h4 id="4---jeremih---down-on-me">4 - Jeremih - Down On Me</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-26">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-24">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="5--2--x">5 / 2 / X</h2>
 <ol type="1">
 <li>Eminem - Role Model</li>
@@ -1417,7 +1553,7 @@
 <li><del><em>Future - Maybach</em></del></li>
 <li><del><em>Lil Wayne - Hustler Musik</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-26">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-24">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="5--1--a">5 / 1 / A</h4>
 <ol type="1">
 <li>Coolio - Gangsta's Paradise</li>
@@ -1452,7 +1588,7 @@
 <h2 id="2---the-notorious-big---who-shot-ya---2005-remaster">2 - The Notorious B.I.G. - Who Shot Ya? - 2005 Remaster</h2>
 <h3 id="3---big-pun---you-aint-a-killer">3 - Big Pun - You Ain't a Killer</h3>
 <h4 id="4---too-hort---blow-the-whistle">4 - Too $hort - Blow the Whistle</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-27">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-25">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="6--2--x">6 / 2 / X</h2>
 <ol type="1">
 <li>The Notorious B.I.G. - Who Shot Ya? - 2005 Remaster</li>
@@ -1467,7 +1603,7 @@
 <li><del><em>Ludacris - Move Bitch</em></del></li>
 <li><del><em>Dr. Dre - Bitches Ain't Shit</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-27">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-25">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="6--1--a">6 / 1 / A</h4>
 <ol type="1">
 <li>Ludacris - Get Back</li>
@@ -1502,7 +1638,7 @@
 <h2 id="2---big-tymers---still-fly">2 - Big Tymers - Still Fly</h2>
 <h3 id="3---snoop-dogg---tha-shiznit">3 - Snoop Dogg - Tha Shiznit</h3>
 <h4 id="4---the-notorious-big---whats-beef---2014-remaster">4 - The Notorious B.I.G. - What's Beef? - 2014 Remaster</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-28">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-26">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="7--2--x">7 / 2 / X</h2>
 <ol type="1">
 <li>Diddy - Bad Boy for Life</li>
@@ -1517,7 +1653,7 @@
 <li><del><em>Cypress Hill - (Rock) Superstar (feat. Chino Moreno &amp; Everlast)</em></del></li>
 <li><del><em>Yung Gravy - oops!</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-28">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-26">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="7--1--a">7 / 1 / A</h4>
 <ol type="1">
 <li>Snoop Dogg - Tha Shiznit</li>
@@ -1552,7 +1688,7 @@
 <h2 id="2---wale---colombia-heights-te-llamo-feat-j-balvin">2 - Wale - Colombia Heights (Te Llamo) (feat. J Balvin)</h2>
 <h3 id="3---gucci-mane---pillz">3 - Gucci Mane - Pillz</h3>
 <h4 id="4---baby-gravy---shining-on-my-ex">4 - BABY GRAVY - shining on my ex</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-29">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-27">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="8--2--x">8 / 2 / X</h2>
 <ol type="1">
 <li>Rick Ross - Push It</li>
@@ -1567,7 +1703,7 @@
 <li><del><em>Yo Gotti - Act Right (feat. Jeezy &amp; YG)</em></del></li>
 <li><del><em>Gang Starr - All For Tha Ca$h</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-29">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-27">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="8--1--a">8 / 1 / A</h4>
 <ol type="1">
 <li>Ja Rule - Always On Time</li>
@@ -1602,7 +1738,7 @@
 <h2 id="2---jadakiss---jadas-got-a-gun">2 - Jadakiss - Jada's Got A Gun</h2>
 <h3 id="3---dj-khaled---im-on-one">3 - DJ Khaled - I'm On One</h3>
 <h4 id="4---camron---killa-cam--roll-that-skit">4 - Cam'ron - Killa Cam / Roll That Skit</h4>
-<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-30">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
+<h3 id="_--_-_-_--_-_-_--_-_-_--_-_-28">_ ^ _ _ _ ^ _ _ _ ^ _ _ _ ^ _ _</h3>
 <h2 id="9--2--x">9 / 2 / X</h2>
 <ol type="1">
 <li>Birdman - Leather So Soft</li>
@@ -1617,7 +1753,7 @@
 <li><del><em>Bhad Bhabie - Geek'd (feat. Lil Baby)</em></del></li>
 <li><del><em>Gucci Mane - Loss 4 Wrdz (feat. Rick Ross)</em></del></li>
 </ol>
-<h3 id="_---_-_---_-_---_-_---_-30">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
+<h3 id="_---_-_---_-_---_-_---_-28">_ ^ ^ _ _ ^ ^ _ _ ^ ^ _ _ ^ ^ _</h3>
 <h4 id="9--1--a">9 / 1 / A</h4>
 <ol type="1">
 <li>Nelly - St. Louie</li>

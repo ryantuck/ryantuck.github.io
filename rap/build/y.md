@@ -1,390 +1,371 @@
 <style>
+    ul {
+        display: flex;
+        flex-direction: column;
+        list-style-type: none;
+        padding-left: 0px;
+    }
     body {background-color: black}
     * {
         color: white;
     }
-</style>
 
-<div id="header" style="position:fixed; width: 30vh; height:100vh;top:0vh;left:79vw;display:flex;justify-content:flex-end;flex-direction:column;flex-wrap:nowrap;align-items:flex-end">
+    #round-128 li:nth-child(4n+1) {
+      background-color: #444;
+    }
+    #round-128 li:nth-child(4n+2) {
+      background-color: #444;
+    }
 
-<div style="width:35vw;height:15vh;display:flex;justify-content:flex-end;align-items:center">
+    #round-64 li:nth-child(4n+1) {
+      background-color: #444;
+    }
+    #round-64 li:nth-child(4n+2) {
+      background-color: #444;
+    }
 
-<div style="width:20vw;height: 10vh;text-align:right">
-    <iframe data-testid="embed-iframe" id="player" src="https://open.spotify.com/embed/track/3zXGMmgIygV00eFxyqmbeO" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
-
-</div>
-
-</div>
-
-
-
-<style>
-
-* {
-    box-sizing: border-box;
-}
-
-.b {
-    display:flex;
-    flex-direction:column;
-    justify-content: flex-start;
-
-    height:1024vh;
-    width:12vw;
-
-    font-size: 0.9em;
-}
-
-.b div {
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-
-    border-bottom: 3px solid white;
-    padding: 5px;
-
-    cursor: crosshair;
-}
-
-.b div:hover {
-    color: gold;
-    border-bottom: 3px solid gold;
-}
-
-.b div:nth-child(even) {
-    border-right: 3px solid white;
-}
-
-/* bracket rounds */
-#b1                     {   background-color: #111;     }
-#b2                     {   background-color: #222;     }
-#b3                     {   background-color: #333;     }
-#b4                     {   background-color: #444;     }
-#b5                     {   background-color: #555;     }
-#b6                     {   background-color: #666;     }
-#b7                     {   background-color: #777;     }
-#b8                     {   background-color: #888;     }
-
-/* height doubles each round */
-#b1 div                 {   height: 8vh; font-size: 1em;                }
-#b2 div                 {   height: 16vh; font-size: 1.2em;               }
-#b3 div                 {   height: 32vh; font-size: 1.4em;               }
-#b4 div                 {   height: 64vh; font-size: 1.6em;               }
-#b5 div                 {   height: 128vh; font-size: 1.8em;              }
-#b6 div                 {   height: 256vh; font-size: 2em;             }
-#b7 div                 {   height: 512vh; font-size: 2.2em;              }
-#b8 div                 {   height: 1024vh; font-size: 2.4em;             }
-
-/* adjust to center stuff */
-#b1 div:nth-child(1)    {   height:8vh;                 }
-#b2 div:nth-child(1)    {   height:12vh;                }
-#b3 div:nth-child(1)    {   height:20vh;                }
-#b4 div:nth-child(1)    {   height:36vh;                }
-#b5 div:nth-child(1)    {   height:68vh;                }
-#b6 div:nth-child(1)    {   height:132vh;               }
-#b7 div:nth-child(1)    {   height:260vh;               }
-#b8 div:nth-child(1)    {   height:516vh;               }
+    #round-32 li:nth-child(4n+1) {
+      background-color: #222;
+    }
+    #round-32 li:nth-child(4n+2) {
+      background-color: #222;
+    }
 
 
+    #round-16 li:nth-child(4n+1) { background-color: #222; }
+    #round-16 li:nth-child(4n+2) { background-color: #222; }
 
+    #round-8 li:nth-child(4n+1) { background-color: #111; }
+    #round-8 li:nth-child(4n+2) { background-color: #111; }
+
+    #round-4 li:nth-child(4n+1) { background-color: #444; }
+    #round-4 li:nth-child(4n+2) { background-color: #444; }
 
 
 </style>
 
-<div id="footer" style="display:flex;">
-
-<div class="b" id="b1">
-
-<div>Soldier</div>
-<div>What's Your Fantasy</div>
-<div>My Name Is</div>
-<div>Role Model</div>
-<div>Still Fly</div>
-<div>You Ain't a Killer</div>
-<div>Guilty Conscience</div>
-<div>White America</div>
-<div>Dance with the Devil <span style="color:#999">- Immortal Technique</span></div>
-<div>Regulate <span style="color:#999">- Warren G</span></div>
-<div>Straight Outta Compton <span style="color:#999">- N.W.A.</span></div>
-<div>The Real Slim Shady <span style="color:#999">- Eminem</span></div>
-<div>Patiently Waiting <span style="color:#999">- 50 Cent, Eminem</span></div>
-<div>Hustlin' <span style="color:#999">- Rick Ross</span></div>
-<div>Going Back to Cali <span style="color:#999">- The Notorious B.I.G.</span></div>
-<div>Hot N**** <span style="color:#999">- Bobby Shmurda</span></div>
-<div>Push It</div>
-<div>Killa Cam / Roll That Skit</div>
-<div>What's The Difference</div>
-<div>Consipracy Theory</div>
-<div>My Chain</div>
-<div>Before I Go</div>
-<div>I'm A Gangsta</div>
-<div>The Next Episode</div>
-<div>Shook Ones, Pt. II</div>
-<div>Survival of the Fittest</div>
-<div>Where The Hood At</div>
-<div>Like A Pimp</div>
-<div>Gettin' Jiggy Wit It</div>
-<div>Eazy-Duz-It</div>
-<div>Ambitionz Az A Ridah</div>
-<div>Fuck Tha Police</div>
-<div>Ruff Ryders Anthem</div>
-<div>#1 Stunna</div>
-<div>Tha Shiznit</div>
-<div>Who Shot Ya?</div>
-<div>Oh No</div>
-<div>Go To Church</div>
-<div>Furthest Thing</div>
-<div>What If</div>
-<div>Freaky Girl</div>
-<div>Men In Black</div>
-<div>Bow Down</div>
-<div>I Can</div>
-<div>Stuntin' Like My Daddy</div>
-<div>Nonstop</div>
-<div>99 Problems</div>
-<div>Crazy Rap</div>
-<div>Miami</div>
-<div>Deuces</div>
-<div>Castro</div>
-<div>I'm Not a Player</div>
-<div>Da Graveyard</div>
-<div>Nuthin' But A "G" Thang</div>
-<div>shining on my ex</div>
-<div>Leather So Soft - Birdman, Lil Wayne</div>
-<div>I Wanna Love You</div>
-<div>Ready to Die</div>
-<div>Work It</div>
-<div>Aston Martin Music</div>
-<div>Lowrider</div>
-<div>Drug Dealers Anonymous</div>
-<div>Rap Game</div>
-<div>Young N*****</div>
-<div>The Way I Am</div>
-<div>Down On Me</div>
-<div>New York</div>
-<div>N.Y. State of Mind</div>
-<div>Damn It Feels Good to Be a Gangsta</div>
-<div>Shot For Me</div>
-<div>What's Beef?</div>
-<div>One Mic</div>
-<div>Time's Up</div>
-<div>Gin and Juice</div>
-<div>Gangsta Rap Made Me Do It</div>
-<div>Don't Tell 'Em</div>
-<div>Work Out</div>
-<div>Money In The Grave</div>
-<div>Over Here Hustlin'</div>
-<div>Caribou Lou</div>
-<div>Back That Azz Up</div>
-<div>Money On My Mind</div>
-<div>Pillz</div>
-<div>Jada's Got A Gun</div>
-<div>No Frauds</div>
-<div>Ice Cream Paint Job</div>
-<div>INDUSTRY BABY</div>
-<div>On Fire</div>
-<div>Get Your Roll On</div>
-<div>Point of No Return</div>
-<div>Dirt Off Your Shoulder</div>
-<div>When I Die</div>
-<div>Buy U a Drank</div>
-<div>WW III</div>
-<div>Late Night Hour</div>
-<div>Beamer, Benz, Or Bentley</div>
-<div>Bad Boy for Life</div>
-<div>Blow the Whistle</div>
-<div>Dear Mama</div>
-<div>Marvins Room</div>
-<div>Boyz-N-The-Hood</div>
-<div>Yung and Bhad</div>
-<div>Ten Crack Commandments</div>
-<div>Welcome To Atlanta Remix</div>
-<div>E.I.</div>
-<div>King Kong</div>
-<div>Without Me</div>
-<div>Simon Says</div>
-<div>The 4th Branch</div>
-<div>Hello</div>
-<div>Platinum Plus</div>
-<div>Tha Mobb</div>
-<div>My N****</div>
-<div>Play</div>
-<div>Lay Low</div>
-<div>C-Walk</div>
-<div>Colombia Heights</div>
-<div>I'm On One</div>
-<div>Big Bank</div>
-<div>Stan</div>
-<div>Got Ur Self A Gun</div>
-<div>I Got 5 On It</div>
-<div>Hard in Da Paint</div>
-<div>Many Men</div>
-<div>Quiet Storm</div>
-<div>Big Pimpin'</div>
-<div>Feels</div>
-<div>Forgot About Dre</div>
+<div id="header" style="header;display:flex;justify-content:space-around;flex-direction:row;flex-wrap:nowrap;align-items:center">
+    <div style="width:20vw;vertical-align:center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Parental_Advisory_label.svg" style="width:100%;max-height:160px" />
+    </div>
+    <div style="width:40vw;text-align:center">
+        <h1 style="font-size:4em">Da Ultimate Rap Battle 2025</h1>
+    </div>
+    <div style="width:30vw;vertical-align:center">
+        <iframe data-testid="embed-iframe" id="player" style="border-radius:12px" src="https://open.spotify.com/embed/track/3zXGMmgIygV00eFxyqmbeO" width="100%" height="160" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
 
 </div>
 
 
-<div class="b" id="b2" >
 
-<div>Soldier</div>
-<div>My Name Is</div>
-<div>Still Fly</div>
-<div>White America</div>
-<div>Dance with the Devil</div>
-<div>The Real Slim Shady</div>
-<div>Patiently Waiting</div>
-<div>Going Back to Cali</div>
-<div>Push It</div>
-<div>Consipracy Theory</div>
-<div>Before I Go</div>
-<div>I'm A Gangsta</div>
-<div>Shook Ones, Pt. II</div>
-<div>Where The Hood At</div>
-<div>Eazy-Duz-It</div>
-<div>Fuck Tha Police</div>
-<div>Ruff Ryders Anthem</div>
-<div>Who Shot Ya?</div>
-<div>Oh No</div>
-<div>What If</div>
-<div>Freaky Girl</div>
-<div>Bow Down</div>
-<div>Stuntin' Like My Daddy</div>
-<div>99 Problems</div>
-<div>Miami</div>
-<div>Castro</div>
-<div>Nuthin' But A "G" Thang</div>
-<div>Leather So Soft</div>
-<div>I Wanna Love You</div>
-<div>Work It</div>
-<div>Lowrider</div>
-<div>Young N*****</div>
-<div>The Way I Am</div>
-<div>New York</div>
-<div>Damn It Feels Good to Be a Gangsta</div>
-<div>One Mic</div>
-<div>Time's Up</div>
-<div>Gangsta Rap Made Me Do It</div>
-<div>Money In The Grave</div>
-<div>Caribou Lou</div>
-<div>Money On My Mind</div>
-<div>Jada's Got A Gun</div>
-<div>Ice Cream Paint Job</div>
-<div>On Fire</div>
-<div>Point of No Return</div>
-<div>When I Die</div>
-<div>Buy U a Drank</div>
-<div>Beamer, Benz, Or Bentley</div>
-<div>Bad Boy for Life</div>
-<div>Dear Mama</div>
-<div>Yung and Bhad</div>
-<div>Welcome To Atlanta Remix</div>
-<div>E.I.</div>
-<div>Simon Says</div>
-<div>Hello</div>
-<div>Tha Mobb</div>
-<div>My N****</div>
-<div>C-Walk</div>
-<div>Colombia Heights</div>
-<div>Stan</div>
-<div>I Got 5 On It</div>
-<div>Many Men</div>
-<div>Big Pimpin'</div>
-<div>Forgot About Dre</div>
+<div id="container" style="vertical-align:top;white-space:nowrap">
+<div id="round-128" style="font-size:0.5em;display:inline-block;vertical-align:top;line-height:16px;background-color:#000;width:12vw">
+
+- Soldier
+- What's Your Fantasy
+- My Name Is
+- Role Model
+- Still Fly
+- You Ain't a Killer
+- Guilty Conscience
+- White America
+- Dance with the Devil
+- Regulate
+- Straight Outta Compton
+- The Real Slim Shady
+- Patiently Waiting
+- Hustlin'
+- Going Back to Cali
+- Hot N****
+- Push It
+- Killa Cam / Roll That Skit
+- What's The Difference
+- Consipracy Theory
+- My Chain
+- Before I Go
+- I'm A Gangsta
+- The Next Episode
+- Shook Ones, Pt. II
+- Survival of the Fittest
+- Where The Hood At
+- Like A Pimp
+- Gettin' Jiggy Wit It
+- Eazy-Duz-It
+- Ambitionz Az A Ridah
+- Fuck Tha Police
+- Ruff Ryders Anthem
+- #1 Stunna
+- Tha Shiznit
+- Who Shot Ya?
+- Oh No
+- Go To Church
+- Furthest Thing
+- What If
+- Freaky Girl
+- Men In Black
+- Bow Down
+- I Can
+- Stuntin' Like My Daddy
+- Nonstop
+- 99 Problems
+- Crazy Rap
+- Miami
+- Deuces
+- Castro
+- I'm Not a Player
+- Da Graveyard
+- Nuthin' But A "G" Thang
+- shining on my ex
+- Leather So Soft
+- I Wanna Love You
+- Ready to Die
+- Work It
+- Aston Martin Music
+- Lowrider
+- Drug Dealers Anonymous
+- Rap Game
+- Young N*****
+- The Way I Am
+- Down On Me
+- New York
+- N.Y. State of Mind
+- Damn It Feels Good to Be a Gangsta
+- Shot For Me
+- What's Beef?
+- One Mic
+- Time's Up
+- Gin and Juice
+- Gangsta Rap Made Me Do It
+- Don't Tell 'Em
+- Work Out
+- Money In The Grave
+- Over Here Hustlin'
+- Caribou Lou
+- Back That Azz Up
+- Money On My Mind
+- Pillz
+- Jada's Got A Gun
+- No Frauds
+- Ice Cream Paint Job
+- INDUSTRY BABY
+- On Fire
+- Get Your Roll On
+- Point of No Return
+- Dirt Off Your Shoulder
+- When I Die
+- Buy U a Drank
+- WW III
+- Late Night Hour
+- Beamer, Benz, Or Bentley
+- Bad Boy for Life
+- Blow the Whistle
+- Dear Mama
+- Marvins Room
+- Boyz-N-The-Hood
+- Yung and Bhad
+- Ten Crack Commandments
+- Welcome To Atlanta Remix
+- E.I.
+- King Kong
+- Without Me
+- Simon Says
+- The 4th Branch
+- Hello
+- Platinum Plus
+- Tha Mobb
+- My N****
+- Play
+- Lay Low
+- C-Walk
+- Colombia Heights
+- I'm On One
+- Big Bank
+- Stan
+- Got Ur Self A Gun
+- I Got 5 On It
+- Hard in Da Paint
+- Many Men
+- Quiet Storm
+- Big Pimpin'
+- Feels
+- Forgot About Dre
 
 </div>
 
-<div class="b" id="b3">
 
-<div>My Name Is</div>
-<div>Still Fly</div>
-<div>Dance with the Devil</div>
-<div>Going Back to Cali</div>
-<div>Consipracy Theory</div>
-<div>Before I Go</div>
-<div>Where The Hood At</div>
-<div>Fuck Tha Police</div>
-<div>Who Shot Ya?</div>
-<div>What If</div>
-<div>Freaky Girl</div>
-<div>Stuntin' Like My Daddy</div>
-<div>Miami</div>
-<div>Nuthin' But A "G" Thang</div>
-<div>I Wanna Love You</div>
-<div>Young N*****</div>
-<div>The Way I Am</div>
-<div>One Mic</div>
-<div>Gangsta Rap Made Me Do It</div>
-<div>Money In The Grave</div>
-<div>Money On My Mind</div>
-<div>On Fire</div>
-<div>When I Die</div>
-<div>Beamer, Benz, Or Bentley</div>
-<div>Dear Mama</div>
-<div>Welcome To Atlanta Remix</div>
-<div>E.I.</div>
-<div>Tha Mobb</div>
-<div>My N****</div>
-<div>Stan</div>
-<div>Many Men</div>
-<div>Forgot About Dre</div>
+<div id="round-64" style="font-size: 0.7em;display:inline-block;background-color: #111;line-height:32px;vertical-align:top;width:14vw">
+
+- Soldier
+- My Name Is
+- Still Fly
+- White America
+- Dance with the Devil
+- The Real Slim Shady
+- Patiently Waiting
+- Going Back to Cali
+- Push It
+- Consipracy Theory
+- Before I Go
+- I'm A Gangsta
+- Shook Ones, Pt. II
+- Where The Hood At
+- Eazy-Duz-It
+- Fuck Tha Police
+- Ruff Ryders Anthem
+- Who Shot Ya?
+- Oh No
+- What If
+- Freaky Girl
+- Bow Down
+- Stuntin' Like My Daddy
+- 99 Problems
+- Miami
+- Castro
+- Nuthin' But A "G" Thang
+- Leather So Soft
+- I Wanna Love You
+- Work It
+- Lowrider
+- Young N*****
+- The Way I Am
+- New York
+- Damn It Feels Good to Be a Gangsta
+- One Mic
+- Time's Up
+- Gangsta Rap Made Me Do It
+- Money In The Grave
+- Caribou Lou
+- Money On My Mind
+- Jada's Got A Gun
+- Ice Cream Paint Job
+- On Fire
+- Point of No Return
+- When I Die
+- Buy U a Drank
+- Beamer, Benz, Or Bentley
+- Bad Boy for Life
+- Dear Mama
+- Yung and Bhad
+- Welcome To Atlanta Remix
+- E.I.
+- Simon Says
+- Hello
+- Tha Mobb
+- My N****
+- C-Walk
+- Colombia Heights
+- Stan
+- I Got 5 On It
+- Many Men
+- Big Pimpin'
+- Forgot About Dre
+
 
 </div>
 
-<div class="b" id="b4">
-<div>Still Fly</div>
-<div>Dance with the Devil</div>
-<div>Consipracy Theory</div>
-<div>Fuck Tha Police</div>
-<div>What If</div>
-<div>Freaky Girl</div>
-<div>Nuthin' But A "G" Thang</div>
-<div>Young N*****</div>
-<div>The Way I Am</div>
-<div>Gangsta Rap Made Me Do It</div>
-<div>On Fire</div>
-<div>When I Die</div>
-<div>Dear Mama</div>
-<div>E.I.</div>
-<div>Stan</div>
-<div>Many Men</div>
+<div id="round-32" style="display:inline-block;background-color: #555;line-height:64px;vertical-align:top;width:11vw">
+
+- <span id="my-name-is">My Name Is</span>
+- Still Fly
+- Dance with the Devil
+- Going Back to Cali
+- Consipracy Theory
+- Before I Go
+- Where The Hood At
+- Fuck Tha Police
+- Who Shot Ya?
+- What If
+- Freaky Girl
+- Stuntin' Like My Daddy
+- Miami
+- Nuthin' But A "G" Thang
+- I Wanna Love You
+- Young N*****
+- The Way I Am
+- One Mic
+- Gangsta Rap Made Me Do It
+- Money In The Grave
+- Money On My Mind
+- On Fire
+- When I Die
+- Beamer, Benz, Or Bentley
+- Dear Mama
+- Welcome To Atlanta Remix
+- E.I.
+- Tha Mobb
+- My N****
+- Stan
+- Many Men
+- Forgot About Dre
+
 
 </div>
 
-<div class="b" id="b5">
-<div>Dance with the Devil</div>
-<div>Fuck Tha Police</div>
-<div>What If</div>
-<div>Young N*****</div>
-<div>Gangsta Rap Made Me Do It</div>
-<div>When I Die</div>
-<div>E.I.</div>
-<div>Stan</div>
+
+<div id="round-16" style="display:inline-block;background-color: #444;line-height:128px;vertical-align:top;width:11vw">
+
+- Still Fly
+- Dance with the Devil
+- Consipracy Theory
+- Fuck Tha Police
+- What If
+- Freaky Girl
+- Nuthin' But A "G" Thang
+- Young N*****
+- The Way I Am
+- Gangsta Rap Made Me Do It
+- On Fire
+- When I Die
+- Dear Mama
+- E.I.
+- Stan
+- Many Men
+
+
 </div>
 
-<div class="b" id="b6">
-<div>Fuck Tha Police</div>
-<div>What If</div>
-<div>Gangsta Rap Made Me Do It</div>
-<div>E.I.</div>
+<div id="round-8" style="display:inline-block;background-color: #333;line-height:256px;vertical-align:top;width:11vw">
+
+- Dance with the Devil
+- Fuck Tha Police
+- What If
+- Young N*****
+- Gangsta Rap Made Me Do It
+- When I Die
+- E.I.
+- Stan
+
+
 </div>
 
-<div class="b" id="b7">
-<div>What If</div>
-<div>Gangsta Rap Made Me Do It</div>
+
+<div id="round-4" style="display:inline-block;background-color: #222;line-height:512px;vertical-align:top;width:11vw">
+
+- Fuck Tha Police
+- What If
+- Gangsta Rap Made Me Do It
+- E.I.
+
 </div>
 
-<div class="b" id="b8">
-<div>Gangsta Rap Made Me Do It</div>
+<div id="round-2" style="display:inline-block;background-color: #111;line-height:1024px;vertical-align:top;width:11vw">
+
+- What If
+- Gangsta Rap Made Me Do It
+
 </div>
+
+<div id="round-1" style="display:inline-block;background-color: #444;line-height:2048px;vertical-align:top;width:11vw">
+
+- Gangsta Rap Made Me Do It
+
+</div>
+
 
 </div>
 
 <script>
-
 
 const trackIds = {
   "Gettin' Jiggy Wit It": "0weAUscowxeqDtpCgtbpgp",
@@ -954,13 +935,13 @@ const trackIds = {
 };
 
 
-document.querySelectorAll('.b div').forEach(item => {
+document.querySelectorAll('ul').forEach(item => {
     item.addEventListener('click', function(event) {
 
-        console.log('.b div clicked');
+        console.log('ul clicked');
 
-        if (event.target.matches('.b div')) {
-            console.log('.b div clicked');
+        if (event.target.matches('li')) {
+            console.log('li clicked');
             let trackTitle = event.target.innerText;
             console.log('title', trackTitle);
             let trackId = trackIds[trackTitle] ?? '3zXGMmgIygV00eFxyqmbeO';
