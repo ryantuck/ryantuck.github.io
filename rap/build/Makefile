@@ -1,5 +1,8 @@
 outputs : bracket.txt knockout-groups.html squad-round.html bracket-round.html all.html
 
+all.html : all.md
+	pandoc $< -f gfm --metadata title="Da Ultimate Rap Battle 2025" --css bracket.css -s -o $@
+
 %.html : %.md
 	pandoc $< -f gfm --css bracket.css -s -o $@
 

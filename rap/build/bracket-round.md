@@ -47,7 +47,7 @@
 <div><span class="title">Stuntin' Like My Daddy</span><span class="artists"> - Birdman, Lil Wayne</span></div>
 <div><span class="title">Nonstop</span><span class="artists"> - Drake</span></div>
 <div><span class="title">99 Problems</span><span class="artists"> - JAY-Z</span></div>
-<div><span class="title">Crazy Rap</span><span class="artists"> - Afroman</span></div>
+<div><span class="title">Crazy Rap (Colt 45 & 2 Zig Zags)</span><span class="artists"> - Afroman</span></div>
 <div><span class="title">Miami</span><span class="artists"> - Will Smith</span></div>
 <div><span class="title">Deuces</span><span class="artists"> - Chris Brown, Tyga, Kevin McCall</span></div>
 <div><span class="title">Castro</span><span class="artists"> - Yo Gotti, Kanye West, Big Sean, Quavo, 2 Chainz</span></div>
