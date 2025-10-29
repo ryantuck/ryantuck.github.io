@@ -1,3 +1,6 @@
+index.html : build/all.html
+	cp $< $@
+
 knockout-round-0-eliminated.txt : knockout-results-round-0.txt
 	cat $< | grep "^3\|^4" | cut -c 13- | sort > $@
 

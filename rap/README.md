@@ -1,10 +1,10 @@
-# The Ultimate Rap Battle - 555 Dope-Ass Rap Songs, Ranked
+# The Ultimate Rap Battle - 564 Dope-Ass Rap Songs, Ranked
 
 ## Rounds
 
 ### Round 0 - Qualifying
 
-555 tracks whittled down to a clean 512. Randomly-selected tracks subjected to a group round before the group round.
+564 tracks whittled down to a clean 512. Randomly-selected tracks subjected to a group round before the group round.
 
 ### Round 1 - Group Round
 
@@ -34,30 +34,3 @@ Tracks are seeded evenly throughout the bracket to prevent competing again until
 128 tracks, head-to-head, then 64, then 32, then 16, then 8, then 4, then 2, then ...
 
 Ice Cube's Gangsta Rap Made Me Do It beats out Jadakiss and Nas's What If for my favorite rap song of all time.
-
-
-## Squad 0
-
-### Honorable Mentions
-
-Snap Yo Fingers went before its time. Really strong group.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
