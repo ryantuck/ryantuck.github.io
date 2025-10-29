@@ -26,14 +26,20 @@ def track_str(t):
 
 
 def _tidy_title(song):
-    if '(Rock) Superstar' in song: # lol, hack :)
+
+    # handle edge-cases with parentheses
+    if '(Rock) Superstar' in song:
         return '(Rock) Superstar'
-    just_song = song.split(" - ")[0] # [1:][0]
+    if 'Colt 45' in song:
+        return 'Crazy Rap (Colt 45 & 2 Zig Zags)'
+
+    just_song = song.split(" - ")[0]
     just_song = just_song.split('feat')[0]
     just_song = just_song.split('(')[0]
     just_song = just_song.split('(feat')[0]
     just_song = just_song.strip()
     return just_song
+
 
 
 def echo(d):
@@ -120,6 +126,18 @@ def json_graceful(lines):
 
 def track_id_map(tracks_list):
     return {track['title']: track['id'] for track in tracks_list}
+
+def parse_make_line(make_line: str):
+
+    parts = [x.strip() for x in make_line.split(':')]
+    left = parts[0]
+    if len(parts) == 1:
+        return []
+    right = [x.strip() for x in parts[1].split(' ')]
+
+    target = left
+    prereqs = right
+    return [{'source': prereq, 'target': target} for prereq in prereqs]
 
 def cli():
     parser = argparse.ArgumentParser()

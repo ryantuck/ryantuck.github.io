@@ -65,7 +65,7 @@ Whittle down field from 564 to a clean 512 tracks
 <div>
 
 1. <span class="title">Point of No Return</span><span class="artists"> - Immortal Technique</span>
-2. <span class="title">Crazy Rap</span><span class="artists"> - Afroman</span>
+2. <span class="title">Crazy Rap (Colt 45 & 2 Zig Zags)</span><span class="artists"> - Afroman</span>
 3. ~~_<span class="title">Get By</span><span class="artists"> - Talib Kweli</span>_~~
 4. ~~_<span class="title">Wicked</span><span class="artists"> - Future</span>_~~
 
@@ -954,7 +954,7 @@ Whittle down field from 564 to a clean 512 tracks
 
 <div>
 
-1. <span class="title"></span><span class="artists"> - Cypress Hill, Chino Moreno, Everlast</span>
+1. <span class="title">(Rock) Superstar</span><span class="artists"> - Cypress Hill, Chino Moreno, Everlast</span>
 2. <span class="title">Cleanin' Out My Closet</span><span class="artists"> - Eminem</span>
 3. ~~_<span class="title">Bad Guys</span><span class="artists"> - Gucci Mane</span>_~~
 4. ~~_<span class="title">Like Father Like Son</span><span class="artists"> - Birdman, Lil Wayne</span>_~~
@@ -978,7 +978,7 @@ Whittle down field from 564 to a clean 512 tracks
 
 1. <span class="title">Still Fly</span><span class="artists"> - Big Tymers</span>
 2. <span class="title">What's Beef?</span><span class="artists"> - The Notorious B.I.G.</span>
-3. ~~_<span class="title"></span><span class="artists"> - Cypress Hill, Chino Moreno, Everlast</span>_~~
+3. ~~_<span class="title">(Rock) Superstar</span><span class="artists"> - Cypress Hill, Chino Moreno, Everlast</span>_~~
 4. ~~_<span class="title">oops!</span><span class="artists"> - Yung Gravy</span>_~~
 
 </div>
@@ -1756,7 +1756,7 @@ Whittle down field from 564 to a clean 512 tracks
 
 <div>
 
-1. <span class="title">Crazy Rap</span><span class="artists"> - Afroman</span>
+1. <span class="title">Crazy Rap (Colt 45 & 2 Zig Zags)</span><span class="artists"> - Afroman</span>
 2. <span class="title">Wild Wild West</span><span class="artists"> - Will Smith, Dru Hill, Kool Moe Dee</span>
 3. ~~_<span class="title">You Need Jesus</span><span class="artists"> - BABY GRAVY, Yung Gravy, bbno$</span>_~~
 4. ~~_<span class="title">Photo Copied</span><span class="artists"> - Future</span>_~~
@@ -1796,7 +1796,7 @@ Whittle down field from 564 to a clean 512 tracks
 
 <div>
 
-1. <span class="title">Crazy Rap</span><span class="artists"> - Afroman</span>
+1. <span class="title">Crazy Rap (Colt 45 & 2 Zig Zags)</span><span class="artists"> - Afroman</span>
 2. <span class="title">Regulate</span><span class="artists"> - Warren G, Nate Dogg</span>
 3. ~~_<span class="title">WAP</span><span class="artists"> - Cardi B, Megan Thee Stallion</span>_~~
 4. ~~_<span class="title">The Type</span><span class="artists"> - Curren$y, The Alchemist, Prodigy</span>_~~
@@ -1809,7 +1809,7 @@ Whittle down field from 564 to a clean 512 tracks
 
 <div>
 
-1. <span class="title">Crazy Rap</span><span class="artists"> - Afroman</span>
+1. <span class="title">Crazy Rap (Colt 45 & 2 Zig Zags)</span><span class="artists"> - Afroman</span>
 2. <span class="title">Don't Tell 'Em</span><span class="artists"> - Jeremih, YG</span>
 3. <span class="title">Hello</span><span class="artists"> - Ice Cube, Dr. Dre, MC Ren</span>
 4. <span class="title">Regulate</span><span class="artists"> - Warren G, Nate Dogg</span>

@@ -23,7 +23,7 @@
 <div>
 
 1. <span class="title">Point of No Return</span><span class="artists"> - Immortal Technique</span>
-2. <span class="title">Crazy Rap</span><span class="artists"> - Afroman</span>
+2. <span class="title">Crazy Rap (Colt 45 & 2 Zig Zags)</span><span class="artists"> - Afroman</span>
 3. ~~_<span class="title">Get By</span><span class="artists"> - Talib Kweli</span>_~~
 4. ~~_<span class="title">Wicked</span><span class="artists"> - Future</span>_~~
 

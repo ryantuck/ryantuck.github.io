@@ -7,7 +7,6 @@ import db, transform
 
 
 def _track(song):
-    # TODO - rock superstar, dance w the devil, others?
     return transform.track_str(transform.minitrack(db.song(song, db.songs_list)))
 
 # STATE =================================================================

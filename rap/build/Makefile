@@ -1,9 +1,24 @@
-outputs : bracket.txt knockout-groups.html squad-round.html all.html
+outputs : bracket.txt knockout-groups.html squad-round.html bracket-round.html all.html
 
 %.html : %.md
 	pandoc $< -f gfm --css bracket.css -s -o $@
 
-artist-counts.txt :
+
+dag.svg : dag.gv
+	dot -Tsvg -o $@ $<
+
+dag.gv : edges.gv
+	echo "digraph {" > $@
+	echo "rankdir=LR;" >> $@
+	echo "bgcolor=transparent;" >> $@
+	echo "node [fontname=\"Courier New\", shape=rectangle];" >> $@
+	cat $< >> $@
+	echo "}" >> $@
+
+edges.gv : Makefile
+	cat Makefile | grep "^[a-z]" | jq -R | python transform.py parse_make_line | jq '.[]' | jq -s | jq '.[] | "\"\(.source)\" -> \"\(.target)\";"' -r > edges.gv
+
+artist-counts.txt : tracks.jsonl
 	jq . tracks.jsonl | jq '.artists | .[]' -r | sort | uniq -c | sort -nr > $@
 
 all.md : header.md header-knockout-round.md knockout-round.md header-squad-round.md squad-round.md header-bracket-round.md bracket-round.md
