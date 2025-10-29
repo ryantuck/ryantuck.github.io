@@ -19,9 +19,10 @@ body {
 
     display:flex;
     flex-direction:column;
-    justify-content:space-between;
+    justify-content:space-around;
 
     background-color:#333;
+	font-size: 1em;
 }
 .round-1 div { padding: 10px }
 
@@ -50,3 +51,50 @@ body {
     font-size:2em;
 }
 .rankings div { padding: 30px }
+
+.round-1:hover div li .title { text-shadow: 1px 3px #000; }
+
+.round-1:hover div li:nth-child(1)  {  }
+.round-1:hover div li:nth-child(2)  {  }
+.round-1:hover div li:nth-child(3) * { color: #600; }
+.round-1:hover div li:nth-child(4) * { color: #600; }
+
+.round-1:hover div li:nth-child(1) .title { color: #ff3; }
+.round-1:hover div li:nth-child(2) .title { color: #ff9; }
+.round-1:hover div li:nth-child(3) .title { color: #f33; }
+.round-1:hover div li:nth-child(4) .title { color: #f33; }
+
+.round-1:hover div li:nth-child(1) .artists { color: #999; }
+.round-1:hover div li:nth-child(2) .artists { color: #999; }
+.round-1:hover div li:nth-child(3) .artists { color: #666; }
+.round-1:hover div li:nth-child(4) .artists { color: #666; }
+
+.round-2:hover div li .title { text-shadow:1px 3px #000; }
+
+.round-2:hover div li:nth-child(1)  {  }
+.round-2:hover div li:nth-child(2)  {  }
+.round-2:hover div li:nth-child(3) * { color: #600; }
+.round-2:hover div li:nth-child(4) * { color: #600; }
+
+.round-2:hover div li:nth-child(1) .title { color: #ff3; }
+.round-2:hover div li:nth-child(2) .title { color: #ff9; }
+.round-2:hover div li:nth-child(3) .title { color: #f33; }
+.round-2:hover div li:nth-child(4) .title { color: #f33; }
+
+.round-2:hover div li:nth-child(1) .artists { color: #999; }
+.round-2:hover div li:nth-child(2) .artists { color: #999; }
+.round-2:hover div li:nth-child(3) .artists { color: #666; }
+.round-2:hover div li:nth-child(4) .artists { color: #666; }
+
+.rankings:hover div li .title { text-shadow: 2px 3px #333; }
+
+.rankings:hover li:nth-child(1) .title { color: #ff0; }
+.rankings:hover li:nth-child(2) .title { color: #ff4; }
+.rankings:hover li:nth-child(3) .title { color: #ff8; }
+.rankings:hover li:nth-child(4) .title { color: #ffb; }
+
+.rankings:hover li:nth-child(1) .artists { color: #999; }
+.rankings:hover li:nth-child(2) .artists { color: #999; }
+.rankings:hover li:nth-child(3) .artists { color: #999; }
+.rankings:hover li:nth-child(4) .artists { color: #999; }
+
