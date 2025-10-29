@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
+
+* {
+  font-family: "Lacquer", system-ui;
+  color: white;
+}
+
+body {
+    background-color: black;
+}
+
+code {
+  white-space: pre;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.b {
+    display:flex;
+    flex-direction:column;
+    justify-content: flex-start;
+
+    height:1024vh;
+    width:12vw;
+
+    font-size: 0.9em;
+}
+
+.b div {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    border-bottom: 3px solid white;
+    padding: 5px;
+
+    cursor: crosshair;
+}
+
+.b div:hover {
+    color: #ff3;
+}
+
+.b div:hover .title { text-shadow: 3px 3px #000; }
+
+.b div:nth-child(even) {
+    border-right: 3px solid white;
+}
+
+/* bracket rounds */
+#bracket-round .b:nth-child(1)                    {   background-color: #111;     }
+#bracket-round .b:nth-child(2)                    {   background-color: #222;     }
+#bracket-round .b:nth-child(3)                    {   background-color: #333;     }
+#bracket-round .b:nth-child(4)                    {   background-color: #444;     }
+#bracket-round .b:nth-child(5)                    {   background-color: #555;     }
+#bracket-round .b:nth-child(6)                    {   background-color: #666;     }
+#bracket-round .b:nth-child(7)                    {   background-color: #555;     }
+#bracket-round .b:nth-child(8)                    {   background-color: #444;     }
+
+/* height doubles each round */
+#bracket-round .b:nth-child(1) div      {   height: 8vh; font-size: 0.8em;                }
+#bracket-round .b:nth-child(2) div      {   height: 16vh; font-size: 1.2em;               }
+#bracket-round .b:nth-child(3) div      {   height: 32vh; font-size: 1.4em;               }
+#bracket-round .b:nth-child(4) div      {   height: 64vh; font-size: 1.6em;               }
+#bracket-round .b:nth-child(5) div      {   height: 128vh; font-size: 1.8em;              }
+#bracket-round .b:nth-child(6) div      {   height: 256vh; font-size: 2em;             }
+#bracket-round .b:nth-child(7) div      {   height: 512vh; font-size: 2.2em;              }
+#bracket-round .b:nth-child(8) div      {   height: 1024vh; font-size: 2.4em;             }
+
+/* adjust to center stuff */
+#bracket-round .b:nth-child(1) div:nth-child(1)    {   height:8vh;                 }
+#bracket-round .b:nth-child(2) div:nth-child(1)    {   height:12vh;                }
+#bracket-round .b:nth-child(3) div:nth-child(1)    {   height:20vh;                }
+#bracket-round .b:nth-child(4) div:nth-child(1)    {   height:36vh;                }
+#bracket-round .b:nth-child(5) div:nth-child(1)    {   height:68vh;                }
+#bracket-round .b:nth-child(6) div:nth-child(1)    {   height:132vh;               }
+#bracket-round .b:nth-child(7) div:nth-child(1)    {   height:260vh;               }
+#bracket-round .b:nth-child(8) div:nth-child(1)    {   height:516vh;               }
+
+#bracket-round .b div:hover .title { color: #ff0; }
+#bracket-round .b div .artists { color: #999; }
+#bracket-round .b div:hover .artists { color: #999; }
+
+

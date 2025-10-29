@@ -1,0 +1,32 @@
+
+group-00 b>a c>d c>a b>d d>a b>c
+group-01 a>b d>c a>c d>b d>a b>c
+group-02 a-b d>c a>c b>d a>d b>c
+group-03 b>a c>d c>a b-d d>a c>b
+
+group-04 a>b d>c a>c d>b d>a c>b
+group-05 b>a c-d a>c b>d a>d b>c
+group-06 a>b c>d a>c b>d a>d b>c
+group-07 a>b d>c a>c d>b a>d b>c
+
+group-08 a>b c>d a>c b>d a>d b>c
+group-09 a>b d>c a>c d>b a>d b>c
+group-10 a-b d>c c>a d>b d>a b>c
+group-11 b>a d>c c>a d>b d>a b>c
+
+group-12 b>a d>c a-c b-d d>a b>c
+group-13 b>a c>d c>a b-d d>a c>b
+group-14 a>b d>c a>c d>b d>a b>c
+group-15 a>b d>c a-c d>b a-d c>b
+
+group-16 a>b d>c a>c b>d a>d b>c
+group-17 b>a c>d a>c b>d a>d b>c
+group-18 a>b c>d a>c d>b a>d c>b
+group-19 a>b d>c a>c d>b d>a c>b
+group-20 a>b d>c a>c b>d a>d b>c
+group-21 a>b c>d a>c d>b a>d c>b
+
+group-22 a>b d>c a>c d>b d>a c>b
+group-23 a>b d>c a>c b>d a>d b>c
+group-24 b>a d>c c>a b>d d>a b>c
+group-25 a>b c>d a>c b>d a>d c>b

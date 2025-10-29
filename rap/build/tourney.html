@@ -1,0 +1,267 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>8-Team Tournament Bracket</title>
+    <!-- D3.js library -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 90vh; /* Ensure it takes most of the viewport height */
+        }
+        h1 {
+            color: #0056b3;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        .bracket-container {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+            overflow-x: auto; /* Allow horizontal scrolling if bracket is too wide */
+            display: flex;
+            justify-content: center; /* Center the SVG within its container */
+            align-items: center;
+            width: 95%; /* Responsive width */
+            max-width: 1200px; /* Max width for larger screens */
+        }
+        .bracket-svg {
+            display: block; /* Remove extra space below SVG */
+            margin: auto; /* Center SVG if container is wider */
+        }
+        .team-name {
+            font-size: 14px;
+            fill: #333;
+            font-weight: bold;
+        }
+        .match-line {
+            stroke: #666;
+            stroke-width: 2px;
+            fill: none;
+        }
+        .winner-line {
+            stroke: #007bff;
+            stroke-width: 3px;
+            fill: none;
+        }
+        .placeholder-text {
+            font-size: 12px;
+            fill: #888;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>8-Team Tournament Bracket</h1>
+
+    <div class="bracket-container">
+        <!-- The D3.js generated SVG bracket will be inserted here -->
+    </div>
+
+    <script>
+        // Define the teams for the tournament
+        const teams = [
+            "Team Alpha", "Team Bravo", "Team Charlie", "Team Delta",
+            "Team Echo", "Team Foxtrot", "Team Golf", "Team Hotel"
+        ];
+
+        // Structure for an 8-team single-elimination bracket
+        // Each object represents a match or a placeholder for a future match
+        // 'teams' array holds the two teams participating in the match
+        // 'winner' can be set later to indicate the winner
+        const bracketData = [
+            // Round 1 (Quarterfinals) - 4 matches
+            { id: 'R1M1', round: 1, teams: [teams[0], teams[7]], winner: null },
+            { id: 'R1M2', round: 1, teams: [teams[3], teams[4]], winner: null },
+            { id: 'R1M3', round: 1, teams: [teams[1], teams[6]], winner: null },
+            { id: 'R1M4', round: 1, teams: [teams[2], teams[5]], winner: null },
+
+            // Round 2 (Semifinals) - 2 matches
+            // Teams will be determined by winners of Round 1
+            { id: 'R2M1', round: 2, teams: ['Winner R1M1', 'Winner R1M2'], winner: null },
+            { id: 'R2M2', round: 2, teams: ['Winner R1M3', 'Winner R1M4'], winner: null },
+
+            // Round 3 (Finals) - 1 match
+            // Teams will be determined by winners of Round 2
+            { id: 'R3M1', round: 3, teams: ['Winner R2M1', 'Winner R2M2'], winner: null }
+        ];
+
+        // SVG dimensions
+        const width = 800; // Increased width for better spacing
+        const height = 400; // Increased height for better spacing
+        const teamHeight = 40; // Height allocated per team slot
+        const roundWidth = 180; // Width allocated per round
+
+        // Select the container and append the SVG
+        const svg = d3.select(".bracket-container")
+            .append("svg")
+            .attr("width", width)
+            .attr("height", height)
+            .attr("class", "bracket-svg");
+
+        // Function to get Y position for a match based on its round and index
+        function getYPosition(match, indexInRound) {
+            // Calculate base Y position for the round
+            let baseY = height / 2;
+            if (match.round === 1) {
+                // For round 1, spread teams evenly across the height
+                return (indexInRound * (height / 4)) + (height / 8); // Adjust to center within its quarter
+            } else if (match.round === 2) {
+                // For round 2, position them between the corresponding R1 matches
+                return (indexInRound * (height / 2)) + (height / 4);
+            } else if (match.round === 3) {
+                // For the final, center it vertically
+                return height / 2;
+            }
+            return 0; // Default
+        }
+
+        // Function to draw a match
+        function drawMatch(match, indexInRound) {
+            const x = (match.round - 1) * roundWidth + 20; // X position for the start of the match
+            const y = getYPosition(match, indexInRound);
+
+            // Group for each match to keep elements together
+            const matchGroup = svg.append("g")
+                .attr("transform", `translate(${x}, ${y})`);
+
+            // Draw team 1 name
+            matchGroup.append("text")
+                .attr("class", "team-name")
+                .attr("x", 0)
+                .attr("y", -teamHeight / 4) // Position above the center line for team 1
+                .text(match.teams[0]);
+
+            // Draw team 2 name
+            matchGroup.append("text")
+                .attr("class", "team-name")
+                .attr("x", 0)
+                .attr("y", teamHeight / 4) // Position below the center line for team 2
+                .text(match.teams[1]);
+
+            // Draw horizontal line connecting teams to the first vertical line
+            matchGroup.append("line")
+                .attr("class", "match-line")
+                .attr("x1", -10) // Start slightly before the text
+                .attr("y1", -teamHeight / 4)
+                .attr("x2", 10)
+                .attr("y2", -teamHeight / 4);
+
+            matchGroup.append("line")
+                .attr("class", "match-line")
+                .attr("x1", -10)
+                .attr("y1", teamHeight / 4)
+                .attr("x2", 10)
+                .attr("y2", teamHeight / 4);
+
+            // Draw vertical line connecting two teams in a match
+            matchGroup.append("line")
+                .attr("class", "match-line")
+                .attr("x1", 10)
+                .attr("y1", -teamHeight / 4)
+                .attr("x2", 10)
+                .attr("y2", teamHeight / 4);
+
+            // Draw horizontal line extending from the vertical line to the next round
+            matchGroup.append("line")
+                .attr("class", "match-line")
+                .attr("x1", 10)
+                .attr("y1", 0)
+                .attr("x2", roundWidth - 20) // Extend to the next round's start
+                .attr("y2", 0);
+
+            // If it's not the final match, draw the line connecting to the next match
+            if (match.round < 3) {
+                // Calculate the Y position for the next round's match
+                let nextMatchY;
+                if (match.round === 1) {
+                    // For R1, the winner goes to a match that's halfway between the two R1 matches
+                    nextMatchY = (y + getYPosition(bracketData[match.id === 'R1M1' ? 1 : (match.id === 'R1M2' ? 0 : (match.id === 'R1M3' ? 3 : 2))], match.id === 'R1M1' ? 1 : (match.id === 'R1M2' ? 0 : (match.id === 'R1M3' ? 3 : 2)))) / 2;
+                    // This logic is a bit tricky for precise vertical alignment.
+                    // A simpler approach is to derive the next Y based on the target match's Y.
+                    if (match.id === 'R1M1') nextMatchY = getYPosition(bracketData[4], 0); // Winner of R1M1 & R1M2 goes to R2M1 (index 4)
+                    if (match.id === 'R1M2') nextMatchY = getYPosition(bracketData[4], 0);
+                    if (match.id === 'R1M3') nextMatchY = getYPosition(bracketData[5], 0); // Winner of R1M3 & R1M4 goes to R2M2 (index 5)
+                    if (match.id === 'R1M4') nextMatchY = getYPosition(bracketData[5], 0);
+                } else if (match.round === 2) {
+                    // For R2, the winner goes to the single final match
+                    nextMatchY = getYPosition(bracketData[6], 0); // Winner of R2M1 & R2M2 goes to R3M1 (index 6)
+                }
+
+                // Draw vertical line from the current match's winner line to the next round's match line
+                if (nextMatchY !== undefined) {
+                    svg.append("line")
+                        .attr("class", "match-line")
+                        .attr("x1", x + roundWidth - 20)
+                        .attr("y1", y)
+                        .attr("x2", x + roundWidth - 20)
+                        .attr("y2", nextMatchY)
+                        .lower(); // Send to back so it doesn't overlap text
+                }
+            }
+        }
+
+        // Draw each match
+        bracketData.forEach((match, index) => {
+            drawMatch(match, index);
+        });
+
+        // Add round labels
+        svg.append("text")
+            .attr("x", 50)
+            .attr("y", 30)
+            .attr("class", "placeholder-text")
+            .text("Round 1 (Quarterfinals)");
+
+        svg.append("text")
+            .attr("x", 50 + roundWidth)
+            .attr("y", 30)
+            .attr("class", "placeholder-text")
+            .text("Round 2 (Semifinals)");
+
+        svg.append("text")
+            .attr("x", 50 + (roundWidth * 2))
+            .attr("y", 30)
+            .attr("class", "placeholder-text")
+            .text("Final");
+
+        // Add a placeholder for the tournament winner
+        svg.append("text")
+            .attr("x", width - 100)
+            .attr("y", height / 2)
+            .attr("class", "team-name")
+            .text("Tournament Winner");
+
+        svg.append("rect")
+            .attr("x", width - 110)
+            .attr("y", height / 2 + 10)
+            .attr("width", 100)
+            .attr("height", 25)
+            .attr("fill", "#e9ecef")
+            .attr("stroke", "#ccc")
+            .attr("rx", 5)
+            .attr("ry", 5);
+
+        svg.append("text")
+            .attr("x", width - 60)
+            .attr("y", height / 2 + 28)
+            .attr("text-anchor", "middle")
+            .attr("class", "placeholder-text")
+            .text("TBD");
+
+    </script>
+
+</body>
+</html>
