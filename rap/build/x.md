@@ -5,14 +5,10 @@
     }
 </style>
 
-<div id="header" style="position:fixed; width: 30vh; height:100vh;top:0vh;left:79vw;display:flex;justify-content:flex-end;flex-direction:column;flex-wrap:nowrap;align-items:flex-end">
-
-<div style="width:35vw;height:15vh;display:flex;justify-content:flex-end;align-items:center">
+<div id="player" style="position:fixed; width: 30vh; height:15vh;top:80vh;left:69vw;display:flex;justify-content:flex-end;flex-direction:column;flex-wrap:nowrap;align-items:flex-end">
 
 <div style="width:20vw;height: 10vh;text-align:right">
     <iframe data-testid="embed-iframe" id="player" src="https://open.spotify.com/embed/track/3zXGMmgIygV00eFxyqmbeO" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
-
 </div>
 
 </div>
@@ -210,7 +206,7 @@
 <div>Tha Mobb</div>
 <div>My N****</div>
 <div>Play</div>
-<div>Lay Low</div>
+<div>Lay Low  <span style="color:#999">- Snoop Dogg, Master P, Nate Dogg, Butch Cassidy, Tha Eastsidaz</span></div>
 <div>C-Walk</div>
 <div>Colombia Heights</div>
 <div>I'm On One</div>

@@ -6,37 +6,37 @@
 
 <div>
 
-1. Drake - Furthest Thing
-2. Lil' Troy - Wanna Be A Baller
-3. ~~_Lil Jon - Snap Yo Fingers_~~
-4. ~~_Baby E - Finessin_~~
+1. <span class="title">Furthest Thing</span><span class="artists"> - Drake</span>
+2. <span class="title">Wanna Be A Baller</span><span class="artists"> - Lil' Troy</span>
+3. ~~_<span class="title">Snap Yo Fingers</span><span class="artists"> - Lil Jon, E-40, Sean Paul</span>_~~
+4. ~~_<span class="title">Finessin</span><span class="artists"> - Baby E</span>_~~
 
 </div>
 
 <div>
 
-1. Ja Rule - New York
-2. Junior M.A.F.I.A. - Player's Anthem
-3. ~~_Travis Scott - Oh My Dis Side (feat. Quavo)_~~
-4. ~~_2 Chainz - 4 AM_~~
+1. <span class="title">New York</span><span class="artists"> - Ja Rule, Fat Joe, Jadakiss</span>
+2. <span class="title">Player's Anthem</span><span class="artists"> - Junior M.A.F.I.A.</span>
+3. ~~_<span class="title">Oh My Dis Side</span><span class="artists"> - Travis Scott, Quavo</span>_~~
+4. ~~_<span class="title">4 AM</span><span class="artists"> - 2 Chainz, Travis Scott</span>_~~
 
 </div>
 
 <div>
 
-1. City Girls - Act Up
-2. Ludacris - My Chick Bad
-3. ~~_Drake - Started From the Bottom_~~
-4. ~~_Drake - Wu-Tang Forever_~~
+1. <span class="title">Act Up</span><span class="artists"> - City Girls</span>
+2. <span class="title">My Chick Bad</span><span class="artists"> - Ludacris, Nicki Minaj</span>
+3. ~~_<span class="title">Started From the Bottom</span><span class="artists"> - Drake</span>_~~
+4. ~~_<span class="title">Wu-Tang Forever</span><span class="artists"> - Drake</span>_~~
 
 </div>
 
 <div>
 
-1. Eminem - Soldier
-2. Eazy-E - Boyz-N-The-Hood
-3. ~~_Rich The Kid - Plug Walk_~~
-4. ~~_Murphy Lee - Wat Da Hook Gon Be_~~
+1. <span class="title">Soldier</span><span class="artists"> - Eminem</span>
+2. <span class="title">Boyz-N-The-Hood</span><span class="artists"> - Eazy-E</span>
+3. ~~_<span class="title">Plug Walk</span><span class="artists"> - Rich The Kid</span>_~~
+4. ~~_<span class="title">Wat Da Hook Gon Be</span><span class="artists"> - Murphy Lee, Jermaine Dupri</span>_~~
 
 </div>
 
@@ -46,19 +46,19 @@
 
 <div>
 
-1. Eazy-E - Boyz-N-The-Hood
-2. Drake - Furthest Thing
-3. ~~_City Girls - Act Up_~~
-4. ~~_Junior M.A.F.I.A. - Player's Anthem_~~
+1. <span class="title">Boyz-N-The-Hood</span><span class="artists"> - Eazy-E</span>
+2. <span class="title">Furthest Thing</span><span class="artists"> - Drake</span>
+3. ~~_<span class="title">Act Up</span><span class="artists"> - City Girls</span>_~~
+4. ~~_<span class="title">Player's Anthem</span><span class="artists"> - Junior M.A.F.I.A.</span>_~~
 
 </div>
 
 <div>
 
-1. Eminem - Soldier
-2. Ja Rule - New York
-3. ~~_Lil' Troy - Wanna Be A Baller_~~
-4. ~~_Ludacris - My Chick Bad_~~
+1. <span class="title">Soldier</span><span class="artists"> - Eminem</span>
+2. <span class="title">New York</span><span class="artists"> - Ja Rule, Fat Joe, Jadakiss</span>
+3. ~~_<span class="title">Wanna Be A Baller</span><span class="artists"> - Lil' Troy</span>_~~
+4. ~~_<span class="title">My Chick Bad</span><span class="artists"> - Ludacris, Nicki Minaj</span>_~~
 
 </div>
 
@@ -68,10 +68,10 @@
 
 <div>
 
-1. Eminem - Soldier
-2. Eazy-E - Boyz-N-The-Hood
-3. Ja Rule - New York
-4. Drake - Furthest Thing
+1. <span class="title">Soldier</span><span class="artists"> - Eminem</span>
+2. <span class="title">Boyz-N-The-Hood</span><span class="artists"> - Eazy-E</span>
+3. <span class="title">New York</span><span class="artists"> - Ja Rule, Fat Joe, Jadakiss</span>
+4. <span class="title">Furthest Thing</span><span class="artists"> - Drake</span>
 
 </div>
 
@@ -88,37 +88,37 @@
 
 <div>
 
-1. Nas - N.Y. State of Mind
-2. Bhad Bhabie - Yung and Bhad (feat. City Girls)
-3. ~~_Big L - Put It On_~~
-4. ~~_Jeezy - Put On_~~
+1. <span class="title">N.Y. State of Mind</span><span class="artists"> - Nas</span>
+2. <span class="title">Yung and Bhad</span><span class="artists"> - Bhad Bhabie, City Girls</span>
+3. ~~_<span class="title">Put It On</span><span class="artists"> - Big L</span>_~~
+4. ~~_<span class="title">Put On</span><span class="artists"> - Jeezy, Kanye West</span>_~~
 
 </div>
 
 <div>
 
-1. Cardi B - Bartier Cardi (feat. 21 Savage)
-2. Dr. Dre - Let Me Ride
-3. ~~_Drake - Headlines_~~
-4. ~~_JAY-Z - I Just Wanna Love U (Give It 2 Me)_~~
+1. <span class="title">Bartier Cardi</span><span class="artists"> - Cardi B, 21 Savage</span>
+2. <span class="title">Let Me Ride</span><span class="artists"> - Dr. Dre, Snoop Dogg, RBX, Jewell</span>
+3. ~~_<span class="title">Headlines</span><span class="artists"> - Drake</span>_~~
+4. ~~_<span class="title">I Just Wanna Love U</span><span class="artists"> - JAY-Z</span>_~~
 
 </div>
 
 <div>
 
-1. Jadakiss - Knock Yourself Out
-2. Westside Connection - Gangsta Nation
-3. ~~_The Notorious B.I.G. - Things Done Changed - 2005 Remaster_~~
-4. ~~_Drake - Pound Cake / Paris Morton Music 2_~~
+1. <span class="title">Knock Yourself Out</span><span class="artists"> - Jadakiss, Pharrell Williams</span>
+2. <span class="title">Gangsta Nation</span><span class="artists"> - Westside Connection</span>
+3. ~~_<span class="title">Things Done Changed</span><span class="artists"> - The Notorious B.I.G.</span>_~~
+4. ~~_<span class="title">Pound Cake / Paris Morton Music 2</span><span class="artists"> - Drake, JAY-Z</span>_~~
 
 </div>
 
 <div>
 
-1. Jadakiss - What If
-2. Ludacris - What's Your Fantasy (Featuring Shawna)
-3. ~~_Big L - Holdin' It Down_~~
-4. ~~_Jermaine Dupri - Money Ain't a Thang (feat. JAY-Z)_~~
+1. <span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span>
+2. <span class="title">What's Your Fantasy</span><span class="artists"> - Ludacris, Shawnna</span>
+3. ~~_<span class="title">Holdin' It Down</span><span class="artists"> - Big L, Stan Spit, AG, Miss Jones</span>_~~
+4. ~~_<span class="title">Money Ain't a Thang</span><span class="artists"> - Jermaine Dupri, JAY-Z</span>_~~
 
 </div>
 
@@ -128,19 +128,19 @@
 
 <div>
 
-1. Nas - N.Y. State of Mind
-2. Ludacris - What's Your Fantasy (Featuring Shawna)
-3. ~~_Jadakiss - Knock Yourself Out_~~
-4. ~~_Dr. Dre - Let Me Ride_~~
+1. <span class="title">N.Y. State of Mind</span><span class="artists"> - Nas</span>
+2. <span class="title">What's Your Fantasy</span><span class="artists"> - Ludacris, Shawnna</span>
+3. ~~_<span class="title">Knock Yourself Out</span><span class="artists"> - Jadakiss, Pharrell Williams</span>_~~
+4. ~~_<span class="title">Let Me Ride</span><span class="artists"> - Dr. Dre, Snoop Dogg, RBX, Jewell</span>_~~
 
 </div>
 
 <div>
 
-1. Jadakiss - What If
-2. Bhad Bhabie - Yung and Bhad (feat. City Girls)
-3. ~~_Westside Connection - Gangsta Nation_~~
-4. ~~_Cardi B - Bartier Cardi (feat. 21 Savage)_~~
+1. <span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span>
+2. <span class="title">Yung and Bhad</span><span class="artists"> - Bhad Bhabie, City Girls</span>
+3. ~~_<span class="title">Gangsta Nation</span><span class="artists"> - Westside Connection</span>_~~
+4. ~~_<span class="title">Bartier Cardi</span><span class="artists"> - Cardi B, 21 Savage</span>_~~
 
 </div>
 
@@ -150,10 +150,10 @@
 
 <div>
 
-1. Jadakiss - What If
-2. Nas - N.Y. State of Mind
-3. Bhad Bhabie - Yung and Bhad (feat. City Girls)
-4. Ludacris - What's Your Fantasy (Featuring Shawna)
+1. <span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span>
+2. <span class="title">N.Y. State of Mind</span><span class="artists"> - Nas</span>
+3. <span class="title">Yung and Bhad</span><span class="artists"> - Bhad Bhabie, City Girls</span>
+4. <span class="title">What's Your Fantasy</span><span class="artists"> - Ludacris, Shawnna</span>
 
 </div>
 
@@ -170,37 +170,37 @@
 
 <div>
 
-1. Eminem - White America
-2. Big L - Flamboyant
-3. ~~_21 Savage - X (feat. Future)_~~
-4. ~~_Migos - Highway 85_~~
+1. <span class="title">White America</span><span class="artists"> - Eminem</span>
+2. <span class="title">Flamboyant</span><span class="artists"> - Big L</span>
+3. ~~_<span class="title">X</span><span class="artists"> - 21 Savage, Metro Boomin, Future</span>_~~
+4. ~~_<span class="title">Highway 85</span><span class="artists"> - Migos</span>_~~
 
 </div>
 
 <div>
 
-1. Drake - Shot For Me
-2. Drake - 0 To 100 / The Catch Up
-3. ~~_2 Chainz - 100 Joints_~~
-4. ~~_Travis Scott - TOPIA TWINS (feat. Rob49 & 21 Savage)_~~
+1. <span class="title">Shot For Me</span><span class="artists"> - Drake</span>
+2. <span class="title">0 To 100 / The Catch Up</span><span class="artists"> - Drake</span>
+3. ~~_<span class="title">100 Joints</span><span class="artists"> - 2 Chainz</span>_~~
+4. ~~_<span class="title">TOPIA TWINS</span><span class="artists"> - Travis Scott, Rob49, 21 Savage</span>_~~
 
 </div>
 
 <div>
 
-1. Big Tymers - #1 Stunna
-2. Gucci Mane - Met Gala (feat. Offset)
-3. ~~_Lil Wayne - Fireman_~~
-4. ~~_Future - Seven Rings_~~
+1. <span class="title">#1 Stunna</span><span class="artists"> - Big Tymers, JUVENILE, Lil Wayne</span>
+2. <span class="title">Met Gala</span><span class="artists"> - Gucci Mane, Offset</span>
+3. ~~_<span class="title">Fireman</span><span class="artists"> - Lil Wayne</span>_~~
+4. ~~_<span class="title">Seven Rings</span><span class="artists"> - Future</span>_~~
 
 </div>
 
 <div>
 
-1. Drake - Marvins Room
-2. Iggy Azalea - Started
-3. ~~_Bhad Bhabie - Gucci Flip Flops (feat. Lil Yachty)_~~
-4. ~~_Gucci Mane - Curve (feat. The Weeknd)_~~
+1. <span class="title">Marvins Room</span><span class="artists"> - Drake</span>
+2. <span class="title">Started</span><span class="artists"> - Iggy Azalea</span>
+3. ~~_<span class="title">Gucci Flip Flops</span><span class="artists"> - Bhad Bhabie, Lil Yachty</span>_~~
+4. ~~_<span class="title">Curve</span><span class="artists"> - Gucci Mane, The Weeknd</span>_~~
 
 </div>
 
@@ -210,19 +210,19 @@
 
 <div>
 
-1. Eminem - White America
-2. Big Tymers - #1 Stunna
-3. ~~_Iggy Azalea - Started_~~
-4. ~~_Drake - 0 To 100 / The Catch Up_~~
+1. <span class="title">White America</span><span class="artists"> - Eminem</span>
+2. <span class="title">#1 Stunna</span><span class="artists"> - Big Tymers, JUVENILE, Lil Wayne</span>
+3. ~~_<span class="title">Started</span><span class="artists"> - Iggy Azalea</span>_~~
+4. ~~_<span class="title">0 To 100 / The Catch Up</span><span class="artists"> - Drake</span>_~~
 
 </div>
 
 <div>
 
-1. Drake - Marvins Room
-2. Drake - Shot For Me
-3. ~~_Big L - Flamboyant_~~
-4. ~~_Gucci Mane - Met Gala (feat. Offset)_~~
+1. <span class="title">Marvins Room</span><span class="artists"> - Drake</span>
+2. <span class="title">Shot For Me</span><span class="artists"> - Drake</span>
+3. ~~_<span class="title">Flamboyant</span><span class="artists"> - Big L</span>_~~
+4. ~~_<span class="title">Met Gala</span><span class="artists"> - Gucci Mane, Offset</span>_~~
 
 </div>
 
@@ -232,10 +232,10 @@
 
 <div>
 
-1. Eminem - White America
-2. Drake - Marvins Room
-3. Drake - Shot For Me
-4. Big Tymers - #1 Stunna
+1. <span class="title">White America</span><span class="artists"> - Eminem</span>
+2. <span class="title">Marvins Room</span><span class="artists"> - Drake</span>
+3. <span class="title">Shot For Me</span><span class="artists"> - Drake</span>
+4. <span class="title">#1 Stunna</span><span class="artists"> - Big Tymers, JUVENILE, Lil Wayne</span>
 
 </div>
 
@@ -252,37 +252,37 @@
 
 <div>
 
-1. Eminem - Guilty Conscience
-2. Kurupt - Space Boogie
-3. ~~_Drake - Make Me Proud_~~
-4. ~~_50 Cent - Don't Worry 'Bout It_~~
+1. <span class="title">Guilty Conscience</span><span class="artists"> - Eminem, Dr. Dre</span>
+2. <span class="title">Space Boogie</span><span class="artists"> - Kurupt, The Velvet Orchestra, Fredwreck Nassar, Nate Dogg</span>
+3. ~~_<span class="title">Make Me Proud</span><span class="artists"> - Drake, Nicki Minaj</span>_~~
+4. ~~_<span class="title">Don't Worry 'Bout It</span><span class="artists"> - 50 Cent, Yo Gotti</span>_~~
 
 </div>
 
 <div>
 
-1. DJ Clue - Ruff Ryders Anthem
-2. MadeinTYO - Skateboard P (feat. Big Sean)
-3. ~~_A$AP Ferg - Psycho_~~
-4. ~~_Rick Ross - I'm Not A Star_~~
+1. <span class="title">Ruff Ryders Anthem</span><span class="artists"> - DJ Clue, DMX, Jadakiss, Styles, Eve, Drag-On</span>
+2. <span class="title">Skateboard P</span><span class="artists"> - MadeinTYO, Big Sean</span>
+3. ~~_<span class="title">Psycho</span><span class="artists"> - A$AP Ferg</span>_~~
+4. ~~_<span class="title">I'm Not A Star</span><span class="artists"> - Rick Ross</span>_~~
 
 </div>
 
 <div>
 
-1. 21 Savage - Steppin On N****s
-2. 2 Chainz - Gotta Lotta
-3. ~~_Juicy J - Wax_~~
-4. ~~_Mike WiLL Made-It - Aries (YuGo) Part 2 (with Rae Sremmurd & Big Sean feat. Quavo & Pharrell)_~~
+1. <span class="title">Steppin On N****s</span><span class="artists"> - 21 Savage, Metro Boomin</span>
+2. <span class="title">Gotta Lotta</span><span class="artists"> - 2 Chainz, Lil Wayne</span>
+3. ~~_<span class="title">Wax</span><span class="artists"> - Juicy J</span>_~~
+4. ~~_<span class="title">Aries</span><span class="artists"> - Mike WiLL Made-It, Rae Sremmurd, Big Sean, Quavo, Pharrell Williams</span>_~~
 
 </div>
 
 <div>
 
-1. 2Pac - Dear Mama
-2. Geto Boys - Damn It Feels Good to Be a Gangsta
-3. ~~_Drake - Toosie Slide_~~
-4. ~~_Migos - Brown Paper Bag_~~
+1. <span class="title">Dear Mama</span><span class="artists"> - 2Pac</span>
+2. <span class="title">Damn It Feels Good to Be a Gangsta</span><span class="artists"> - Geto Boys</span>
+3. ~~_<span class="title">Toosie Slide</span><span class="artists"> - Drake</span>_~~
+4. ~~_<span class="title">Brown Paper Bag</span><span class="artists"> - Migos</span>_~~
 
 </div>
 
@@ -292,19 +292,19 @@
 
 <div>
 
-1. Geto Boys - Damn It Feels Good to Be a Gangsta
-2. Eminem - Guilty Conscience
-3. ~~_21 Savage - Steppin On N****s_~~
-4. ~~_MadeinTYO - Skateboard P (feat. Big Sean)_~~
+1. <span class="title">Damn It Feels Good to Be a Gangsta</span><span class="artists"> - Geto Boys</span>
+2. <span class="title">Guilty Conscience</span><span class="artists"> - Eminem, Dr. Dre</span>
+3. ~~_<span class="title">Steppin On N****s</span><span class="artists"> - 21 Savage, Metro Boomin</span>_~~
+4. ~~_<span class="title">Skateboard P</span><span class="artists"> - MadeinTYO, Big Sean</span>_~~
 
 </div>
 
 <div>
 
-1. DJ Clue - Ruff Ryders Anthem
-2. 2Pac - Dear Mama
-3. ~~_Kurupt - Space Boogie_~~
-4. ~~_2 Chainz - Gotta Lotta_~~
+1. <span class="title">Ruff Ryders Anthem</span><span class="artists"> - DJ Clue, DMX, Jadakiss, Styles, Eve, Drag-On</span>
+2. <span class="title">Dear Mama</span><span class="artists"> - 2Pac</span>
+3. ~~_<span class="title">Space Boogie</span><span class="artists"> - Kurupt, The Velvet Orchestra, Fredwreck Nassar, Nate Dogg</span>_~~
+4. ~~_<span class="title">Gotta Lotta</span><span class="artists"> - 2 Chainz, Lil Wayne</span>_~~
 
 </div>
 
@@ -314,10 +314,10 @@
 
 <div>
 
-1. DJ Clue - Ruff Ryders Anthem
-2. Geto Boys - Damn It Feels Good to Be a Gangsta
-3. 2Pac - Dear Mama
-4. Eminem - Guilty Conscience
+1. <span class="title">Ruff Ryders Anthem</span><span class="artists"> - DJ Clue, DMX, Jadakiss, Styles, Eve, Drag-On</span>
+2. <span class="title">Damn It Feels Good to Be a Gangsta</span><span class="artists"> - Geto Boys</span>
+3. <span class="title">Dear Mama</span><span class="artists"> - 2Pac</span>
+4. <span class="title">Guilty Conscience</span><span class="artists"> - Eminem, Dr. Dre</span>
 
 </div>
 
@@ -334,37 +334,37 @@
 
 <div>
 
-1. Mos Def - Oh No
-2. 50 Cent - High All The Time
-3. ~~_A$AP Ferg - Plain Jane_~~
-4. ~~_Jay Electronica - The Blinding feat. Travis Scott_~~
+1. <span class="title">Oh No</span><span class="artists"> - Mos Def, Pharoahe Monch, Nate Dogg</span>
+2. <span class="title">High All The Time</span><span class="artists"> - 50 Cent</span>
+3. ~~_<span class="title">Plain Jane</span><span class="artists"> - A$AP Ferg</span>_~~
+4. ~~_<span class="title">The Blinding</span><span class="artists"> - Jay Electronica, Travis Scott</span>_~~
 
 </div>
 
 <div>
 
-1. Eminem - The Way I Am
-2. The Notorious B.I.G. - Ten Crack Commandments - 2014 Remaster
-3. ~~_50 Cent - P.I.M.P._~~
-4. ~~_50 Cent - Hate It Or Love It - G-Unit Remix_~~
+1. <span class="title">The Way I Am</span><span class="artists"> - Eminem</span>
+2. <span class="title">Ten Crack Commandments</span><span class="artists"> - The Notorious B.I.G.</span>
+3. ~~_<span class="title">P.I.M.P.</span><span class="artists"> - 50 Cent</span>_~~
+4. ~~_<span class="title">Hate It Or Love It</span><span class="artists"> - 50 Cent, The Game, Tony Yayo, Young Buck, Lloyd Banks</span>_~~
 
 </div>
 
 <div>
 
-1. 2Pac - Only God Can Judge Me (ft. Rappin' 4-Tay)
-2. Die Antwoord - Fatty Boom Boom
-3. ~~_Lil Wayne - Believe Me_~~
-4. ~~_Lil Wayne - Trippy_~~
+1. <span class="title">Only God Can Judge Me</span><span class="artists"> - 2Pac, Rappin' 4-Tay</span>
+2. <span class="title">Fatty Boom Boom</span><span class="artists"> - Die Antwoord</span>
+3. ~~_<span class="title">Believe Me</span><span class="artists"> - Lil Wayne, Drake</span>_~~
+4. ~~_<span class="title">Trippy</span><span class="artists"> - Lil Wayne, Juicy J</span>_~~
 
 </div>
 
 <div>
 
-1. Eminem - My Name Is
-2. Megan Thee Stallion - Girls in the Hood
-3. ~~_Drake - Tuscan Leather_~~
-4. ~~_The Notorious B.I.G. - Big Poppa - 2005 Remaster_~~
+1. <span class="title">My Name Is</span><span class="artists"> - Eminem</span>
+2. <span class="title">Girls in the Hood</span><span class="artists"> - Megan Thee Stallion</span>
+3. ~~_<span class="title">Tuscan Leather</span><span class="artists"> - Drake</span>_~~
+4. ~~_<span class="title">Big Poppa</span><span class="artists"> - The Notorious B.I.G.</span>_~~
 
 </div>
 
@@ -374,19 +374,19 @@
 
 <div>
 
-1. Mos Def - Oh No
-2. The Notorious B.I.G. - Ten Crack Commandments - 2014 Remaster
-3. ~~_Megan Thee Stallion - Girls in the Hood_~~
-4. ~~_2Pac - Only God Can Judge Me (ft. Rappin' 4-Tay)_~~
+1. <span class="title">Oh No</span><span class="artists"> - Mos Def, Pharoahe Monch, Nate Dogg</span>
+2. <span class="title">Ten Crack Commandments</span><span class="artists"> - The Notorious B.I.G.</span>
+3. ~~_<span class="title">Girls in the Hood</span><span class="artists"> - Megan Thee Stallion</span>_~~
+4. ~~_<span class="title">Only God Can Judge Me</span><span class="artists"> - 2Pac, Rappin' 4-Tay</span>_~~
 
 </div>
 
 <div>
 
-1. Eminem - The Way I Am
-2. Eminem - My Name Is
-3. ~~_50 Cent - High All The Time_~~
-4. ~~_Die Antwoord - Fatty Boom Boom_~~
+1. <span class="title">The Way I Am</span><span class="artists"> - Eminem</span>
+2. <span class="title">My Name Is</span><span class="artists"> - Eminem</span>
+3. ~~_<span class="title">High All The Time</span><span class="artists"> - 50 Cent</span>_~~
+4. ~~_<span class="title">Fatty Boom Boom</span><span class="artists"> - Die Antwoord</span>_~~
 
 </div>
 
@@ -396,10 +396,10 @@
 
 <div>
 
-1. Eminem - The Way I Am
-2. Mos Def - Oh No
-3. Eminem - My Name Is
-4. The Notorious B.I.G. - Ten Crack Commandments - 2014 Remaster
+1. <span class="title">The Way I Am</span><span class="artists"> - Eminem</span>
+2. <span class="title">Oh No</span><span class="artists"> - Mos Def, Pharoahe Monch, Nate Dogg</span>
+3. <span class="title">My Name Is</span><span class="artists"> - Eminem</span>
+4. <span class="title">Ten Crack Commandments</span><span class="artists"> - The Notorious B.I.G.</span>
 
 </div>
 
@@ -416,37 +416,37 @@
 
 <div>
 
-1. Coolio - Gangsta's Paradise
-2. Lil Wayne - Hustler Musik
-3. ~~_Drake - Passionfruit_~~
-4. ~~_21 Savage - No Heart_~~
+1. <span class="title">Gangsta's Paradise</span><span class="artists"> - Coolio, L.V.</span>
+2. <span class="title">Hustler Musik</span><span class="artists"> - Lil Wayne</span>
+3. ~~_<span class="title">Passionfruit</span><span class="artists"> - Drake</span>_~~
+4. ~~_<span class="title">No Heart</span><span class="artists"> - 21 Savage, Metro Boomin</span>_~~
 
 </div>
 
 <div>
 
-1. Jermaine Dupri - Welcome To Atlanta Remix
-2. Eminem - Role Model
-3. ~~_Nelly - Ride Wit Me_~~
-4. ~~_Migos - Versace (Remix)_~~
+1. <span class="title">Welcome To Atlanta Remix</span><span class="artists"> - Jermaine Dupri, Diddy, Snoop Dogg, Murphy Lee</span>
+2. <span class="title">Role Model</span><span class="artists"> - Eminem</span>
+3. ~~_<span class="title">Ride Wit Me</span><span class="artists"> - Nelly, City Spud</span>_~~
+4. ~~_<span class="title">Versace</span><span class="artists"> - Migos, Drake</span>_~~
 
 </div>
 
 <div>
 
-1. Ice Cube - Go To Church
-2. Jeremih - Down On Me
-3. ~~_Kurupt - It's Over_~~
-4. ~~_Gucci Mane - Kept Back (feat. Lil Pump) - Bonus Track Version_~~
+1. <span class="title">Go To Church</span><span class="artists"> - Ice Cube, Lil Jon, Snoop Dogg</span>
+2. <span class="title">Down On Me</span><span class="artists"> - Jeremih, 50 Cent</span>
+3. ~~_<span class="title">It's Over</span><span class="artists"> - Kurupt, Anita McCloud, Natina Reed</span>_~~
+4. ~~_<span class="title">Kept Back</span><span class="artists"> - Gucci Mane, Lil Pump</span>_~~
 
 </div>
 
 <div>
 
-1. Future - Maybach
-2. Kurupt - On, Onsite
-3. ~~_Jedi Mind Tricks - Put em in the Grave_~~
-4. ~~_Future - Ain't No Time_~~
+1. <span class="title">Maybach</span><span class="artists"> - Future</span>
+2. <span class="title">On, Onsite</span><span class="artists"> - Kurupt, Sean Cruse, Lil 1/2 Dead</span>
+3. ~~_<span class="title">Put em in the Grave</span><span class="artists"> - Jedi Mind Tricks</span>_~~
+4. ~~_<span class="title">Ain't No Time</span><span class="artists"> - Future</span>_~~
 
 </div>
 
@@ -456,19 +456,19 @@
 
 <div>
 
-1. Eminem - Role Model
-2. Ice Cube - Go To Church
-3. ~~_Coolio - Gangsta's Paradise_~~
-4. ~~_Kurupt - On, Onsite_~~
+1. <span class="title">Role Model</span><span class="artists"> - Eminem</span>
+2. <span class="title">Go To Church</span><span class="artists"> - Ice Cube, Lil Jon, Snoop Dogg</span>
+3. ~~_<span class="title">Gangsta's Paradise</span><span class="artists"> - Coolio, L.V.</span>_~~
+4. ~~_<span class="title">On, Onsite</span><span class="artists"> - Kurupt, Sean Cruse, Lil 1/2 Dead</span>_~~
 
 </div>
 
 <div>
 
-1. Jermaine Dupri - Welcome To Atlanta Remix
-2. Jeremih - Down On Me
-3. ~~_Future - Maybach_~~
-4. ~~_Lil Wayne - Hustler Musik_~~
+1. <span class="title">Welcome To Atlanta Remix</span><span class="artists"> - Jermaine Dupri, Diddy, Snoop Dogg, Murphy Lee</span>
+2. <span class="title">Down On Me</span><span class="artists"> - Jeremih, 50 Cent</span>
+3. ~~_<span class="title">Maybach</span><span class="artists"> - Future</span>_~~
+4. ~~_<span class="title">Hustler Musik</span><span class="artists"> - Lil Wayne</span>_~~
 
 </div>
 
@@ -478,10 +478,10 @@
 
 <div>
 
-1. Jermaine Dupri - Welcome To Atlanta Remix
-2. Eminem - Role Model
-3. Ice Cube - Go To Church
-4. Jeremih - Down On Me
+1. <span class="title">Welcome To Atlanta Remix</span><span class="artists"> - Jermaine Dupri, Diddy, Snoop Dogg, Murphy Lee</span>
+2. <span class="title">Role Model</span><span class="artists"> - Eminem</span>
+3. <span class="title">Go To Church</span><span class="artists"> - Ice Cube, Lil Jon, Snoop Dogg</span>
+4. <span class="title">Down On Me</span><span class="artists"> - Jeremih, 50 Cent</span>
 
 </div>
 
@@ -498,37 +498,37 @@
 
 <div>
 
-1. Ludacris - Get Back
-2. Dr. Dre - Bitches Ain't Shit
-3. ~~_Drake - Hold On, We're Going Home_~~
-4. ~~_Young Dolph - Nervous_~~
+1. <span class="title">Get Back</span><span class="artists"> - Ludacris</span>
+2. <span class="title">Bitches Ain't Shit</span><span class="artists"> - Dr. Dre, Snoop Dogg, Daz, Kurupt, Jewell</span>
+3. ~~_<span class="title">Hold On, We're Going Home</span><span class="artists"> - Drake, Majid Jordan</span>_~~
+4. ~~_<span class="title">Nervous</span><span class="artists"> - Young Dolph</span>_~~
 
 </div>
 
 <div>
 
-1. Big Pun - You Ain't a Killer
-2. Too $hort - Blow the Whistle
-3. ~~_Fat Joe - Lean Back (feat. Lil Jon, Eminem, Mase & Remy Martin) - Remix_~~
-4. ~~_Eminem - Hailie's Song_~~
+1. <span class="title">You Ain't a Killer</span><span class="artists"> - Big Pun</span>
+2. <span class="title">Blow the Whistle</span><span class="artists"> - Too $hort</span>
+3. ~~_<span class="title">Lean Back</span><span class="artists"> - Fat Joe, Mase, Eminem, Lil Jon, Remy Ma</span>_~~
+4. ~~_<span class="title">Hailie's Song</span><span class="artists"> - Eminem</span>_~~
 
 </div>
 
 <div>
 
-1. Dr. Dre - Xxplosive
-2. Ludacris - Move Bitch
-3. ~~_LL COOL J - Around The Way Girl_~~
-4. ~~_French Montana - Marble Floors_~~
+1. <span class="title">Xxplosive</span><span class="artists"> - Dr. Dre, Hittman, Six-Two, Nate Dogg, Kurupt</span>
+2. <span class="title">Move Bitch</span><span class="artists"> - Ludacris, Mystikal, I-20</span>
+3. ~~_<span class="title">Around The Way Girl</span><span class="artists"> - LL COOL J</span>_~~
+4. ~~_<span class="title">Marble Floors</span><span class="artists"> - French Montana, Rick Ross, Lil Wayne, 2 Chainz</span>_~~
 
 </div>
 
 <div>
 
-1. Nas - One Mic
-2. The Notorious B.I.G. - Who Shot Ya? - 2005 Remaster
-3. ~~_Outkast - Southernplayalisticadillacmuzik_~~
-4. ~~_Gucci Mane - Dance with the Devil_~~
+1. <span class="title">One Mic</span><span class="artists"> - Nas</span>
+2. <span class="title">Who Shot Ya?</span><span class="artists"> - The Notorious B.I.G.</span>
+3. ~~_<span class="title">Southernplayalisticadillacmuzik</span><span class="artists"> - Outkast</span>_~~
+4. ~~_<span class="title">Dance with the Devil</span><span class="artists"> - Gucci Mane</span>_~~
 
 </div>
 
@@ -538,19 +538,19 @@
 
 <div>
 
-1. The Notorious B.I.G. - Who Shot Ya? - 2005 Remaster
-2. Too $hort - Blow the Whistle
-3. ~~_Dr. Dre - Xxplosive_~~
-4. ~~_Ludacris - Get Back_~~
+1. <span class="title">Who Shot Ya?</span><span class="artists"> - The Notorious B.I.G.</span>
+2. <span class="title">Blow the Whistle</span><span class="artists"> - Too $hort</span>
+3. ~~_<span class="title">Xxplosive</span><span class="artists"> - Dr. Dre, Hittman, Six-Two, Nate Dogg, Kurupt</span>_~~
+4. ~~_<span class="title">Get Back</span><span class="artists"> - Ludacris</span>_~~
 
 </div>
 
 <div>
 
-1. Nas - One Mic
-2. Big Pun - You Ain't a Killer
-3. ~~_Ludacris - Move Bitch_~~
-4. ~~_Dr. Dre - Bitches Ain't Shit_~~
+1. <span class="title">One Mic</span><span class="artists"> - Nas</span>
+2. <span class="title">You Ain't a Killer</span><span class="artists"> - Big Pun</span>
+3. ~~_<span class="title">Move Bitch</span><span class="artists"> - Ludacris, Mystikal, I-20</span>_~~
+4. ~~_<span class="title">Bitches Ain't Shit</span><span class="artists"> - Dr. Dre, Snoop Dogg, Daz, Kurupt, Jewell</span>_~~
 
 </div>
 
@@ -560,10 +560,10 @@
 
 <div>
 
-1. Nas - One Mic
-2. The Notorious B.I.G. - Who Shot Ya? - 2005 Remaster
-3. Big Pun - You Ain't a Killer
-4. Too $hort - Blow the Whistle
+1. <span class="title">One Mic</span><span class="artists"> - Nas</span>
+2. <span class="title">Who Shot Ya?</span><span class="artists"> - The Notorious B.I.G.</span>
+3. <span class="title">You Ain't a Killer</span><span class="artists"> - Big Pun</span>
+4. <span class="title">Blow the Whistle</span><span class="artists"> - Too $hort</span>
 
 </div>
 
@@ -580,37 +580,37 @@
 
 <div>
 
-1. Snoop Dogg - Tha Shiznit
-2. Yung Gravy - oops!
-3. ~~_Mustard - Want Her_~~
-4. ~~_Chief Keef - Ain't Missing You (feat. Jenn Em)_~~
+1. <span class="title">Tha Shiznit</span><span class="artists"> - Snoop Dogg</span>
+2. <span class="title">oops!</span><span class="artists"> - Yung Gravy</span>
+3. ~~_<span class="title">Want Her</span><span class="artists"> - Mustard, Quavo, YG</span>_~~
+4. ~~_<span class="title">Ain't Missing You</span><span class="artists"> - Chief Keef, Jenn Em</span>_~~
 
 </div>
 
 <div>
 
-1. Big Tymers - Still Fly
-2. Eminem - Just Don't Give A Fuck
-3. ~~_Petey Pablo - Raise Up_~~
-4. ~~_Eve - Let Me Blow Ya Mind_~~
+1. <span class="title">Still Fly</span><span class="artists"> - Big Tymers</span>
+2. <span class="title">Just Don't Give A Fuck</span><span class="artists"> - Eminem</span>
+3. ~~_<span class="title">Raise Up</span><span class="artists"> - Petey Pablo</span>_~~
+4. ~~_<span class="title">Let Me Blow Ya Mind</span><span class="artists"> - Eve, Gwen Stefani</span>_~~
 
 </div>
 
 <div>
 
-1. Diddy - Bad Boy for Life
-2. The Notorious B.I.G. - What's Beef? - 2014 Remaster
-3. ~~_Nas - Life's a Bitch (feat. AZ & Olu Dara)_~~
-4. ~~_Fat Joe - Get It Poppin' (feat. Nelly) - Serban Main 4/20/05_~~
+1. <span class="title">Bad Boy for Life</span><span class="artists"> - Diddy, Black Rob, Mark Curry</span>
+2. <span class="title">What's Beef?</span><span class="artists"> - The Notorious B.I.G.</span>
+3. ~~_<span class="title">Life's a Bitch</span><span class="artists"> - Nas, AZ, Olu Dara</span>_~~
+4. ~~_<span class="title">Get It Poppin'</span><span class="artists"> - Fat Joe, Nelly</span>_~~
 
 </div>
 
 <div>
 
-1. Cypress Hill - (Rock) Superstar (feat. Chino Moreno & Everlast)
-2. Eminem - Cleanin' Out My Closet
-3. ~~_Gucci Mane - Bad Guys_~~
-4. ~~_Birdman - Like Father Like Son_~~
+1. <span class="title"></span><span class="artists"> - Cypress Hill, Chino Moreno, Everlast</span>
+2. <span class="title">Cleanin' Out My Closet</span><span class="artists"> - Eminem</span>
+3. ~~_<span class="title">Bad Guys</span><span class="artists"> - Gucci Mane</span>_~~
+4. ~~_<span class="title">Like Father Like Son</span><span class="artists"> - Birdman, Lil Wayne</span>_~~
 
 </div>
 
@@ -620,19 +620,19 @@
 
 <div>
 
-1. Diddy - Bad Boy for Life
-2. Snoop Dogg - Tha Shiznit
-3. ~~_Eminem - Cleanin' Out My Closet_~~
-4. ~~_Eminem - Just Don't Give A Fuck_~~
+1. <span class="title">Bad Boy for Life</span><span class="artists"> - Diddy, Black Rob, Mark Curry</span>
+2. <span class="title">Tha Shiznit</span><span class="artists"> - Snoop Dogg</span>
+3. ~~_<span class="title">Cleanin' Out My Closet</span><span class="artists"> - Eminem</span>_~~
+4. ~~_<span class="title">Just Don't Give A Fuck</span><span class="artists"> - Eminem</span>_~~
 
 </div>
 
 <div>
 
-1. Big Tymers - Still Fly
-2. The Notorious B.I.G. - What's Beef? - 2014 Remaster
-3. ~~_Cypress Hill - (Rock) Superstar (feat. Chino Moreno & Everlast)_~~
-4. ~~_Yung Gravy - oops!_~~
+1. <span class="title">Still Fly</span><span class="artists"> - Big Tymers</span>
+2. <span class="title">What's Beef?</span><span class="artists"> - The Notorious B.I.G.</span>
+3. ~~_<span class="title"></span><span class="artists"> - Cypress Hill, Chino Moreno, Everlast</span>_~~
+4. ~~_<span class="title">oops!</span><span class="artists"> - Yung Gravy</span>_~~
 
 </div>
 
@@ -642,10 +642,10 @@
 
 <div>
 
-1. Diddy - Bad Boy for Life
-2. Big Tymers - Still Fly
-3. Snoop Dogg - Tha Shiznit
-4. The Notorious B.I.G. - What's Beef? - 2014 Remaster
+1. <span class="title">Bad Boy for Life</span><span class="artists"> - Diddy, Black Rob, Mark Curry</span>
+2. <span class="title">Still Fly</span><span class="artists"> - Big Tymers</span>
+3. <span class="title">Tha Shiznit</span><span class="artists"> - Snoop Dogg</span>
+4. <span class="title">What's Beef?</span><span class="artists"> - The Notorious B.I.G.</span>
 
 </div>
 
@@ -662,37 +662,37 @@
 
 <div>
 
-1. Ja Rule - Always On Time
-2. Gang Starr - All For Tha Ca$h
-3. ~~_Cypress Hill - Insane in the Brain_~~
-4. ~~_Commodo - 1001_~~
+1. <span class="title">Always On Time</span><span class="artists"> - Ja Rule, Ashanti</span>
+2. <span class="title">All For Tha Ca$h</span><span class="artists"> - Gang Starr</span>
+3. ~~_<span class="title">Insane in the Brain</span><span class="artists"> - Cypress Hill</span>_~~
+4. ~~_<span class="title">1001</span><span class="artists"> - Commodo, Rocks FOE</span>_~~
 
 </div>
 
 <div>
 
-1. Gucci Mane - Pillz
-2. Post Malone - rockstar (feat. 21 Savage)
-3. ~~_Jadakiss - We Gonna Make It_~~
-4. ~~_Ludacris - Saturday (Oooh! Ooooh!)_~~
+1. <span class="title">Pillz</span><span class="artists"> - Gucci Mane</span>
+2. <span class="title">rockstar</span><span class="artists"> - Post Malone, 21 Savage</span>
+3. ~~_<span class="title">We Gonna Make It</span><span class="artists"> - Jadakiss, Styles P</span>_~~
+4. ~~_<span class="title">Saturday</span><span class="artists"> - Ludacris, Sleepy Brown</span>_~~
 
 </div>
 
 <div>
 
-1. Rick Ross - Push It
-2. Wale - Colombia Heights (Te Llamo) (feat. J Balvin)
-3. ~~_2 Chainz - MFN Right_~~
-4. ~~_OB OBrien - Schemin Up (feat. Drake and P. Reign)_~~
+1. <span class="title">Push It</span><span class="artists"> - Rick Ross</span>
+2. <span class="title">Colombia Heights</span><span class="artists"> - Wale, J Balvin</span>
+3. ~~_<span class="title">MFN Right</span><span class="artists"> - 2 Chainz</span>_~~
+4. ~~_<span class="title">Schemin Up</span><span class="artists"> - OB OBrien, Drake, Preme</span>_~~
 
 </div>
 
 <div>
 
-1. Yo Gotti - Act Right (feat. Jeezy & YG)
-2. BABY GRAVY - shining on my ex
-3. ~~_Immortal Technique - Creation & Destruction_~~
-4. ~~_D12 - American Psycho II_~~
+1. <span class="title">Act Right</span><span class="artists"> - Yo Gotti, Jeezy, YG</span>
+2. <span class="title">shining on my ex</span><span class="artists"> - BABY GRAVY, Yung Gravy, bbno$</span>
+3. ~~_<span class="title">Creation & Destruction</span><span class="artists"> - Immortal Technique</span>_~~
+4. ~~_<span class="title">American Psycho II</span><span class="artists"> - D12, B-Real</span>_~~
 
 </div>
 
@@ -702,19 +702,19 @@
 
 <div>
 
-1. Rick Ross - Push It
-2. BABY GRAVY - shining on my ex
-3. ~~_Ja Rule - Always On Time_~~
-4. ~~_Post Malone - rockstar (feat. 21 Savage)_~~
+1. <span class="title">Push It</span><span class="artists"> - Rick Ross</span>
+2. <span class="title">shining on my ex</span><span class="artists"> - BABY GRAVY, Yung Gravy, bbno$</span>
+3. ~~_<span class="title">Always On Time</span><span class="artists"> - Ja Rule, Ashanti</span>_~~
+4. ~~_<span class="title">rockstar</span><span class="artists"> - Post Malone, 21 Savage</span>_~~
 
 </div>
 
 <div>
 
-1. Wale - Colombia Heights (Te Llamo) (feat. J Balvin)
-2. Gucci Mane - Pillz
-3. ~~_Yo Gotti - Act Right (feat. Jeezy & YG)_~~
-4. ~~_Gang Starr - All For Tha Ca$h_~~
+1. <span class="title">Colombia Heights</span><span class="artists"> - Wale, J Balvin</span>
+2. <span class="title">Pillz</span><span class="artists"> - Gucci Mane</span>
+3. ~~_<span class="title">Act Right</span><span class="artists"> - Yo Gotti, Jeezy, YG</span>_~~
+4. ~~_<span class="title">All For Tha Ca$h</span><span class="artists"> - Gang Starr</span>_~~
 
 </div>
 
@@ -724,10 +724,10 @@
 
 <div>
 
-1. Rick Ross - Push It
-2. Wale - Colombia Heights (Te Llamo) (feat. J Balvin)
-3. Gucci Mane - Pillz
-4. BABY GRAVY - shining on my ex
+1. <span class="title">Push It</span><span class="artists"> - Rick Ross</span>
+2. <span class="title">Colombia Heights</span><span class="artists"> - Wale, J Balvin</span>
+3. <span class="title">Pillz</span><span class="artists"> - Gucci Mane</span>
+4. <span class="title">shining on my ex</span><span class="artists"> - BABY GRAVY, Yung Gravy, bbno$</span>
 
 </div>
 
@@ -744,37 +744,37 @@
 
 <div>
 
-1. Nelly - St. Louie
-2. Gucci Mane - Loss 4 Wrdz (feat. Rick Ross)
-3. ~~_N.E.R.D - Lemon - Edit_~~
-4. ~~_Iggy Azalea - Fancy_~~
+1. <span class="title">St. Louie</span><span class="artists"> - Nelly</span>
+2. <span class="title">Loss 4 Wrdz</span><span class="artists"> - Gucci Mane, Rick Ross</span>
+3. ~~_<span class="title">Lemon</span><span class="artists"> - N.E.R.D, Rihanna</span>_~~
+4. ~~_<span class="title">Fancy</span><span class="artists"> - Iggy Azalea, Charli xcx</span>_~~
 
 </div>
 
 <div>
 
-1. DJ Khaled - I'm On One
-2. The Notorious B.I.G. - Notorious Thugs - 2014 Remaster
-3. ~~_21 Savage - Bank Account_~~
-4. ~~_Lil Wayne - A Milli_~~
+1. <span class="title">I'm On One</span><span class="artists"> - DJ Khaled, Drake, Rick Ross, Lil Wayne</span>
+2. <span class="title">Notorious Thugs</span><span class="artists"> - The Notorious B.I.G.</span>
+3. ~~_<span class="title">Bank Account</span><span class="artists"> - 21 Savage</span>_~~
+4. ~~_<span class="title">A Milli</span><span class="artists"> - Lil Wayne</span>_~~
 
 </div>
 
 <div>
 
-1. Birdman - Leather So Soft
-2. Bhad Bhabie - Geek'd (feat. Lil Baby)
-3. ~~_JAY-Z - Can I Get A..._~~
-4. ~~_GZA - Liquid Swords_~~
+1. <span class="title">Leather So Soft</span><span class="artists"> - Birdman, Lil Wayne</span>
+2. <span class="title">Geek'd</span><span class="artists"> - Bhad Bhabie, Lil Baby</span>
+3. ~~_<span class="title">Can I Get A...</span><span class="artists"> - JAY-Z, Amil, Ja Rule</span>_~~
+4. ~~_<span class="title">Liquid Swords</span><span class="artists"> - GZA</span>_~~
 
 </div>
 
 <div>
 
-1. Jadakiss - Jada's Got A Gun
-2. Cam'ron - Killa Cam / Roll That Skit
-3. ~~_Migos - Fight Night_~~
-4. ~~_Snoop Dogg - Drop It Like It's Hot_~~
+1. <span class="title">Jada's Got A Gun</span><span class="artists"> - Jadakiss, Eric McCaine, Antoine Stanton</span>
+2. <span class="title">Killa Cam / Roll That Skit</span><span class="artists"> - Cam'ron</span>
+3. ~~_<span class="title">Fight Night</span><span class="artists"> - Migos</span>_~~
+4. ~~_<span class="title">Drop It Like It's Hot</span><span class="artists"> - Snoop Dogg, Pharrell Williams</span>_~~
 
 </div>
 
@@ -784,19 +784,19 @@
 
 <div>
 
-1. Birdman - Leather So Soft
-2. Cam'ron - Killa Cam / Roll That Skit
-3. ~~_The Notorious B.I.G. - Notorious Thugs - 2014 Remaster_~~
-4. ~~_Nelly - St. Louie_~~
+1. <span class="title">Leather So Soft</span><span class="artists"> - Birdman, Lil Wayne</span>
+2. <span class="title">Killa Cam / Roll That Skit</span><span class="artists"> - Cam'ron</span>
+3. ~~_<span class="title">Notorious Thugs</span><span class="artists"> - The Notorious B.I.G.</span>_~~
+4. ~~_<span class="title">St. Louie</span><span class="artists"> - Nelly</span>_~~
 
 </div>
 
 <div>
 
-1. Jadakiss - Jada's Got A Gun
-2. DJ Khaled - I'm On One
-3. ~~_Bhad Bhabie - Geek'd (feat. Lil Baby)_~~
-4. ~~_Gucci Mane - Loss 4 Wrdz (feat. Rick Ross)_~~
+1. <span class="title">Jada's Got A Gun</span><span class="artists"> - Jadakiss, Eric McCaine, Antoine Stanton</span>
+2. <span class="title">I'm On One</span><span class="artists"> - DJ Khaled, Drake, Rick Ross, Lil Wayne</span>
+3. ~~_<span class="title">Geek'd</span><span class="artists"> - Bhad Bhabie, Lil Baby</span>_~~
+4. ~~_<span class="title">Loss 4 Wrdz</span><span class="artists"> - Gucci Mane, Rick Ross</span>_~~
 
 </div>
 
@@ -806,10 +806,10 @@
 
 <div>
 
-1. Birdman - Leather So Soft
-2. Jadakiss - Jada's Got A Gun
-3. DJ Khaled - I'm On One
-4. Cam'ron - Killa Cam / Roll That Skit
+1. <span class="title">Leather So Soft</span><span class="artists"> - Birdman, Lil Wayne</span>
+2. <span class="title">Jada's Got A Gun</span><span class="artists"> - Jadakiss, Eric McCaine, Antoine Stanton</span>
+3. <span class="title">I'm On One</span><span class="artists"> - DJ Khaled, Drake, Rick Ross, Lil Wayne</span>
+4. <span class="title">Killa Cam / Roll That Skit</span><span class="artists"> - Cam'ron</span>
 
 </div>
 
@@ -826,37 +826,37 @@
 
 <div>
 
-1. Kurupt - C-Walk
-2. Lil Wayne - No Worries
-3. ~~_Gucci Mane - Wake Up in the Sky_~~
-4. ~~_Juicy J - Shell Shocked (feat. Kill the Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"_~~
+1. <span class="title">C-Walk</span><span class="artists"> - Kurupt, Tray Dee, Slip Capone</span>
+2. <span class="title">No Worries</span><span class="artists"> - Lil Wayne, Detail</span>
+3. ~~_<span class="title">Wake Up in the Sky</span><span class="artists"> - Gucci Mane, Bruno Mars, Kodak Black</span>_~~
+4. ~~_<span class="title">Shell Shocked</span><span class="artists"> - Juicy J, Wiz Khalifa, Ty Dolla $ign, Kill The Noise, Madsonik</span>_~~
 
 </div>
 
 <div>
 
-1. Dr. Dre - The Next Episode
-2. Chris Brown - Deuces (feat. Tyga & Kevin McCall)
-3. ~~_Young Money - Trophies_~~
-4. ~~_Natalie La Rose - Somebody_~~
+1. <span class="title">The Next Episode</span><span class="artists"> - Dr. Dre, Snoop Dogg</span>
+2. <span class="title">Deuces</span><span class="artists"> - Chris Brown, Tyga, Kevin McCall</span>
+3. ~~_<span class="title">Trophies</span><span class="artists"> - Young Money, Drake</span>_~~
+4. ~~_<span class="title">Somebody</span><span class="artists"> - Natalie La Rose, Jeremih</span>_~~
 
 </div>
 
 <div>
 
-1. Waka Flocka Flame - No Hands (feat. Roscoe Dash & Wale)
-2. Jedi Mind Tricks - Suicide
-3. ~~_Ice Cube - It Was A Good Day_~~
-4. ~~_Gucci Mane - Both (feat. Drake)_~~
+1. <span class="title">No Hands</span><span class="artists"> - Waka Flocka Flame, Roscoe Dash, Wale</span>
+2. <span class="title">Suicide</span><span class="artists"> - Jedi Mind Tricks</span>
+3. ~~_<span class="title">It Was A Good Day</span><span class="artists"> - Ice Cube</span>_~~
+4. ~~_<span class="title">Both</span><span class="artists"> - Gucci Mane, Drake</span>_~~
 
 </div>
 
 <div>
 
-1. Dorrough Music - Ice Cream Paint Job
-2. Tyga - Molly
-3. ~~_A$AP Rocky - Wild for the Night (feat. Skrillex & Birdy Nam Nam)_~~
-4. ~~_DJ Snake - Turn Down for What_~~
+1. <span class="title">Ice Cream Paint Job</span><span class="artists"> - Dorrough Music</span>
+2. <span class="title">Molly</span><span class="artists"> - Tyga, Cedric Gervais, Wiz Khalifa, Mally Mall</span>
+3. ~~_<span class="title">Wild for the Night</span><span class="artists"> - A$AP Rocky, Skrillex, Birdy Nam Nam, Lord Flacko</span>_~~
+4. ~~_<span class="title">Turn Down for What</span><span class="artists"> - DJ Snake, Lil Jon</span>_~~
 
 </div>
 
@@ -866,19 +866,19 @@
 
 <div>
 
-1. Kurupt - C-Walk
-2. Chris Brown - Deuces (feat. Tyga & Kevin McCall)
-3. ~~_Waka Flocka Flame - No Hands (feat. Roscoe Dash & Wale)_~~
-4. ~~_Tyga - Molly_~~
+1. <span class="title">C-Walk</span><span class="artists"> - Kurupt, Tray Dee, Slip Capone</span>
+2. <span class="title">Deuces</span><span class="artists"> - Chris Brown, Tyga, Kevin McCall</span>
+3. ~~_<span class="title">No Hands</span><span class="artists"> - Waka Flocka Flame, Roscoe Dash, Wale</span>_~~
+4. ~~_<span class="title">Molly</span><span class="artists"> - Tyga, Cedric Gervais, Wiz Khalifa, Mally Mall</span>_~~
 
 </div>
 
 <div>
 
-1. Dr. Dre - The Next Episode
-2. Dorrough Music - Ice Cream Paint Job
-3. ~~_Jedi Mind Tricks - Suicide_~~
-4. ~~_Lil Wayne - No Worries_~~
+1. <span class="title">The Next Episode</span><span class="artists"> - Dr. Dre, Snoop Dogg</span>
+2. <span class="title">Ice Cream Paint Job</span><span class="artists"> - Dorrough Music</span>
+3. ~~_<span class="title">Suicide</span><span class="artists"> - Jedi Mind Tricks</span>_~~
+4. ~~_<span class="title">No Worries</span><span class="artists"> - Lil Wayne, Detail</span>_~~
 
 </div>
 
@@ -888,10 +888,10 @@
 
 <div>
 
-1. Dr. Dre - The Next Episode
-2. Kurupt - C-Walk
-3. Dorrough Music - Ice Cream Paint Job
-4. Chris Brown - Deuces (feat. Tyga & Kevin McCall)
+1. <span class="title">The Next Episode</span><span class="artists"> - Dr. Dre, Snoop Dogg</span>
+2. <span class="title">C-Walk</span><span class="artists"> - Kurupt, Tray Dee, Slip Capone</span>
+3. <span class="title">Ice Cream Paint Job</span><span class="artists"> - Dorrough Music</span>
+4. <span class="title">Deuces</span><span class="artists"> - Chris Brown, Tyga, Kevin McCall</span>
 
 </div>
 
@@ -908,37 +908,37 @@
 
 <div>
 
-1. Will Smith - Miami
-2. Post Malone - White Iverson
-3. ~~_Ludacris - Stand Up_~~
-4. ~~_Post Malone - Spoil My Night (feat. Swae Lee)_~~
+1. <span class="title">Miami</span><span class="artists"> - Will Smith</span>
+2. <span class="title">White Iverson</span><span class="artists"> - Post Malone</span>
+3. ~~_<span class="title">Stand Up</span><span class="artists"> - Ludacris, Shawnna</span>_~~
+4. ~~_<span class="title">Spoil My Night</span><span class="artists"> - Post Malone, Swae Lee</span>_~~
 
 </div>
 
 <div>
 
-1. Jadakiss - I'm A Gangsta
-2. Megan Thee Stallion - Captain Hook
-3. ~~_Gucci Mane - Lil Story (feat. ScHoolboy Q)_~~
-4. ~~_Fetty Wap - 679 (feat. Remy Boyz)_~~
+1. <span class="title">I'm A Gangsta</span><span class="artists"> - Jadakiss, Parle</span>
+2. <span class="title">Captain Hook</span><span class="artists"> - Megan Thee Stallion</span>
+3. ~~_<span class="title">Lil Story</span><span class="artists"> - Gucci Mane, Schoolboy Q</span>_~~
+4. ~~_<span class="title">679</span><span class="artists"> - Fetty Wap, Remy Boyz</span>_~~
 
 </div>
 
 <div>
 
-1. Snoop Dogg - Lay Low
-2. Nicki Minaj - No Frauds
-3. ~~_Kreayshawn - Gucci Gucci_~~
-4. ~~_Immortal Technique - The Cause Of Death_~~
+1. <span class="title">Lay Low</span><span class="artists"> - Snoop Dogg, Master P, Nate Dogg, Butch Cassidy, Tha Eastsidaz</span>
+2. <span class="title">No Frauds</span><span class="artists"> - Nicki Minaj, Drake, Lil Wayne</span>
+3. ~~_<span class="title">Gucci Gucci</span><span class="artists"> - Kreayshawn</span>_~~
+4. ~~_<span class="title">The Cause Of Death</span><span class="artists"> - Immortal Technique</span>_~~
 
 </div>
 
 <div>
 
-1. City Girls - Pussy Talk
-2. Big Shaq - Man's Not Hot
-3. ~~_Eminem - Bad Meets Evil_~~
-4. ~~_A$AP Rocky - F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)_~~
+1. <span class="title">Pussy Talk</span><span class="artists"> - City Girls, Doja Cat</span>
+2. <span class="title">Man's Not Hot</span><span class="artists"> - Big Shaq</span>
+3. ~~_<span class="title">Bad Meets Evil</span><span class="artists"> - Eminem, Royce Da 5'9"</span>_~~
+4. ~~_<span class="title">F**kin' Problems</span><span class="artists"> - A$AP Rocky, Drake, 2 Chainz, Kendrick Lamar</span>_~~
 
 </div>
 
@@ -948,19 +948,19 @@
 
 <div>
 
-1. Will Smith - Miami
-2. Snoop Dogg - Lay Low
-3. ~~_Megan Thee Stallion - Captain Hook_~~
-4. ~~_Big Shaq - Man's Not Hot_~~
+1. <span class="title">Miami</span><span class="artists"> - Will Smith</span>
+2. <span class="title">Lay Low</span><span class="artists"> - Snoop Dogg, Master P, Nate Dogg, Butch Cassidy, Tha Eastsidaz</span>
+3. ~~_<span class="title">Captain Hook</span><span class="artists"> - Megan Thee Stallion</span>_~~
+4. ~~_<span class="title">Man's Not Hot</span><span class="artists"> - Big Shaq</span>_~~
 
 </div>
 
 <div>
 
-1. Nicki Minaj - No Frauds
-2. Jadakiss - I'm A Gangsta
-3. ~~_Post Malone - White Iverson_~~
-4. ~~_City Girls - Pussy Talk_~~
+1. <span class="title">No Frauds</span><span class="artists"> - Nicki Minaj, Drake, Lil Wayne</span>
+2. <span class="title">I'm A Gangsta</span><span class="artists"> - Jadakiss, Parle</span>
+3. ~~_<span class="title">White Iverson</span><span class="artists"> - Post Malone</span>_~~
+4. ~~_<span class="title">Pussy Talk</span><span class="artists"> - City Girls, Doja Cat</span>_~~
 
 </div>
 
@@ -970,10 +970,10 @@
 
 <div>
 
-1. Will Smith - Miami
-2. Nicki Minaj - No Frauds
-3. Snoop Dogg - Lay Low
-4. Jadakiss - I'm A Gangsta
+1. <span class="title">Miami</span><span class="artists"> - Will Smith</span>
+2. <span class="title">No Frauds</span><span class="artists"> - Nicki Minaj, Drake, Lil Wayne</span>
+3. <span class="title">Lay Low</span><span class="artists"> - Snoop Dogg, Master P, Nate Dogg, Butch Cassidy, Tha Eastsidaz</span>
+4. <span class="title">I'm A Gangsta</span><span class="artists"> - Jadakiss, Parle</span>
 
 </div>
 
@@ -990,37 +990,37 @@
 
 <div>
 
-1. YG - Big Bank feat. 2 Chainz, Big Sean, Nicki Minaj
-2. Big Sean - So Good (& Metro Boomin)
-3. ~~_Bhad Bhabie - Count It_~~
-4. ~~_Logic - 1-800-273-8255_~~
+1. <span class="title">Big Bank</span><span class="artists"> - YG, 2 Chainz, Big Sean, Nicki Minaj</span>
+2. <span class="title">So Good</span><span class="artists"> - Big Sean, Metro Boomin, Kash Doll</span>
+3. ~~_<span class="title">Count It</span><span class="artists"> - Bhad Bhabie, $hirak</span>_~~
+4. ~~_<span class="title">1-800-273-8255</span><span class="artists"> - Logic, Alessia Cara, Khalid</span>_~~
 
 </div>
 
 <div>
 
-1. Dr. Dre - What's The Difference
-2. Migos - Supastars
-3. ~~_Jack Harlow - First Class_~~
-4. ~~_Lil Uzi Vert - XO TOUR Llif3_~~
+1. <span class="title">What's The Difference</span><span class="artists"> - Dr. Dre, Eminem, Xzibit</span>
+2. <span class="title">Supastars</span><span class="artists"> - Migos</span>
+3. ~~_<span class="title">First Class</span><span class="artists"> - Jack Harlow</span>_~~
+4. ~~_<span class="title">XO TOUR Llif3</span><span class="artists"> - Lil Uzi Vert</span>_~~
 
 </div>
 
 <div>
 
-1. Big L - Da Graveyard
-2. JAY-Z - Izzo (H.O.V.A.)
-3. ~~_Post Malone - Sunflower - Spider-Man: Into the Spider-Verse_~~
-4. ~~_Brisco - On The Wall - Main (Explicit)_~~
+1. <span class="title">Da Graveyard</span><span class="artists"> - Big L</span>
+2. <span class="title">Izzo</span><span class="artists"> - JAY-Z</span>
+3. ~~_<span class="title">Sunflower</span><span class="artists"> - Post Malone, Swae Lee</span>_~~
+4. ~~_<span class="title">On The Wall</span><span class="artists"> - Brisco, Lil Wayne</span>_~~
 
 </div>
 
 <div>
 
-1. JUVENILE - Back That Azz Up
-2. Drake - Rich Flex
-3. ~~_Nas - If I Ruled the World (Imagine That) (feat. Lauryn Hill)_~~
-4. ~~_JAY-Z - 03' Bonnie & Clyde_~~
+1. <span class="title">Back That Azz Up</span><span class="artists"> - JUVENILE, Lil Wayne, Mannie Fresh</span>
+2. <span class="title">Rich Flex</span><span class="artists"> - Drake, 21 Savage</span>
+3. ~~_<span class="title">If I Ruled the World</span><span class="artists"> - Nas, Ms. Lauryn Hill</span>_~~
+4. ~~_<span class="title">03' Bonnie & Clyde</span><span class="artists"> - JAY-Z, Beyoncé</span>_~~
 
 </div>
 
@@ -1030,19 +1030,19 @@
 
 <div>
 
-1. Big L - Da Graveyard
-2. YG - Big Bank feat. 2 Chainz, Big Sean, Nicki Minaj
-3. ~~_Migos - Supastars_~~
-4. ~~_Drake - Rich Flex_~~
+1. <span class="title">Da Graveyard</span><span class="artists"> - Big L</span>
+2. <span class="title">Big Bank</span><span class="artists"> - YG, 2 Chainz, Big Sean, Nicki Minaj</span>
+3. ~~_<span class="title">Supastars</span><span class="artists"> - Migos</span>_~~
+4. ~~_<span class="title">Rich Flex</span><span class="artists"> - Drake, 21 Savage</span>_~~
 
 </div>
 
 <div>
 
-1. JUVENILE - Back That Azz Up
-2. Dr. Dre - What's The Difference
-3. ~~_JAY-Z - Izzo (H.O.V.A.)_~~
-4. ~~_Big Sean - So Good (& Metro Boomin)_~~
+1. <span class="title">Back That Azz Up</span><span class="artists"> - JUVENILE, Lil Wayne, Mannie Fresh</span>
+2. <span class="title">What's The Difference</span><span class="artists"> - Dr. Dre, Eminem, Xzibit</span>
+3. ~~_<span class="title">Izzo</span><span class="artists"> - JAY-Z</span>_~~
+4. ~~_<span class="title">So Good</span><span class="artists"> - Big Sean, Metro Boomin, Kash Doll</span>_~~
 
 </div>
 
@@ -1052,10 +1052,10 @@
 
 <div>
 
-1. JUVENILE - Back That Azz Up
-2. Big L - Da Graveyard
-3. Dr. Dre - What's The Difference
-4. YG - Big Bank feat. 2 Chainz, Big Sean, Nicki Minaj
+1. <span class="title">Back That Azz Up</span><span class="artists"> - JUVENILE, Lil Wayne, Mannie Fresh</span>
+2. <span class="title">Da Graveyard</span><span class="artists"> - Big L</span>
+3. <span class="title">What's The Difference</span><span class="artists"> - Dr. Dre, Eminem, Xzibit</span>
+4. <span class="title">Big Bank</span><span class="artists"> - YG, 2 Chainz, Big Sean, Nicki Minaj</span>
 
 </div>
 
@@ -1072,37 +1072,37 @@
 
 <div>
 
-1. Eminem - Stan
-2. Jedi Mind Tricks - Consipracy Theory
-3. ~~_Big Sean - Bezerk (feat. A$AP Ferg)_~~
-4. ~~_JUVENILE - Slow Motion_~~
+1. <span class="title">Stan</span><span class="artists"> - Eminem, Dido</span>
+2. <span class="title">Consipracy Theory</span><span class="artists"> - Jedi Mind Tricks</span>
+3. ~~_<span class="title">Bezerk</span><span class="artists"> - Big Sean, Hit-Boy, A$AP Ferg</span>_~~
+4. ~~_<span class="title">Slow Motion</span><span class="artists"> - JUVENILE, Soulja Slim</span>_~~
 
 </div>
 
 <div>
 
-1. 21 Savage - Numb
-2. 50 Cent - Just A Lil Bit
-3. ~~_DeJ Loaf - We Be On It_~~
-4. ~~_Drake - Portland_~~
+1. <span class="title">Numb</span><span class="artists"> - 21 Savage</span>
+2. <span class="title">Just A Lil Bit</span><span class="artists"> - 50 Cent</span>
+3. ~~_<span class="title">We Be On It</span><span class="artists"> - DeJ Loaf</span>_~~
+4. ~~_<span class="title">Portland</span><span class="artists"> - Drake, Quavo, Travis Scott</span>_~~
 
 </div>
 
 <div>
 
-1. Dr. Dre - Nuthin' But A "G" Thang
-2. Lil Wayne - Money On My Mind
-3. ~~_Geto Boys - Mind Playing Tricks on Me_~~
-4. ~~_Ludacris - Rollout (My Business)_~~
+1. <span class="title">Nuthin' But A "G" Thang</span><span class="artists"> - Dr. Dre, Snoop Dogg</span>
+2. <span class="title">Money On My Mind</span><span class="artists"> - Lil Wayne</span>
+3. ~~_<span class="title">Mind Playing Tricks on Me</span><span class="artists"> - Geto Boys</span>_~~
+4. ~~_<span class="title">Rollout</span><span class="artists"> - Ludacris</span>_~~
 
 </div>
 
 <div>
 
-1. N.W.A. - Chin Check
-2. Nelly - Grillz
-3. ~~_Migos - Handsome And Wealthy_~~
-4. ~~_Riff Raff - DOLCE & GABBANA_~~
+1. <span class="title">Chin Check</span><span class="artists"> - N.W.A.</span>
+2. <span class="title">Grillz</span><span class="artists"> - Nelly, Paul Wall, Ali & Gipp</span>
+3. ~~_<span class="title">Handsome And Wealthy</span><span class="artists"> - Migos</span>_~~
+4. ~~_<span class="title">DOLCE & GABBANA</span><span class="artists"> - Riff Raff</span>_~~
 
 </div>
 
@@ -1112,19 +1112,19 @@
 
 <div>
 
-1. Eminem - Stan
-2. Dr. Dre - Nuthin' But A "G" Thang
-3. ~~_Nelly - Grillz_~~
-4. ~~_50 Cent - Just A Lil Bit_~~
+1. <span class="title">Stan</span><span class="artists"> - Eminem, Dido</span>
+2. <span class="title">Nuthin' But A "G" Thang</span><span class="artists"> - Dr. Dre, Snoop Dogg</span>
+3. ~~_<span class="title">Grillz</span><span class="artists"> - Nelly, Paul Wall, Ali & Gipp</span>_~~
+4. ~~_<span class="title">Just A Lil Bit</span><span class="artists"> - 50 Cent</span>_~~
 
 </div>
 
 <div>
 
-1. Jedi Mind Tricks - Consipracy Theory
-2. Lil Wayne - Money On My Mind
-3. ~~_N.W.A. - Chin Check_~~
-4. ~~_21 Savage - Numb_~~
+1. <span class="title">Consipracy Theory</span><span class="artists"> - Jedi Mind Tricks</span>
+2. <span class="title">Money On My Mind</span><span class="artists"> - Lil Wayne</span>
+3. ~~_<span class="title">Chin Check</span><span class="artists"> - N.W.A.</span>_~~
+4. ~~_<span class="title">Numb</span><span class="artists"> - 21 Savage</span>_~~
 
 </div>
 
@@ -1134,10 +1134,10 @@
 
 <div>
 
-1. Eminem - Stan
-2. Jedi Mind Tricks - Consipracy Theory
-3. Dr. Dre - Nuthin' But A "G" Thang
-4. Lil Wayne - Money On My Mind
+1. <span class="title">Stan</span><span class="artists"> - Eminem, Dido</span>
+2. <span class="title">Consipracy Theory</span><span class="artists"> - Jedi Mind Tricks</span>
+3. <span class="title">Nuthin' But A "G" Thang</span><span class="artists"> - Dr. Dre, Snoop Dogg</span>
+4. <span class="title">Money On My Mind</span><span class="artists"> - Lil Wayne</span>
 
 </div>
 
@@ -1154,37 +1154,37 @@
 
 <div>
 
-1. David Banner - Play
-2. Dr. Dre - A N**** Witta Gun
-3. ~~_G-Eazy - No Limit_~~
-4. ~~_Joyner Lucas - Devil's Work_~~
+1. <span class="title">Play</span><span class="artists"> - David Banner</span>
+2. <span class="title">A N**** Witta Gun</span><span class="artists"> - Dr. Dre</span>
+3. ~~_<span class="title">No Limit</span><span class="artists"> - G-Eazy, A$AP Rocky, Cardi B</span>_~~
+4. ~~_<span class="title">Devil's Work</span><span class="artists"> - Joyner Lucas</span>_~~
 
 </div>
 
 <div>
 
-1. Bizzy Bone - Before I Go
-2. Cypress Hill - Hits from the Bong
-3. ~~_Drake - In My Feelings_~~
-4. ~~_Khalid - OTW_~~
+1. <span class="title">Before I Go</span><span class="artists"> - Bizzy Bone</span>
+2. <span class="title">Hits from the Bong</span><span class="artists"> - Cypress Hill</span>
+3. ~~_<span class="title">In My Feelings</span><span class="artists"> - Drake</span>_~~
+4. ~~_<span class="title">OTW</span><span class="artists"> - Khalid, 6LACK, Ty Dolla $ign</span>_~~
 
 </div>
 
 <div>
 
-1. Lloyd Banks - On Fire
-2. 2Pac - All Eyez On Me (ft. Big Syke)
-3. ~~_Kno - Graveyard_~~
-4. ~~_Rae Sremmurd - Set The Roof_~~
+1. <span class="title">On Fire</span><span class="artists"> - Lloyd Banks</span>
+2. <span class="title">All Eyez On Me</span><span class="artists"> - 2Pac, Big Syke</span>
+3. ~~_<span class="title">Graveyard</span><span class="artists"> - Kno, Sheisty Khrist</span>_~~
+4. ~~_<span class="title">Set The Roof</span><span class="artists"> - Rae Sremmurd, Lil Jon</span>_~~
 
 </div>
 
 <div>
 
-1. Big Pun - I'm Not a Player
-2. Dr. Dre - Still D.R.E.
-3. ~~_Migos - Walk It Talk It_~~
-4. ~~_DJ Khaled - I'm the One_~~
+1. <span class="title">I'm Not a Player</span><span class="artists"> - Big Pun</span>
+2. <span class="title">Still D.R.E.</span><span class="artists"> - Dr. Dre, Snoop Dogg</span>
+3. ~~_<span class="title">Walk It Talk It</span><span class="artists"> - Migos, Drake</span>_~~
+4. ~~_<span class="title">I'm the One</span><span class="artists"> - DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne</span>_~~
 
 </div>
 
@@ -1194,19 +1194,19 @@
 
 <div>
 
-1. Lloyd Banks - On Fire
-2. David Banner - Play
-3. ~~_Dr. Dre - Still D.R.E._~~
-4. ~~_Cypress Hill - Hits from the Bong_~~
+1. <span class="title">On Fire</span><span class="artists"> - Lloyd Banks</span>
+2. <span class="title">Play</span><span class="artists"> - David Banner</span>
+3. ~~_<span class="title">Still D.R.E.</span><span class="artists"> - Dr. Dre, Snoop Dogg</span>_~~
+4. ~~_<span class="title">Hits from the Bong</span><span class="artists"> - Cypress Hill</span>_~~
 
 </div>
 
 <div>
 
-1. Big Pun - I'm Not a Player
-2. Bizzy Bone - Before I Go
-3. ~~_Dr. Dre - A N**** Witta Gun_~~
-4. ~~_2Pac - All Eyez On Me (ft. Big Syke)_~~
+1. <span class="title">I'm Not a Player</span><span class="artists"> - Big Pun</span>
+2. <span class="title">Before I Go</span><span class="artists"> - Bizzy Bone</span>
+3. ~~_<span class="title">A N**** Witta Gun</span><span class="artists"> - Dr. Dre</span>_~~
+4. ~~_<span class="title">All Eyez On Me</span><span class="artists"> - 2Pac, Big Syke</span>_~~
 
 </div>
 
@@ -1216,10 +1216,10 @@
 
 <div>
 
-1. Lloyd Banks - On Fire
-2. Big Pun - I'm Not a Player
-3. Bizzy Bone - Before I Go
-4. David Banner - Play
+1. <span class="title">On Fire</span><span class="artists"> - Lloyd Banks</span>
+2. <span class="title">I'm Not a Player</span><span class="artists"> - Big Pun</span>
+3. <span class="title">Before I Go</span><span class="artists"> - Bizzy Bone</span>
+4. <span class="title">Play</span><span class="artists"> - David Banner</span>
 
 </div>
 
@@ -1236,37 +1236,37 @@
 
 <div>
 
-1. Lil Nas X - INDUSTRY BABY (feat. Jack Harlow)
-2. Meek Mill - Going Bad (feat. Drake)
-3. ~~_mgk - Wild Boy_~~
-4. ~~_DJ Khaled - We Takin' Over_~~
+1. <span class="title">INDUSTRY BABY</span><span class="artists"> - Lil Nas X, Jack Harlow</span>
+2. <span class="title">Going Bad</span><span class="artists"> - Meek Mill, Drake</span>
+3. ~~_<span class="title">Wild Boy</span><span class="artists"> - mgk, DJ Tazmania, Waka Flocka Flame, DJ Rell</span>_~~
+4. ~~_<span class="title">We Takin' Over</span><span class="artists"> - DJ Khaled</span>_~~
 
 </div>
 
 <div>
 
-1. Yo Gotti - Castro (feat. Kanye West, Big Sean, Quavo & 2 Chainz)
-2. Drake - Over My Dead Body
-3. ~~_The Notorious B.I.G. - Party And Bullshit_~~
-4. ~~_Drake - Under Ground Kings_~~
+1. <span class="title">Castro</span><span class="artists"> - Yo Gotti, Kanye West, Big Sean, Quavo, 2 Chainz</span>
+2. <span class="title">Over My Dead Body</span><span class="artists"> - Drake</span>
+3. ~~_<span class="title">Party And Bullshit</span><span class="artists"> - The Notorious B.I.G.</span>_~~
+4. ~~_<span class="title">Under Ground Kings</span><span class="artists"> - Drake</span>_~~
 
 </div>
 
 <div>
 
-1. YG - My N****
-2. Gucci Mane - My Chain
-3. ~~_2 Chainz - I'm Different_~~
-4. ~~_Post Malone - Takin' Shots_~~
+1. <span class="title">My N****</span><span class="artists"> - YG, Jeezy, Rich Homie Quan</span>
+2. <span class="title">My Chain</span><span class="artists"> - Gucci Mane</span>
+3. ~~_<span class="title">I'm Different</span><span class="artists"> - 2 Chainz</span>_~~
+4. ~~_<span class="title">Takin' Shots</span><span class="artists"> - Post Malone</span>_~~
 
 </div>
 
 <div>
 
-1. Eminem - Kill You
-2. 21 Savage - Runnin
-3. ~~_2 Chainz - Ounces Back_~~
-4. ~~_Public Enemy - Can't Truss It_~~
+1. <span class="title">Kill You</span><span class="artists"> - Eminem</span>
+2. <span class="title">Runnin</span><span class="artists"> - 21 Savage, Metro Boomin</span>
+3. ~~_<span class="title">Ounces Back</span><span class="artists"> - 2 Chainz</span>_~~
+4. ~~_<span class="title">Can't Truss It</span><span class="artists"> - Public Enemy</span>_~~
 
 </div>
 
@@ -1276,19 +1276,19 @@
 
 <div>
 
-1. YG - My N****
-2. Lil Nas X - INDUSTRY BABY (feat. Jack Harlow)
-3. ~~_Drake - Over My Dead Body_~~
-4. ~~_21 Savage - Runnin_~~
+1. <span class="title">My N****</span><span class="artists"> - YG, Jeezy, Rich Homie Quan</span>
+2. <span class="title">INDUSTRY BABY</span><span class="artists"> - Lil Nas X, Jack Harlow</span>
+3. ~~_<span class="title">Over My Dead Body</span><span class="artists"> - Drake</span>_~~
+4. ~~_<span class="title">Runnin</span><span class="artists"> - 21 Savage, Metro Boomin</span>_~~
 
 </div>
 
 <div>
 
-1. Gucci Mane - My Chain
-2. Yo Gotti - Castro (feat. Kanye West, Big Sean, Quavo & 2 Chainz)
-3. ~~_Meek Mill - Going Bad (feat. Drake)_~~
-4. ~~_Eminem - Kill You_~~
+1. <span class="title">My Chain</span><span class="artists"> - Gucci Mane</span>
+2. <span class="title">Castro</span><span class="artists"> - Yo Gotti, Kanye West, Big Sean, Quavo, 2 Chainz</span>
+3. ~~_<span class="title">Going Bad</span><span class="artists"> - Meek Mill, Drake</span>_~~
+4. ~~_<span class="title">Kill You</span><span class="artists"> - Eminem</span>_~~
 
 </div>
 
@@ -1298,10 +1298,10 @@
 
 <div>
 
-1. YG - My N****
-2. Gucci Mane - My Chain
-3. Yo Gotti - Castro (feat. Kanye West, Big Sean, Quavo & 2 Chainz)
-4. Lil Nas X - INDUSTRY BABY (feat. Jack Harlow)
+1. <span class="title">My N****</span><span class="artists"> - YG, Jeezy, Rich Homie Quan</span>
+2. <span class="title">My Chain</span><span class="artists"> - Gucci Mane</span>
+3. <span class="title">Castro</span><span class="artists"> - Yo Gotti, Kanye West, Big Sean, Quavo, 2 Chainz</span>
+4. <span class="title">INDUSTRY BABY</span><span class="artists"> - Lil Nas X, Jack Harlow</span>
 
 </div>
 
@@ -1318,37 +1318,37 @@
 
 <div>
 
-1. 21 Savage - Ghostface Killers (feat. Travis Scott)
-2. YG - Bicken Back Being Bool
-3. ~~_50 Cent - Lifes On The Line_~~
-4. ~~_Tory Lanez - Pieces (feat. 50 Cent)_~~
+1. <span class="title">Ghostface Killers</span><span class="artists"> - 21 Savage, Offset, Metro Boomin, Travis Scott</span>
+2. <span class="title">Bicken Back Being Bool</span><span class="artists"> - YG</span>
+3. ~~_<span class="title">Lifes On The Line</span><span class="artists"> - 50 Cent</span>_~~
+4. ~~_<span class="title">Pieces</span><span class="artists"> - Tory Lanez, 50 Cent</span>_~~
 
 </div>
 
 <div>
 
-1. Immortal Technique - Dance with the Devil
-2. Immortal Technique - The 4th Branch
-3. ~~_Big K.R.I.T. - Country Sh*t (Remix)_~~
-4. ~~_Drake - The Ride_~~
+1. <span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span>
+2. <span class="title">The 4th Branch</span><span class="artists"> - Immortal Technique</span>
+3. ~~_<span class="title">Country Sh*t</span><span class="artists"> - Big K.R.I.T., Ludacris, Bun B</span>_~~
+4. ~~_<span class="title">The Ride</span><span class="artists"> - Drake</span>_~~
 
 </div>
 
 <div>
 
-1. The Notorious B.I.G. - Dead Wrong (feat. Eminem) - 2005 Remaster
-2. Gang Starr - Rite Where U Stand
-3. ~~_Migos - Stir Fry_~~
-4. ~~_Eminem - Business_~~
+1. <span class="title">Dead Wrong</span><span class="artists"> - The Notorious B.I.G., Eminem</span>
+2. <span class="title">Rite Where U Stand</span><span class="artists"> - Gang Starr, Jadakiss</span>
+3. ~~_<span class="title">Stir Fry</span><span class="artists"> - Migos</span>_~~
+4. ~~_<span class="title">Business</span><span class="artists"> - Eminem</span>_~~
 
 </div>
 
 <div>
 
-1. Ice Cube - Gangsta Rap Made Me Do It
-2. JAY-Z - 99 Problems
-3. ~~_Eminem - '97 Bonnie & Clyde_~~
-4. ~~_ILOVEMAKONNEN - Tuesday (feat. Drake)_~~
+1. <span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span>
+2. <span class="title">99 Problems</span><span class="artists"> - JAY-Z</span>
+3. ~~_<span class="title">'97 Bonnie & Clyde</span><span class="artists"> - Eminem</span>_~~
+4. ~~_<span class="title">Tuesday</span><span class="artists"> - ILOVEMAKONNEN, Drake</span>_~~
 
 </div>
 
@@ -1358,19 +1358,19 @@
 
 <div>
 
-1. Immortal Technique - The 4th Branch
-2. JAY-Z - 99 Problems
-3. ~~_The Notorious B.I.G. - Dead Wrong (feat. Eminem) - 2005 Remaster_~~
-4. ~~_21 Savage - Ghostface Killers (feat. Travis Scott)_~~
+1. <span class="title">The 4th Branch</span><span class="artists"> - Immortal Technique</span>
+2. <span class="title">99 Problems</span><span class="artists"> - JAY-Z</span>
+3. ~~_<span class="title">Dead Wrong</span><span class="artists"> - The Notorious B.I.G., Eminem</span>_~~
+4. ~~_<span class="title">Ghostface Killers</span><span class="artists"> - 21 Savage, Offset, Metro Boomin, Travis Scott</span>_~~
 
 </div>
 
 <div>
 
-1. Immortal Technique - Dance with the Devil
-2. Ice Cube - Gangsta Rap Made Me Do It
-3. ~~_Gang Starr - Rite Where U Stand_~~
-4. ~~_YG - Bicken Back Being Bool_~~
+1. <span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span>
+2. <span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span>
+3. ~~_<span class="title">Rite Where U Stand</span><span class="artists"> - Gang Starr, Jadakiss</span>_~~
+4. ~~_<span class="title">Bicken Back Being Bool</span><span class="artists"> - YG</span>_~~
 
 </div>
 
@@ -1380,10 +1380,10 @@
 
 <div>
 
-1. Immortal Technique - Dance with the Devil
-2. Immortal Technique - The 4th Branch
-3. Ice Cube - Gangsta Rap Made Me Do It
-4. JAY-Z - 99 Problems
+1. <span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span>
+2. <span class="title">The 4th Branch</span><span class="artists"> - Immortal Technique</span>
+3. <span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span>
+4. <span class="title">99 Problems</span><span class="artists"> - JAY-Z</span>
 
 </div>
 
@@ -1400,37 +1400,37 @@
 
 <div>
 
-1. Jeremih - Don't Tell 'Em
-2. Warren G - Regulate
-3. ~~_21 Savage - Baby Girl_~~
-4. ~~_Flo Rida - GDFR (feat. Sage the Gemini & Lookas)_~~
+1. <span class="title">Don't Tell 'Em</span><span class="artists"> - Jeremih, YG</span>
+2. <span class="title">Regulate</span><span class="artists"> - Warren G, Nate Dogg</span>
+3. ~~_<span class="title">Baby Girl</span><span class="artists"> - 21 Savage</span>_~~
+4. ~~_<span class="title">GDFR</span><span class="artists"> - Flo Rida, Sage The Gemini, Lookas</span>_~~
 
 </div>
 
 <div>
 
-1. Afroman - Crazy Rap (Colt 45 & 2 Zig Zags)
-2. Will Smith - Wild Wild West (feat. Dru Hill & Kool Mo Dee)
-3. ~~_BABY GRAVY - You Need Jesus_~~
-4. ~~_Future - Photo Copied_~~
+1. <span class="title">Crazy Rap</span><span class="artists"> - Afroman</span>
+2. <span class="title">Wild Wild West</span><span class="artists"> - Will Smith, Dru Hill, Kool Moe Dee</span>
+3. ~~_<span class="title">You Need Jesus</span><span class="artists"> - BABY GRAVY, Yung Gravy, bbno$</span>_~~
+4. ~~_<span class="title">Photo Copied</span><span class="artists"> - Future</span>_~~
 
 </div>
 
 <div>
 
-1. Ice Cube - Hello
-2. Cardi B - WAP (feat. Megan Thee Stallion)
-3. ~~_Drake - Nice For What_~~
-4. ~~_Cam'ron - Down And Out_~~
+1. <span class="title">Hello</span><span class="artists"> - Ice Cube, Dr. Dre, MC Ren</span>
+2. <span class="title">WAP</span><span class="artists"> - Cardi B, Megan Thee Stallion</span>
+3. ~~_<span class="title">Nice For What</span><span class="artists"> - Drake</span>_~~
+4. ~~_<span class="title">Down And Out</span><span class="artists"> - Cam'ron, Kanye West, Syleena Johnson</span>_~~
 
 </div>
 
 <div>
 
-1. Curren$y - The Type (feat. Prodigy)
-2. 2 Chainz - Birthday Song
-3. ~~_The Notorious B.I.G. - Hypnotize - 2014 Remaster_~~
-4. ~~_Drake - Summer Sixteen_~~
+1. <span class="title">The Type</span><span class="artists"> - Curren$y, The Alchemist, Prodigy</span>
+2. <span class="title">Birthday Song</span><span class="artists"> - 2 Chainz, Kanye West</span>
+3. ~~_<span class="title">Hypnotize</span><span class="artists"> - The Notorious B.I.G.</span>_~~
+4. ~~_<span class="title">Summer Sixteen</span><span class="artists"> - Drake</span>_~~
 
 </div>
 
@@ -1440,19 +1440,19 @@
 
 <div>
 
-1. Jeremih - Don't Tell 'Em
-2. Ice Cube - Hello
-3. ~~_Will Smith - Wild Wild West (feat. Dru Hill & Kool Mo Dee)_~~
-4. ~~_2 Chainz - Birthday Song_~~
+1. <span class="title">Don't Tell 'Em</span><span class="artists"> - Jeremih, YG</span>
+2. <span class="title">Hello</span><span class="artists"> - Ice Cube, Dr. Dre, MC Ren</span>
+3. ~~_<span class="title">Wild Wild West</span><span class="artists"> - Will Smith, Dru Hill, Kool Moe Dee</span>_~~
+4. ~~_<span class="title">Birthday Song</span><span class="artists"> - 2 Chainz, Kanye West</span>_~~
 
 </div>
 
 <div>
 
-1. Afroman - Crazy Rap (Colt 45 & 2 Zig Zags)
-2. Warren G - Regulate
-3. ~~_Cardi B - WAP (feat. Megan Thee Stallion)_~~
-4. ~~_Curren$y - The Type (feat. Prodigy)_~~
+1. <span class="title">Crazy Rap</span><span class="artists"> - Afroman</span>
+2. <span class="title">Regulate</span><span class="artists"> - Warren G, Nate Dogg</span>
+3. ~~_<span class="title">WAP</span><span class="artists"> - Cardi B, Megan Thee Stallion</span>_~~
+4. ~~_<span class="title">The Type</span><span class="artists"> - Curren$y, The Alchemist, Prodigy</span>_~~
 
 </div>
 
@@ -1462,10 +1462,10 @@
 
 <div>
 
-1. Afroman - Crazy Rap (Colt 45 & 2 Zig Zags)
-2. Jeremih - Don't Tell 'Em
-3. Ice Cube - Hello
-4. Warren G - Regulate
+1. <span class="title">Crazy Rap</span><span class="artists"> - Afroman</span>
+2. <span class="title">Don't Tell 'Em</span><span class="artists"> - Jeremih, YG</span>
+3. <span class="title">Hello</span><span class="artists"> - Ice Cube, Dr. Dre, MC Ren</span>
+4. <span class="title">Regulate</span><span class="artists"> - Warren G, Nate Dogg</span>
 
 </div>
 
@@ -1482,37 +1482,37 @@
 
 <div>
 
-1. Future - Comin Out Strong (feat. The Weeknd)
-2. DMX - X Gon' Give It To Ya
-3. ~~_Megan Thee Stallion - Do It On The Tip (feat. City Girls & Hot Girl Meg)_~~
-4. ~~_Lil Jon - Bend Ova (feat. Tyga)_~~
+1. <span class="title">Comin Out Strong</span><span class="artists"> - Future, The Weeknd</span>
+2. <span class="title">X Gon' Give It To Ya</span><span class="artists"> - DMX</span>
+3. ~~_<span class="title">Do It On The Tip</span><span class="artists"> - Megan Thee Stallion, City Girls, Hot Girl Meg</span>_~~
+4. ~~_<span class="title">Bend Ova</span><span class="artists"> - Lil Jon, Tyga</span>_~~
 
 </div>
 
 <div>
 
-1. Bobby Shmurda - Hot N****
-2. Pharoahe Monch - Simon Says
-3. ~~_Yung Gravy - Betty (Get Money)_~~
-4. ~~_Big Sean - I Don't Fuck With You_~~
+1. <span class="title">Hot N****</span><span class="artists"> - Bobby Shmurda</span>
+2. <span class="title">Simon Says</span><span class="artists"> - Pharoahe Monch</span>
+3. ~~_<span class="title">Betty</span><span class="artists"> - Yung Gravy</span>_~~
+4. ~~_<span class="title">I Don't Fuck With You</span><span class="artists"> - Big Sean, E-40</span>_~~
 
 </div>
 
 <div>
 
-1. Will Smith - Men In Black - From "Men In Black" Soundtrack
-2. Dead Prez - Hip-Hop
-3. ~~_Montell Jordan - This Is How We Do It_~~
-4. ~~_Ol' Dirty Bastard - Got Your Money (feat. Kelis)_~~
+1. <span class="title">Men In Black</span><span class="artists"> - Will Smith</span>
+2. <span class="title">Hip-Hop</span><span class="artists"> - Dead Prez</span>
+3. ~~_<span class="title">This Is How We Do It</span><span class="artists"> - Montell Jordan, Wino</span>_~~
+4. ~~_<span class="title">Got Your Money</span><span class="artists"> - Ol' Dirty Bastard, Kelis</span>_~~
 
 </div>
 
 <div>
 
-1. Drake - Money In The Grave (Drake ft. Rick Ross)
-2. Juicy J - Smokin' Rollin' (feat. Pimp C)
-3. ~~_Ty Dolla $ign - Clout (feat. 21 Savage)_~~
-4. ~~_Desiigner - Panda_~~
+1. <span class="title">Money In The Grave</span><span class="artists"> - Drake, Rick Ross</span>
+2. <span class="title">Smokin' Rollin'</span><span class="artists"> - Juicy J, Pimp C</span>
+3. ~~_<span class="title">Clout</span><span class="artists"> - Ty Dolla $ign, 21 Savage</span>_~~
+4. ~~_<span class="title">Panda</span><span class="artists"> - Desiigner</span>_~~
 
 </div>
 
@@ -1522,19 +1522,19 @@
 
 <div>
 
-1. Pharoahe Monch - Simon Says
-2. Will Smith - Men In Black - From "Men In Black" Soundtrack
-3. ~~_Juicy J - Smokin' Rollin' (feat. Pimp C)_~~
-4. ~~_Future - Comin Out Strong (feat. The Weeknd)_~~
+1. <span class="title">Simon Says</span><span class="artists"> - Pharoahe Monch</span>
+2. <span class="title">Men In Black</span><span class="artists"> - Will Smith</span>
+3. ~~_<span class="title">Smokin' Rollin'</span><span class="artists"> - Juicy J, Pimp C</span>_~~
+4. ~~_<span class="title">Comin Out Strong</span><span class="artists"> - Future, The Weeknd</span>_~~
 
 </div>
 
 <div>
 
-1. Bobby Shmurda - Hot N****
-2. Drake - Money In The Grave (Drake ft. Rick Ross)
-3. ~~_Dead Prez - Hip-Hop_~~
-4. ~~_DMX - X Gon' Give It To Ya_~~
+1. <span class="title">Hot N****</span><span class="artists"> - Bobby Shmurda</span>
+2. <span class="title">Money In The Grave</span><span class="artists"> - Drake, Rick Ross</span>
+3. ~~_<span class="title">Hip-Hop</span><span class="artists"> - Dead Prez</span>_~~
+4. ~~_<span class="title">X Gon' Give It To Ya</span><span class="artists"> - DMX</span>_~~
 
 </div>
 
@@ -1544,10 +1544,10 @@
 
 <div>
 
-1. Bobby Shmurda - Hot N****
-2. Pharoahe Monch - Simon Says
-3. Drake - Money In The Grave (Drake ft. Rick Ross)
-4. Will Smith - Men In Black - From "Men In Black" Soundtrack
+1. <span class="title">Hot N****</span><span class="artists"> - Bobby Shmurda</span>
+2. <span class="title">Simon Says</span><span class="artists"> - Pharoahe Monch</span>
+3. <span class="title">Money In The Grave</span><span class="artists"> - Drake, Rick Ross</span>
+4. <span class="title">Men In Black</span><span class="artists"> - Will Smith</span>
 
 </div>
 
@@ -1564,37 +1564,37 @@
 
 <div>
 
-1. Gucci Mane - Freaky Girl
-2. The Notorious B.I.G. - Going Back to Cali - 2014 Remaster
-3. ~~_BABY GRAVY - Welcome to Chilis_~~
-4. ~~_Chris Brown - Look At Me Now (feat. Lil' Wayne & Busta Rhymes)_~~
+1. <span class="title">Freaky Girl</span><span class="artists"> - Gucci Mane</span>
+2. <span class="title">Going Back to Cali</span><span class="artists"> - The Notorious B.I.G.</span>
+3. ~~_<span class="title">Welcome to Chilis</span><span class="artists"> - BABY GRAVY, Yung Gravy, bbno$</span>_~~
+4. ~~_<span class="title">Look At Me Now</span><span class="artists"> - Chris Brown, Lil Wayne, Busta Rhymes</span>_~~
 
 </div>
 
 <div>
 
-1. Cam'ron - Hey Ma
-2. Lil Pump - Iced Out (feat. 2 Chainz)
-3. ~~_Ice Cube - Check Yo Self - Remix_~~
-4. ~~_Lil Wayne - Mr. Carter_~~
+1. <span class="title">Hey Ma</span><span class="artists"> - Cam'ron, Juelz Santana, Freekey Zeekey, Toya</span>
+2. <span class="title">Iced Out</span><span class="artists"> - Lil Pump, 2 Chainz</span>
+3. ~~_<span class="title">Check Yo Self</span><span class="artists"> - Ice Cube, Das EFX</span>_~~
+4. ~~_<span class="title">Mr. Carter</span><span class="artists"> - Lil Wayne, JAY-Z</span>_~~
 
 </div>
 
 <div>
 
-1. Eminem - Without Me
-2. 2 Chainz - No Lie
-3. ~~_JAY-Z - Money Ain't A Thang_~~
-4. ~~_Post Malone - rockstar_~~
+1. <span class="title">Without Me</span><span class="artists"> - Eminem</span>
+2. <span class="title">No Lie</span><span class="artists"> - 2 Chainz, Drake</span>
+3. ~~_<span class="title">Money Ain't A Thang</span><span class="artists"> - JAY-Z, Jermaine Dupri</span>_~~
+4. ~~_<span class="title">rockstar</span><span class="artists"> - Post Malone, 21 Savage</span>_~~
 
 </div>
 
 <div>
 
-1. J. Cole - Work Out
-2. Ice Cube - Ain't Got No Haters (feat. Too Short)
-3. ~~_Offset - Ric Flair Drip (with Metro Boomin)_~~
-4. ~~_21 Savage - Run Up the Racks_~~
+1. <span class="title">Work Out</span><span class="artists"> - J. Cole</span>
+2. <span class="title">Ain't Got No Haters</span><span class="artists"> - Ice Cube, Too $hort</span>
+3. ~~_<span class="title">Ric Flair Drip</span><span class="artists"> - Offset, Metro Boomin</span>_~~
+4. ~~_<span class="title">Run Up the Racks</span><span class="artists"> - 21 Savage, Metro Boomin</span>_~~
 
 </div>
 
@@ -1604,19 +1604,19 @@
 
 <div>
 
-1. Gucci Mane - Freaky Girl
-2. Eminem - Without Me
-3. ~~_Ice Cube - Ain't Got No Haters (feat. Too Short)_~~
-4. ~~_Lil Pump - Iced Out (feat. 2 Chainz)_~~
+1. <span class="title">Freaky Girl</span><span class="artists"> - Gucci Mane</span>
+2. <span class="title">Without Me</span><span class="artists"> - Eminem</span>
+3. ~~_<span class="title">Ain't Got No Haters</span><span class="artists"> - Ice Cube, Too $hort</span>_~~
+4. ~~_<span class="title">Iced Out</span><span class="artists"> - Lil Pump, 2 Chainz</span>_~~
 
 </div>
 
 <div>
 
-1. J. Cole - Work Out
-2. The Notorious B.I.G. - Going Back to Cali - 2014 Remaster
-3. ~~_2 Chainz - No Lie_~~
-4. ~~_Cam'ron - Hey Ma_~~
+1. <span class="title">Work Out</span><span class="artists"> - J. Cole</span>
+2. <span class="title">Going Back to Cali</span><span class="artists"> - The Notorious B.I.G.</span>
+3. ~~_<span class="title">No Lie</span><span class="artists"> - 2 Chainz, Drake</span>_~~
+4. ~~_<span class="title">Hey Ma</span><span class="artists"> - Cam'ron, Juelz Santana, Freekey Zeekey, Toya</span>_~~
 
 </div>
 
@@ -1626,10 +1626,10 @@
 
 <div>
 
-1. Gucci Mane - Freaky Girl
-2. J. Cole - Work Out
-3. Eminem - Without Me
-4. The Notorious B.I.G. - Going Back to Cali - 2014 Remaster
+1. <span class="title">Freaky Girl</span><span class="artists"> - Gucci Mane</span>
+2. <span class="title">Work Out</span><span class="artists"> - J. Cole</span>
+3. <span class="title">Without Me</span><span class="artists"> - Eminem</span>
+4. <span class="title">Going Back to Cali</span><span class="artists"> - The Notorious B.I.G.</span>
 
 </div>
 
@@ -1646,37 +1646,37 @@
 
 <div>
 
-1. Birdman - Stuntin' Like My Daddy - Street
-2. Tory Lanez - LUV
-3. ~~_Tone-Loc - Funky Cold Medina_~~
-4. ~~_Migos - Hannah Montana_~~
+1. <span class="title">Stuntin' Like My Daddy</span><span class="artists"> - Birdman, Lil Wayne</span>
+2. <span class="title">LUV</span><span class="artists"> - Tory Lanez</span>
+3. ~~_<span class="title">Funky Cold Medina</span><span class="artists"> - Tone-Loc</span>_~~
+4. ~~_<span class="title">Hannah Montana</span><span class="artists"> - Migos</span>_~~
 
 </div>
 
 <div>
 
-1. N.W.A. - Straight Outta Compton
-2. Big L - Ebonics
-3. ~~_50 Cent - Back Down_~~
-4. ~~_Gucci Mane - Waybach_~~
+1. <span class="title">Straight Outta Compton</span><span class="artists"> - N.W.A.</span>
+2. <span class="title">Ebonics</span><span class="artists"> - Big L</span>
+3. ~~_<span class="title">Back Down</span><span class="artists"> - 50 Cent</span>_~~
+4. ~~_<span class="title">Waybach</span><span class="artists"> - Gucci Mane</span>_~~
 
 </div>
 
 <div>
 
-1. Big L - Platinum Plus
-2. 50 Cent - Disco Inferno
-3. ~~_Juicy J - Gun Plus A Mask (feat. Yelawolf)_~~
-4. ~~_Future - New Illuminati_~~
+1. <span class="title">Platinum Plus</span><span class="artists"> - Big L, Big Daddy Kane</span>
+2. <span class="title">Disco Inferno</span><span class="artists"> - 50 Cent</span>
+3. ~~_<span class="title">Gun Plus A Mask</span><span class="artists"> - Juicy J, Yelawolf</span>_~~
+4. ~~_<span class="title">New Illuminati</span><span class="artists"> - Future</span>_~~
 
 </div>
 
 <div>
 
-1. Jadakiss - Time's Up
-2. Ja Rule - Livin' It Up
-3. ~~_Drake - God's Plan_~~
-4. ~~_Xzibit - X_~~
+1. <span class="title">Time's Up</span><span class="artists"> - Jadakiss, Nate Dogg</span>
+2. <span class="title">Livin' It Up</span><span class="artists"> - Ja Rule, Case</span>
+3. ~~_<span class="title">God's Plan</span><span class="artists"> - Drake</span>_~~
+4. ~~_<span class="title">X</span><span class="artists"> - Xzibit</span>_~~
 
 </div>
 
@@ -1686,19 +1686,19 @@
 
 <div>
 
-1. Birdman - Stuntin' Like My Daddy - Street
-2. Big L - Platinum Plus
-3. ~~_Ja Rule - Livin' It Up_~~
-4. ~~_Big L - Ebonics_~~
+1. <span class="title">Stuntin' Like My Daddy</span><span class="artists"> - Birdman, Lil Wayne</span>
+2. <span class="title">Platinum Plus</span><span class="artists"> - Big L, Big Daddy Kane</span>
+3. ~~_<span class="title">Livin' It Up</span><span class="artists"> - Ja Rule, Case</span>_~~
+4. ~~_<span class="title">Ebonics</span><span class="artists"> - Big L</span>_~~
 
 </div>
 
 <div>
 
-1. Jadakiss - Time's Up
-2. N.W.A. - Straight Outta Compton
-3. ~~_Tory Lanez - LUV_~~
-4. ~~_50 Cent - Disco Inferno_~~
+1. <span class="title">Time's Up</span><span class="artists"> - Jadakiss, Nate Dogg</span>
+2. <span class="title">Straight Outta Compton</span><span class="artists"> - N.W.A.</span>
+3. ~~_<span class="title">LUV</span><span class="artists"> - Tory Lanez</span>_~~
+4. ~~_<span class="title">Disco Inferno</span><span class="artists"> - 50 Cent</span>_~~
 
 </div>
 
@@ -1708,10 +1708,10 @@
 
 <div>
 
-1. Jadakiss - Time's Up
-2. Birdman - Stuntin' Like My Daddy - Street
-3. N.W.A. - Straight Outta Compton
-4. Big L - Platinum Plus
+1. <span class="title">Time's Up</span><span class="artists"> - Jadakiss, Nate Dogg</span>
+2. <span class="title">Stuntin' Like My Daddy</span><span class="artists"> - Birdman, Lil Wayne</span>
+3. <span class="title">Straight Outta Compton</span><span class="artists"> - N.W.A.</span>
+4. <span class="title">Platinum Plus</span><span class="artists"> - Big L, Big Daddy Kane</span>
 
 </div>
 
@@ -1728,37 +1728,37 @@
 
 <div>
 
-1. DJ Felli Fel - Get Buck In Here
-2. Drake - Too Good
-3. ~~_Drake - Controlla_~~
-4. ~~_Kelly Rowland - Motivation_~~
+1. <span class="title">Get Buck In Here</span><span class="artists"> - DJ Felli Fel, Diddy, Akon, Ludacris, Lil Jon</span>
+2. <span class="title">Too Good</span><span class="artists"> - Drake, Rihanna</span>
+3. ~~_<span class="title">Controlla</span><span class="artists"> - Drake</span>_~~
+4. ~~_<span class="title">Motivation</span><span class="artists"> - Kelly Rowland, Lil Wayne</span>_~~
 
 </div>
 
 <div>
 
-1. Lil Wayne - Tha Mobb
-2. Migos - Get Right Witcha
-3. ~~_Big Pun - Twinz (Deep Cover 98) (feat. Fat Joe)_~~
-4. ~~_Drake - Hotline Bling_~~
+1. <span class="title">Tha Mobb</span><span class="artists"> - Lil Wayne</span>
+2. <span class="title">Get Right Witcha</span><span class="artists"> - Migos</span>
+3. ~~_<span class="title">Twinz</span><span class="artists"> - Big Pun, Fat Joe</span>_~~
+4. ~~_<span class="title">Hotline Bling</span><span class="artists"> - Drake</span>_~~
 
 </div>
 
 <div>
 
-1. Eminem - The Real Slim Shady
-2. 21 Savage - redrum
-3. ~~_YG - Who Do You Love?_~~
-4. ~~_Trey Songz - Na Na_~~
+1. <span class="title">The Real Slim Shady</span><span class="artists"> - Eminem</span>
+2. <span class="title">redrum</span><span class="artists"> - 21 Savage</span>
+3. ~~_<span class="title">Who Do You Love?</span><span class="artists"> - YG, Drake</span>_~~
+4. ~~_<span class="title">Na Na</span><span class="artists"> - Trey Songz</span>_~~
 
 </div>
 
 <div>
 
-1. Drake - Nonstop
-2. Snoop Dogg - Gin and Juice
-3. ~~_Biz Markie - Just a Friend_~~
-4. ~~_Chief Keef - Hate Bein' Sober_~~
+1. <span class="title">Nonstop</span><span class="artists"> - Drake</span>
+2. <span class="title">Gin and Juice</span><span class="artists"> - Snoop Dogg</span>
+3. ~~_<span class="title">Just a Friend</span><span class="artists"> - Biz Markie</span>_~~
+4. ~~_<span class="title">Hate Bein' Sober</span><span class="artists"> - Chief Keef, 50 Cent, Wiz Khalifa</span>_~~
 
 </div>
 
@@ -1768,19 +1768,19 @@
 
 <div>
 
-1. Eminem - The Real Slim Shady
-2. Snoop Dogg - Gin and Juice
-3. ~~_DJ Felli Fel - Get Buck In Here_~~
-4. ~~_Migos - Get Right Witcha_~~
+1. <span class="title">The Real Slim Shady</span><span class="artists"> - Eminem</span>
+2. <span class="title">Gin and Juice</span><span class="artists"> - Snoop Dogg</span>
+3. ~~_<span class="title">Get Buck In Here</span><span class="artists"> - DJ Felli Fel, Diddy, Akon, Ludacris, Lil Jon</span>_~~
+4. ~~_<span class="title">Get Right Witcha</span><span class="artists"> - Migos</span>_~~
 
 </div>
 
 <div>
 
-1. Lil Wayne - Tha Mobb
-2. Drake - Nonstop
-3. ~~_21 Savage - redrum_~~
-4. ~~_Drake - Too Good_~~
+1. <span class="title">Tha Mobb</span><span class="artists"> - Lil Wayne</span>
+2. <span class="title">Nonstop</span><span class="artists"> - Drake</span>
+3. ~~_<span class="title">redrum</span><span class="artists"> - 21 Savage</span>_~~
+4. ~~_<span class="title">Too Good</span><span class="artists"> - Drake, Rihanna</span>_~~
 
 </div>
 
@@ -1790,10 +1790,10 @@
 
 <div>
 
-1. Lil Wayne - Tha Mobb
-2. Eminem - The Real Slim Shady
-3. Drake - Nonstop
-4. Snoop Dogg - Gin and Juice
+1. <span class="title">Tha Mobb</span><span class="artists"> - Lil Wayne</span>
+2. <span class="title">The Real Slim Shady</span><span class="artists"> - Eminem</span>
+3. <span class="title">Nonstop</span><span class="artists"> - Drake</span>
+4. <span class="title">Gin and Juice</span><span class="artists"> - Snoop Dogg</span>
 
 </div>
 
@@ -1810,37 +1810,37 @@
 
 <div>
 
-1. Tech N9ne - Caribou Lou (Album Version (Explicit))
-2. 2 Chainz - Crack
-3. ~~_The Notorious B.I.G. - Notorious B.I.G. (feat. Lil' Kim & Puff Daddy) - 2005 Remaster_~~
-4. ~~_Juicy J - Having Sex (feat. Trina & 2 Chainz)_~~
+1. <span class="title">Caribou Lou</span><span class="artists"> - Tech N9ne</span>
+2. <span class="title">Crack</span><span class="artists"> - 2 Chainz</span>
+3. ~~_<span class="title">Notorious B.I.G.</span><span class="artists"> - The Notorious B.I.G., Lil' Kim, Diddy</span>_~~
+4. ~~_<span class="title">Having Sex</span><span class="artists"> - Juicy J, Trina, 2 Chainz</span>_~~
 
 </div>
 
 <div>
 
-1. Nas - I Can
-2. YG - I Just Wanna Party
-3. ~~_French Montana - No Shopping (feat. Drake)_~~
-4. ~~_Future - Program_~~
+1. <span class="title">I Can</span><span class="artists"> - Nas</span>
+2. <span class="title">I Just Wanna Party</span><span class="artists"> - YG, ScHoolboy Q, Jay Rock</span>
+3. ~~_<span class="title">No Shopping</span><span class="artists"> - French Montana, Drake</span>_~~
+4. ~~_<span class="title">Program</span><span class="artists"> - Future</span>_~~
 
 </div>
 
 <div>
 
-1. Rick Ross - Hustlin'
-2. Jibbs - King Kong
-3. ~~_50 Cent - What Up Gangsta_~~
-4. ~~_Drake - Lord Knows_~~
+1. <span class="title">Hustlin'</span><span class="artists"> - Rick Ross</span>
+2. <span class="title">King Kong</span><span class="artists"> - Jibbs, Chamillionaire</span>
+3. ~~_<span class="title">What Up Gangsta</span><span class="artists"> - 50 Cent</span>_~~
+4. ~~_<span class="title">Lord Knows</span><span class="artists"> - Drake, Rick Ross</span>_~~
 
 </div>
 
 <div>
 
-1. Jibbs - Chain Hang Low
-2. Yung Gravy - C’est La Vie (with bbno$ & Rich Brian)
-3. ~~_Drake - HYFR (Hell Ya Fucking Right)_~~
-4. ~~_Migos - Big On Big_~~
+1. <span class="title">Chain Hang Low</span><span class="artists"> - Jibbs</span>
+2. <span class="title">C’est La Vie</span><span class="artists"> - Yung Gravy, bbno$, Rich Brian</span>
+3. ~~_<span class="title">HYFR</span><span class="artists"> - Drake, Lil Wayne</span>_~~
+4. ~~_<span class="title">Big On Big</span><span class="artists"> - Migos</span>_~~
 
 </div>
 
@@ -1850,19 +1850,19 @@
 
 <div>
 
-1. Tech N9ne - Caribou Lou (Album Version (Explicit))
-2. Rick Ross - Hustlin'
-3. ~~_YG - I Just Wanna Party_~~
-4. ~~_Yung Gravy - C’est La Vie (with bbno$ & Rich Brian)_~~
+1. <span class="title">Caribou Lou</span><span class="artists"> - Tech N9ne</span>
+2. <span class="title">Hustlin'</span><span class="artists"> - Rick Ross</span>
+3. ~~_<span class="title">I Just Wanna Party</span><span class="artists"> - YG, ScHoolboy Q, Jay Rock</span>_~~
+4. ~~_<span class="title">C’est La Vie</span><span class="artists"> - Yung Gravy, bbno$, Rich Brian</span>_~~
 
 </div>
 
 <div>
 
-1. Nas - I Can
-2. Jibbs - King Kong
-3. ~~_2 Chainz - Crack_~~
-4. ~~_Jibbs - Chain Hang Low_~~
+1. <span class="title">I Can</span><span class="artists"> - Nas</span>
+2. <span class="title">King Kong</span><span class="artists"> - Jibbs, Chamillionaire</span>
+3. ~~_<span class="title">Crack</span><span class="artists"> - 2 Chainz</span>_~~
+4. ~~_<span class="title">Chain Hang Low</span><span class="artists"> - Jibbs</span>_~~
 
 </div>
 
@@ -1872,10 +1872,10 @@
 
 <div>
 
-1. Tech N9ne - Caribou Lou (Album Version (Explicit))
-2. Nas - I Can
-3. Rick Ross - Hustlin'
-4. Jibbs - King Kong
+1. <span class="title">Caribou Lou</span><span class="artists"> - Tech N9ne</span>
+2. <span class="title">I Can</span><span class="artists"> - Nas</span>
+3. <span class="title">Hustlin'</span><span class="artists"> - Rick Ross</span>
+4. <span class="title">King Kong</span><span class="artists"> - Jibbs, Chamillionaire</span>
 
 </div>
 
@@ -1892,37 +1892,37 @@
 
 <div>
 
-1. Nelly - E.I.
-2. Drake - The Motto
-3. ~~_Juicy J - Show Out_~~
-4. ~~_Drake - Crew Love_~~
+1. <span class="title">E.I.</span><span class="artists"> - Nelly</span>
+2. <span class="title">The Motto</span><span class="artists"> - Drake, Lil Wayne</span>
+3. ~~_<span class="title">Show Out</span><span class="artists"> - Juicy J, Big Sean, Jeezy</span>_~~
+4. ~~_<span class="title">Crew Love</span><span class="artists"> - Drake, The Weeknd</span>_~~
 
 </div>
 
 <div>
 
-1. 50 Cent - Patiently Waiting
-2. Big Pun - The Dream Shatterer - Capital Punishment Mix
-3. ~~_Ice Cube - You Know How We Do It_~~
-4. ~~_EPMD - Headbanger_~~
+1. <span class="title">Patiently Waiting</span><span class="artists"> - 50 Cent, Eminem</span>
+2. <span class="title">The Dream Shatterer</span><span class="artists"> - Big Pun</span>
+3. ~~_<span class="title">You Know How We Do It</span><span class="artists"> - Ice Cube</span>_~~
+4. ~~_<span class="title">Headbanger</span><span class="artists"> - EPMD, Redman, K-Solo</span>_~~
 
 </div>
 
 <div>
 
-1. Birdman - Over Here Hustlin'
-2. Drake - Take Care
-3. ~~_Future - Fuck Up Some Commas_~~
-4. ~~_Tyga - Taste (feat. Offset)_~~
+1. <span class="title">Over Here Hustlin'</span><span class="artists"> - Birdman, Lil Wayne</span>
+2. <span class="title">Take Care</span><span class="artists"> - Drake, Rihanna</span>
+3. ~~_<span class="title">Fuck Up Some Commas</span><span class="artists"> - Future</span>_~~
+4. ~~_<span class="title">Taste</span><span class="artists"> - Tyga, Offset</span>_~~
 
 </div>
 
 <div>
 
-1. Westside Connection - Bow Down
-2. Ludacris - Area Codes
-3. ~~_Birdman - Pop Bottles - Main_~~
-4. ~~_DJ Khaled - No Brainer_~~
+1. <span class="title">Bow Down</span><span class="artists"> - Westside Connection</span>
+2. <span class="title">Area Codes</span><span class="artists"> - Ludacris, Nate Dogg</span>
+3. ~~_<span class="title">Pop Bottles</span><span class="artists"> - Birdman, Lil Wayne</span>_~~
+4. ~~_<span class="title">No Brainer</span><span class="artists"> - DJ Khaled, Justin Bieber, Quavo, Chance the Rapper</span>_~~
 
 </div>
 
@@ -1932,19 +1932,19 @@
 
 <div>
 
-1. Nelly - E.I.
-2. Birdman - Over Here Hustlin'
-3. ~~_Ludacris - Area Codes_~~
-4. ~~_Big Pun - The Dream Shatterer - Capital Punishment Mix_~~
+1. <span class="title">E.I.</span><span class="artists"> - Nelly</span>
+2. <span class="title">Over Here Hustlin'</span><span class="artists"> - Birdman, Lil Wayne</span>
+3. ~~_<span class="title">Area Codes</span><span class="artists"> - Ludacris, Nate Dogg</span>_~~
+4. ~~_<span class="title">The Dream Shatterer</span><span class="artists"> - Big Pun</span>_~~
 
 </div>
 
 <div>
 
-1. 50 Cent - Patiently Waiting
-2. Westside Connection - Bow Down
-3. ~~_Drake - Take Care_~~
-4. ~~_Drake - The Motto_~~
+1. <span class="title">Patiently Waiting</span><span class="artists"> - 50 Cent, Eminem</span>
+2. <span class="title">Bow Down</span><span class="artists"> - Westside Connection</span>
+3. ~~_<span class="title">Take Care</span><span class="artists"> - Drake, Rihanna</span>_~~
+4. ~~_<span class="title">The Motto</span><span class="artists"> - Drake, Lil Wayne</span>_~~
 
 </div>
 
@@ -1954,10 +1954,10 @@
 
 <div>
 
-1. Nelly - E.I.
-2. 50 Cent - Patiently Waiting
-3. Westside Connection - Bow Down
-4. Birdman - Over Here Hustlin'
+1. <span class="title">E.I.</span><span class="artists"> - Nelly</span>
+2. <span class="title">Patiently Waiting</span><span class="artists"> - 50 Cent, Eminem</span>
+3. <span class="title">Bow Down</span><span class="artists"> - Westside Connection</span>
+4. <span class="title">Over Here Hustlin'</span><span class="artists"> - Birdman, Lil Wayne</span>
 
 </div>
 
@@ -1974,37 +1974,37 @@
 
 <div>
 
-1. JAY-Z - Dirt Off Your Shoulder
-2. 50 Cent - In Da Club
-3. ~~_Gucci Mane - Let's Get Faded_~~
-4. ~~_Future - I'm so Groovy_~~
+1. <span class="title">Dirt Off Your Shoulder</span><span class="artists"> - JAY-Z</span>
+2. <span class="title">In Da Club</span><span class="artists"> - 50 Cent</span>
+3. ~~_<span class="title">Let's Get Faded</span><span class="artists"> - Gucci Mane, V-Nasty</span>_~~
+4. ~~_<span class="title">I'm so Groovy</span><span class="artists"> - Future</span>_~~
 
 </div>
 
 <div>
 
-1. Mobb Deep - Quiet Storm
-2. YG - Left, Right
-3. ~~_2Pac - Keep Ya Head Up_~~
-4. ~~_Rico Nasty - Own It_~~
+1. <span class="title">Quiet Storm</span><span class="artists"> - Mobb Deep</span>
+2. <span class="title">Left, Right</span><span class="artists"> - YG, Mustard</span>
+3. ~~_<span class="title">Keep Ya Head Up</span><span class="artists"> - 2Pac</span>_~~
+4. ~~_<span class="title">Own It</span><span class="artists"> - Rico Nasty</span>_~~
 
 </div>
 
 <div>
 
-1. Mobb Deep - Shook Ones, Pt. II
-2. D12 - Rap Game
-3. ~~_2 Chainz - Big Amount_~~
-4. ~~_Drake - We'll Be Fine_~~
+1. <span class="title">Shook Ones, Pt. II</span><span class="artists"> - Mobb Deep</span>
+2. <span class="title">Rap Game</span><span class="artists"> - D12, 50 Cent</span>
+3. ~~_<span class="title">Big Amount</span><span class="artists"> - 2 Chainz, Drake</span>_~~
+4. ~~_<span class="title">We'll Be Fine</span><span class="artists"> - Drake, Birdman</span>_~~
 
 </div>
 
 <div>
 
-1. Mike WiLL Made-It - Gucci On My (feat. 21 Savage, YG & Migos)
-2. DMX - Party Up
-3. ~~_Bhad Bhabie - Get Like Me (feat. NLE Choppa)_~~
-4. ~~_Migos - Slippery (feat. Gucci Mane)_~~
+1. <span class="title">Gucci On My</span><span class="artists"> - Mike WiLL Made-It, 21 Savage, YG, Migos</span>
+2. <span class="title">Party Up</span><span class="artists"> - DMX</span>
+3. ~~_<span class="title">Get Like Me</span><span class="artists"> - Bhad Bhabie, NLE Choppa</span>_~~
+4. ~~_<span class="title">Slippery</span><span class="artists"> - Migos, Gucci Mane</span>_~~
 
 </div>
 
@@ -2014,19 +2014,19 @@
 
 <div>
 
-1. Mobb Deep - Shook Ones, Pt. II
-2. JAY-Z - Dirt Off Your Shoulder
-3. ~~_DMX - Party Up_~~
-4. ~~_YG - Left, Right_~~
+1. <span class="title">Shook Ones, Pt. II</span><span class="artists"> - Mobb Deep</span>
+2. <span class="title">Dirt Off Your Shoulder</span><span class="artists"> - JAY-Z</span>
+3. ~~_<span class="title">Party Up</span><span class="artists"> - DMX</span>_~~
+4. ~~_<span class="title">Left, Right</span><span class="artists"> - YG, Mustard</span>_~~
 
 </div>
 
 <div>
 
-1. Mobb Deep - Quiet Storm
-2. D12 - Rap Game
-3. ~~_50 Cent - In Da Club_~~
-4. ~~_Mike WiLL Made-It - Gucci On My (feat. 21 Savage, YG & Migos)_~~
+1. <span class="title">Quiet Storm</span><span class="artists"> - Mobb Deep</span>
+2. <span class="title">Rap Game</span><span class="artists"> - D12, 50 Cent</span>
+3. ~~_<span class="title">In Da Club</span><span class="artists"> - 50 Cent</span>_~~
+4. ~~_<span class="title">Gucci On My</span><span class="artists"> - Mike WiLL Made-It, 21 Savage, YG, Migos</span>_~~
 
 </div>
 
@@ -2036,10 +2036,10 @@
 
 <div>
 
-1. Mobb Deep - Shook Ones, Pt. II
-2. Mobb Deep - Quiet Storm
-3. JAY-Z - Dirt Off Your Shoulder
-4. D12 - Rap Game
+1. <span class="title">Shook Ones, Pt. II</span><span class="artists"> - Mobb Deep</span>
+2. <span class="title">Quiet Storm</span><span class="artists"> - Mobb Deep</span>
+3. <span class="title">Dirt Off Your Shoulder</span><span class="artists"> - JAY-Z</span>
+4. <span class="title">Rap Game</span><span class="artists"> - D12, 50 Cent</span>
 
 </div>
 
@@ -2056,37 +2056,37 @@
 
 <div>
 
-1. Gucci Mane - Young N*****
-2. JAY-Z - Holy Grail
-3. ~~_Gucci Mane - Peepin Out the Blinds_~~
-4. ~~_2 Chainz - Kilo_~~
+1. <span class="title">Young N*****</span><span class="artists"> - Gucci Mane, Waka Flocka Flame</span>
+2. <span class="title">Holy Grail</span><span class="artists"> - JAY-Z, Justin Timberlake</span>
+3. ~~_<span class="title">Peepin Out the Blinds</span><span class="artists"> - Gucci Mane</span>_~~
+4. ~~_<span class="title">Kilo</span><span class="artists"> - 2 Chainz</span>_~~
 
 </div>
 
 <div>
 
-1. Krayzie Bone - When I Die (feat. Fat Joe, Big Pun & Layzie Bone)
-2. 50 Cent - If I Can't
-3. ~~_Cypress Hill - How I Could Just Kill a Man_~~
-4. ~~_Drake - Fake Love_~~
+1. <span class="title">When I Die</span><span class="artists"> - Krayzie Bone, Fat Joe, Big Pun, Layzie Bone</span>
+2. <span class="title">If I Can't</span><span class="artists"> - 50 Cent</span>
+3. ~~_<span class="title">How I Could Just Kill a Man</span><span class="artists"> - Cypress Hill</span>_~~
+4. ~~_<span class="title">Fake Love</span><span class="artists"> - Drake</span>_~~
 
 </div>
 
 <div>
 
-1. JAY-Z - Big Pimpin'
-2. Future - Mask Off
-3. ~~_Rick Ross - For Da Low_~~
-4. ~~_The Notorious B.I.G. - Juicy - 2005 Remaster_~~
+1. <span class="title">Big Pimpin'</span><span class="artists"> - JAY-Z, UGK</span>
+2. <span class="title">Mask Off</span><span class="artists"> - Future</span>
+3. ~~_<span class="title">For Da Low</span><span class="artists"> - Rick Ross</span>_~~
+4. ~~_<span class="title">Juicy</span><span class="artists"> - The Notorious B.I.G.</span>_~~
 
 </div>
 
 <div>
 
-1. Mobb Deep - Survival of the Fittest
-2. Gucci Mane - Back On
-3. ~~_Fat Joe - Cookin_~~
-4. ~~_Lil Wayne - I'm Me_~~
+1. <span class="title">Survival of the Fittest</span><span class="artists"> - Mobb Deep</span>
+2. <span class="title">Back On</span><span class="artists"> - Gucci Mane</span>
+3. ~~_<span class="title">Cookin</span><span class="artists"> - Fat Joe, Remy Ma, French Montana, Ry SO Valid</span>_~~
+4. ~~_<span class="title">I'm Me</span><span class="artists"> - Lil Wayne</span>_~~
 
 </div>
 
@@ -2096,19 +2096,19 @@
 
 <div>
 
-1. Gucci Mane - Young N*****
-2. JAY-Z - Big Pimpin'
-3. ~~_50 Cent - If I Can't_~~
-4. ~~_Gucci Mane - Back On_~~
+1. <span class="title">Young N*****</span><span class="artists"> - Gucci Mane, Waka Flocka Flame</span>
+2. <span class="title">Big Pimpin'</span><span class="artists"> - JAY-Z, UGK</span>
+3. ~~_<span class="title">If I Can't</span><span class="artists"> - 50 Cent</span>_~~
+4. ~~_<span class="title">Back On</span><span class="artists"> - Gucci Mane</span>_~~
 
 </div>
 
 <div>
 
-1. Krayzie Bone - When I Die (feat. Fat Joe, Big Pun & Layzie Bone)
-2. Mobb Deep - Survival of the Fittest
-3. ~~_Future - Mask Off_~~
-4. ~~_JAY-Z - Holy Grail_~~
+1. <span class="title">When I Die</span><span class="artists"> - Krayzie Bone, Fat Joe, Big Pun, Layzie Bone</span>
+2. <span class="title">Survival of the Fittest</span><span class="artists"> - Mobb Deep</span>
+3. ~~_<span class="title">Mask Off</span><span class="artists"> - Future</span>_~~
+4. ~~_<span class="title">Holy Grail</span><span class="artists"> - JAY-Z, Justin Timberlake</span>_~~
 
 </div>
 
@@ -2118,10 +2118,10 @@
 
 <div>
 
-1. Gucci Mane - Young N*****
-2. Krayzie Bone - When I Die (feat. Fat Joe, Big Pun & Layzie Bone)
-3. JAY-Z - Big Pimpin'
-4. Mobb Deep - Survival of the Fittest
+1. <span class="title">Young N*****</span><span class="artists"> - Gucci Mane, Waka Flocka Flame</span>
+2. <span class="title">When I Die</span><span class="artists"> - Krayzie Bone, Fat Joe, Big Pun, Layzie Bone</span>
+3. <span class="title">Big Pimpin'</span><span class="artists"> - JAY-Z, UGK</span>
+4. <span class="title">Survival of the Fittest</span><span class="artists"> - Mobb Deep</span>
 
 </div>
 
@@ -2138,37 +2138,37 @@
 
 <div>
 
-1. The Notorious B.I.G. - Ready to Die - 2005 Remaster
-2. Eminem - I'm Back
-3. ~~_Rich Brian - Attention (feat. Offset)_~~
-4. ~~_Blackstreet - No Diggity_~~
+1. <span class="title">Ready to Die</span><span class="artists"> - The Notorious B.I.G.</span>
+2. <span class="title">I'm Back</span><span class="artists"> - Eminem</span>
+3. ~~_<span class="title">Attention</span><span class="artists"> - Rich Brian, Offset</span>_~~
+4. ~~_<span class="title">No Diggity</span><span class="artists"> - Blackstreet, Dr. Dre, Queen Pen</span>_~~
 
 </div>
 
 <div>
 
-1. N.W.A. - Fuck Tha Police
-2. Birdman - Out The Pound
-3. ~~_2 Chainz - OG Kush Diet_~~
-4. ~~_Future - Lie to Me_~~
+1. <span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span>
+2. <span class="title">Out The Pound</span><span class="artists"> - Birdman, Lil Wayne</span>
+3. ~~_<span class="title">OG Kush Diet</span><span class="artists"> - 2 Chainz</span>_~~
+4. ~~_<span class="title">Lie to Me</span><span class="artists"> - Future</span>_~~
 
 </div>
 
 <div>
 
-1. 50 Cent - Many Men (Wish Death)
-2. Lil Wayne - Lollipop
-3. ~~_Rae Sremmurd - Black Beatles_~~
-4. ~~_Too $hort - Gettin' It (feat. Parliament Funkadelic)_~~
+1. <span class="title">Many Men</span><span class="artists"> - 50 Cent</span>
+2. <span class="title">Lollipop</span><span class="artists"> - Lil Wayne, Static Major</span>
+3. ~~_<span class="title">Black Beatles</span><span class="artists"> - Rae Sremmurd, Gucci Mane</span>_~~
+4. ~~_<span class="title">Gettin' It</span><span class="artists"> - Too $hort, Parliament Funkadelic</span>_~~
 
 </div>
 
 <div>
 
-1. Ruff Ryders - WW III
-2. Gang Starr - Mass Appeal
-3. ~~_2 Chainz - Poor Fool_~~
-4. ~~_Nick Cannon - Gigolo (feat. R.Kelly)_~~
+1. <span class="title">WW III</span><span class="artists"> - Ruff Ryders, Snoop Dogg, Scarface, Jadakiss, Yung Wun</span>
+2. <span class="title">Mass Appeal</span><span class="artists"> - Gang Starr</span>
+3. ~~_<span class="title">Poor Fool</span><span class="artists"> - 2 Chainz, Swae Lee</span>_~~
+4. ~~_<span class="title">Gigolo</span><span class="artists"> - Nick Cannon, R. Kelly</span>_~~
 
 </div>
 
@@ -2178,19 +2178,19 @@
 
 <div>
 
-1. 50 Cent - Many Men (Wish Death)
-2. The Notorious B.I.G. - Ready to Die - 2005 Remaster
-3. ~~_Birdman - Out The Pound_~~
-4. ~~_Gang Starr - Mass Appeal_~~
+1. <span class="title">Many Men</span><span class="artists"> - 50 Cent</span>
+2. <span class="title">Ready to Die</span><span class="artists"> - The Notorious B.I.G.</span>
+3. ~~_<span class="title">Out The Pound</span><span class="artists"> - Birdman, Lil Wayne</span>_~~
+4. ~~_<span class="title">Mass Appeal</span><span class="artists"> - Gang Starr</span>_~~
 
 </div>
 
 <div>
 
-1. N.W.A. - Fuck Tha Police
-2. Ruff Ryders - WW III
-3. ~~_Eminem - I'm Back_~~
-4. ~~_Lil Wayne - Lollipop_~~
+1. <span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span>
+2. <span class="title">WW III</span><span class="artists"> - Ruff Ryders, Snoop Dogg, Scarface, Jadakiss, Yung Wun</span>
+3. ~~_<span class="title">I'm Back</span><span class="artists"> - Eminem</span>_~~
+4. ~~_<span class="title">Lollipop</span><span class="artists"> - Lil Wayne, Static Major</span>_~~
 
 </div>
 
@@ -2200,10 +2200,10 @@
 
 <div>
 
-1. N.W.A. - Fuck Tha Police
-2. 50 Cent - Many Men (Wish Death)
-3. Ruff Ryders - WW III
-4. The Notorious B.I.G. - Ready to Die - 2005 Remaster
+1. <span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span>
+2. <span class="title">Many Men</span><span class="artists"> - 50 Cent</span>
+3. <span class="title">WW III</span><span class="artists"> - Ruff Ryders, Snoop Dogg, Scarface, Jadakiss, Yung Wun</span>
+4. <span class="title">Ready to Die</span><span class="artists"> - The Notorious B.I.G.</span>
 
 </div>
 
@@ -2220,37 +2220,37 @@
 
 <div>
 
-1. Akon - I Wanna Love You
-2. 2Pac - Ambitionz Az A Ridah
-3. ~~_Too $hort - Gangsters & Strippers_~~
-4. ~~_The Notorious B.I.G. - Gimme the Loot - 2005 Remaster_~~
+1. <span class="title">I Wanna Love You</span><span class="artists"> - Akon, Snoop Dogg</span>
+2. <span class="title">Ambitionz Az A Ridah</span><span class="artists"> - 2Pac</span>
+3. ~~_<span class="title">Gangsters & Strippers</span><span class="artists"> - Too $hort</span>_~~
+4. ~~_<span class="title">Gimme the Loot</span><span class="artists"> - The Notorious B.I.G.</span>_~~
 
 </div>
 
 <div>
 
-1. T-Pain - Buy U a Drank (Shawty Snappin') (feat. Yung Joc)
-2. 21 Savage - Bad Business
-3. ~~_JAY-Z - Hard Knock Life (Ghetto Anthem)_~~
-4. ~~_Jedi Mind Tricks - Gutta Music_~~
+1. <span class="title">Buy U a Drank</span><span class="artists"> - T-Pain, Yung Joc</span>
+2. <span class="title">Bad Business</span><span class="artists"> - 21 Savage</span>
+3. ~~_<span class="title">Hard Knock Life</span><span class="artists"> - JAY-Z</span>_~~
+4. ~~_<span class="title">Gutta Music</span><span class="artists"> - Jedi Mind Tricks, Reef The Lost Cauze, Chief Kamanchi</span>_~~
 
 </div>
 
 <div>
 
-1. Waka Flocka Flame - Hard in Da Paint
-2. 2Pac - Life Goes On
-3. ~~_Drake - Diamonds Dancing_~~
-4. ~~_Gucci Mane - Back on Road_~~
+1. <span class="title">Hard in Da Paint</span><span class="artists"> - Waka Flocka Flame</span>
+2. <span class="title">Life Goes On</span><span class="artists"> - 2Pac</span>
+3. ~~_<span class="title">Diamonds Dancing</span><span class="artists"> - Drake, Future</span>_~~
+4. ~~_<span class="title">Back on Road</span><span class="artists"> - Gucci Mane, Drake</span>_~~
 
 </div>
 
 <div>
 
-1. Public Enemy - He Got Game
-2. Afroman - Because I Got High
-3. ~~_Migos - Deadz (feat. 2 Chainz)_~~
-4. ~~_Faith Evans - NYC (feat. Jadakiss)_~~
+1. <span class="title">He Got Game</span><span class="artists"> - Public Enemy, Stephen Stills</span>
+2. <span class="title">Because I Got High</span><span class="artists"> - Afroman</span>
+3. ~~_<span class="title">Deadz</span><span class="artists"> - Migos, 2 Chainz</span>_~~
+4. ~~_<span class="title">NYC</span><span class="artists"> - Faith Evans, The Notorious B.I.G., Jadakiss</span>_~~
 
 </div>
 
@@ -2260,19 +2260,19 @@
 
 <div>
 
-1. Akon - I Wanna Love You
-2. Waka Flocka Flame - Hard in Da Paint
-3. ~~_21 Savage - Bad Business_~~
-4. ~~_Afroman - Because I Got High_~~
+1. <span class="title">I Wanna Love You</span><span class="artists"> - Akon, Snoop Dogg</span>
+2. <span class="title">Hard in Da Paint</span><span class="artists"> - Waka Flocka Flame</span>
+3. ~~_<span class="title">Bad Business</span><span class="artists"> - 21 Savage</span>_~~
+4. ~~_<span class="title">Because I Got High</span><span class="artists"> - Afroman</span>_~~
 
 </div>
 
 <div>
 
-1. T-Pain - Buy U a Drank (Shawty Snappin') (feat. Yung Joc)
-2. 2Pac - Ambitionz Az A Ridah
-3. ~~_2Pac - Life Goes On_~~
-4. ~~_Public Enemy - He Got Game_~~
+1. <span class="title">Buy U a Drank</span><span class="artists"> - T-Pain, Yung Joc</span>
+2. <span class="title">Ambitionz Az A Ridah</span><span class="artists"> - 2Pac</span>
+3. ~~_<span class="title">Life Goes On</span><span class="artists"> - 2Pac</span>_~~
+4. ~~_<span class="title">He Got Game</span><span class="artists"> - Public Enemy, Stephen Stills</span>_~~
 
 </div>
 
@@ -2282,10 +2282,10 @@
 
 <div>
 
-1. Akon - I Wanna Love You
-2. T-Pain - Buy U a Drank (Shawty Snappin') (feat. Yung Joc)
-3. Waka Flocka Flame - Hard in Da Paint
-4. 2Pac - Ambitionz Az A Ridah
+1. <span class="title">I Wanna Love You</span><span class="artists"> - Akon, Snoop Dogg</span>
+2. <span class="title">Buy U a Drank</span><span class="artists"> - T-Pain, Yung Joc</span>
+3. <span class="title">Hard in Da Paint</span><span class="artists"> - Waka Flocka Flame</span>
+4. <span class="title">Ambitionz Az A Ridah</span><span class="artists"> - 2Pac</span>
 
 </div>
 
@@ -2302,37 +2302,37 @@
 
 <div>
 
-1. Jack Harlow - WHATS POPPIN
-2. Tory Lanez - Feels (feat. Chris Brown)
-3. ~~_Juicy J - Bandz A Make Her Dance_~~
-4. ~~_Wu-Tang Clan - Bring Da Ruckus_~~
+1. <span class="title">WHATS POPPIN</span><span class="artists"> - Jack Harlow</span>
+2. <span class="title">Feels</span><span class="artists"> - Tory Lanez, Chris Brown</span>
+3. ~~_<span class="title">Bandz A Make Her Dance</span><span class="artists"> - Juicy J, Lil Wayne, 2 Chainz</span>_~~
+4. ~~_<span class="title">Bring Da Ruckus</span><span class="artists"> - Wu-Tang Clan</span>_~~
 
 </div>
 
 <div>
 
-1. Big Tymers - Get Your Roll On
-2. Cypress Hill - Lowrider
-3. ~~_The Notorious B.I.G. - Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster_~~
-4. ~~_Big Sean - Bounce Back_~~
+1. <span class="title">Get Your Roll On</span><span class="artists"> - Big Tymers</span>
+2. <span class="title">Lowrider</span><span class="artists"> - Cypress Hill</span>
+3. ~~_<span class="title">Mo Money Mo Problems</span><span class="artists"> - The Notorious B.I.G., Mase, Diddy</span>_~~
+4. ~~_<span class="title">Bounce Back</span><span class="artists"> - Big Sean</span>_~~
 
 </div>
 
 <div>
 
-1. DMX - Where The Hood At
-2. Eminem - Criminal
-3. ~~_Kodak Black - Codeine Dreaming (feat. Lil Wayne)_~~
-4. ~~_Kid Ink - Ride Out_~~
+1. <span class="title">Where The Hood At</span><span class="artists"> - DMX</span>
+2. <span class="title">Criminal</span><span class="artists"> - Eminem</span>
+3. ~~_<span class="title">Codeine Dreaming</span><span class="artists"> - Kodak Black, Lil Wayne</span>_~~
+4. ~~_<span class="title">Ride Out</span><span class="artists"> - Kid Ink, Tyga, Wale, YG, Rich Homie Quan</span>_~~
 
 </div>
 
 <div>
 
-1. DMX - We Right Here
-2. Nelly - Country Grammar (Hot Shit)
-3. ~~_Dead Prez - Be Healthy_~~
-4. ~~_Ty Dolla $ign - So Am I (feat. Damian Marley & Skrillex)_~~
+1. <span class="title">We Right Here</span><span class="artists"> - DMX</span>
+2. <span class="title">Country Grammar</span><span class="artists"> - Nelly</span>
+3. ~~_<span class="title">Be Healthy</span><span class="artists"> - Dead Prez</span>_~~
+4. ~~_<span class="title">So Am I</span><span class="artists"> - Ty Dolla $ign, Damian Marley, Skrillex</span>_~~
 
 </div>
 
@@ -2342,19 +2342,19 @@
 
 <div>
 
-1. Cypress Hill - Lowrider
-2. DMX - Where The Hood At
-3. ~~_Jack Harlow - WHATS POPPIN_~~
-4. ~~_Nelly - Country Grammar (Hot Shit)_~~
+1. <span class="title">Lowrider</span><span class="artists"> - Cypress Hill</span>
+2. <span class="title">Where The Hood At</span><span class="artists"> - DMX</span>
+3. ~~_<span class="title">WHATS POPPIN</span><span class="artists"> - Jack Harlow</span>_~~
+4. ~~_<span class="title">Country Grammar</span><span class="artists"> - Nelly</span>_~~
 
 </div>
 
 <div>
 
-1. Big Tymers - Get Your Roll On
-2. Tory Lanez - Feels (feat. Chris Brown)
-3. ~~_Eminem - Criminal_~~
-4. ~~_DMX - We Right Here_~~
+1. <span class="title">Get Your Roll On</span><span class="artists"> - Big Tymers</span>
+2. <span class="title">Feels</span><span class="artists"> - Tory Lanez, Chris Brown</span>
+3. ~~_<span class="title">Criminal</span><span class="artists"> - Eminem</span>_~~
+4. ~~_<span class="title">We Right Here</span><span class="artists"> - DMX</span>_~~
 
 </div>
 
@@ -2364,10 +2364,10 @@
 
 <div>
 
-1. Big Tymers - Get Your Roll On
-2. Cypress Hill - Lowrider
-3. DMX - Where The Hood At
-4. Tory Lanez - Feels (feat. Chris Brown)
+1. <span class="title">Get Your Roll On</span><span class="artists"> - Big Tymers</span>
+2. <span class="title">Lowrider</span><span class="artists"> - Cypress Hill</span>
+3. <span class="title">Where The Hood At</span><span class="artists"> - DMX</span>
+4. <span class="title">Feels</span><span class="artists"> - Tory Lanez, Chris Brown</span>
 
 </div>
 
@@ -2384,37 +2384,37 @@
 
 <div>
 
-1. Dr. Dre - Forgot About Dre
-2. Gucci Mane - Spanish Plug
-3. ~~_Mike WiLL Made-It - 23_~~
-4. ~~_French Montana - Ballin Out_~~
+1. <span class="title">Forgot About Dre</span><span class="artists"> - Dr. Dre, Eminem</span>
+2. <span class="title">Spanish Plug</span><span class="artists"> - Gucci Mane</span>
+3. ~~_<span class="title">23</span><span class="artists"> - Mike WiLL Made-It, Miley Cyrus, Wiz Khalifa, Juicy J</span>_~~
+4. ~~_<span class="title">Ballin Out</span><span class="artists"> - French Montana, Jeremih, Diddy</span>_~~
 
 </div>
 
 <div>
 
-1. Pusha T - Drug Dealers Anonymous
-2. Eminem - Sing For The Moment
-3. ~~_Ja Rule - Down Ass Bitch_~~
-4. ~~_Ludacris - Pimpin' All Over The World_~~
+1. <span class="title">Drug Dealers Anonymous</span><span class="artists"> - Pusha T, JAY-Z</span>
+2. <span class="title">Sing For The Moment</span><span class="artists"> - Eminem</span>
+3. ~~_<span class="title">Down Ass Bitch</span><span class="artists"> - Ja Rule, Chuck</span>_~~
+4. ~~_<span class="title">Pimpin' All Over The World</span><span class="artists"> - Ludacris, Bobby V.</span>_~~
 
 </div>
 
 <div>
 
-1. Big L - Deadly Combination (feat. 2Pac)
-2. Big Pun - Beware
-3. ~~_Future - Low Life (feat. The Weeknd)_~~
-4. ~~_St. Lunatics - Midwest Swing_~~
+1. <span class="title">Deadly Combination</span><span class="artists"> - Big L, 2Pac</span>
+2. <span class="title">Beware</span><span class="artists"> - Big Pun</span>
+3. ~~_<span class="title">Low Life</span><span class="artists"> - Future, The Weeknd</span>_~~
+4. ~~_<span class="title">Midwest Swing</span><span class="artists"> - St. Lunatics</span>_~~
 
 </div>
 
 <div>
 
-1. David Banner - Like A Pimp
-2. Immortal Technique - Point of No Return
-3. ~~_Mario Winans - I Don't Wanna Know (feat. Enya And P. Diddy)_~~
-4. ~~_Juicy J - One Thousand (feat. Wiz Khalifa)_~~
+1. <span class="title">Like A Pimp</span><span class="artists"> - David Banner, Lil' Flip</span>
+2. <span class="title">Point of No Return</span><span class="artists"> - Immortal Technique</span>
+3. ~~_<span class="title">I Don't Wanna Know</span><span class="artists"> - Mario Winans, Diddy, Enya</span>_~~
+4. ~~_<span class="title">One Thousand</span><span class="artists"> - Juicy J, Wiz Khalifa</span>_~~
 
 </div>
 
@@ -2424,19 +2424,19 @@
 
 <div>
 
-1. Dr. Dre - Forgot About Dre
-2. Immortal Technique - Point of No Return
-3. ~~_Eminem - Sing For The Moment_~~
-4. ~~_Big L - Deadly Combination (feat. 2Pac)_~~
+1. <span class="title">Forgot About Dre</span><span class="artists"> - Dr. Dre, Eminem</span>
+2. <span class="title">Point of No Return</span><span class="artists"> - Immortal Technique</span>
+3. ~~_<span class="title">Sing For The Moment</span><span class="artists"> - Eminem</span>_~~
+4. ~~_<span class="title">Deadly Combination</span><span class="artists"> - Big L, 2Pac</span>_~~
 
 </div>
 
 <div>
 
-1. David Banner - Like A Pimp
-2. Pusha T - Drug Dealers Anonymous
-3. ~~_Big Pun - Beware_~~
-4. ~~_Gucci Mane - Spanish Plug_~~
+1. <span class="title">Like A Pimp</span><span class="artists"> - David Banner, Lil' Flip</span>
+2. <span class="title">Drug Dealers Anonymous</span><span class="artists"> - Pusha T, JAY-Z</span>
+3. ~~_<span class="title">Beware</span><span class="artists"> - Big Pun</span>_~~
+4. ~~_<span class="title">Spanish Plug</span><span class="artists"> - Gucci Mane</span>_~~
 
 </div>
 
@@ -2446,10 +2446,10 @@
 
 <div>
 
-1. Dr. Dre - Forgot About Dre
-2. David Banner - Like A Pimp
-3. Pusha T - Drug Dealers Anonymous
-4. Immortal Technique - Point of No Return
+1. <span class="title">Forgot About Dre</span><span class="artists"> - Dr. Dre, Eminem</span>
+2. <span class="title">Like A Pimp</span><span class="artists"> - David Banner, Lil' Flip</span>
+3. <span class="title">Drug Dealers Anonymous</span><span class="artists"> - Pusha T, JAY-Z</span>
+4. <span class="title">Point of No Return</span><span class="artists"> - Immortal Technique</span>
 
 </div>
 
@@ -2466,37 +2466,37 @@
 
 <div>
 
-1. Eazy-E - Eazy-Duz-It
-2. Rick Ross - Aston Martin Music
-3. ~~_Chief Keef - Love Sosa_~~
-4. ~~_Bhad Bhabie - Bestie (feat. Kodak Black)_~~
+1. <span class="title">Eazy-Duz-It</span><span class="artists"> - Eazy-E, Dr. Dre, MC Ren</span>
+2. <span class="title">Aston Martin Music</span><span class="artists"> - Rick Ross, Drake, Chrisette Michele</span>
+3. ~~_<span class="title">Love Sosa</span><span class="artists"> - Chief Keef</span>_~~
+4. ~~_<span class="title">Bestie</span><span class="artists"> - Bhad Bhabie, Kodak Black</span>_~~
 
 </div>
 
 <div>
 
-1. Drake - Too Much
-2. Geto Boys - My Mind Playin Tricks on Me
-3. ~~_Gucci Mane - Members Only_~~
-4. ~~_Gucci Mane - Enormous (feat. Ty Dolla $ign)_~~
+1. <span class="title">Too Much</span><span class="artists"> - Drake, Sampha</span>
+2. <span class="title">My Mind Playin Tricks on Me</span><span class="artists"> - Geto Boys</span>
+3. ~~_<span class="title">Members Only</span><span class="artists"> - Gucci Mane</span>_~~
+4. ~~_<span class="title">Enormous</span><span class="artists"> - Gucci Mane, Ty Dolla $ign</span>_~~
 
 </div>
 
 <div>
 
-1. Lloyd Banks - Beamer, Benz, Or Bentley
-2. 50 Cent - Candy Shop
-3. ~~_Post Malone - Zack And Codeine_~~
-4. ~~_Future - In Her Mouth_~~
+1. <span class="title">Beamer, Benz, Or Bentley</span><span class="artists"> - Lloyd Banks, Juelz Santana</span>
+2. <span class="title">Candy Shop</span><span class="artists"> - 50 Cent, Olivia</span>
+3. ~~_<span class="title">Zack And Codeine</span><span class="artists"> - Post Malone</span>_~~
+4. ~~_<span class="title">In Her Mouth</span><span class="artists"> - Future</span>_~~
 
 </div>
 
 <div>
 
-1. Luniz - I Got 5 On It
-2. Nate Dogg - Music & Me
-3. ~~_2 Chainz - It's A Vibe_~~
-4. ~~_A$AP Ferg - Doe-Active_~~
+1. <span class="title">I Got 5 On It</span><span class="artists"> - Luniz</span>
+2. <span class="title">Music & Me</span><span class="artists"> - Nate Dogg</span>
+3. ~~_<span class="title">It's A Vibe</span><span class="artists"> - 2 Chainz, Ty Dolla $ign, Trey Songz, Jhené Aiko</span>_~~
+4. ~~_<span class="title">Doe-Active</span><span class="artists"> - A$AP Ferg</span>_~~
 
 </div>
 
@@ -2506,19 +2506,19 @@
 
 <div>
 
-1. Lloyd Banks - Beamer, Benz, Or Bentley
-2. Eazy-E - Eazy-Duz-It
-3. ~~_Nate Dogg - Music & Me_~~
-4. ~~_Geto Boys - My Mind Playin Tricks on Me_~~
+1. <span class="title">Beamer, Benz, Or Bentley</span><span class="artists"> - Lloyd Banks, Juelz Santana</span>
+2. <span class="title">Eazy-Duz-It</span><span class="artists"> - Eazy-E, Dr. Dre, MC Ren</span>
+3. ~~_<span class="title">Music & Me</span><span class="artists"> - Nate Dogg</span>_~~
+4. ~~_<span class="title">My Mind Playin Tricks on Me</span><span class="artists"> - Geto Boys</span>_~~
 
 </div>
 
 <div>
 
-1. Rick Ross - Aston Martin Music
-2. Luniz - I Got 5 On It
-3. ~~_Drake - Too Much_~~
-4. ~~_50 Cent - Candy Shop_~~
+1. <span class="title">Aston Martin Music</span><span class="artists"> - Rick Ross, Drake, Chrisette Michele</span>
+2. <span class="title">I Got 5 On It</span><span class="artists"> - Luniz</span>
+3. ~~_<span class="title">Too Much</span><span class="artists"> - Drake, Sampha</span>_~~
+4. ~~_<span class="title">Candy Shop</span><span class="artists"> - 50 Cent, Olivia</span>_~~
 
 </div>
 
@@ -2528,10 +2528,10 @@
 
 <div>
 
-1. Lloyd Banks - Beamer, Benz, Or Bentley
-2. Rick Ross - Aston Martin Music
-3. Eazy-E - Eazy-Duz-It
-4. Luniz - I Got 5 On It
+1. <span class="title">Beamer, Benz, Or Bentley</span><span class="artists"> - Lloyd Banks, Juelz Santana</span>
+2. <span class="title">Aston Martin Music</span><span class="artists"> - Rick Ross, Drake, Chrisette Michele</span>
+3. <span class="title">Eazy-Duz-It</span><span class="artists"> - Eazy-E, Dr. Dre, MC Ren</span>
+4. <span class="title">I Got 5 On It</span><span class="artists"> - Luniz</span>
 
 </div>
 
@@ -2548,37 +2548,37 @@
 
 <div>
 
-1. DMX - Ruff Ryders' Anthem
-2. 2Pac - Breathin
-3. ~~_Post Malone - No Option_~~
-4. ~~_Ty Dolla $ign - Ego Death (feat. Kanye West, FKA twigs & Skrillex)_~~
+1. <span class="title">Ruff Ryders' Anthem</span><span class="artists"> - DMX</span>
+2. <span class="title">Breathin</span><span class="artists"> - 2Pac, Outlawz</span>
+3. ~~_<span class="title">No Option</span><span class="artists"> - Post Malone</span>_~~
+4. ~~_<span class="title">Ego Death</span><span class="artists"> - Ty Dolla $ign, FKA twigs, Skrillex, Kanye West</span>_~~
 
 </div>
 
 <div>
 
-1. Missy Elliott - Work It
-2. Mustard - No Reason
-3. ~~_Gucci Mane - I Get the Bag (feat. Migos)_~~
-4. ~~_Arizona Zervas - ROXANNE_~~
+1. <span class="title">Work It</span><span class="artists"> - Missy Elliott</span>
+2. <span class="title">No Reason</span><span class="artists"> - Mustard, YG, Jeezy, Nipsey Hussle, RJ</span>
+3. ~~_<span class="title">I Get the Bag</span><span class="artists"> - Gucci Mane, Migos</span>_~~
+4. ~~_<span class="title">ROXANNE</span><span class="artists"> - Arizona Zervas</span>_~~
 
 </div>
 
 <div>
 
-1. Nas - Got Ur Self A Gun
-2. Drake - Cameras / Good Ones Go Interlude - Medley
-3. ~~_DJ Khaled - For Free (feat. Drake)_~~
-4. ~~_6ix9ine - KIKA_~~
+1. <span class="title">Got Ur Self A Gun</span><span class="artists"> - Nas</span>
+2. <span class="title">Cameras / Good Ones Go Interlude</span><span class="artists"> - Drake</span>
+3. ~~_<span class="title">For Free</span><span class="artists"> - DJ Khaled, Drake</span>_~~
+4. ~~_<span class="title">KIKA</span><span class="artists"> - 6ix9ine, Tory Lanez</span>_~~
 
 </div>
 
 <div>
 
-1. Will Smith - Gettin' Jiggy Wit It
-2. Ice Cube - Late Night Hour
-3. ~~_Juicy J - Scholarship (feat. A$AP Rocky)_~~
-4. ~~_Nelly - Batter Up_~~
+1. <span class="title">Gettin' Jiggy Wit It</span><span class="artists"> - Will Smith</span>
+2. <span class="title">Late Night Hour</span><span class="artists"> - Ice Cube, Pusha T</span>
+3. ~~_<span class="title">Scholarship</span><span class="artists"> - Juicy J, A$AP Rocky</span>_~~
+4. ~~_<span class="title">Batter Up</span><span class="artists"> - Nelly, Murphy Lee, Ali</span>_~~
 
 </div>
 
@@ -2588,19 +2588,19 @@
 
 <div>
 
-1. Nas - Got Ur Self A Gun
-2. Ice Cube - Late Night Hour
-3. ~~_DMX - Ruff Ryders' Anthem_~~
-4. ~~_Mustard - No Reason_~~
+1. <span class="title">Got Ur Self A Gun</span><span class="artists"> - Nas</span>
+2. <span class="title">Late Night Hour</span><span class="artists"> - Ice Cube, Pusha T</span>
+3. ~~_<span class="title">Ruff Ryders' Anthem</span><span class="artists"> - DMX</span>_~~
+4. ~~_<span class="title">No Reason</span><span class="artists"> - Mustard, YG, Jeezy, Nipsey Hussle, RJ</span>_~~
 
 </div>
 
 <div>
 
-1. Will Smith - Gettin' Jiggy Wit It
-2. Missy Elliott - Work It
-3. ~~_Drake - Cameras / Good Ones Go Interlude - Medley_~~
-4. ~~_2Pac - Breathin_~~
+1. <span class="title">Gettin' Jiggy Wit It</span><span class="artists"> - Will Smith</span>
+2. <span class="title">Work It</span><span class="artists"> - Missy Elliott</span>
+3. ~~_<span class="title">Cameras / Good Ones Go Interlude</span><span class="artists"> - Drake</span>_~~
+4. ~~_<span class="title">Breathin</span><span class="artists"> - 2Pac, Outlawz</span>_~~
 
 </div>
 
@@ -2610,10 +2610,10 @@
 
 <div>
 
-1. Nas - Got Ur Self A Gun
-2. Will Smith - Gettin' Jiggy Wit It
-3. Missy Elliott - Work It
-4. Ice Cube - Late Night Hour
+1. <span class="title">Got Ur Self A Gun</span><span class="artists"> - Nas</span>
+2. <span class="title">Gettin' Jiggy Wit It</span><span class="artists"> - Will Smith</span>
+3. <span class="title">Work It</span><span class="artists"> - Missy Elliott</span>
+4. <span class="title">Late Night Hour</span><span class="artists"> - Ice Cube, Pusha T</span>
 
 </div>
 
