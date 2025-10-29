@@ -11,9 +11,17 @@
 564 dope-ass rap songs, ranked
 
 </div>
+<div style="font-size:1.2em">
+
+By Ryan Tuck
+
+</div>
 
 <div style="text-align:center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Parental_Advisory_label.svg" style="width:12vw;border:3px solid white;margin-top:16vh;margin-bottom:16vh" />
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Parental_Advisory_label.svg" style="width:12vw;border:3px solid white;margin-top:16vh;margin-bottom:16vh" />
+
 </div>
 <br>
 <br>
