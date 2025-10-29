@@ -38,7 +38,19 @@ def hr():
 
 # ------------------------------------------------
 
+def entry_with_spans(entry):
+    parts = entry.split(' - ')
+    assert len(parts) == 2 # ?
+    title = parts[0]
+    artists = ' - ' + parts[1]
+    return ''.join([
+        f'<span class="title">{title}</span>',
+        f'<span class="artists">{artists}</span>',
+    ])
+
+
 def group_results_stylized(results):
+    results = [entry_with_spans(e) for e in results]
     return [
         results[0],
         results[1],
@@ -154,7 +166,7 @@ def div_round_2(round_2):
 def div_rankings(rankings):
     return '\n\n'.join([
         '<div class="rankings">',
-        div(ol(rankings)),
+        div(ol([entry_with_spans(s) for s in rankings])),
         '</div>',
     ])
 

@@ -3,6 +3,13 @@ import yaml
 
 from pydantic import BaseModel
 
+import db, transform
+
+
+def _track(song):
+    # TODO - rock superstar, dance w the devil, others?
+    return transform.track_str(transform.minitrack(db.song(song, db.songs_list)))
+
 # STATE =================================================================
 
 def results_round_1():
@@ -35,9 +42,9 @@ def squad_results(n):
     round_2_tuples = dict(list(all_results.round_2.items())[2*n:2*n+2])
     rankings_group = dict(list(all_results.rankings.items())[n:n+1])
     return Results(
-        round_1=round_1_tuples,
-        round_2=round_2_tuples,
-        rankings=rankings_group,
+        round_1={k:[_track(s) for s in songs] for k,songs in round_1_tuples.items()},
+        round_2={k:[_track(s) for s in songs] for k,songs in round_2_tuples.items()},
+        rankings={k: [_track(s) for s in songs] for k,songs in rankings_group.items()},
     )
 
 

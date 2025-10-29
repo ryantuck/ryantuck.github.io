@@ -1,31 +1,51 @@
-outputs : bracket.html squad-results.json all-squads.html x.html ko.html squad-round.html all.html
+outputs : bracket.txt knockout-groups.html squad-round.html all.html
+
+%.html : %.md
+	pandoc $< -f gfm --css bracket.css -s -o $@
 
 artist-counts.txt :
 	jq . tracks.jsonl | jq '.artists | .[]' -r | sort | uniq -c | sort -nr > $@
 
-all-squads.md :
-	cat Squad-*.md > $@
-
-all.md : header.md ko.md header-squad-round.md squad-round.md header-bracket-round.md x.md
-	cat header.md ko.md header-squad-round.md squad-round.md header-bracket-round.md x.md > $@
+all.md : header.md header-knockout-round.md knockout-round.md header-squad-round.md squad-round.md header-bracket-round.md bracket-round.md
+	cat header.md header-knockout-round.md knockout-round.md header-squad-round.md squad-round.md header-bracket-round.md bracket-round.md > $@
 
 squad-round.md : squad-results.json gen_pages.py
 	cat $< \
 		| jq 'keys | .[]' -r | sort -t- -k 2n \
 		| xargs -I % python gen_pages.py % > $@
 
-knockout-groups.md : knockout-results.json
-	jq . knockout-results.json | python transform.py group_results_stylized | jq -r | sed -e 's/1\./\n1\./g' > $@
+knockout-round.md : knockout-groups.md knockout-round.css
+	echo '<link rel="stylesheet" href="knockout-round.css">' > $@
+	echo '<div id="container" style="display:flex;flex-flow:row wrap;justify-content:center;gap:5vh">' >> $@
+	cat $< >> $@
+	echo '</div>' >> $@
 
-knockout-results.json :
-	cat ../knockout-results-round-0.txt | grep -v GROUP | cut -c 13- | jq -R | jq -s | jq '_nwise(4)' > $@
+knockout-groups.md : knockout-results.json transform.py
+	jq . knockout-results.json | python transform.py group_div | jq -r  > $@
 
-.PHONY : md-pages
-md-pages : squad-results.json
-	jq 'keys | .[]' -r $< | xargs -I % sh -c 'python gen_pages.py % > %.md'
+bracket-round.md : bracket-results.md
+	echo '<link rel="stylesheet" href="bracket.css">' > $@
+	echo '<div id="bracket-round" style="display:flex">' > $@
+	cat $< >> $@
+	echo '</div>' >> $@
 
-%.html : %.md
-	pandoc $< -f gfm --css bracket.css -s -o $@
+
+bracket-results.md : bracket-results.json
+	cat $< | jq '.[]' -c | python transform.py bracket_round_n_div | jq '.[]' -r > $@
+
+bracket-results.json : bracket-track-seeds.txt
+	python play.py | jq > $@
+
+bracket-track-seeds.txt : ../round-5-tournament/songs-tournament-seeds.txt
+	cat $< | python db.py | python transform.py minitrack | python transform.py track_str | jq -r > $@
+
+knockout-results.json : ../knockout-results-round-0.txt
+	cat $< \
+		| grep -v GROUP | cut -c 13- \
+		| python db.py \
+		| python transform.py minitrack | python transform.py track_str \
+		| jq -s | jq '_nwise(4)' > $@
+
 
 squad-results.json : gen_squads.py
 	python gen_squads.py | jq > $@
@@ -42,6 +62,8 @@ tracks.jsonl : ../rap.jsonl
 tracks.txt : tracks.jsonl
 	jq . $< -c |  python transform.py track_str | jq -r | sort > $@
 
+tracks-in-order.jsonl : ../rap.jsonl
+	cat ../knockout-results-round-0.txt | cut -c 13- | grep . | p db.py  | p transform.py minitrack | p transform.py track_str | jq -r
 
 
 
@@ -59,8 +81,14 @@ tracks.txt : tracks.jsonl
 
 
 
+# all-squads.md :
+# 	cat Squad-*.md > $@
 
 
+
+# .PHONY : md-pages
+# md-pages : squad-results.json
+# 	jq 'keys | .[]' -r $< | xargs -I % sh -c 'python gen_pages.py % > %.md'
 
 
 
