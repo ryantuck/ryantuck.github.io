@@ -2156,7 +2156,7 @@
 
 <div>
 
-1. <span class="title">Many Men</span><span class="artists"> - 50 Cent</span>
+1. <span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span>
 2. <span class="title">Lollipop</span><span class="artists"> - Lil Wayne, Static Major</span>
 3. ~~_<span class="title">Black Beatles</span><span class="artists"> - Rae Sremmurd, Gucci Mane</span>_~~
 4. ~~_<span class="title">Gettin' It</span><span class="artists"> - Too $hort, Parliament Funkadelic</span>_~~
@@ -2178,7 +2178,7 @@
 
 <div>
 
-1. <span class="title">Many Men</span><span class="artists"> - 50 Cent</span>
+1. <span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span>
 2. <span class="title">Ready to Die</span><span class="artists"> - The Notorious B.I.G.</span>
 3. ~~_<span class="title">Out The Pound</span><span class="artists"> - Birdman, Lil Wayne</span>_~~
 4. ~~_<span class="title">Mass Appeal</span><span class="artists"> - Gang Starr</span>_~~
@@ -2201,7 +2201,7 @@
 <div>
 
 1. <span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span>
-2. <span class="title">Many Men</span><span class="artists"> - 50 Cent</span>
+2. <span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span>
 3. <span class="title">WW III</span><span class="artists"> - Ruff Ryders, Snoop Dogg, Scarface, Jadakiss, Yung Wun</span>
 4. <span class="title">Ready to Die</span><span class="artists"> - The Notorious B.I.G.</span>
 

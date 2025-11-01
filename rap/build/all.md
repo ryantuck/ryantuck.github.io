@@ -346,8 +346,38 @@ Whittle down field from 564 to a clean 512 tracks
 
 
 </div>
-<div style="display:flex;width:100vw;justify-content:space-around">
-<div style="width:64vw;text-align:center;">
+<div style="display:flex;width:100vw;justify-content:space-around;flex-direction:column;margin-top:20vh;">
+<div style="display:flex;height:50vh;justify-content:space-around">
+
+<div style="height:100%;aspect-ratio: 2 / 1;text-align: center">
+
+## Knockout Round - RIP
+
+Literally turned away Riff Raff himself at the door, along with 51 others, pouring one out for those who went too soon
+
+</div>
+<div style="height:100%;aspect-ratio: 2 / 1;">
+
+- Oh Boy - Cam'ron
+- Get By - Talib Kweli
+- Lovin' on Me - Jack Harlow
+- Space Jam - Quad City DJs
+- I'm Upset - Drake
+- Back to Back - Drake
+- Swing - Savage
+- Throw some D's - Rich Boy, Polow da Don
+- The Ghetto - Too $hort
+- Tip Toe wing in my jawwwdinz - Riff Raff
+- Don't Stop - Megan Thee Stallion, Young Thug
+
+</div>
+
+</div>
+</div>
+
+
+<div style="width:100vw;display:flex;justify-content:space-around;align:center">
+<div style="width:80vw;flex-direction:column;text-align:center">
 <div style="font-size:3em;text-shadow:3px 3px #999;">
 
 ## Squad Round
@@ -360,6 +390,7 @@ Whittle down field from 564 to a clean 512 tracks
 
 2x group rounds each whittles each squad down to its 4 dopest tracks
 
+</div>
 
 </div>
 </div>
@@ -2522,7 +2553,7 @@ Whittle down field from 564 to a clean 512 tracks
 
 <div>
 
-1. <span class="title">Many Men</span><span class="artists"> - 50 Cent</span>
+1. <span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span>
 2. <span class="title">Lollipop</span><span class="artists"> - Lil Wayne, Static Major</span>
 3. ~~_<span class="title">Black Beatles</span><span class="artists"> - Rae Sremmurd, Gucci Mane</span>_~~
 4. ~~_<span class="title">Gettin' It</span><span class="artists"> - Too $hort, Parliament Funkadelic</span>_~~
@@ -2544,7 +2575,7 @@ Whittle down field from 564 to a clean 512 tracks
 
 <div>
 
-1. <span class="title">Many Men</span><span class="artists"> - 50 Cent</span>
+1. <span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span>
 2. <span class="title">Ready to Die</span><span class="artists"> - The Notorious B.I.G.</span>
 3. ~~_<span class="title">Out The Pound</span><span class="artists"> - Birdman, Lil Wayne</span>_~~
 4. ~~_<span class="title">Mass Appeal</span><span class="artists"> - Gang Starr</span>_~~
@@ -2567,7 +2598,7 @@ Whittle down field from 564 to a clean 512 tracks
 <div>
 
 1. <span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span>
-2. <span class="title">Many Men</span><span class="artists"> - 50 Cent</span>
+2. <span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span>
 3. <span class="title">WW III</span><span class="artists"> - Ruff Ryders, Snoop Dogg, Scarface, Jadakiss, Yung Wun</span>
 4. <span class="title">Ready to Die</span><span class="artists"> - The Notorious B.I.G.</span>
 
@@ -2989,6 +3020,7 @@ Whittle down field from 564 to a clean 512 tracks
 
 <br>
 <div style="display:flex;width:100vw;justify-content:space-around">
+
 <div style="width:64vw;text-align:center;">
 <div style="font-size:3em;text-shadow:3px 3px #999;">
 
@@ -3000,9 +3032,17 @@ Whittle down field from 564 to a clean 512 tracks
 Squad finalists are seeded into a monster 128-track head-to-head bracket to battle it out for the crown
 
 </div>
+
+<div>
+
+<label for="rounds">N Rounds:</label>
+<input type="range" id="rounds" name="rounds" min="2" max="8" value="8">
+
+</div>
+
 </div>
 </div>
-<div id="bracket-round" style="display:flex">
+<div id="bracket" style="display:flex">
 <div class="b">
 <div><span class="title">Soldier</span><span class="artists"> - Eminem</span></div>
 <div><span class="title">What's Your Fantasy</span><span class="artists"> - Ludacris, Shawnna</span></div>
@@ -3127,7 +3167,7 @@ Squad finalists are seeded into a monster 128-track head-to-head bracket to batt
 <div><span class="title">Got Ur Self A Gun</span><span class="artists"> - Nas</span></div>
 <div><span class="title">I Got 5 On It</span><span class="artists"> - Luniz</span></div>
 <div><span class="title">Hard in Da Paint</span><span class="artists"> - Waka Flocka Flame</span></div>
-<div><span class="title">Many Men</span><span class="artists"> - 50 Cent</span></div>
+<div><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></div>
 <div><span class="title">Quiet Storm</span><span class="artists"> - Mobb Deep</span></div>
 <div><span class="title">Big Pimpin'</span><span class="artists"> - JAY-Z, UGK</span></div>
 <div><span class="title">Feels</span><span class="artists"> - Tory Lanez, Chris Brown</span></div>
@@ -3195,7 +3235,7 @@ Squad finalists are seeded into a monster 128-track head-to-head bracket to batt
 <div><span class="title">Colombia Heights</span><span class="artists"> - Wale, J Balvin</span></div>
 <div><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></div>
 <div><span class="title">I Got 5 On It</span><span class="artists"> - Luniz</span></div>
-<div><span class="title">Many Men</span><span class="artists"> - 50 Cent</span></div>
+<div><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></div>
 <div><span class="title">Big Pimpin'</span><span class="artists"> - JAY-Z, UGK</span></div>
 <div><span class="title">Forgot About Dre</span><span class="artists"> - Dr. Dre, Eminem</span></div>
 </div>
@@ -3230,7 +3270,7 @@ Squad finalists are seeded into a monster 128-track head-to-head bracket to batt
 <div><span class="title">Tha Mobb</span><span class="artists"> - Lil Wayne</span></div>
 <div><span class="title">My N****</span><span class="artists"> - YG, Jeezy, Rich Homie Quan</span></div>
 <div><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></div>
-<div><span class="title">Many Men</span><span class="artists"> - 50 Cent</span></div>
+<div><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></div>
 <div><span class="title">Forgot About Dre</span><span class="artists"> - Dr. Dre, Eminem</span></div>
 </div>
 <div class="b">
@@ -3249,7 +3289,7 @@ Squad finalists are seeded into a monster 128-track head-to-head bracket to batt
 <div><span class="title">Dear Mama</span><span class="artists"> - 2Pac</span></div>
 <div><span class="title">E.I.</span><span class="artists"> - Nelly</span></div>
 <div><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></div>
-<div><span class="title">Many Men</span><span class="artists"> - 50 Cent</span></div>
+<div><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></div>
 </div>
 <div class="b">
 <div><span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span></div>

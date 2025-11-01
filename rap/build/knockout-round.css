@@ -6,8 +6,10 @@ body {
 .artists { color: #999 }
 
 #container div {
-    width: 20vw;
+    height: 24vh;
+    aspect-ratio: 3 / 2;
     padding-right: 20px;
+
 }
 
 

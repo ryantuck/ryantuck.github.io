@@ -1,4 +1,4 @@
-<div id="bracket-round" style="display:flex">
+<div id="bracket" style="display:flex">
 <div class="b">
 <div><span class="title">Soldier</span><span class="artists"> - Eminem</span></div>
 <div><span class="title">What's Your Fantasy</span><span class="artists"> - Ludacris, Shawnna</span></div>
@@ -123,7 +123,7 @@
 <div><span class="title">Got Ur Self A Gun</span><span class="artists"> - Nas</span></div>
 <div><span class="title">I Got 5 On It</span><span class="artists"> - Luniz</span></div>
 <div><span class="title">Hard in Da Paint</span><span class="artists"> - Waka Flocka Flame</span></div>
-<div><span class="title">Many Men</span><span class="artists"> - 50 Cent</span></div>
+<div><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></div>
 <div><span class="title">Quiet Storm</span><span class="artists"> - Mobb Deep</span></div>
 <div><span class="title">Big Pimpin'</span><span class="artists"> - JAY-Z, UGK</span></div>
 <div><span class="title">Feels</span><span class="artists"> - Tory Lanez, Chris Brown</span></div>
@@ -191,7 +191,7 @@
 <div><span class="title">Colombia Heights</span><span class="artists"> - Wale, J Balvin</span></div>
 <div><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></div>
 <div><span class="title">I Got 5 On It</span><span class="artists"> - Luniz</span></div>
-<div><span class="title">Many Men</span><span class="artists"> - 50 Cent</span></div>
+<div><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></div>
 <div><span class="title">Big Pimpin'</span><span class="artists"> - JAY-Z, UGK</span></div>
 <div><span class="title">Forgot About Dre</span><span class="artists"> - Dr. Dre, Eminem</span></div>
 </div>
@@ -226,7 +226,7 @@
 <div><span class="title">Tha Mobb</span><span class="artists"> - Lil Wayne</span></div>
 <div><span class="title">My N****</span><span class="artists"> - YG, Jeezy, Rich Homie Quan</span></div>
 <div><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></div>
-<div><span class="title">Many Men</span><span class="artists"> - 50 Cent</span></div>
+<div><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></div>
 <div><span class="title">Forgot About Dre</span><span class="artists"> - Dr. Dre, Eminem</span></div>
 </div>
 <div class="b">
@@ -245,7 +245,7 @@
 <div><span class="title">Dear Mama</span><span class="artists"> - 2Pac</span></div>
 <div><span class="title">E.I.</span><span class="artists"> - Nelly</span></div>
 <div><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></div>
-<div><span class="title">Many Men</span><span class="artists"> - 50 Cent</span></div>
+<div><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></div>
 </div>
 <div class="b">
 <div><span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span></div>

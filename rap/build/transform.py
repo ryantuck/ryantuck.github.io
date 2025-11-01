@@ -28,6 +28,8 @@ def track_str(t):
 def _tidy_title(song):
 
     # handle edge-cases with parentheses
+    if 'Many Men (Wish Death)' in song:
+        return 'Many Men (Wish Death)'
     if '(Rock) Superstar' in song:
         return '(Rock) Superstar'
     if 'Colt 45' in song:

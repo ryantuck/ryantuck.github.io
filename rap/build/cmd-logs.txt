@@ -890,3 +890,50 @@
   148  gs
   149  v squad-round.css
   150  h 0
+    1  v bracket.css
+    2  l
+    3  v Makefile
+    4  ack istener
+    5  v player.js
+    6  v Makefile
+    7  v Makefile
+    8  v bracket.css
+    9  v header-bracket-round.md
+   10  v header-bracket-round.md
+   11  v Makefile
+   12  v bracket-round.md
+   13  v Makefile
+   14  ls *.js
+   15  v rounds-input.js
+    1  cd src/ryantuck.github.io/rap
+    2  cd build
+    3  l
+    4  ls
+    5  ls *.css
+    6  v bracket.css
+    7  v knockout-round.css
+    8  l
+    9  ls
+   10  v knockout-round.css
+   11  v header-squad-round.md
+   12  make
+   13  v header-squad-round.md
+   14  v header-squad-round.md
+   15  v header-squad-round.md
+   16  v header-squad-round.md
+   17  v header-squad-round.md
+   18  v all.html
+   19  make
+   20  touch header-squad-round.md
+   21  mak
+   22  make
+   23  v all.html
+   24  v all.html
+   25  v header-bracket-round.md
+   26  v header-bracket-round.md
+   27  l
+   28  ls
+   29  touch header.md
+   30  make
+   31  make -B
+   32  v all.html

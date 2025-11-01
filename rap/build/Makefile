@@ -6,7 +6,6 @@ all.html : all.md
 %.html : %.md
 	pandoc $< -f gfm --css bracket.css -s -o $@
 
-
 dag.svg : dag.gv
 	dot -Tsvg -o $@ $<
 
@@ -43,7 +42,7 @@ knockout-groups.md : knockout-results.json transform.py
 
 bracket-round.md : bracket-results.md
 	echo '<link rel="stylesheet" href="bracket.css">' > $@
-	echo '<div id="bracket-round" style="display:flex">' > $@
+	echo '<div id="bracket" style="display:flex">' > $@
 	cat $< >> $@
 	echo '</div>' >> $@
 
