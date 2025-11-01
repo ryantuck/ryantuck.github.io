@@ -194,4 +194,54 @@ body {
 .rankings:hover li:nth-child(3) .artists { color: #999; }
 .rankings:hover li:nth-child(4) .artists { color: #999; }
 
+body {
+    background-color: black;
+}
+
+
+.artists { color: #999 }
+
+#container div {
+    height: 24vh;
+    aspect-ratio: 3 / 2;
+    padding-right: 20px;
+
+}
+
+
+#container div li {
+    cursor: crosshair;
+    color: #fff;
+}
+
+# container div li:hover {
+    text-decoration: underline;
+}
+
+#container div:hover {
+    background-color: #222;
+}
+
+#container div:hover li .title { text-shadow:1px 3px #000; }
+
+/* #container div li span { color: white; } */
+
+#container div:hover li:nth-child(1)  {  }
+#container div:hover li:nth-child(2)  {  }
+#container div:hover li:nth-child(3) * { color: #600; }
+#container div:hover li:nth-child(4) * { color: #600; }
+
+#container div:hover li:nth-child(1) .title { color: #ff3; }
+#container div:hover li:nth-child(2) .title { color: #ff9; }
+#container div:hover li:nth-child(3) .title { color: #f33; }
+#container div:hover li:nth-child(4) .title { color: #f33; }
+
+#container div:hover li:nth-child(1) .artists { color: #bbb; }
+#container div:hover li:nth-child(2) .artists { color: #bbb; }
+#container div:hover li:nth-child(3) .artists { color: #999; }
+#container div:hover li:nth-child(4) .artists { color: #999; }
+
+#container div:nth-child(3n+1) { background-color: #444 }
+#container div:nth-child(3n+2) { background-color: #222 }
+#container div:nth-child(3n+3) { background-color: #333 }
 
