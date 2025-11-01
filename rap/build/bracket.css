@@ -87,7 +87,7 @@ code {
 
 @media screen and (max-width:767px) {
     #bracket {
-        min-width: 200vw;
+        /*min-width: 200vw;*/
     }
 }
 
