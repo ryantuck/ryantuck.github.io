@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="bracket.css">
+<script src="rounds-input.js">
 <div id="bracket">
 <div class="b">
 <div><span class="title">Soldier</span><span class="artists"> - Eminem</span></div>

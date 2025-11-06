@@ -3,17 +3,31 @@
     flex-flow: row wrap;
     justify-content: center;
     gap: 5vh;
+    cursor: url('./crosshairs.png'), auto;
 }
 
 #knockout-round div {
     height: 24vh;
     aspect-ratio: 3 / 2;
-    padding-right: 20px;
+    padding-right: 2vh;
 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: clamp(1rem, 2vh, 4rem);
 }
 
+
+/* iphone-specific -- DEVELOP IN CHROME LOL! :) */
+@media screen and (max-width: 767px) {
+    #knockout-round div ol {
+        border-left: 3px solid white;
+    }
+}
+
+
 #knockout-round div li {
-    cursor: crosshair;
     color: #fff;
 }
 

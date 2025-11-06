@@ -23,8 +23,8 @@ edges.gv : Makefile
 artist-counts.txt : tracks.jsonl
 	jq . tracks.jsonl | jq '.artists | .[]' -r | sort | uniq -c | sort -nr > $@
 
-all.md : header.md header-knockout-round.md knockout-round.md header-squad-round.md squad-round.md header-bracket-round.md bracket-round.md rounds-input.js
-	cat header.md header-knockout-round.md knockout-round.md header-squad-round.md squad-round.md header-bracket-round.md bracket-round.md rounds-input.js > $@
+all.md : header.md header-knockout-round.md knockout-round.md header-squad-round.md squad-round.md header-bracket-round.md bracket-round.md
+	cat header.md header-knockout-round.md knockout-round.md header-squad-round.md squad-round.md header-bracket-round.md bracket-round.md > $@
 
 squad-round.md : squad-results.json gen_pages.py
 	echo '<link rel="stylesheet" href="squad-round.css">' > $@
@@ -43,6 +43,7 @@ knockout-groups.md : knockout-results.json transform.py
 
 bracket-round.md : bracket-results.md
 	echo '<link rel="stylesheet" href="bracket.css">' > $@
+	echo '<script src="rounds-input.js">' >> $@
 	echo '<div id="bracket">' >> $@
 	cat $< >> $@
 	echo '</div>' >> $@

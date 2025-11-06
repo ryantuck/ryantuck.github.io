@@ -9,7 +9,7 @@
     /*height:1024vh;*/
     /*aspect-ratio : 1 / 48;*/
 
-    font-size: 0.9em;
+    font-size: 0.9rem;
 }
 
 #bracket .b div {
@@ -47,14 +47,14 @@
 #bracket .b:nth-child(8)        {   background-color: #333;     }
 
 /* height doubles each round */
-#bracket .b:nth-child(1) div      {   height: 16vh; font-size: 1em;               }
-#bracket .b:nth-child(2) div      {   height: 32vh; font-size: 1.1em;               }
-#bracket .b:nth-child(3) div      {   height: 64vh; font-size: 1.2em;               }
-#bracket .b:nth-child(4) div      {   height: 128vh; font-size: 1.3em;              }
-#bracket .b:nth-child(5) div      {   height: 256vh; font-size: 1.4em;             }
-#bracket .b:nth-child(6) div      {   height: 512vh; font-size: 1.5em;              }
-#bracket .b:nth-child(7) div      {   height: 1024vh; font-size: 1.6em;             }
-#bracket .b:nth-child(8) div      {   height: 2048vh; font-size: 1.7em;                }
+#bracket .b:nth-child(1) div      {   height: 16vh; font-size: 1rem;               }
+#bracket .b:nth-child(2) div      {   height: 32vh; font-size: 1.1rem;               }
+#bracket .b:nth-child(3) div      {   height: 64vh; font-size: 1.2rem;               }
+#bracket .b:nth-child(4) div      {   height: 128vh; font-size: 1.3rem;              }
+#bracket .b:nth-child(5) div      {   height: 256vh; font-size: 1.4rem;             }
+#bracket .b:nth-child(6) div      {   height: 512vh; font-size: 1.5rem;              }
+#bracket .b:nth-child(7) div      {   height: 1024vh; font-size: 1.6rem;             }
+#bracket .b:nth-child(8) div      {   height: 2048vh; font-size: 1.7rem;                }
 
 /* adjust to center stuff */
 #bracket .b:nth-child(1) div:nth-child(1)    {   height:12vh;                }

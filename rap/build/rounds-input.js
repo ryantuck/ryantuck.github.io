@@ -1,4 +1,3 @@
-<script>
 roundsInput = document.getElementById('rounds');
 roundsInput.addEventListener('input', () => {
     // input = 2, take divs[6:]
@@ -44,4 +43,3 @@ roundsInput.addEventListener('input', () => {
     }
     // rangeValueDisplay.textContent = rangeInput.value;
 });
-</script>
