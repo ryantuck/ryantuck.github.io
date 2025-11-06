@@ -566,28 +566,16 @@ const trackIds = {
   "Simon Says": "62l1ZGNoUlJlVwhwMKu2T6"
 };
 
-roundsInput = document.getElementById('rounds');
-roundsInput.addEventListener('input', () => {
-    // input = 2, take divs[6:]
-    // input = 5, take divs[3:]
-    // input = 8, take divs[0:]
-    // nth-child display none
-    var roundElements = document.querySelectorAll(".b");
-    for (var i = 0; i < roundsInput.value; i++) {
-        elements[i].style.display = "none";
-    }
-    // rangeValueDisplay.textContent = rangeInput.value;
-});
-
 
 document.querySelectorAll('.b div').forEach(item => {
     item.addEventListener('click', function(event) {
 
         console.log('.b div clicked');
+        console.log(event.target);
 
         if (event.target.matches('.b div')) {
             console.log('.b div clicked');
-            let trackTitle = event.target.innerText;
+            let trackTitle = event.target.querySelector('.title').innerText;
             console.log('title', trackTitle);
             let trackId = trackIds[trackTitle] ?? '3zXGMmgIygV00eFxyqmbeO';
             console.log('id', trackId);
@@ -607,7 +595,7 @@ document.querySelectorAll('li').forEach(item => {
         console.log(event.target);
 
         console.log('li clicked');
-        let trackTitle = event.target; // .querySelector('.title').innerText;
+        let trackTitle = item.querySelector('.title').innerText;
         console.log('title', trackTitle);
         let trackId = trackIds[trackTitle] ?? '3zXGMmgIygV00eFxyqmbeO';
         console.log('id', trackId);

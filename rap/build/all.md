@@ -2952,7 +2952,7 @@ Squad finalists are seeded into a monster 128-track head-to-head bracket to batt
 </div>
 </div>
 <link rel="stylesheet" href="bracket.css">
-<script src="rounds-input.js">
+<script src="rounds-input.js"></script>
 <div id="bracket">
 <div class="b">
 <div><span class="title">Soldier</span><span class="artists"> - Eminem</span></div>
@@ -3225,4 +3225,9 @@ Squad finalists are seeded into a monster 128-track head-to-head bracket to batt
 <div class="b">
 <div><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></div>
 </div>
+</div>
+<link rel="stylesheet" href="player.css">
+<script src="player.js"></script>
+<div id="player-container">
+<iframe data-testid="embed-iframe" id="player" src="https://open.spotify.com/embed/track/3zXGMmgIygV00eFxyqmbeO" width="100%" height="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
