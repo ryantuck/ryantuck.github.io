@@ -1,15 +1,19 @@
-#bracket { display: flex; }
+#bracket {
+    display: flex;
+    width: 100vw;
+}
 
 #bracket .b {
     display:flex;
     flex-direction:column;
     flex: 1;
+    min-width: 130px;
     justify-content: flex-start;
 
     /*height:1024vh;*/
     /*aspect-ratio : 1 / 48;*/
 
-    font-size: 0.9rem;
+    /*font-size: 0.9rem; */
 }
 
 #bracket .b div {
@@ -17,7 +21,7 @@
     flex-direction: column;
     justify-content: flex-end;
 
-    border-bottom: 3px solid white;
+    border-bottom: 1px solid white;
     padding: 5px;
 
     cursor: crosshair;
@@ -25,7 +29,7 @@
 
 /* bracket lines styling */
 #bracket .b div:nth-child(even) {
-    border-right: 3px solid white;
+    border-right: 1px solid white;
 }
 
 /* hover effects */
@@ -35,6 +39,7 @@
 #bracket .b div:hover { color: #ff3; }
 #bracket .b div:hover .title { text-shadow: 3px 3px #000; }
 
+/* #bracket .b:nth-child(1) .artists { display: none } */
 
 /* bracket rounds */
 #bracket .b:nth-child(1)        {   background-color: #222;     }
@@ -47,14 +52,14 @@
 #bracket .b:nth-child(8)        {   background-color: #333;     }
 
 /* height doubles each round */
-#bracket .b:nth-child(1) div      {   height: 16vh; font-size: 1rem;               }
-#bracket .b:nth-child(2) div      {   height: 32vh; font-size: 1.1rem;               }
-#bracket .b:nth-child(3) div      {   height: 64vh; font-size: 1.2rem;               }
-#bracket .b:nth-child(4) div      {   height: 128vh; font-size: 1.3rem;              }
-#bracket .b:nth-child(5) div      {   height: 256vh; font-size: 1.4rem;             }
-#bracket .b:nth-child(6) div      {   height: 512vh; font-size: 1.5rem;              }
-#bracket .b:nth-child(7) div      {   height: 1024vh; font-size: 1.6rem;             }
-#bracket .b:nth-child(8) div      {   height: 2048vh; font-size: 1.7rem;                }
+#bracket .b:nth-child(1) div      {   height: 16vh; font-size: 1rem;             }
+#bracket .b:nth-child(2) div      {   height: 32vh; font-size: 1.4rem;               }
+#bracket .b:nth-child(3) div      {   height: 64vh; font-size: 1.5rem;               }
+#bracket .b:nth-child(4) div      {   height: 128vh; font-size: 1.6rem;              }
+#bracket .b:nth-child(5) div      {   height: 256vh; font-size: 1.7rem;             }
+#bracket .b:nth-child(6) div      {   height: 512vh; font-size: 1.8rem;              }
+#bracket .b:nth-child(7) div      {   height: 1024vh; font-size: 1.9rem;             }
+#bracket .b:nth-child(8) div      {   height: 2048vh; font-size: 2rem;                }
 
 /* adjust to center stuff */
 #bracket .b:nth-child(1) div:nth-child(1)    {   height:12vh;                }
@@ -65,3 +70,16 @@
 #bracket .b:nth-child(6) div:nth-child(1)    {   height:260vh;               }
 #bracket .b:nth-child(7) div:nth-child(1)    {   height:516vh;               }
 #bracket .b:nth-child(8) div:nth-child(1)    {   height:1028vh;                 }
+
+@media screen and (max-width: 479px) {
+    #bracket {
+        overflow-x: scroll;
+        width: 100%;
+    }
+    #bracket .b {
+        flex-basis: 0;
+        flex-grow: 0;
+        flex-shrink: 1;
+    }
+
+}

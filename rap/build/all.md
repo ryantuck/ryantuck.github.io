@@ -2942,10 +2942,10 @@ Squad finalists are seeded into a monster 128-track head-to-head bracket to batt
 
 </div>
 
-<div>
+<div style="font-size: 1.3rem">
 
-<label for="rounds">N Rounds:</label>
 <input type="range" id="rounds" name="rounds" min="2" max="8" value="8">
+<p style="font-size: 1.3rem">Total Tracks: <span id="nRounds">128</span></p>
 
 </div>
 
