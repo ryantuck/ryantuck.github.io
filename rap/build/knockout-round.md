@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="knockout-round.css">
-<div id="container" style="display:flex;flex-flow:row wrap;justify-content:center;gap:5vh">
+<div id="knockout-round">
 <div>
 
 1. <span class="title">Blow the Whistle</span><span class="artists"> - Too $hort</span>

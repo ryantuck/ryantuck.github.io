@@ -1,4 +1,5 @@
-<div id="bracket" style="display:flex">
+<link rel="stylesheet" href="bracket.css">
+<div id="bracket">
 <div class="b">
 <div><span class="title">Soldier</span><span class="artists"> - Eminem</span></div>
 <div><span class="title">What's Your Fantasy</span><span class="artists"> - Ludacris, Shawnna</span></div>

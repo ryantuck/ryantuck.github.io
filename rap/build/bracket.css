@@ -1,23 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
+#bracket { display: flex; }
 
-* {
-  font-family: "Lacquer", system-ui;
-  color: white;
-}
-
-body {
-    background-color: black;
-}
-
-code {
-  white-space: pre;
-}
-
-* {
-    box-sizing: border-box;
-}
-
-.b {
+#bracket .b {
     display:flex;
     flex-direction:column;
     flex: 1;
@@ -29,7 +12,7 @@ code {
     font-size: 0.9em;
 }
 
-.b div {
+#bracket .b div {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -40,26 +23,28 @@ code {
     cursor: crosshair;
 }
 
-.b div:hover {
-    color: #ff3;
-}
-
-.b div:hover .title { text-shadow: 3px 3px #000; }
-
-.b div:nth-child(even) {
+/* bracket lines styling */
+#bracket .b div:nth-child(even) {
     border-right: 3px solid white;
 }
 
+/* hover effects */
+#bracket .b div .artists { color: #999; }
+#bracket .b div:hover .title { color: #ff0; }
+#bracket .b div:hover .artists { color: #999; }
+#bracket .b div:hover { color: #ff3; }
+#bracket .b div:hover .title { text-shadow: 3px 3px #000; }
+
 
 /* bracket rounds */
-#bracket .b:nth-child(1)                    {   background-color: #222;     }
-#bracket .b:nth-child(2)                    {   background-color: #333;     }
-#bracket .b:nth-child(3)                    {   background-color: #444;     }
-#bracket .b:nth-child(4)                    {   background-color: #555;     }
-#bracket .b:nth-child(5)                    {   background-color: #666;     }
-#bracket .b:nth-child(6)                    {   background-color: #555;     }
-#bracket .b:nth-child(7)                    {   background-color: #444;     }
-#bracket .b:nth-child(8)                    {   background-color: #333;     }
+#bracket .b:nth-child(1)        {   background-color: #222;     }
+#bracket .b:nth-child(2)        {   background-color: #333;     }
+#bracket .b:nth-child(3)        {   background-color: #444;     }
+#bracket .b:nth-child(4)        {   background-color: #555;     }
+#bracket .b:nth-child(5)        {   background-color: #666;     }
+#bracket .b:nth-child(6)        {   background-color: #555;     }
+#bracket .b:nth-child(7)        {   background-color: #444;     }
+#bracket .b:nth-child(8)        {   background-color: #333;     }
 
 /* height doubles each round */
 #bracket .b:nth-child(1) div      {   height: 16vh; font-size: 1em;               }
@@ -80,14 +65,3 @@ code {
 #bracket .b:nth-child(6) div:nth-child(1)    {   height:260vh;               }
 #bracket .b:nth-child(7) div:nth-child(1)    {   height:516vh;               }
 #bracket .b:nth-child(8) div:nth-child(1)    {   height:1028vh;                 }
-
-#bracket .b div:hover .title { color: #ff0; }
-#bracket .b div .artists { color: #999; }
-#bracket .b div:hover .artists { color: #999; }
-
-@media screen and (max-width:767px) {
-    #bracket {
-        /*min-width: 200vw;*/
-    }
-}
-

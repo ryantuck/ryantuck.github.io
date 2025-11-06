@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
+
+header {
+    display: none;
+}
+
+body {
+    background-color: black;
+}
+
+
+* {
+    font-family: "Lacquer", system-ui;
+    color: white;
+    box-sizing: border-box;
+}

@@ -1,7 +1,7 @@
 <div style="display:flex;width:100vw;justify-content:space-around">
 <div style="width:64vw;text-align:center">
 
-<div style="font-size:3em;text-shadow:3px 3px #999;">
+<div style="font-size:2em;text-shadow:3px 3px #999;">
 
 # Da Ultimate Rap Battle 2025
 
@@ -58,7 +58,7 @@ Whittle down field from 564 to a clean 512 tracks
 </div>
 </div>
 <link rel="stylesheet" href="knockout-round.css">
-<div id="container" style="display:flex;flex-flow:row wrap;justify-content:center;gap:5vh">
+<div id="knockout-round">
 <div>
 
 1. <span class="title">Blow the Whistle</span><span class="artists"> - Too $hort</span>
@@ -346,34 +346,6 @@ Whittle down field from 564 to a clean 512 tracks
 
 
 </div>
-<div style="display:flex;width:100vw;justify-content:space-around;flex-direction:column;margin-top:20vh;">
-<div style="display:flex;height:50vh;justify-content:space-around">
-
-<div style="height:100%;aspect-ratio: 2 / 1;text-align: center">
-
-## Knockout Round - RIP
-
-Literally turned away Riff Raff himself at the door, along with 51 others, pouring one out for those who went too soon
-
-</div>
-<div style="height:100%;aspect-ratio: 2 / 1;">
-
-- Oh Boy - Cam'ron
-- Get By - Talib Kweli
-- Lovin' on Me - Jack Harlow
-- Space Jam - Quad City DJs
-- I'm Upset - Drake
-- Back to Back - Drake
-- Swing - Savage
-- Throw some D's - Rich Boy, Polow da Don
-- The Ghetto - Too $hort
-- Tip Toe wing in my jawwwdinz - Riff Raff
-- Don't Stop - Megan Thee Stallion, Young Thug
-
-</div>
-
-</div>
-</div>
 
 
 <div style="width:100vw;display:flex;justify-content:space-around;align:center">
@@ -396,7 +368,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 </div>
 <link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -477,8 +448,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -559,8 +528,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -641,8 +608,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -723,8 +688,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -805,8 +768,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -887,8 +848,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -969,8 +928,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1051,8 +1008,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1133,8 +1088,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1215,8 +1168,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1297,8 +1248,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1379,8 +1328,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1461,8 +1408,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1543,8 +1488,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1625,8 +1568,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1707,8 +1648,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1789,8 +1728,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1871,8 +1808,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1953,8 +1888,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2035,8 +1968,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2117,8 +2048,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2199,8 +2128,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2281,8 +2208,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2363,8 +2288,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2445,8 +2368,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2527,8 +2448,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2609,8 +2528,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2691,8 +2608,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2773,8 +2688,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2855,8 +2768,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2937,8 +2848,6 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -3022,7 +2931,7 @@ Literally turned away Riff Raff himself at the door, along with 51 others, pouri
 <div style="display:flex;width:100vw;justify-content:space-around">
 
 <div style="width:64vw;text-align:center;">
-<div style="font-size:3em;text-shadow:3px 3px #999;">
+<div style="font-size:3em;text-shadow:3px 3px #999;text-align:center">
 
 ## Bracket Round
 
@@ -3042,7 +2951,8 @@ Squad finalists are seeded into a monster 128-track head-to-head bracket to batt
 
 </div>
 </div>
-<div id="bracket" style="display:flex">
+<link rel="stylesheet" href="bracket.css">
+<div id="bracket">
 <div class="b">
 <div><span class="title">Soldier</span><span class="artists"> - Eminem</span></div>
 <div><span class="title">What's Your Fantasy</span><span class="artists"> - Ludacris, Shawnna</span></div>
@@ -3315,3 +3225,50 @@ Squad finalists are seeded into a monster 128-track head-to-head bracket to batt
 <div><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></div>
 </div>
 </div>
+<script>
+roundsInput = document.getElementById('rounds');
+roundsInput.addEventListener('input', () => {
+    // input = 2, take divs[6:]
+    // input = 5, take divs[3:]
+    // input = 8, take divs[0:]
+    // nth-child display none
+    var bracketDiv = document.getElementById('bracket');
+    var roundElements = bracketDiv.querySelectorAll(":scope > div");
+    console.log(roundElements);
+    var startingIdx = 8 - roundsInput.value;
+    for (var i = 0; i < roundElements.length; i++) {
+        if (i < startingIdx) {
+            roundElements[i].classList.remove("b");
+            roundElements[i].classList.add("c");
+            roundElements[i].style.display = "none";
+        }
+        else {
+            roundElements[i].classList.remove("c");
+            roundElements[i].classList.add("b");
+            roundElements[i].style.display = "flex";
+            const fontVar = (1 + 0.1 * (i));
+            console.log(fontVar);
+            roundElements[i].style.fontSize = fontVar.toString() + 'em';
+
+
+            // i == startingIdx 8vh
+            // i = startingIdx+1 16vh
+            // 2^(3+i-startingIdx)
+            var relIdx = i-startingIdx;
+            // const h = Math.pow(2,4+relIdx);
+            const h = (16 + startingIdx*2) * Math.pow(2,relIdx);
+            console.log(h);
+            console.log(h.toString()+'vh');
+            console.log(roundElements[i]);
+            const subdivs = roundElements[i].querySelectorAll('div');
+            console.log(subdivs);
+            subdivs.forEach(d => d.style.height = h.toString()+'vh');
+            subdivs[0].style.height = (4 + h/2).toString()+ 'vh';
+
+            subdivs.forEach(d => d.style.fontSize = fontVar.toString() + 'em');
+
+        }
+    }
+    // rangeValueDisplay.textContent = rangeInput.value;
+});
+</script>

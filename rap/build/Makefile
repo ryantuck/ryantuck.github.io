@@ -1,7 +1,7 @@
 outputs : bracket.txt knockout-groups.html squad-round.html bracket-round.html all.html
 
 all.html : all.md
-	pandoc $< -f gfm --metadata title="Da Ultimate Rap Battle 2025" --css bracket.css -s -o $@
+	pandoc $< -f gfm --metadata title="Da Ultimate Rap Battle 2025" --css common.css -s -o $@
 
 %.html : %.md
 	pandoc $< -f gfm --css bracket.css -s -o $@
@@ -23,17 +23,18 @@ edges.gv : Makefile
 artist-counts.txt : tracks.jsonl
 	jq . tracks.jsonl | jq '.artists | .[]' -r | sort | uniq -c | sort -nr > $@
 
-all.md : header.md header-knockout-round.md knockout-round.md header-squad-round.md squad-round.md header-bracket-round.md bracket-round.md
-	cat header.md header-knockout-round.md knockout-round.md header-squad-round.md squad-round.md header-bracket-round.md bracket-round.md > $@
+all.md : header.md header-knockout-round.md knockout-round.md header-squad-round.md squad-round.md header-bracket-round.md bracket-round.md rounds-input.js
+	cat header.md header-knockout-round.md knockout-round.md header-squad-round.md squad-round.md header-bracket-round.md bracket-round.md rounds-input.js > $@
 
 squad-round.md : squad-results.json gen_pages.py
+	echo '<link rel="stylesheet" href="squad-round.css">' > $@
 	cat $< \
 		| jq 'keys | .[]' -r | sort -t- -k 2n \
-		| xargs -I % python gen_pages.py % > $@
+		| xargs -I % python gen_pages.py % >> $@
 
 knockout-round.md : knockout-groups.md knockout-round.css
 	echo '<link rel="stylesheet" href="knockout-round.css">' > $@
-	echo '<div id="container" style="display:flex;flex-flow:row wrap;justify-content:center;gap:5vh">' >> $@
+	echo '<div id="knockout-round">' >> $@
 	cat $< >> $@
 	echo '</div>' >> $@
 
@@ -42,7 +43,7 @@ knockout-groups.md : knockout-results.json transform.py
 
 bracket-round.md : bracket-results.md
 	echo '<link rel="stylesheet" href="bracket.css">' > $@
-	echo '<div id="bracket" style="display:flex">' > $@
+	echo '<div id="bracket">' >> $@
 	cat $< >> $@
 	echo '</div>' >> $@
 

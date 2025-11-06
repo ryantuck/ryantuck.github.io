@@ -175,7 +175,6 @@ def squad_container(squad_name, results):
     round_2 = list(results['round_2'].values())
     rankings = list(results['rankings'].values())[0]
     return '\n\n'.join([
-        '<link rel="stylesheet" href="squad-round.css">',
         '<div class="squad-container">',
         div_round_1(round_1),
         div_round_2(round_2),

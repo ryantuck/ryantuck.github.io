@@ -1,7 +1,7 @@
 <div style="display:flex;width:100vw;justify-content:space-around">
 <div style="width:64vw;text-align:center">
 
-<div style="font-size:3em;text-shadow:3px 3px #999;">
+<div style="font-size:2em;text-shadow:3px 3px #999;">
 
 # Da Ultimate Rap Battle 2025
 

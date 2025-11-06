@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -80,8 +79,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -162,8 +159,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -244,8 +239,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -326,8 +319,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -408,8 +399,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -490,8 +479,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -572,8 +559,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -654,8 +639,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -736,8 +719,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -818,8 +799,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -900,8 +879,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -982,8 +959,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1064,8 +1039,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1146,8 +1119,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1228,8 +1199,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1310,8 +1279,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1392,8 +1359,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1474,8 +1439,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1556,8 +1519,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1638,8 +1599,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1720,8 +1679,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1802,8 +1759,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1884,8 +1839,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -1966,8 +1919,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2048,8 +1999,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2130,8 +2079,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2212,8 +2159,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2294,8 +2239,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2376,8 +2319,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2458,8 +2399,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
@@ -2540,8 +2479,6 @@
 </div>
 
 <br>
-<link rel="stylesheet" href="squad-round.css">
-
 <div class="squad-container">
 
 <div class="round-1">
