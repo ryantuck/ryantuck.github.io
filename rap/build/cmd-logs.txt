@@ -991,3 +991,109 @@
    52  git commit -m mobile
    53  git push origin master
    54  h 0
+    1  v bracket.css
+    2  ls *.css
+    3  v common.css
+    4  less all.md
+    5  v squad-round.css
+    6  v all.html
+    7  v all.html
+    8  make
+    9  mv ~/Downloads/crosshairs.png .
+   10  make
+   11  l
+   12  v all.html
+   13  v all.html
+   14  v all.html
+   15  make -B
+   16  gs
+   17  git add .
+   18  gs
+   19  git commit -m 'ko responsive'
+   20  gs
+   21  make
+   22  gs
+   23  git add squad-round.css
+   24  gds
+   25  gs
+   26  git commit -m 'squad round responsive'
+   27  gs
+   28  l
+   29  make -B
+   30  v all.html
+   31  v Makefile
+   32  make -B
+   33  l
+   34  l
+   35  v player.html
+    1  v header-bracket-round.md
+    2  v rounds-input.js
+    3  v header-knockout-round.md
+    4  v header-knockout-round.md
+    5  make
+    6  gs
+    7  git add .
+    8  git commit -m 'good enough'
+    9  gs
+   10  git log
+    1  cd src/ryantuck.github.io
+    2  l
+    3  ls
+    4  npm install ink react
+    5  l
+    6  ls
+    7  gs
+    8  rm -r node_module
+    9  rm -r node_modules
+   10  npm install -g ink react
+   11  l
+   12  cd rap
+   13  cd build
+   14  l
+   15  ls
+   16  ls *.css
+   17  v bracket.css
+   18  v knockout-round.css
+   19  ls
+   20  v Makefile
+   21  gs
+   22  git add .
+   23  git commit -m tidy'
+   24  gs
+   25  git commit -m tidy
+   26  gs
+   27  ack "em;"
+   28  ack "em;" *.css
+   29  ack "em;" *.css
+   30  v knockout-round.css
+   31  v knockout-round.css
+   32  gs
+   33  v knockout-round.css
+   34  gs
+   35  mv crosshairs2.png crosshairs.png
+   36  v knockout-round.
+   37  v knockout-round.css
+   38  gs
+   39  git add .
+   40  gs
+   41  make
+   42  gs
+   43  git add .
+   44  gds
+   45  v Makefile
+   46  v player.css
+   47  v bracket-round.html
+   48  make
+   49  v Makefile
+   50  make
+   51  v all.html
+   52  l
+   53  v all.html
+   54  l
+   55  v all.html
+   56  v player.html
+   57  gs
+   58  git add .
+   59  git commit -m 'playa'
+   60  l
+   61  v bracket.css
