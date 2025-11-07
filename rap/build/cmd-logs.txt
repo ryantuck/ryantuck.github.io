@@ -1097,3 +1097,158 @@
    59  git commit -m 'playa'
    60  l
    61  v bracket.css
+    1  ls build/*.js
+    2  make
+    3  make
+    4  make
+    5  cd build
+    6  v knockout-round.css
+    7  make
+    8  cd ..
+    9  make
+   10  make
+   11  make
+   12  ls *.css
+   13  make
+   14  make
+   15  make
+   16  make
+   17  make
+   18  v common.css
+   19  cd build
+   20  cat tracks.jsonl
+   21  cat tracks.jsonl | jq -c
+   22  cat tracks.jsonl | jq -c | python transform.py -s asdf
+   23  cat tracks.jsonl | jq -c | python transform.py -s track_map_str
+   24  cat tracks.jsonl | jq -c | python transform.py -s track_str_map
+   25  cat tracks.jsonl | jq -c | python transform.py  track_str_map
+   26  cat tracks.jsonl | jq -c | python transform.py  track_str_map
+   27  cat tracks.jsonl | jq -c | python transform.py  track_str_map
+   28  cat tracks.jsonl | jq -c | python transform.py -s track_str_map
+   29  cat tracks.jsonl | jq -c | python transform.py -s track_str_map
+   30  cat tracks.jsonl | jq -c | python transform.py -s track_str_map
+   31  cat tracks.jsonl | jq -c | python transform.py -s track_str_map
+   32  cat tracks.jsonl | jq -c | python transform.py -s track_str_map | jq
+   33  cat tracks.jsonl | jq -c | python transform.py -s track_str_map | jq
+   34  cat tracks.jsonl | jq -c | python transform.py -s track_str_id_map | jq
+   35  v Makefile
+   36  make
+   37  h 0
+    1  l
+    2  v knockout-round.css
+    3  v squad-round.css
+    4  h 0
+    5  v bracket.css
+    6  v tracks.txt
+    7  cd build
+    8  l
+    9  less tracks.txt
+   10  make tracks.txt
+   11  make tracks.txt -B
+   12  less tracks.txt
+   13  make bracket-results.md
+   14  touch bracket-results.json
+   15  make bracket-results.md
+   16  less bracket-results.md
+   17  v track-str-id-map.json
+   18  v player.js
+   19  cd ..
+   20  make
+   21  v player.js
+   22  cp player.js build
+   23  v bracket.css
+   24  diff bracket.css build/bracket.css
+   25  cp bracket.css build
+   26  make
+   27  v build/bracket.css
+   28  make
+   29  h 0
+    1  cd src
+    2  git clone git@github.com:google-deepmind/alphaevolve_repository_of_problems.git
+    3  l
+    4  cd ryantuck.github.io
+    5  l
+    6  ls
+    7  cd rap/build
+    8  l
+    9  ls
+   10  cd ..
+   11  l
+   12  v Makefile
+   13  make
+   14  make
+   15  make
+   16  gs
+   17  v Makefile
+   18  make
+   19  less index.html
+   20  v Makefile
+   21  cd build
+   22  ranger
+   23  l
+   24  l
+   25  v Makefile
+   26  make
+   27  make -B
+   28  v transform.py
+   29  v Makefile
+   30  v Makefile
+   31  v Makefile
+   32  v transform.py
+   33  v transform.py
+   34  cat tracks.jsonl
+   35  cat tracks.jsonl | python transform.py -s track_str_map
+   36  cat tracks.jsonl | python transform.py -s track_str_map
+   37  cat tracks.jsonl | python transform.py -r track_str_map
+   38  v transform.py
+   39  l
+   40  v player.js
+   41  v Makefile
+   42  v Makefile
+   43  make track-str-id-map.json
+   44  jq . track-str-id-map.json
+   45  jq . track-str-id-map.json | pbcopy
+   46  v player.js
+   47  v Makefile
+   48  v player.js
+   49  make -B
+   50  cd ..
+   51  make
+   52  v build/player.js
+   53  l
+   54  v Makefile
+   55  cd build
+   56  l
+   57  ls
+   58  v Makefile
+   59  jq . knockout-results.json
+   60  v transform.py
+   61  v transform.py
+   62  make -b
+   63  make -B
+   64  v transform.py
+   65  make -B
+   66  v transform.py
+   67  cd ..
+   68  make
+   69  cd build
+   70  v gen_pages.py
+   71  cd ..
+   72  make
+   73  make
+   74  make js
+   75  make player.js
+   76  make
+   77  make
+   78  gs
+   79  make
+   80  v README.md
+   81  gs
+   82  v README.md
+   83  gs
+   84  make
+   85  git add .
+   86  gs
+   87  git commit -m fresh
+   88  git push origin master
+   89  h 0 
