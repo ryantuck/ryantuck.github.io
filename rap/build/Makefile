@@ -21,7 +21,7 @@ edges.gv : Makefile
 	cat Makefile | grep "^[a-z]" | jq -R | python transform.py parse_make_line | jq '.[]' | jq -s | jq '.[] | "\"\(.source)\" -> \"\(.target)\";"' -r > edges.gv
 
 artist-counts.txt : tracks.jsonl
-	jq . tracks.jsonl | jq '.artists | .[]' -r | sort | uniq -c | sort -nr > $@
+	jq . $< | jq '.artists | .[]' -r | sort | uniq -c | sort -nr > $@
 
 all.md : header.md header-knockout-round.md knockout-round.md header-squad-round.md squad-round.md header-bracket-round.md bracket-round.md player.html
 	cat header.md header-knockout-round.md knockout-round.md header-squad-round.md squad-round.md header-bracket-round.md bracket-round.md player.html > $@
@@ -69,17 +69,25 @@ knockout-results.json : ../knockout-results-round-0.txt
 squad-results.json : gen_squads.py
 	python gen_squads.py | jq > $@
 
+track-str-id-map.json : tracks.jsonl
+	cat $< | jq -c | python transform.py -s track_str_id_map | jq > $@
+
+track-str-map.json : tracks.jsonl
+	jq . $< -c |  python transform.py track_str_map | jq -r | sort > $@
+
+tracks.txt : tracks.jsonl
+	jq . $< -c |  python transform.py track_str | jq -r | sort > $@
+
+tracks.jsonl : ../rap.jsonl
+	jq . $< -c | python transform.py track | jq -c > $@
+
+
+
 bracket.txt : bracket-data.json asciibracket.py
 	cat $< | python asciibracket.py > $@
 
 bracket-data.json : songs-by-round.json tidy_songs.py
 	cat $< | python tidy_songs.py > $@
-
-tracks.jsonl : ../rap.jsonl
-	jq . $< -c | python transform.py track | jq -c > $@
-
-tracks.txt : tracks.jsonl
-	jq . $< -c |  python transform.py track_str | jq -r | sort > $@
 
 tracks-in-order.jsonl : ../rap.jsonl
 	cat ../knockout-results-round-0.txt | cut -c 13- | grep . | p db.py  | p transform.py minitrack | p transform.py track_str | jq -r

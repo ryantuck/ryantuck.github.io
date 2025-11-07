@@ -1,11 +1,22 @@
-outputs : index.html css
+outputs : index.html css js crosshairs.png
 
 index.html : build/all.html
 	cp $< $@
 
-.PHONY : css
-css : knockout-round.css squad-round.css bracket.css
-	cp build/*.css .
+crosshairs.png : build/crosshairs.png
+	cp $< $@
+
+css : knockout-round.css squad-round.css bracket.css common.css
+
+js : rounds-input.js player.js
+
+%.css : build/%.css
+	cp $< $@
+
+%.js : build/%.js
+	cp $< $@
+
+# -------------------------------------------
 
 knockout-round-0-eliminated.txt : knockout-results-round-0.txt
 	cat $< | grep "^3\|^4" | cut -c 13- | sort > $@

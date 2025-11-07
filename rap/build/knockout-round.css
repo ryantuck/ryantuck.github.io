@@ -3,7 +3,7 @@
     flex-flow: row wrap;
     justify-content: center;
     gap: 5vh;
-    cursor: url('./crosshairs.png'), auto;
+    cursor: url('./crosshairs.png') 16 16, auto;
 }
 
 #knockout-round div {

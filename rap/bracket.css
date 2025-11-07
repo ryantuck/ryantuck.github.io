@@ -1,75 +1,69 @@
-@import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
-
-* {
-  font-family: "Lacquer", system-ui;
-  color: white;
+#bracket {
+    display: flex;
+    width: 100vw;
+    margin-bottom: 30vh;
 }
 
-body {
-    background-color: black;
-}
-
-code {
-  white-space: pre;
-}
-
-* {
-    box-sizing: border-box;
-}
-
-.b {
+#bracket .b {
     display:flex;
     flex-direction:column;
     flex: 1;
+    min-width: 130px;
     justify-content: flex-start;
 
     /*height:1024vh;*/
     /*aspect-ratio : 1 / 48;*/
 
-    font-size: 0.9em;
+    /*font-size: 0.9rem; */
 }
 
-.b div {
+#bracket .b div {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
 
-    border-bottom: 3px solid white;
+    border-bottom: 1px solid white;
     padding: 5px;
 
-    cursor: crosshair;
 }
 
-.b div:hover {
-    color: #ff3;
+#bracket .b div .track-li {
+    cursor: url('./crosshairs.png') 16 16, auto;
 }
 
-.b div:hover .title { text-shadow: 3px 3px #000; }
-
-.b div:nth-child(even) {
-    border-right: 3px solid white;
+/* bracket lines styling */
+#bracket .b div:nth-child(even) {
+    border-right: 1px solid white;
 }
 
+/* hover effects */
+#bracket .b div .artists { color: #999; }
+#bracket .b div:hover .title { color: #ff0; }
+#bracket .b div:hover .artists { color: #999; }
+#bracket .b div:hover { color: #ff3; }
+#bracket .b div:hover .title { text-shadow: 3px 3px #000; }
+
+/* #bracket .b:nth-child(1) .artists { display: none } */
 
 /* bracket rounds */
-#bracket .b:nth-child(1)                    {   background-color: #222;     }
-#bracket .b:nth-child(2)                    {   background-color: #333;     }
-#bracket .b:nth-child(3)                    {   background-color: #444;     }
-#bracket .b:nth-child(4)                    {   background-color: #555;     }
-#bracket .b:nth-child(5)                    {   background-color: #666;     }
-#bracket .b:nth-child(6)                    {   background-color: #555;     }
-#bracket .b:nth-child(7)                    {   background-color: #444;     }
-#bracket .b:nth-child(8)                    {   background-color: #333;     }
+#bracket .b:nth-child(1)        {   background-color: #222;     }
+#bracket .b:nth-child(2)        {   background-color: #333;     }
+#bracket .b:nth-child(3)        {   background-color: #444;     }
+#bracket .b:nth-child(4)        {   background-color: #555;     }
+#bracket .b:nth-child(5)        {   background-color: #666;     }
+#bracket .b:nth-child(6)        {   background-color: #555;     }
+#bracket .b:nth-child(7)        {   background-color: #444;     }
+#bracket .b:nth-child(8)        {   background-color: #333;     }
 
 /* height doubles each round */
-#bracket .b:nth-child(1) div      {   height: 16vh; font-size: 1em;               }
-#bracket .b:nth-child(2) div      {   height: 32vh; font-size: 1.1em;               }
-#bracket .b:nth-child(3) div      {   height: 64vh; font-size: 1.2em;               }
-#bracket .b:nth-child(4) div      {   height: 128vh; font-size: 1.3em;              }
-#bracket .b:nth-child(5) div      {   height: 256vh; font-size: 1.4em;             }
-#bracket .b:nth-child(6) div      {   height: 512vh; font-size: 1.5em;              }
-#bracket .b:nth-child(7) div      {   height: 1024vh; font-size: 1.6em;             }
-#bracket .b:nth-child(8) div      {   height: 2048vh; font-size: 1.7em;                }
+#bracket .b:nth-child(1) div      {   height: 16vh; font-size: 1rem;             }
+#bracket .b:nth-child(2) div      {   height: 32vh; font-size: 1.4rem;               }
+#bracket .b:nth-child(3) div      {   height: 64vh; font-size: 1.5rem;               }
+#bracket .b:nth-child(4) div      {   height: 128vh; font-size: 1.6rem;              }
+#bracket .b:nth-child(5) div      {   height: 256vh; font-size: 1.7rem;             }
+#bracket .b:nth-child(6) div      {   height: 512vh; font-size: 1.8rem;              }
+#bracket .b:nth-child(7) div      {   height: 1024vh; font-size: 1.9rem;             }
+#bracket .b:nth-child(8) div      {   height: 2048vh; font-size: 2rem;                }
 
 /* adjust to center stuff */
 #bracket .b:nth-child(1) div:nth-child(1)    {   height:12vh;                }
@@ -81,167 +75,15 @@ code {
 #bracket .b:nth-child(7) div:nth-child(1)    {   height:516vh;               }
 #bracket .b:nth-child(8) div:nth-child(1)    {   height:1028vh;                 }
 
-#bracket .b div:hover .title { color: #ff0; }
-#bracket .b div .artists { color: #999; }
-#bracket .b div:hover .artists { color: #999; }
-
-@media screen and (max-width:767px) {
+@media screen and (max-width: 479px) {
     #bracket {
-        /*min-width: 200vw;*/
+        overflow-x: scroll;
+        width: 100%;
     }
-}
-
-body {
-    background-color: black;
-}
-* {
-    color: white;
-    box-sizing: border-box;
-}
-.squad-container {
-    height:80vh;
-
-    display:flex;
-    justify-content:flex-start;
-    align-items:flex-start;
-
-    cursor: crosshair;
-}
-
-.round-1 {
-    height:100%;
-    aspect-ratio: 2 / 3;
-
-    display:flex;
-    flex-direction:column;
-    justify-content:space-around;
-
-    background-color:#333;
-	font-size: 1em;
-}
-.round-1 div { padding: 10px }
-
-.round-2 {
-    height:100%;
-    aspect-ratio: 2 / 3;
-
-    display:flex;
-    flex-direction:column;
-    justify-content:space-around;
-
-    background-color:#222;
-    font-size:1.5em;
-}
-.round-2 div { padding: 20px }
-
-.rankings {
-    height:100%;
-    aspect-ratio: 3 / 4;
-    /*width:36vw;*/
-
-    display:flex;
-    flex-direction:column;
-    justify-content:center;
-
-    background-color:#111;
-    font-size:2em;
-}
-.rankings div { padding: 30px }
-
-.round-1:hover div li .title { text-shadow: 1px 3px #000; }
-
-.round-1:hover div li:nth-child(1)  {  }
-.round-1:hover div li:nth-child(2)  {  }
-.round-1:hover div li:nth-child(3) * { color: #600; }
-.round-1:hover div li:nth-child(4) * { color: #600; }
-
-.round-1:hover div li:nth-child(1) .title { color: #ff3; }
-.round-1:hover div li:nth-child(2) .title { color: #ff9; }
-.round-1:hover div li:nth-child(3) .title { color: #f33; }
-.round-1:hover div li:nth-child(4) .title { color: #f33; }
-
-.round-1:hover div li:nth-child(1) .artists { color: #999; }
-.round-1:hover div li:nth-child(2) .artists { color: #999; }
-.round-1:hover div li:nth-child(3) .artists { color: #666; }
-.round-1:hover div li:nth-child(4) .artists { color: #666; }
-
-.round-2:hover div li .title { text-shadow:1px 3px #000; }
-
-.round-2:hover div li:nth-child(1)  {  }
-.round-2:hover div li:nth-child(2)  {  }
-.round-2:hover div li:nth-child(3) * { color: #600; }
-.round-2:hover div li:nth-child(4) * { color: #600; }
-
-.round-2:hover div li:nth-child(1) .title { color: #ff3; }
-.round-2:hover div li:nth-child(2) .title { color: #ff9; }
-.round-2:hover div li:nth-child(3) .title { color: #f33; }
-.round-2:hover div li:nth-child(4) .title { color: #f33; }
-
-.round-2:hover div li:nth-child(1) .artists { color: #999; }
-.round-2:hover div li:nth-child(2) .artists { color: #999; }
-.round-2:hover div li:nth-child(3) .artists { color: #666; }
-.round-2:hover div li:nth-child(4) .artists { color: #666; }
-
-.rankings:hover div li .title { text-shadow: 2px 3px #333; }
-
-.rankings:hover li:nth-child(1) .title { color: #ff0; }
-.rankings:hover li:nth-child(2) .title { color: #ff4; }
-.rankings:hover li:nth-child(3) .title { color: #ff8; }
-.rankings:hover li:nth-child(4) .title { color: #ffb; }
-
-.rankings:hover li:nth-child(1) .artists { color: #999; }
-.rankings:hover li:nth-child(2) .artists { color: #999; }
-.rankings:hover li:nth-child(3) .artists { color: #999; }
-.rankings:hover li:nth-child(4) .artists { color: #999; }
-
-body {
-    background-color: black;
-}
-
-
-.artists { color: #999 }
-
-#container div {
-    height: 24vh;
-    aspect-ratio: 3 / 2;
-    padding-right: 20px;
+    #bracket .b {
+        flex-basis: 0;
+        flex-grow: 0;
+        flex-shrink: 1;
+    }
 
 }
-
-
-#container div li {
-    cursor: crosshair;
-    color: #fff;
-}
-
-# container div li:hover {
-    text-decoration: underline;
-}
-
-#container div:hover {
-    background-color: #222;
-}
-
-#container div:hover li .title { text-shadow:1px 3px #000; }
-
-/* #container div li span { color: white; } */
-
-#container div:hover li:nth-child(1)  {  }
-#container div:hover li:nth-child(2)  {  }
-#container div:hover li:nth-child(3) * { color: #600; }
-#container div:hover li:nth-child(4) * { color: #600; }
-
-#container div:hover li:nth-child(1) .title { color: #ff3; }
-#container div:hover li:nth-child(2) .title { color: #ff9; }
-#container div:hover li:nth-child(3) .title { color: #f33; }
-#container div:hover li:nth-child(4) .title { color: #f33; }
-
-#container div:hover li:nth-child(1) .artists { color: #bbb; }
-#container div:hover li:nth-child(2) .artists { color: #bbb; }
-#container div:hover li:nth-child(3) .artists { color: #999; }
-#container div:hover li:nth-child(4) .artists { color: #999; }
-
-#container div:nth-child(3n+1) { background-color: #444 }
-#container div:nth-child(3n+2) { background-color: #222 }
-#container div:nth-child(3n+3) { background-color: #333 }
-

@@ -1,6 +1,6 @@
- - Cypress Hill, Chino Moreno, Everlast
-#1 Stunna - Big Tymers, JUVENILE, Lil Wayne
 '97 Bonnie & Clyde - Eminem
+(Rock) Superstar - Cypress Hill, Chino Moreno, Everlast
+#1 Stunna - Big Tymers, JUVENILE, Lil Wayne
 0 To 100 / The Catch Up - Drake
 03' Bonnie & Clyde - JAY-Z, Beyoncé
 1-800-273-8255 - Logic, Alessia Cara, Khalid
@@ -31,9 +31,9 @@ Attention - Rich Brian, Offset
 Baby Girl - 21 Savage
 Back Down - 50 Cent
 Back On - Gucci Mane
+Back on Road - Gucci Mane, Drake
 Back That Azz Up - JUVENILE, Lil Wayne, Mannie Fresh
 Back To Back - Drake
-Back on Road - Gucci Mane, Drake
 Bad Boy for Life - Diddy, Black Rob, Mark Curry
 Bad Business - 21 Savage
 Bad Guys - Gucci Mane
@@ -85,6 +85,7 @@ Candy Shop - 50 Cent, Olivia
 Captain Hook - Megan Thee Stallion
 Caribou Lou - Tech N9ne
 Castro - Yo Gotti, Kanye West, Big Sean, Quavo, 2 Chainz
+C’est La Vie - Yung Gravy, bbno$, Rich Brian
 Chain Hang Low - Jibbs
 Check Yo Self - Ice Cube, Das EFX
 Chin Check - N.W.A.
@@ -101,14 +102,12 @@ Count It - Bhad Bhabie, $hirak
 Country Grammar - Nelly
 Country Sh*t - Big K.R.I.T., Ludacris, Bun B
 Crack - 2 Chainz
-Crazy Rap - Afroman
+Crazy Rap (Colt 45 & 2 Zig Zags) - Afroman
 Creation & Destruction - Immortal Technique
 Crew Love - Drake, The Weeknd
 Criminal - Eminem
 Crumblin' Erb - Outkast
 Curve - Gucci Mane, The Weeknd
-C’est La Vie - Yung Gravy, bbno$, Rich Brian
-DOLCE & GABBANA - Riff Raff
 Da Graveyard - Big L
 Damn It Feels Good to Be a Gangsta - Geto Boys
 Dance with the Devil - Gucci Mane
@@ -124,6 +123,7 @@ Dirt Off Your Shoulder - JAY-Z
 Disco Inferno - 50 Cent
 Do It On The Tip - Megan Thee Stallion, City Girls, Hot Girl Meg
 Doe-Active - A$AP Ferg
+DOLCE & GABBANA - Riff Raff
 Don't Tell 'Em - Jeremih, YG
 Don't Worry 'Bout It - 50 Cent, Yo Gotti
 Don’t Stop - Megan Thee Stallion, Young Thug
@@ -159,11 +159,11 @@ Fuck Tha Police - N.W.A.
 Fuck Up Some Commas - Future
 Funky Cold Medina - Tone-Loc
 Furthest Thing - Drake
-GDFR - Flo Rida, Sage The Gemini, Lookas
 Gangsta Nation - Westside Connection
 Gangsta Rap Made Me Do It - Ice Cube
 Gangsta's Paradise - Coolio, L.V.
 Gangsters & Strippers - Too $hort
+GDFR - Flo Rida, Sage The Gemini, Lookas
 Geek'd - Bhad Bhabie, Lil Baby
 Get Back - Ludacris
 Get Buck In Here - DJ Felli Fel, Diddy, Akon, Ludacris, Lil Jon
@@ -195,12 +195,11 @@ Gucci On My - Mike WiLL Made-It, 21 Savage, YG, Migos
 Guilty Conscience - Eminem, Dr. Dre
 Gun Plus A Mask - Juicy J, Yelawolf
 Gutta Music - Jedi Mind Tricks, Reef The Lost Cauze, Chief Kamanchi
-HYFR - Drake, Lil Wayne
 Hailie's Song - Eminem
 Handsome And Wealthy - Migos
 Hannah Montana - Migos
-Hard Knock Life - JAY-Z
 Hard in Da Paint - Waka Flocka Flame
+Hard Knock Life - JAY-Z
 Hate Bein' Sober - Chief Keef, 50 Cent, Wiz Khalifa
 Hate It Or Love It - 50 Cent, The Game, Tony Yayo, Young Buck, Lloyd Banks
 Hate On Me - Kurupt, Priest "Soopafly" Brooks, Damani
@@ -217,12 +216,13 @@ Hits from the Bong - Cypress Hill
 Hold On, We're Going Home - Drake, Majid Jordan
 Holdin' It Down - Big L, Stan Spit, AG, Miss Jones
 Holy Grail - JAY-Z, Justin Timberlake
-Hot N*gga - Bobby Shmurda
+Hot N**** - Bobby Shmurda
 Hotline Bling - Drake
 How I Could Just Kill a Man - Cypress Hill
 Hurt a N**** Feelings - Gucci Mane
 Hustler Musik - Lil Wayne
 Hustlin' - Rick Ross
+HYFR - Drake, Lil Wayne
 Hypnotize - The Notorious B.I.G.
 I Can - Nas
 I Don't Fuck With You - Big Sean, E-40
@@ -236,13 +236,12 @@ I'm A Gangsta - Jadakiss, Parle
 I'm Back - Eminem
 I'm Different - 2 Chainz
 I'm Me - Lil Wayne
-I'm Not A Star - Rick Ross
 I'm Not a Player - Big Pun
+I'm Not A Star - Rick Ross
 I'm On One - DJ Khaled, Drake, Rick Ross, Lil Wayne
-I'm Upset - Drake
 I'm so Groovy - Future
 I'm the One - DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne
-INDUSTRY BABY - Lil Nas X, Jack Harlow
+I'm Upset - Drake
 Ice Cream Paint Job - Dorrough Music
 Iced Out - Lil Pump, 2 Chainz
 If I Can't - 50 Cent
@@ -252,6 +251,7 @@ In Da Club - 50 Cent
 In Her Mouth - Future
 In My Feelings - Drake
 Industrial Revolution - Immortal Technique
+INDUSTRY BABY - Lil Nas X, Jack Harlow
 Insane in the Brain - Cypress Hill
 It Was A Good Day - Ice Cube
 It's A Vibe - 2 Chainz, Ty Dolla $ign, Trey Songz, Jhené Aiko
@@ -259,19 +259,18 @@ It's Over - Kurupt, Anita McCloud, Natina Reed
 Izzo - JAY-Z
 Jada's Got A Gun - Jadakiss, Eric McCaine, Antoine Stanton
 Juicy - The Notorious B.I.G.
+Just a Friend - Biz Markie
 Just A Lil Bit - 50 Cent
 Just Don't Give A Fuck - Eminem
-Just a Friend - Biz Markie
-KIKA - 6ix9ine, Tory Lanez
 Keep Ya Head Up - 2Pac
 Kept Back - Gucci Mane, Lil Pump
+KIKA - 6ix9ine, Tory Lanez
 Kill You - Eminem
 Killa Cam / Roll That Skit - Cam'ron
 Kilo - 2 Chainz
 King Kong - Jibbs, Chamillionaire
 Knock Yourself Out - Jadakiss, Pharrell Williams
 Kyoto - Yung Lean
-LUV - Tory Lanez
 Late Night Hour - Ice Cube, Pusha T
 Lay Low - Snoop Dogg, Master P, Nate Dogg, Butch Cassidy, Tha Eastsidaz
 Lean Back - Fat Joe, Mase, Eminem, Lil Jon, Remy Ma
@@ -301,10 +300,10 @@ Love Sosa - Chief Keef
 Lovin On Me - Jack Harlow
 Low Life - Future, The Weeknd
 Lowrider - Cypress Hill
-MFN Right - 2 Chainz
+LUV - Tory Lanez
 Make Me Proud - Drake, Nicki Minaj
 Man's Not Hot - Big Shaq
-Many Men - 50 Cent
+Many Men (Wish Death) - 50 Cent
 Marble Floors - French Montana, Rick Ross, Lil Wayne, 2 Chainz
 Marvins Room - Drake
 Mask Off - Future
@@ -313,6 +312,7 @@ Maybach - Future
 Members Only - Gucci Mane
 Men In Black - Will Smith
 Met Gala - Gucci Mane, Offset
+MFN Right - 2 Chainz
 Miami - Will Smith
 Midwest Swing - St. Lunatics
 Mind Playing Tricks on Me - Geto Boys
@@ -332,7 +332,6 @@ My Mind Playin Tricks on Me - Geto Boys
 My N**** - YG, Jeezy, Rich Homie Quan
 My Name Is - Eminem
 N.Y. State of Mind - Nas
-NYC - Faith Evans, The Notorious B.I.G., Jadakiss
 Na Na - Trey Songz
 Nervous - Young Dolph
 New Illuminati - Future
@@ -354,8 +353,8 @@ Notorious B.I.G. - The Notorious B.I.G., Lil' Kim, Diddy
 Notorious Thugs - The Notorious B.I.G.
 Numb - 21 Savage
 Nuthin' But A "G" Thang - Dr. Dre, Snoop Dogg
+NYC - Faith Evans, The Notorious B.I.G., Jadakiss
 OG Kush Diet - 2 Chainz
-OTW - Khalid, 6LACK, Ty Dolla $ign
 Oh Boy - Cam'ron, Juelz Santana
 Oh My Dis Side - Travis Scott, Quavo
 Oh No - Mos Def, Pharoahe Monch, Nate Dogg
@@ -366,6 +365,8 @@ One Dance - Drake, Wizkid, Kyla
 One Mic - Nas
 One Thousand - Juicy J, Wiz Khalifa
 Only God Can Judge Me - 2Pac, Rappin' 4-Tay
+oops! - Yung Gravy
+OTW - Khalid, 6LACK, Ty Dolla $ign
 Ounces Back - 2 Chainz
 Out The Pound - Birdman, Lil Wayne
 Over Here Hustlin' - Birdman, Lil Wayne
@@ -400,17 +401,17 @@ Program - Future
 Psycho - A$AP Ferg
 Push It - Rick Ross
 Pussy Talk - City Girls, Doja Cat
+Put em in the Grave - Jedi Mind Tricks
 Put It On - Big L
 Put On - Jeezy, Kanye West
-Put em in the Grave - Jedi Mind Tricks
 Quiet Storm - Mobb Deep
 R.I.P. - Jeezy, 2 Chainz
-ROXANNE - Arizona Zervas
 Raise Up - Petey Pablo
 Rap Game - D12, 50 Cent
 Rap Saved Me - 21 Savage, Offset, Metro Boomin, Quavo
 Re-up - Gucci Mane
 Ready to Die - The Notorious B.I.G.
+redrum - 21 Savage
 Regulate - Warren G, Nate Dogg
 Ric Flair Drip - Offset, Metro Boomin
 Rich As Fuck - Lil Wayne, 2 Chainz
@@ -418,9 +419,12 @@ Rich Flex - Drake, 21 Savage
 Ride Out - Kid Ink, Tyga, Wale, YG, Rich Homie Quan
 Ride Wit Me - Nelly, City Spud
 Rite Where U Stand - Gang Starr, Jadakiss
+rockstar - Post Malone, 21 Savage
+rockstar - Post Malone, 21 Savage
 Role Model - Eminem
 Role Model Freestyle - Diabolic
 Rollout - Ludacris
+ROXANNE - Arizona Zervas
 Ruff Ryders Anthem - DJ Clue, DMX, Jadakiss, Styles, Eve, Drag-On
 Ruff Ryders' Anthem - DMX
 Run Up the Racks - 21 Savage, Metro Boomin
@@ -431,6 +435,7 @@ Scholarship - Juicy J, A$AP Rocky
 Set The Roof - Rae Sremmurd, Lil Jon
 Seven Rings - Future
 Shell Shocked - Juicy J, Wiz Khalifa, Ty Dolla $ign, Kill The Noise, Madsonik
+shining on my ex - BABY GRAVY, Yung Gravy, bbno$
 Shook Ones, Pt. II - Mobb Deep
 Shot For Me - Drake
 Show Out - Juicy J, Big Sean, Jeezy
@@ -472,7 +477,6 @@ Sunflower - Post Malone, Swae Lee
 Supastars - Migos
 Survival of the Fittest - Mobb Deep
 Swing - Savage
-TOPIA TWINS - Travis Scott, Rob49, 21 Savage
 Take Care - Drake, Rihanna
 Takin' Shots - Post Malone
 Taste - Tyga, Offset
@@ -499,6 +503,7 @@ Tip Toe Wing In My Jawwwdinz - Riff Raff
 Too Good - Drake, Rihanna
 Too Much - Drake, Sampha
 Toosie Slide - Drake
+TOPIA TWINS - Travis Scott, Rob49, 21 Savage
 Trippy - Lil Wayne, Juicy J
 Trophies - Young Money, Drake
 Try Me - DeJ Loaf
@@ -508,13 +513,11 @@ Tuscan Leather - Drake
 Twinz - Big Pun, Fat Joe
 Under Ground Kings - Drake
 Versace - Migos, Drake
-WAP - Cardi B, Megan Thee Stallion
-WHATS POPPIN - Jack Harlow
-WW III - Ruff Ryders, Snoop Dogg, Scarface, Jadakiss, Yung Wun
 Wake Up in the Sky - Gucci Mane, Bruno Mars, Kodak Black
 Walk It Talk It - Migos, Drake
 Wanna Be A Baller - Lil' Troy
 Want Her - Mustard, Quavo, YG
+WAP - Cardi B, Megan Thee Stallion
 Wat Da Hook Gon Be - Murphy Lee, Jermaine Dupri
 Wax - Juicy J
 Waybach - Gucci Mane
@@ -530,6 +533,7 @@ What Up Gangsta - 50 Cent
 What's Beef? - The Notorious B.I.G.
 What's The Difference - Dr. Dre, Eminem, Xzibit
 What's Your Fantasy - Ludacris, Shawnna
+WHATS POPPIN - Jack Harlow
 When I Die - Krayzie Bone, Fat Joe, Big Pun, Layzie Bone
 Where The Hood At - DMX
 White America - Eminem
@@ -538,17 +542,18 @@ Who Do You Love? - YG, Drake
 Who Shot Ya? - The Notorious B.I.G.
 Wicked - Future
 Wild Boy - mgk, DJ Tazmania, Waka Flocka Flame, DJ Rell
-Wild Wild West - Will Smith, Dru Hill, Kool Moe Dee
 Wild for the Night - A$AP Rocky, Skrillex, Birdy Nam Nam, Lord Flacko
+Wild Wild West - Will Smith, Dru Hill, Kool Moe Dee
 Without Me - Eminem
 Work It - Missy Elliott
 Work Out - J. Cole
 Wu-Tang Forever - Drake
+WW III - Ruff Ryders, Snoop Dogg, Scarface, Jadakiss, Yung Wun
 X - 21 Savage, Metro Boomin, Future
 X - Xzibit
 X Gon' Give It To Ya - DMX
-XO TOUR Llif3 - Lil Uzi Vert
 Xanny Family - Future
+XO TOUR Llif3 - Lil Uzi Vert
 Xxplosive - Dr. Dre, Hittman, Six-Two, Nate Dogg, Kurupt
 Yeah Glo! - GloRilla
 You Ain't a Killer - Big Pun
@@ -557,8 +562,3 @@ You Need Jesus - BABY GRAVY, Yung Gravy, bbno$
 Young N***** - Gucci Mane, Waka Flocka Flame
 Yung and Bhad - Bhad Bhabie, City Girls
 Zack And Codeine - Post Malone
-oops! - Yung Gravy
-redrum - 21 Savage
-rockstar - Post Malone, 21 Savage
-rockstar - Post Malone, 21 Savage
-shining on my ex - BABY GRAVY, Yung Gravy, bbno$

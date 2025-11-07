@@ -1,5 +1,6 @@
 import sys, json, argparse
 
+
 def track(data):
     track = data['track']
     return dict(
@@ -23,6 +24,10 @@ def track_str(t):
     artists = ', '.join(a for a in t['artists'])
     title = _tidy_title(t['title'])
     return f'{title} - {artists}'
+
+
+def track_str_id_map(tracks):
+    return {track_str(t): t['id'] for t in tracks}
 
 
 def _tidy_title(song):
@@ -59,9 +64,9 @@ def ol(strs):
 def i(s):
     return f'_{s}_'
 
+
 def strikethrough(s):
     return f'~~{s}~~'
-
 
 
 def entry_with_spans(entry):
@@ -69,19 +74,29 @@ def entry_with_spans(entry):
     assert len(parts) == 2 # ?
     title = parts[0]
     artists = ' - ' + parts[1]
+    tr_id = data_map[entry]
     return ''.join([
+        f'<span class="track-li" data-track-id="{tr_id}">',
         f'<span class="title">{title}</span>',
         f'<span class="artists">{artists}</span>',
+        '</span>',
     ])
 
+
+
+data_map = json.load(open('track-str-id-map.json'))
+
+
+def track_id(track):
+    return data_map[track]
+
+
 def bracket_track_div(track):
-    return f'<div>{entry_with_spans(track)}</div>'
+    return f'<div data-track-id="{track_id(track)}">{entry_with_spans(track)}</div>'
 
 
 def bracket_round_n_div(tracks):
     return [f'<div class="b">'] + [bracket_track_div(t) for t in tracks] + ['</div>']
-
-
 
 
 def group_results_stylized(results):
@@ -126,8 +141,10 @@ def json_graceful(lines):
         raise Exception('\n'.join(body))
     return results
 
+
 def track_id_map(tracks_list):
     return {track['title']: track['id'] for track in tracks_list}
+
 
 def parse_make_line(make_line: str):
 
@@ -141,6 +158,7 @@ def parse_make_line(make_line: str):
     prereqs = right
     return [{'source': prereq, 'target': target} for prereq in prereqs]
 
+
 def cli():
     parser = argparse.ArgumentParser()
     parser.add_argument('transform_name')
@@ -152,14 +170,21 @@ def cli():
     transform_fn = eval(args.transform_name)
 
     data = json_graceful(sys.stdin)
+
+    if args.slurp: # treat all sys.stdin as one input
+        result = transform_fn(data)
+        print(json.dumps(result))
+        return
+
+    # stream otherwise
     records = [transform_fn(record) for record in data]
+
     if args.raw:
         print(records)
-    elif args.slurp: # logic?
-        print(json.dumps(records))
-    else:
-        for record in records:
-            print(json.dumps(record))
+        return
+
+    for record in records:
+        print(json.dumps(record))
 
 
 if __name__ == '__main__':

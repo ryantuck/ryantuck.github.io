@@ -1,0 +1,25 @@
+#player-container {
+	position: fixed;
+    width: 320px;
+    height: 80px;
+	bottom: 5vw;
+	right: 5vw;
+    align: bottom;
+
+
+}
+
+#player {
+    box-shadow: 5px 5px 5px #666;
+    border-radius: 12px;
+    height: 100%;
+}
+
+@media screen and (max-width:479px) {
+    #player-container {
+        width: 80vw;
+        bottom: 5vh;
+        right: 10vw;
+    }
+}
+

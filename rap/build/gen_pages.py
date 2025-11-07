@@ -37,6 +37,7 @@ def hr():
     return '---'
 
 # ------------------------------------------------
+import transform
 
 def entry_with_spans(entry):
     parts = entry.split(' - ')
@@ -50,7 +51,7 @@ def entry_with_spans(entry):
 
 
 def group_results_stylized(results):
-    results = [entry_with_spans(e) for e in results]
+    results = [transform.entry_with_spans(e) for e in results]
     return [
         results[0],
         results[1],

@@ -1,6 +1,7 @@
 #bracket {
     display: flex;
     width: 100vw;
+    margin-bottom: 30vh;
 }
 
 #bracket .b {
@@ -24,7 +25,10 @@
     border-bottom: 1px solid white;
     padding: 5px;
 
-    cursor: crosshair;
+}
+
+#bracket .b div .track-li {
+    cursor: url('./crosshairs.png') 16 16, auto;
 }
 
 /* bracket lines styling */

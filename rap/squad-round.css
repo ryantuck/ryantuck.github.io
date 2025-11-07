@@ -1,58 +1,127 @@
-body {
-    background-color: black;
-}
-* {
-    color: white;
-    box-sizing: border-box;
-}
 .squad-container {
-    height:80vh;
+	height:90vh;
+	width: 100vw;
 
     display:flex;
+	flex-flow: row wrap;
     justify-content:flex-start;
-    align-items:flex-start;
+    align-items:stretch;
 
     cursor: crosshair;
 }
 
+
+
 .round-1 {
-    height:100%;
-    width:24vw;
+	width: 33%;
+	height: 100%;
 
     display:flex;
-    flex-direction:column;
-    justify-content:space-around;
+	flex-flow: row wrap;
+    justify-content:space-evenly;
+	align-content: space-around;
+	align-items: center;
+
 
     background-color:#333;
-	font-size: 1em;
+	font-size: 1.1vw;
 }
-.round-1 div { padding: 10px }
+.round-1 div { 
+    width: 80%;
+    cursor: url('./crosshairs.png') 16 16, auto;
+}
 
 .round-2 {
+	width: 33%;
+	height: 100%;
 
-    height:100%;
-    width:36vw;
     display:flex;
-    flex-direction:column;
-    justify-content:space-around;
+    flex-flow: row wrap;
+    justify-content:space-evenly;
+	align-items: center;
+	align-content: space-around;
+	gap: 5vw;
 
     background-color:#222;
-    font-size:1.5em;
+    font-size: 1.5vw;
 }
-.round-2 div { padding: 20px }
+.round-2 div {
+    width: 80%;
+    cursor: url('./crosshairs.png') 16 16, auto;
+}
 
 .rankings {
-    height:100%;
-    width:36vw;
+    /*width:36vw;*/
+	width: 33%;
+	height: 100%;
 
     display:flex;
     flex-direction:column;
-    justify-content:center;
+    justify-content:space-evenly;
+	align-items: center;
 
     background-color:#111;
-    font-size:2em;
+    font-size: 2.2vw;
 }
-.rankings div { padding: 30px }
+.rankings div {
+    width: 80%;
+    cursor: url('./crosshairs.png') 16 16, auto;
+}
+
+
+@media screen and (max-width: 767px) {
+	.squad-container { height: auto; }
+	.round-1 {
+		width: 100%;
+		height: 60vh;
+		font-size: 2vh;
+		align-items: start;
+		div {
+			width: 40%;
+		}
+	}
+	.round-2 {
+		width: 100%;
+		height: 60vh;
+		font-size: 2.5vh;
+		align-items: start;
+		div {
+			width: 40%;
+		}
+	}
+	.rankings {
+		width: 100%;
+		height: 60vh;
+		font-size: 3vh;
+	}
+}
+
+@media screen and (max-width: 479px) {
+	.squad-container { height: auto; }
+	.round-1 {
+		width: 100%;
+		height: 80vh;
+		div {
+			width: 80%;
+		}
+	}
+	.round-2 {
+		width: 100%;
+		height: 80vh;
+		div {
+			width: 80%;
+		}
+	}
+	.rankings {
+		width: 100%;
+		height: 80vh;
+	}
+}
+
+
+
+.squad-container .artists { color: #999; }
+
 
 .round-1:hover div li .title { text-shadow: 1px 3px #000; }
 

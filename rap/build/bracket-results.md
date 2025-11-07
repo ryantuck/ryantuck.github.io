@@ -1,271 +1,271 @@
 <div class="b">
-<div><span class="title">Soldier</span><span class="artists"> - Eminem</span></div>
-<div><span class="title">What's Your Fantasy</span><span class="artists"> - Ludacris, Shawnna</span></div>
-<div><span class="title">My Name Is</span><span class="artists"> - Eminem</span></div>
-<div><span class="title">Role Model</span><span class="artists"> - Eminem</span></div>
-<div><span class="title">Still Fly</span><span class="artists"> - Big Tymers</span></div>
-<div><span class="title">You Ain't a Killer</span><span class="artists"> - Big Pun</span></div>
-<div><span class="title">Guilty Conscience</span><span class="artists"> - Eminem, Dr. Dre</span></div>
-<div><span class="title">White America</span><span class="artists"> - Eminem</span></div>
-<div><span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span></div>
-<div><span class="title">Regulate</span><span class="artists"> - Warren G, Nate Dogg</span></div>
-<div><span class="title">Straight Outta Compton</span><span class="artists"> - N.W.A.</span></div>
-<div><span class="title">The Real Slim Shady</span><span class="artists"> - Eminem</span></div>
-<div><span class="title">Patiently Waiting</span><span class="artists"> - 50 Cent, Eminem</span></div>
-<div><span class="title">Hustlin'</span><span class="artists"> - Rick Ross</span></div>
-<div><span class="title">Going Back to Cali</span><span class="artists"> - The Notorious B.I.G.</span></div>
-<div><span class="title">Hot N****</span><span class="artists"> - Bobby Shmurda</span></div>
-<div><span class="title">Push It</span><span class="artists"> - Rick Ross</span></div>
-<div><span class="title">Killa Cam / Roll That Skit</span><span class="artists"> - Cam'ron</span></div>
-<div><span class="title">What's The Difference</span><span class="artists"> - Dr. Dre, Eminem, Xzibit</span></div>
-<div><span class="title">Consipracy Theory</span><span class="artists"> - Jedi Mind Tricks</span></div>
-<div><span class="title">My Chain</span><span class="artists"> - Gucci Mane</span></div>
-<div><span class="title">Before I Go</span><span class="artists"> - Bizzy Bone</span></div>
-<div><span class="title">I'm A Gangsta</span><span class="artists"> - Jadakiss, Parle</span></div>
-<div><span class="title">The Next Episode</span><span class="artists"> - Dr. Dre, Snoop Dogg</span></div>
-<div><span class="title">Shook Ones, Pt. II</span><span class="artists"> - Mobb Deep</span></div>
-<div><span class="title">Survival of the Fittest</span><span class="artists"> - Mobb Deep</span></div>
-<div><span class="title">Where The Hood At</span><span class="artists"> - DMX</span></div>
-<div><span class="title">Like A Pimp</span><span class="artists"> - David Banner, Lil' Flip</span></div>
-<div><span class="title">Gettin' Jiggy Wit It</span><span class="artists"> - Will Smith</span></div>
-<div><span class="title">Eazy-Duz-It</span><span class="artists"> - Eazy-E, Dr. Dre, MC Ren</span></div>
-<div><span class="title">Ambitionz Az A Ridah</span><span class="artists"> - 2Pac</span></div>
-<div><span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span></div>
-<div><span class="title">Ruff Ryders Anthem</span><span class="artists"> - DJ Clue, DMX, Jadakiss, Styles, Eve, Drag-On</span></div>
-<div><span class="title">#1 Stunna</span><span class="artists"> - Big Tymers, JUVENILE, Lil Wayne</span></div>
-<div><span class="title">Tha Shiznit</span><span class="artists"> - Snoop Dogg</span></div>
-<div><span class="title">Who Shot Ya?</span><span class="artists"> - The Notorious B.I.G.</span></div>
-<div><span class="title">Oh No</span><span class="artists"> - Mos Def, Pharoahe Monch, Nate Dogg</span></div>
-<div><span class="title">Go To Church</span><span class="artists"> - Ice Cube, Lil Jon, Snoop Dogg</span></div>
-<div><span class="title">Furthest Thing</span><span class="artists"> - Drake</span></div>
-<div><span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span></div>
-<div><span class="title">Freaky Girl</span><span class="artists"> - Gucci Mane</span></div>
-<div><span class="title">Men In Black</span><span class="artists"> - Will Smith</span></div>
-<div><span class="title">Bow Down</span><span class="artists"> - Westside Connection</span></div>
-<div><span class="title">I Can</span><span class="artists"> - Nas</span></div>
-<div><span class="title">Stuntin' Like My Daddy</span><span class="artists"> - Birdman, Lil Wayne</span></div>
-<div><span class="title">Nonstop</span><span class="artists"> - Drake</span></div>
-<div><span class="title">99 Problems</span><span class="artists"> - JAY-Z</span></div>
-<div><span class="title">Crazy Rap (Colt 45 & 2 Zig Zags)</span><span class="artists"> - Afroman</span></div>
-<div><span class="title">Miami</span><span class="artists"> - Will Smith</span></div>
-<div><span class="title">Deuces</span><span class="artists"> - Chris Brown, Tyga, Kevin McCall</span></div>
-<div><span class="title">Castro</span><span class="artists"> - Yo Gotti, Kanye West, Big Sean, Quavo, 2 Chainz</span></div>
-<div><span class="title">I'm Not a Player</span><span class="artists"> - Big Pun</span></div>
-<div><span class="title">Da Graveyard</span><span class="artists"> - Big L</span></div>
-<div><span class="title">Nuthin' But A "G" Thang</span><span class="artists"> - Dr. Dre, Snoop Dogg</span></div>
-<div><span class="title">shining on my ex</span><span class="artists"> - BABY GRAVY, Yung Gravy, bbno$</span></div>
-<div><span class="title">Leather So Soft</span><span class="artists"> - Birdman, Lil Wayne</span></div>
-<div><span class="title">I Wanna Love You</span><span class="artists"> - Akon, Snoop Dogg</span></div>
-<div><span class="title">Ready to Die</span><span class="artists"> - The Notorious B.I.G.</span></div>
-<div><span class="title">Work It</span><span class="artists"> - Missy Elliott</span></div>
-<div><span class="title">Aston Martin Music</span><span class="artists"> - Rick Ross, Drake, Chrisette Michele</span></div>
-<div><span class="title">Lowrider</span><span class="artists"> - Cypress Hill</span></div>
-<div><span class="title">Drug Dealers Anonymous</span><span class="artists"> - Pusha T, JAY-Z</span></div>
-<div><span class="title">Rap Game</span><span class="artists"> - D12, 50 Cent</span></div>
-<div><span class="title">Young N*****</span><span class="artists"> - Gucci Mane, Waka Flocka Flame</span></div>
-<div><span class="title">The Way I Am</span><span class="artists"> - Eminem</span></div>
-<div><span class="title">Down On Me</span><span class="artists"> - Jeremih, 50 Cent</span></div>
-<div><span class="title">New York</span><span class="artists"> - Ja Rule, Fat Joe, Jadakiss</span></div>
-<div><span class="title">N.Y. State of Mind</span><span class="artists"> - Nas</span></div>
-<div><span class="title">Damn It Feels Good to Be a Gangsta</span><span class="artists"> - Geto Boys</span></div>
-<div><span class="title">Shot For Me</span><span class="artists"> - Drake</span></div>
-<div><span class="title">What's Beef?</span><span class="artists"> - The Notorious B.I.G.</span></div>
-<div><span class="title">One Mic</span><span class="artists"> - Nas</span></div>
-<div><span class="title">Time's Up</span><span class="artists"> - Jadakiss, Nate Dogg</span></div>
-<div><span class="title">Gin and Juice</span><span class="artists"> - Snoop Dogg</span></div>
-<div><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></div>
-<div><span class="title">Don't Tell 'Em</span><span class="artists"> - Jeremih, YG</span></div>
-<div><span class="title">Work Out</span><span class="artists"> - J. Cole</span></div>
-<div><span class="title">Money In The Grave</span><span class="artists"> - Drake, Rick Ross</span></div>
-<div><span class="title">Over Here Hustlin'</span><span class="artists"> - Birdman, Lil Wayne</span></div>
-<div><span class="title">Caribou Lou</span><span class="artists"> - Tech N9ne</span></div>
-<div><span class="title">Back That Azz Up</span><span class="artists"> - JUVENILE, Lil Wayne, Mannie Fresh</span></div>
-<div><span class="title">Money On My Mind</span><span class="artists"> - Lil Wayne</span></div>
-<div><span class="title">Pillz</span><span class="artists"> - Gucci Mane</span></div>
-<div><span class="title">Jada's Got A Gun</span><span class="artists"> - Jadakiss, Eric McCaine, Antoine Stanton</span></div>
-<div><span class="title">No Frauds</span><span class="artists"> - Nicki Minaj, Drake, Lil Wayne</span></div>
-<div><span class="title">Ice Cream Paint Job</span><span class="artists"> - Dorrough Music</span></div>
-<div><span class="title">INDUSTRY BABY</span><span class="artists"> - Lil Nas X, Jack Harlow</span></div>
-<div><span class="title">On Fire</span><span class="artists"> - Lloyd Banks</span></div>
-<div><span class="title">Get Your Roll On</span><span class="artists"> - Big Tymers</span></div>
-<div><span class="title">Point of No Return</span><span class="artists"> - Immortal Technique</span></div>
-<div><span class="title">Dirt Off Your Shoulder</span><span class="artists"> - JAY-Z</span></div>
-<div><span class="title">When I Die</span><span class="artists"> - Krayzie Bone, Fat Joe, Big Pun, Layzie Bone</span></div>
-<div><span class="title">Buy U a Drank</span><span class="artists"> - T-Pain, Yung Joc</span></div>
-<div><span class="title">WW III</span><span class="artists"> - Ruff Ryders, Snoop Dogg, Scarface, Jadakiss, Yung Wun</span></div>
-<div><span class="title">Late Night Hour</span><span class="artists"> - Ice Cube, Pusha T</span></div>
-<div><span class="title">Beamer, Benz, Or Bentley</span><span class="artists"> - Lloyd Banks, Juelz Santana</span></div>
-<div><span class="title">Bad Boy for Life</span><span class="artists"> - Diddy, Black Rob, Mark Curry</span></div>
-<div><span class="title">Blow the Whistle</span><span class="artists"> - Too $hort</span></div>
-<div><span class="title">Dear Mama</span><span class="artists"> - 2Pac</span></div>
-<div><span class="title">Marvins Room</span><span class="artists"> - Drake</span></div>
-<div><span class="title">Boyz-N-The-Hood</span><span class="artists"> - Eazy-E</span></div>
-<div><span class="title">Yung and Bhad</span><span class="artists"> - Bhad Bhabie, City Girls</span></div>
-<div><span class="title">Ten Crack Commandments</span><span class="artists"> - The Notorious B.I.G.</span></div>
-<div><span class="title">Welcome To Atlanta Remix</span><span class="artists"> - Jermaine Dupri, Diddy, Snoop Dogg, Murphy Lee</span></div>
-<div><span class="title">E.I.</span><span class="artists"> - Nelly</span></div>
-<div><span class="title">King Kong</span><span class="artists"> - Jibbs, Chamillionaire</span></div>
-<div><span class="title">Without Me</span><span class="artists"> - Eminem</span></div>
-<div><span class="title">Simon Says</span><span class="artists"> - Pharoahe Monch</span></div>
-<div><span class="title">The 4th Branch</span><span class="artists"> - Immortal Technique</span></div>
-<div><span class="title">Hello</span><span class="artists"> - Ice Cube, Dr. Dre, MC Ren</span></div>
-<div><span class="title">Platinum Plus</span><span class="artists"> - Big L, Big Daddy Kane</span></div>
-<div><span class="title">Tha Mobb</span><span class="artists"> - Lil Wayne</span></div>
-<div><span class="title">My N****</span><span class="artists"> - YG, Jeezy, Rich Homie Quan</span></div>
-<div><span class="title">Play</span><span class="artists"> - David Banner</span></div>
-<div><span class="title">Lay Low</span><span class="artists"> - Snoop Dogg, Master P, Nate Dogg, Butch Cassidy, Tha Eastsidaz</span></div>
-<div><span class="title">C-Walk</span><span class="artists"> - Kurupt, Tray Dee, Slip Capone</span></div>
-<div><span class="title">Colombia Heights</span><span class="artists"> - Wale, J Balvin</span></div>
-<div><span class="title">I'm On One</span><span class="artists"> - DJ Khaled, Drake, Rick Ross, Lil Wayne</span></div>
-<div><span class="title">Big Bank</span><span class="artists"> - YG, 2 Chainz, Big Sean, Nicki Minaj</span></div>
-<div><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></div>
-<div><span class="title">Got Ur Self A Gun</span><span class="artists"> - Nas</span></div>
-<div><span class="title">I Got 5 On It</span><span class="artists"> - Luniz</span></div>
-<div><span class="title">Hard in Da Paint</span><span class="artists"> - Waka Flocka Flame</span></div>
-<div><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></div>
-<div><span class="title">Quiet Storm</span><span class="artists"> - Mobb Deep</span></div>
-<div><span class="title">Big Pimpin'</span><span class="artists"> - JAY-Z, UGK</span></div>
-<div><span class="title">Feels</span><span class="artists"> - Tory Lanez, Chris Brown</span></div>
-<div><span class="title">Forgot About Dre</span><span class="artists"> - Dr. Dre, Eminem</span></div>
+<div data-track-id="5QD28FqaM3jTfsqWwvRZwv"><span class="track-li" data-track-id="5QD28FqaM3jTfsqWwvRZwv"><span class="title">Soldier</span><span class="artists"> - Eminem</span></span></div>
+<div data-track-id="4LwOrnuxJwR7C5Sw4liY4Z"><span class="track-li" data-track-id="4LwOrnuxJwR7C5Sw4liY4Z"><span class="title">What's Your Fantasy</span><span class="artists"> - Ludacris, Shawnna</span></span></div>
+<div data-track-id="0Fv6CfegUbD5Egs0dj8CVB"><span class="track-li" data-track-id="0Fv6CfegUbD5Egs0dj8CVB"><span class="title">My Name Is</span><span class="artists"> - Eminem</span></span></div>
+<div data-track-id="3zXGMmgIygV00eFxyqmbeO"><span class="track-li" data-track-id="3zXGMmgIygV00eFxyqmbeO"><span class="title">Role Model</span><span class="artists"> - Eminem</span></span></div>
+<div data-track-id="563vSy3HB5NHxel1VGQCW6"><span class="track-li" data-track-id="563vSy3HB5NHxel1VGQCW6"><span class="title">Still Fly</span><span class="artists"> - Big Tymers</span></span></div>
+<div data-track-id="14Ai4sTxWbQpNymhpQKuES"><span class="track-li" data-track-id="14Ai4sTxWbQpNymhpQKuES"><span class="title">You Ain't a Killer</span><span class="artists"> - Big Pun</span></span></div>
+<div data-track-id="2iW8D4Vdy8lrOEBkYEJOzd"><span class="track-li" data-track-id="2iW8D4Vdy8lrOEBkYEJOzd"><span class="title">Guilty Conscience</span><span class="artists"> - Eminem, Dr. Dre</span></span></div>
+<div data-track-id="15qrWkkYCfmtu1uRpGf48L"><span class="track-li" data-track-id="15qrWkkYCfmtu1uRpGf48L"><span class="title">White America</span><span class="artists"> - Eminem</span></span></div>
+<div data-track-id="7MDUVH4ITohsIjdynRwCJp"><span class="track-li" data-track-id="7MDUVH4ITohsIjdynRwCJp"><span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span></span></div>
+<div data-track-id="7nYvUtkQMx1v80S2FH2s9J"><span class="track-li" data-track-id="7nYvUtkQMx1v80S2FH2s9J"><span class="title">Regulate</span><span class="artists"> - Warren G, Nate Dogg</span></span></div>
+<div data-track-id="4LujRMTMwAfFKjm45tixHY"><span class="track-li" data-track-id="4LujRMTMwAfFKjm45tixHY"><span class="title">Straight Outta Compton</span><span class="artists"> - N.W.A.</span></span></div>
+<div data-track-id="3yfqSUWxFvZELEM4PmlwIR"><span class="track-li" data-track-id="3yfqSUWxFvZELEM4PmlwIR"><span class="title">The Real Slim Shady</span><span class="artists"> - Eminem</span></span></div>
+<div data-track-id="6C781pluv3BPxGHHCUJNYc"><span class="track-li" data-track-id="6C781pluv3BPxGHHCUJNYc"><span class="title">Patiently Waiting</span><span class="artists"> - 50 Cent, Eminem</span></span></div>
+<div data-track-id="3hQCHzkE5oSA3F1xM8bpcM"><span class="track-li" data-track-id="3hQCHzkE5oSA3F1xM8bpcM"><span class="title">Hustlin'</span><span class="artists"> - Rick Ross</span></span></div>
+<div data-track-id="53duuSwaLOZuIrELvZXqLH"><span class="track-li" data-track-id="53duuSwaLOZuIrELvZXqLH"><span class="title">Going Back to Cali</span><span class="artists"> - The Notorious B.I.G.</span></span></div>
+<div data-track-id="19gEmPjfqSZT0ulDRfjl0m"><span class="track-li" data-track-id="19gEmPjfqSZT0ulDRfjl0m"><span class="title">Hot N****</span><span class="artists"> - Bobby Shmurda</span></span></div>
+<div data-track-id="39SQnz9u6zd91nZdaPmmJK"><span class="track-li" data-track-id="39SQnz9u6zd91nZdaPmmJK"><span class="title">Push It</span><span class="artists"> - Rick Ross</span></span></div>
+<div data-track-id="4zukWwrha2XMpfHLr5Ot7j"><span class="track-li" data-track-id="4zukWwrha2XMpfHLr5Ot7j"><span class="title">Killa Cam / Roll That Skit</span><span class="artists"> - Cam'ron</span></span></div>
+<div data-track-id="1SWVDBtw6h3tm9OehOkDhv"><span class="track-li" data-track-id="1SWVDBtw6h3tm9OehOkDhv"><span class="title">What's The Difference</span><span class="artists"> - Dr. Dre, Eminem, Xzibit</span></span></div>
+<div data-track-id="2SQT63XxNkfhNiTsUWWCpN"><span class="track-li" data-track-id="2SQT63XxNkfhNiTsUWWCpN"><span class="title">Consipracy Theory</span><span class="artists"> - Jedi Mind Tricks</span></span></div>
+<div data-track-id="3l1zff3qLyCtxy40DtQdrP"><span class="track-li" data-track-id="3l1zff3qLyCtxy40DtQdrP"><span class="title">My Chain</span><span class="artists"> - Gucci Mane</span></span></div>
+<div data-track-id="77sZLMXNccKxviCviwuKA2"><span class="track-li" data-track-id="77sZLMXNccKxviCviwuKA2"><span class="title">Before I Go</span><span class="artists"> - Bizzy Bone</span></span></div>
+<div data-track-id="6ybZQ56V37KE4XqaFtUgXN"><span class="track-li" data-track-id="6ybZQ56V37KE4XqaFtUgXN"><span class="title">I'm A Gangsta</span><span class="artists"> - Jadakiss, Parle</span></span></div>
+<div data-track-id="4LwU4Vp6od3Sb08CsP99GC"><span class="track-li" data-track-id="4LwU4Vp6od3Sb08CsP99GC"><span class="title">The Next Episode</span><span class="artists"> - Dr. Dre, Snoop Dogg</span></span></div>
+<div data-track-id="33ZXjLCpiINn8eQIDYEPTD"><span class="track-li" data-track-id="33ZXjLCpiINn8eQIDYEPTD"><span class="title">Shook Ones, Pt. II</span><span class="artists"> - Mobb Deep</span></span></div>
+<div data-track-id="7N1Vjtzr1lmmCW9iasQ8YO"><span class="track-li" data-track-id="7N1Vjtzr1lmmCW9iasQ8YO"><span class="title">Survival of the Fittest</span><span class="artists"> - Mobb Deep</span></span></div>
+<div data-track-id="6RUpJeXT6U4SPEafnr9Wr7"><span class="track-li" data-track-id="6RUpJeXT6U4SPEafnr9Wr7"><span class="title">Where The Hood At</span><span class="artists"> - DMX</span></span></div>
+<div data-track-id="289MmJCmxYMxC54ZHcd9G0"><span class="track-li" data-track-id="289MmJCmxYMxC54ZHcd9G0"><span class="title">Like A Pimp</span><span class="artists"> - David Banner, Lil' Flip</span></span></div>
+<div data-track-id="0weAUscowxeqDtpCgtbpgp"><span class="track-li" data-track-id="0weAUscowxeqDtpCgtbpgp"><span class="title">Gettin' Jiggy Wit It</span><span class="artists"> - Will Smith</span></span></div>
+<div data-track-id="1ohwrBQrxIlqMYfkoYERiN"><span class="track-li" data-track-id="1ohwrBQrxIlqMYfkoYERiN"><span class="title">Eazy-Duz-It</span><span class="artists"> - Eazy-E, Dr. Dre, MC Ren</span></span></div>
+<div data-track-id="5g9lS8deSIxItFBmZRC4vN"><span class="track-li" data-track-id="5g9lS8deSIxItFBmZRC4vN"><span class="title">Ambitionz Az A Ridah</span><span class="artists"> - 2Pac</span></span></div>
+<div data-track-id="771lQyKAtqXRpZ7iM4JsbP"><span class="track-li" data-track-id="771lQyKAtqXRpZ7iM4JsbP"><span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span></span></div>
+<div data-track-id="0CT9dRh7mbYKGCPLwIcVqH"><span class="track-li" data-track-id="0CT9dRh7mbYKGCPLwIcVqH"><span class="title">Ruff Ryders Anthem</span><span class="artists"> - DJ Clue, DMX, Jadakiss, Styles, Eve, Drag-On</span></span></div>
+<div data-track-id="7kBdenpTmgWfAz9clmBcok"><span class="track-li" data-track-id="7kBdenpTmgWfAz9clmBcok"><span class="title">#1 Stunna</span><span class="artists"> - Big Tymers, JUVENILE, Lil Wayne</span></span></div>
+<div data-track-id="1BZm0t49YEhM8xbTINoQKp"><span class="track-li" data-track-id="1BZm0t49YEhM8xbTINoQKp"><span class="title">Tha Shiznit</span><span class="artists"> - Snoop Dogg</span></span></div>
+<div data-track-id="2KFg8kjYy0rYjWsXGhEQHN"><span class="track-li" data-track-id="2KFg8kjYy0rYjWsXGhEQHN"><span class="title">Who Shot Ya?</span><span class="artists"> - The Notorious B.I.G.</span></span></div>
+<div data-track-id="3tC8SJpOwJhDg8WGG1NKGR"><span class="track-li" data-track-id="3tC8SJpOwJhDg8WGG1NKGR"><span class="title">Oh No</span><span class="artists"> - Mos Def, Pharoahe Monch, Nate Dogg</span></span></div>
+<div data-track-id="3Feec7M9kLXDHag4iZcBxU"><span class="track-li" data-track-id="3Feec7M9kLXDHag4iZcBxU"><span class="title">Go To Church</span><span class="artists"> - Ice Cube, Lil Jon, Snoop Dogg</span></span></div>
+<div data-track-id="1kOMsxXInHtZNlzThiau7l"><span class="track-li" data-track-id="1kOMsxXInHtZNlzThiau7l"><span class="title">Furthest Thing</span><span class="artists"> - Drake</span></span></div>
+<div data-track-id="0ddXulCPG0YtkLVyyKIof8"><span class="track-li" data-track-id="0ddXulCPG0YtkLVyyKIof8"><span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span></span></div>
+<div data-track-id="5wTV2aPLlM3nB3GmEMiXZb"><span class="track-li" data-track-id="5wTV2aPLlM3nB3GmEMiXZb"><span class="title">Freaky Girl</span><span class="artists"> - Gucci Mane</span></span></div>
+<div data-track-id="2FK7fxjzQEXD7Z32HSF0Hl"><span class="track-li" data-track-id="2FK7fxjzQEXD7Z32HSF0Hl"><span class="title">Men In Black</span><span class="artists"> - Will Smith</span></span></div>
+<div data-track-id="4EGduKhpEdXZFsZELRkvfs"><span class="track-li" data-track-id="4EGduKhpEdXZFsZELRkvfs"><span class="title">Bow Down</span><span class="artists"> - Westside Connection</span></span></div>
+<div data-track-id="2NPxL1QqPrD1a7OLHjVcAP"><span class="track-li" data-track-id="2NPxL1QqPrD1a7OLHjVcAP"><span class="title">I Can</span><span class="artists"> - Nas</span></span></div>
+<div data-track-id="3rMyMv8EjKXoPnaRo2hdJN"><span class="track-li" data-track-id="3rMyMv8EjKXoPnaRo2hdJN"><span class="title">Stuntin' Like My Daddy</span><span class="artists"> - Birdman, Lil Wayne</span></span></div>
+<div data-track-id="0TlLq3lA83rQOYtrqBqSct"><span class="track-li" data-track-id="0TlLq3lA83rQOYtrqBqSct"><span class="title">Nonstop</span><span class="artists"> - Drake</span></span></div>
+<div data-track-id="7sLpSWxQazJzDVG6YGzlVs"><span class="track-li" data-track-id="7sLpSWxQazJzDVG6YGzlVs"><span class="title">99 Problems</span><span class="artists"> - JAY-Z</span></span></div>
+<div data-track-id="1ACZpHI5vZ5Ea4xGlkdGWM"><span class="track-li" data-track-id="1ACZpHI5vZ5Ea4xGlkdGWM"><span class="title">Crazy Rap (Colt 45 & 2 Zig Zags)</span><span class="artists"> - Afroman</span></span></div>
+<div data-track-id="6e8Ou0wiqAzIpWb2eSxll8"><span class="track-li" data-track-id="6e8Ou0wiqAzIpWb2eSxll8"><span class="title">Miami</span><span class="artists"> - Will Smith</span></span></div>
+<div data-track-id="3QkXEz9TxApuk1JpDmeWnS"><span class="track-li" data-track-id="3QkXEz9TxApuk1JpDmeWnS"><span class="title">Deuces</span><span class="artists"> - Chris Brown, Tyga, Kevin McCall</span></span></div>
+<div data-track-id="0rHJxNaQRMGK6Y4TUx3xRO"><span class="track-li" data-track-id="0rHJxNaQRMGK6Y4TUx3xRO"><span class="title">Castro</span><span class="artists"> - Yo Gotti, Kanye West, Big Sean, Quavo, 2 Chainz</span></span></div>
+<div data-track-id="0JyfYLKuXRmPhMkIPVstu5"><span class="track-li" data-track-id="0JyfYLKuXRmPhMkIPVstu5"><span class="title">I'm Not a Player</span><span class="artists"> - Big Pun</span></span></div>
+<div data-track-id="04Rz403IY7QUqgfrTWX6OU"><span class="track-li" data-track-id="04Rz403IY7QUqgfrTWX6OU"><span class="title">Da Graveyard</span><span class="artists"> - Big L</span></span></div>
+<div data-track-id="5Tbpp3OLLClPJF8t1DmrFD"><span class="track-li" data-track-id="5Tbpp3OLLClPJF8t1DmrFD"><span class="title">Nuthin' But A "G" Thang</span><span class="artists"> - Dr. Dre, Snoop Dogg</span></span></div>
+<div data-track-id="6xhw4aS2CiuHJRrqxoIzLn"><span class="track-li" data-track-id="6xhw4aS2CiuHJRrqxoIzLn"><span class="title">shining on my ex</span><span class="artists"> - BABY GRAVY, Yung Gravy, bbno$</span></span></div>
+<div data-track-id="2QUVk7QscEdZiHi7zs4ycM"><span class="track-li" data-track-id="2QUVk7QscEdZiHi7zs4ycM"><span class="title">Leather So Soft</span><span class="artists"> - Birdman, Lil Wayne</span></span></div>
+<div data-track-id="0CXVjQI9wsqaGeIARkkpYc"><span class="track-li" data-track-id="0CXVjQI9wsqaGeIARkkpYc"><span class="title">I Wanna Love You</span><span class="artists"> - Akon, Snoop Dogg</span></span></div>
+<div data-track-id="3UQAKY0SUEonxneROvv4jy"><span class="track-li" data-track-id="3UQAKY0SUEonxneROvv4jy"><span class="title">Ready to Die</span><span class="artists"> - The Notorious B.I.G.</span></span></div>
+<div data-track-id="3jagJCUbdqhDSPuxP8cAqF"><span class="track-li" data-track-id="3jagJCUbdqhDSPuxP8cAqF"><span class="title">Work It</span><span class="artists"> - Missy Elliott</span></span></div>
+<div data-track-id="5W7xC99N2Zzfh69r7I7zWK"><span class="track-li" data-track-id="5W7xC99N2Zzfh69r7I7zWK"><span class="title">Aston Martin Music</span><span class="artists"> - Rick Ross, Drake, Chrisette Michele</span></span></div>
+<div data-track-id="4VfojtYLYoADnN63NQ1GkN"><span class="track-li" data-track-id="4VfojtYLYoADnN63NQ1GkN"><span class="title">Lowrider</span><span class="artists"> - Cypress Hill</span></span></div>
+<div data-track-id="1b6rmL3VXBgYTbn61kM8wT"><span class="track-li" data-track-id="1b6rmL3VXBgYTbn61kM8wT"><span class="title">Drug Dealers Anonymous</span><span class="artists"> - Pusha T, JAY-Z</span></span></div>
+<div data-track-id="3WgTbafC5uRpdQdFndQYxE"><span class="track-li" data-track-id="3WgTbafC5uRpdQdFndQYxE"><span class="title">Rap Game</span><span class="artists"> - D12, 50 Cent</span></span></div>
+<div data-track-id="7nsDUqwT5JhLCqyFezAuC3"><span class="track-li" data-track-id="7nsDUqwT5JhLCqyFezAuC3"><span class="title">Young N*****</span><span class="artists"> - Gucci Mane, Waka Flocka Flame</span></span></div>
+<div data-track-id="23wfXwnsPZYe5A1xXRHb3J"><span class="track-li" data-track-id="23wfXwnsPZYe5A1xXRHb3J"><span class="title">The Way I Am</span><span class="artists"> - Eminem</span></span></div>
+<div data-track-id="0x3TibRgnSqzkcwrqBd4iX"><span class="track-li" data-track-id="0x3TibRgnSqzkcwrqBd4iX"><span class="title">Down On Me</span><span class="artists"> - Jeremih, 50 Cent</span></span></div>
+<div data-track-id="0aBcG8VErKiZRIqyCIapu2"><span class="track-li" data-track-id="0aBcG8VErKiZRIqyCIapu2"><span class="title">New York</span><span class="artists"> - Ja Rule, Fat Joe, Jadakiss</span></span></div>
+<div data-track-id="0trHOzAhNpGCsGBEu7dOJo"><span class="track-li" data-track-id="0trHOzAhNpGCsGBEu7dOJo"><span class="title">N.Y. State of Mind</span><span class="artists"> - Nas</span></span></div>
+<div data-track-id="0HOqINudNgQFpg1le5Hnqe"><span class="track-li" data-track-id="0HOqINudNgQFpg1le5Hnqe"><span class="title">Damn It Feels Good to Be a Gangsta</span><span class="artists"> - Geto Boys</span></span></div>
+<div data-track-id="6k7b4mcxLP5HPo6hNoXoM6"><span class="track-li" data-track-id="6k7b4mcxLP5HPo6hNoXoM6"><span class="title">Shot For Me</span><span class="artists"> - Drake</span></span></div>
+<div data-track-id="0S736hkRjkdmuvbZuvx1sh"><span class="track-li" data-track-id="0S736hkRjkdmuvbZuvx1sh"><span class="title">What's Beef?</span><span class="artists"> - The Notorious B.I.G.</span></span></div>
+<div data-track-id="0FoNL2JohSdDhABW82QJMc"><span class="track-li" data-track-id="0FoNL2JohSdDhABW82QJMc"><span class="title">One Mic</span><span class="artists"> - Nas</span></span></div>
+<div data-track-id="3iQHtjDo1jgcbjUPsh3Dkb"><span class="track-li" data-track-id="3iQHtjDo1jgcbjUPsh3Dkb"><span class="title">Time's Up</span><span class="artists"> - Jadakiss, Nate Dogg</span></span></div>
+<div data-track-id="39QBkWKnap8wRSW4WB9OK0"><span class="track-li" data-track-id="39QBkWKnap8wRSW4WB9OK0"><span class="title">Gin and Juice</span><span class="artists"> - Snoop Dogg</span></span></div>
+<div data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="track-li" data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></span></div>
+<div data-track-id="0Dc7J9VPV4eOInoxUiZrsL"><span class="track-li" data-track-id="0Dc7J9VPV4eOInoxUiZrsL"><span class="title">Don't Tell 'Em</span><span class="artists"> - Jeremih, YG</span></span></div>
+<div data-track-id="2wAJTrFhCnQyNSD3oUgTZO"><span class="track-li" data-track-id="2wAJTrFhCnQyNSD3oUgTZO"><span class="title">Work Out</span><span class="artists"> - J. Cole</span></span></div>
+<div data-track-id="5ry2OE6R2zPQFDO85XkgRb"><span class="track-li" data-track-id="5ry2OE6R2zPQFDO85XkgRb"><span class="title">Money In The Grave</span><span class="artists"> - Drake, Rick Ross</span></span></div>
+<div data-track-id="0J1mcDz3wZTdBeZ56ho8LN"><span class="track-li" data-track-id="0J1mcDz3wZTdBeZ56ho8LN"><span class="title">Over Here Hustlin'</span><span class="artists"> - Birdman, Lil Wayne</span></span></div>
+<div data-track-id="0I0wn4G67txQwENcmRH3d6"><span class="track-li" data-track-id="0I0wn4G67txQwENcmRH3d6"><span class="title">Caribou Lou</span><span class="artists"> - Tech N9ne</span></span></div>
+<div data-track-id="6o2g1BJvtYQssH84kBYs7y"><span class="track-li" data-track-id="6o2g1BJvtYQssH84kBYs7y"><span class="title">Back That Azz Up</span><span class="artists"> - JUVENILE, Lil Wayne, Mannie Fresh</span></span></div>
+<div data-track-id="6IQKNwWjNm6xpF721NqoH5"><span class="track-li" data-track-id="6IQKNwWjNm6xpF721NqoH5"><span class="title">Money On My Mind</span><span class="artists"> - Lil Wayne</span></span></div>
+<div data-track-id="34jo8lLdlFi2GoWJE7YeDv"><span class="track-li" data-track-id="34jo8lLdlFi2GoWJE7YeDv"><span class="title">Pillz</span><span class="artists"> - Gucci Mane</span></span></div>
+<div data-track-id="7IDV2MvSNxBCwqzsxmspLH"><span class="track-li" data-track-id="7IDV2MvSNxBCwqzsxmspLH"><span class="title">Jada's Got A Gun</span><span class="artists"> - Jadakiss, Eric McCaine, Antoine Stanton</span></span></div>
+<div data-track-id="0WtVtCK5SEFvyyA5V8D9CI"><span class="track-li" data-track-id="0WtVtCK5SEFvyyA5V8D9CI"><span class="title">No Frauds</span><span class="artists"> - Nicki Minaj, Drake, Lil Wayne</span></span></div>
+<div data-track-id="57QFOU3f7O0gDLadxv5z8w"><span class="track-li" data-track-id="57QFOU3f7O0gDLadxv5z8w"><span class="title">Ice Cream Paint Job</span><span class="artists"> - Dorrough Music</span></span></div>
+<div data-track-id="5Z9KJZvQzH6PFmb8SNkxuk"><span class="track-li" data-track-id="5Z9KJZvQzH6PFmb8SNkxuk"><span class="title">INDUSTRY BABY</span><span class="artists"> - Lil Nas X, Jack Harlow</span></span></div>
+<div data-track-id="0B2ZuTLZnWQ6gz8RlNwBu1"><span class="track-li" data-track-id="0B2ZuTLZnWQ6gz8RlNwBu1"><span class="title">On Fire</span><span class="artists"> - Lloyd Banks</span></span></div>
+<div data-track-id="4HpCT9jeCzBfpCaF3aTVWX"><span class="track-li" data-track-id="4HpCT9jeCzBfpCaF3aTVWX"><span class="title">Get Your Roll On</span><span class="artists"> - Big Tymers</span></span></div>
+<div data-track-id="5KUiLOgwUB2Y8dzTBv8j7R"><span class="track-li" data-track-id="5KUiLOgwUB2Y8dzTBv8j7R"><span class="title">Point of No Return</span><span class="artists"> - Immortal Technique</span></span></div>
+<div data-track-id="3IrkbGQCoEPAkzJ0Tkv8nm"><span class="track-li" data-track-id="3IrkbGQCoEPAkzJ0Tkv8nm"><span class="title">Dirt Off Your Shoulder</span><span class="artists"> - JAY-Z</span></span></div>
+<div data-track-id="4TdUh482EQMbchz7IH5Kj1"><span class="track-li" data-track-id="4TdUh482EQMbchz7IH5Kj1"><span class="title">When I Die</span><span class="artists"> - Krayzie Bone, Fat Joe, Big Pun, Layzie Bone</span></span></div>
+<div data-track-id="1tkMs9wDPknQ3ZHcKDw1ES"><span class="track-li" data-track-id="1tkMs9wDPknQ3ZHcKDw1ES"><span class="title">Buy U a Drank</span><span class="artists"> - T-Pain, Yung Joc</span></span></div>
+<div data-track-id="3vm7NBtMNULBDQ8yAwVoWC"><span class="track-li" data-track-id="3vm7NBtMNULBDQ8yAwVoWC"><span class="title">WW III</span><span class="artists"> - Ruff Ryders, Snoop Dogg, Scarface, Jadakiss, Yung Wun</span></span></div>
+<div data-track-id="5z5PkpuNNQNEd1OdizjtQz"><span class="track-li" data-track-id="5z5PkpuNNQNEd1OdizjtQz"><span class="title">Late Night Hour</span><span class="artists"> - Ice Cube, Pusha T</span></span></div>
+<div data-track-id="0cNJ3huiV99wvUN1tmQLTL"><span class="track-li" data-track-id="0cNJ3huiV99wvUN1tmQLTL"><span class="title">Beamer, Benz, Or Bentley</span><span class="artists"> - Lloyd Banks, Juelz Santana</span></span></div>
+<div data-track-id="2eOuL8KesslTLQERQPu11D"><span class="track-li" data-track-id="2eOuL8KesslTLQERQPu11D"><span class="title">Bad Boy for Life</span><span class="artists"> - Diddy, Black Rob, Mark Curry</span></span></div>
+<div data-track-id="2lMg3lCMOGistaWBNGjuT3"><span class="track-li" data-track-id="2lMg3lCMOGistaWBNGjuT3"><span class="title">Blow the Whistle</span><span class="artists"> - Too $hort</span></span></div>
+<div data-track-id="6tDxrq4FxEL2q15y37tXT9"><span class="track-li" data-track-id="6tDxrq4FxEL2q15y37tXT9"><span class="title">Dear Mama</span><span class="artists"> - 2Pac</span></span></div>
+<div data-track-id="2z3htsNRuhDN923ITatc56"><span class="track-li" data-track-id="2z3htsNRuhDN923ITatc56"><span class="title">Marvins Room</span><span class="artists"> - Drake</span></span></div>
+<div data-track-id="4mSp2FCzwGUN58aurJawQq"><span class="track-li" data-track-id="4mSp2FCzwGUN58aurJawQq"><span class="title">Boyz-N-The-Hood</span><span class="artists"> - Eazy-E</span></span></div>
+<div data-track-id="4vHf3mf0iZgEmkdHyLTSE9"><span class="track-li" data-track-id="4vHf3mf0iZgEmkdHyLTSE9"><span class="title">Yung and Bhad</span><span class="artists"> - Bhad Bhabie, City Girls</span></span></div>
+<div data-track-id="1Z7C8ClE8UEaH70jCCeJH2"><span class="track-li" data-track-id="1Z7C8ClE8UEaH70jCCeJH2"><span class="title">Ten Crack Commandments</span><span class="artists"> - The Notorious B.I.G.</span></span></div>
+<div data-track-id="2ptxIi8zQfkVfdB0aHTLu3"><span class="track-li" data-track-id="2ptxIi8zQfkVfdB0aHTLu3"><span class="title">Welcome To Atlanta Remix</span><span class="artists"> - Jermaine Dupri, Diddy, Snoop Dogg, Murphy Lee</span></span></div>
+<div data-track-id="4bUfMNNmiCmPXVyWzIfKeZ"><span class="track-li" data-track-id="4bUfMNNmiCmPXVyWzIfKeZ"><span class="title">E.I.</span><span class="artists"> - Nelly</span></span></div>
+<div data-track-id="3FY0HrfhcG75h0UCTGpg4S"><span class="track-li" data-track-id="3FY0HrfhcG75h0UCTGpg4S"><span class="title">King Kong</span><span class="artists"> - Jibbs, Chamillionaire</span></span></div>
+<div data-track-id="7lQ8MOhq6IN2w8EYcFNSUk"><span class="track-li" data-track-id="7lQ8MOhq6IN2w8EYcFNSUk"><span class="title">Without Me</span><span class="artists"> - Eminem</span></span></div>
+<div data-track-id="62l1ZGNoUlJlVwhwMKu2T6"><span class="track-li" data-track-id="62l1ZGNoUlJlVwhwMKu2T6"><span class="title">Simon Says</span><span class="artists"> - Pharoahe Monch</span></span></div>
+<div data-track-id="4RNEfrpALlfQ46hWAamoH7"><span class="track-li" data-track-id="4RNEfrpALlfQ46hWAamoH7"><span class="title">The 4th Branch</span><span class="artists"> - Immortal Technique</span></span></div>
+<div data-track-id="4Mg3aeA9ZrEZrhL4ANs23u"><span class="track-li" data-track-id="4Mg3aeA9ZrEZrhL4ANs23u"><span class="title">Hello</span><span class="artists"> - Ice Cube, Dr. Dre, MC Ren</span></span></div>
+<div data-track-id="6QCqHKxXj1hn2Sr0CAwxz3"><span class="track-li" data-track-id="6QCqHKxXj1hn2Sr0CAwxz3"><span class="title">Platinum Plus</span><span class="artists"> - Big L, Big Daddy Kane</span></span></div>
+<div data-track-id="4x3gxNihgou3BJ8NmDj6Xi"><span class="track-li" data-track-id="4x3gxNihgou3BJ8NmDj6Xi"><span class="title">Tha Mobb</span><span class="artists"> - Lil Wayne</span></span></div>
+<div data-track-id="19OHDib8Jrqi3o2nm5lzdA"><span class="track-li" data-track-id="19OHDib8Jrqi3o2nm5lzdA"><span class="title">My N****</span><span class="artists"> - YG, Jeezy, Rich Homie Quan</span></span></div>
+<div data-track-id="5CWyE2OcZI1HVnHBh4RrKF"><span class="track-li" data-track-id="5CWyE2OcZI1HVnHBh4RrKF"><span class="title">Play</span><span class="artists"> - David Banner</span></span></div>
+<div data-track-id="0YHI5hydPPth6J5UOzdLDX"><span class="track-li" data-track-id="0YHI5hydPPth6J5UOzdLDX"><span class="title">Lay Low</span><span class="artists"> - Snoop Dogg, Master P, Nate Dogg, Butch Cassidy, Tha Eastsidaz</span></span></div>
+<div data-track-id="5DTQC1UhuhvQ6NFKV99kI8"><span class="track-li" data-track-id="5DTQC1UhuhvQ6NFKV99kI8"><span class="title">C-Walk</span><span class="artists"> - Kurupt, Tray Dee, Slip Capone</span></span></div>
+<div data-track-id="6HL9fQAZ5jwajChlEIqVzf"><span class="track-li" data-track-id="6HL9fQAZ5jwajChlEIqVzf"><span class="title">Colombia Heights</span><span class="artists"> - Wale, J Balvin</span></span></div>
+<div data-track-id="608a1wIsSd5KzMEqm1O7w3"><span class="track-li" data-track-id="608a1wIsSd5KzMEqm1O7w3"><span class="title">I'm On One</span><span class="artists"> - DJ Khaled, Drake, Rick Ross, Lil Wayne</span></span></div>
+<div data-track-id="2RM4jf1Xa9zPgMGRDiht8O"><span class="track-li" data-track-id="2RM4jf1Xa9zPgMGRDiht8O"><span class="title">Big Bank</span><span class="artists"> - YG, 2 Chainz, Big Sean, Nicki Minaj</span></span></div>
+<div data-track-id="3UmaczJpikHgJFyBTAJVoz"><span class="track-li" data-track-id="3UmaczJpikHgJFyBTAJVoz"><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></span></div>
+<div data-track-id="53GfRjenL5G5zEv60tyMc2"><span class="track-li" data-track-id="53GfRjenL5G5zEv60tyMc2"><span class="title">Got Ur Self A Gun</span><span class="artists"> - Nas</span></span></div>
+<div data-track-id="7vfvZp6KZJpxiaW6rI9ieM"><span class="track-li" data-track-id="7vfvZp6KZJpxiaW6rI9ieM"><span class="title">I Got 5 On It</span><span class="artists"> - Luniz</span></span></div>
+<div data-track-id="3XQY8kDjI8LARMIC9xkxQk"><span class="track-li" data-track-id="3XQY8kDjI8LARMIC9xkxQk"><span class="title">Hard in Da Paint</span><span class="artists"> - Waka Flocka Flame</span></span></div>
+<div data-track-id="5STdMlrBf6pqWiNE7WqxSi"><span class="track-li" data-track-id="5STdMlrBf6pqWiNE7WqxSi"><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></span></div>
+<div data-track-id="6nwAubYnLGl7F7cDuOoVLp"><span class="track-li" data-track-id="6nwAubYnLGl7F7cDuOoVLp"><span class="title">Quiet Storm</span><span class="artists"> - Mobb Deep</span></span></div>
+<div data-track-id="7m97yKVzPpXV9Z4ezEziOD"><span class="track-li" data-track-id="7m97yKVzPpXV9Z4ezEziOD"><span class="title">Big Pimpin'</span><span class="artists"> - JAY-Z, UGK</span></span></div>
+<div data-track-id="7D60mvrq5guYFUbt84FeVk"><span class="track-li" data-track-id="7D60mvrq5guYFUbt84FeVk"><span class="title">Feels</span><span class="artists"> - Tory Lanez, Chris Brown</span></span></div>
+<div data-track-id="7iXF2W9vKmDoGAhlHdpyIa"><span class="track-li" data-track-id="7iXF2W9vKmDoGAhlHdpyIa"><span class="title">Forgot About Dre</span><span class="artists"> - Dr. Dre, Eminem</span></span></div>
 </div>
 <div class="b">
-<div><span class="title">Soldier</span><span class="artists"> - Eminem</span></div>
-<div><span class="title">My Name Is</span><span class="artists"> - Eminem</span></div>
-<div><span class="title">Still Fly</span><span class="artists"> - Big Tymers</span></div>
-<div><span class="title">White America</span><span class="artists"> - Eminem</span></div>
-<div><span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span></div>
-<div><span class="title">The Real Slim Shady</span><span class="artists"> - Eminem</span></div>
-<div><span class="title">Patiently Waiting</span><span class="artists"> - 50 Cent, Eminem</span></div>
-<div><span class="title">Going Back to Cali</span><span class="artists"> - The Notorious B.I.G.</span></div>
-<div><span class="title">Push It</span><span class="artists"> - Rick Ross</span></div>
-<div><span class="title">Consipracy Theory</span><span class="artists"> - Jedi Mind Tricks</span></div>
-<div><span class="title">Before I Go</span><span class="artists"> - Bizzy Bone</span></div>
-<div><span class="title">I'm A Gangsta</span><span class="artists"> - Jadakiss, Parle</span></div>
-<div><span class="title">Shook Ones, Pt. II</span><span class="artists"> - Mobb Deep</span></div>
-<div><span class="title">Where The Hood At</span><span class="artists"> - DMX</span></div>
-<div><span class="title">Eazy-Duz-It</span><span class="artists"> - Eazy-E, Dr. Dre, MC Ren</span></div>
-<div><span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span></div>
-<div><span class="title">Ruff Ryders Anthem</span><span class="artists"> - DJ Clue, DMX, Jadakiss, Styles, Eve, Drag-On</span></div>
-<div><span class="title">Who Shot Ya?</span><span class="artists"> - The Notorious B.I.G.</span></div>
-<div><span class="title">Oh No</span><span class="artists"> - Mos Def, Pharoahe Monch, Nate Dogg</span></div>
-<div><span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span></div>
-<div><span class="title">Freaky Girl</span><span class="artists"> - Gucci Mane</span></div>
-<div><span class="title">Bow Down</span><span class="artists"> - Westside Connection</span></div>
-<div><span class="title">Stuntin' Like My Daddy</span><span class="artists"> - Birdman, Lil Wayne</span></div>
-<div><span class="title">99 Problems</span><span class="artists"> - JAY-Z</span></div>
-<div><span class="title">Miami</span><span class="artists"> - Will Smith</span></div>
-<div><span class="title">Castro</span><span class="artists"> - Yo Gotti, Kanye West, Big Sean, Quavo, 2 Chainz</span></div>
-<div><span class="title">Nuthin' But A "G" Thang</span><span class="artists"> - Dr. Dre, Snoop Dogg</span></div>
-<div><span class="title">Leather So Soft</span><span class="artists"> - Birdman, Lil Wayne</span></div>
-<div><span class="title">I Wanna Love You</span><span class="artists"> - Akon, Snoop Dogg</span></div>
-<div><span class="title">Work It</span><span class="artists"> - Missy Elliott</span></div>
-<div><span class="title">Lowrider</span><span class="artists"> - Cypress Hill</span></div>
-<div><span class="title">Young N*****</span><span class="artists"> - Gucci Mane, Waka Flocka Flame</span></div>
-<div><span class="title">The Way I Am</span><span class="artists"> - Eminem</span></div>
-<div><span class="title">New York</span><span class="artists"> - Ja Rule, Fat Joe, Jadakiss</span></div>
-<div><span class="title">Damn It Feels Good to Be a Gangsta</span><span class="artists"> - Geto Boys</span></div>
-<div><span class="title">One Mic</span><span class="artists"> - Nas</span></div>
-<div><span class="title">Time's Up</span><span class="artists"> - Jadakiss, Nate Dogg</span></div>
-<div><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></div>
-<div><span class="title">Money In The Grave</span><span class="artists"> - Drake, Rick Ross</span></div>
-<div><span class="title">Caribou Lou</span><span class="artists"> - Tech N9ne</span></div>
-<div><span class="title">Money On My Mind</span><span class="artists"> - Lil Wayne</span></div>
-<div><span class="title">Jada's Got A Gun</span><span class="artists"> - Jadakiss, Eric McCaine, Antoine Stanton</span></div>
-<div><span class="title">Ice Cream Paint Job</span><span class="artists"> - Dorrough Music</span></div>
-<div><span class="title">On Fire</span><span class="artists"> - Lloyd Banks</span></div>
-<div><span class="title">Point of No Return</span><span class="artists"> - Immortal Technique</span></div>
-<div><span class="title">When I Die</span><span class="artists"> - Krayzie Bone, Fat Joe, Big Pun, Layzie Bone</span></div>
-<div><span class="title">Buy U a Drank</span><span class="artists"> - T-Pain, Yung Joc</span></div>
-<div><span class="title">Beamer, Benz, Or Bentley</span><span class="artists"> - Lloyd Banks, Juelz Santana</span></div>
-<div><span class="title">Bad Boy for Life</span><span class="artists"> - Diddy, Black Rob, Mark Curry</span></div>
-<div><span class="title">Dear Mama</span><span class="artists"> - 2Pac</span></div>
-<div><span class="title">Yung and Bhad</span><span class="artists"> - Bhad Bhabie, City Girls</span></div>
-<div><span class="title">Welcome To Atlanta Remix</span><span class="artists"> - Jermaine Dupri, Diddy, Snoop Dogg, Murphy Lee</span></div>
-<div><span class="title">E.I.</span><span class="artists"> - Nelly</span></div>
-<div><span class="title">Simon Says</span><span class="artists"> - Pharoahe Monch</span></div>
-<div><span class="title">Hello</span><span class="artists"> - Ice Cube, Dr. Dre, MC Ren</span></div>
-<div><span class="title">Tha Mobb</span><span class="artists"> - Lil Wayne</span></div>
-<div><span class="title">My N****</span><span class="artists"> - YG, Jeezy, Rich Homie Quan</span></div>
-<div><span class="title">C-Walk</span><span class="artists"> - Kurupt, Tray Dee, Slip Capone</span></div>
-<div><span class="title">Colombia Heights</span><span class="artists"> - Wale, J Balvin</span></div>
-<div><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></div>
-<div><span class="title">I Got 5 On It</span><span class="artists"> - Luniz</span></div>
-<div><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></div>
-<div><span class="title">Big Pimpin'</span><span class="artists"> - JAY-Z, UGK</span></div>
-<div><span class="title">Forgot About Dre</span><span class="artists"> - Dr. Dre, Eminem</span></div>
+<div data-track-id="5QD28FqaM3jTfsqWwvRZwv"><span class="track-li" data-track-id="5QD28FqaM3jTfsqWwvRZwv"><span class="title">Soldier</span><span class="artists"> - Eminem</span></span></div>
+<div data-track-id="0Fv6CfegUbD5Egs0dj8CVB"><span class="track-li" data-track-id="0Fv6CfegUbD5Egs0dj8CVB"><span class="title">My Name Is</span><span class="artists"> - Eminem</span></span></div>
+<div data-track-id="563vSy3HB5NHxel1VGQCW6"><span class="track-li" data-track-id="563vSy3HB5NHxel1VGQCW6"><span class="title">Still Fly</span><span class="artists"> - Big Tymers</span></span></div>
+<div data-track-id="15qrWkkYCfmtu1uRpGf48L"><span class="track-li" data-track-id="15qrWkkYCfmtu1uRpGf48L"><span class="title">White America</span><span class="artists"> - Eminem</span></span></div>
+<div data-track-id="7MDUVH4ITohsIjdynRwCJp"><span class="track-li" data-track-id="7MDUVH4ITohsIjdynRwCJp"><span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span></span></div>
+<div data-track-id="3yfqSUWxFvZELEM4PmlwIR"><span class="track-li" data-track-id="3yfqSUWxFvZELEM4PmlwIR"><span class="title">The Real Slim Shady</span><span class="artists"> - Eminem</span></span></div>
+<div data-track-id="6C781pluv3BPxGHHCUJNYc"><span class="track-li" data-track-id="6C781pluv3BPxGHHCUJNYc"><span class="title">Patiently Waiting</span><span class="artists"> - 50 Cent, Eminem</span></span></div>
+<div data-track-id="53duuSwaLOZuIrELvZXqLH"><span class="track-li" data-track-id="53duuSwaLOZuIrELvZXqLH"><span class="title">Going Back to Cali</span><span class="artists"> - The Notorious B.I.G.</span></span></div>
+<div data-track-id="39SQnz9u6zd91nZdaPmmJK"><span class="track-li" data-track-id="39SQnz9u6zd91nZdaPmmJK"><span class="title">Push It</span><span class="artists"> - Rick Ross</span></span></div>
+<div data-track-id="2SQT63XxNkfhNiTsUWWCpN"><span class="track-li" data-track-id="2SQT63XxNkfhNiTsUWWCpN"><span class="title">Consipracy Theory</span><span class="artists"> - Jedi Mind Tricks</span></span></div>
+<div data-track-id="77sZLMXNccKxviCviwuKA2"><span class="track-li" data-track-id="77sZLMXNccKxviCviwuKA2"><span class="title">Before I Go</span><span class="artists"> - Bizzy Bone</span></span></div>
+<div data-track-id="6ybZQ56V37KE4XqaFtUgXN"><span class="track-li" data-track-id="6ybZQ56V37KE4XqaFtUgXN"><span class="title">I'm A Gangsta</span><span class="artists"> - Jadakiss, Parle</span></span></div>
+<div data-track-id="33ZXjLCpiINn8eQIDYEPTD"><span class="track-li" data-track-id="33ZXjLCpiINn8eQIDYEPTD"><span class="title">Shook Ones, Pt. II</span><span class="artists"> - Mobb Deep</span></span></div>
+<div data-track-id="6RUpJeXT6U4SPEafnr9Wr7"><span class="track-li" data-track-id="6RUpJeXT6U4SPEafnr9Wr7"><span class="title">Where The Hood At</span><span class="artists"> - DMX</span></span></div>
+<div data-track-id="1ohwrBQrxIlqMYfkoYERiN"><span class="track-li" data-track-id="1ohwrBQrxIlqMYfkoYERiN"><span class="title">Eazy-Duz-It</span><span class="artists"> - Eazy-E, Dr. Dre, MC Ren</span></span></div>
+<div data-track-id="771lQyKAtqXRpZ7iM4JsbP"><span class="track-li" data-track-id="771lQyKAtqXRpZ7iM4JsbP"><span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span></span></div>
+<div data-track-id="0CT9dRh7mbYKGCPLwIcVqH"><span class="track-li" data-track-id="0CT9dRh7mbYKGCPLwIcVqH"><span class="title">Ruff Ryders Anthem</span><span class="artists"> - DJ Clue, DMX, Jadakiss, Styles, Eve, Drag-On</span></span></div>
+<div data-track-id="2KFg8kjYy0rYjWsXGhEQHN"><span class="track-li" data-track-id="2KFg8kjYy0rYjWsXGhEQHN"><span class="title">Who Shot Ya?</span><span class="artists"> - The Notorious B.I.G.</span></span></div>
+<div data-track-id="3tC8SJpOwJhDg8WGG1NKGR"><span class="track-li" data-track-id="3tC8SJpOwJhDg8WGG1NKGR"><span class="title">Oh No</span><span class="artists"> - Mos Def, Pharoahe Monch, Nate Dogg</span></span></div>
+<div data-track-id="0ddXulCPG0YtkLVyyKIof8"><span class="track-li" data-track-id="0ddXulCPG0YtkLVyyKIof8"><span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span></span></div>
+<div data-track-id="5wTV2aPLlM3nB3GmEMiXZb"><span class="track-li" data-track-id="5wTV2aPLlM3nB3GmEMiXZb"><span class="title">Freaky Girl</span><span class="artists"> - Gucci Mane</span></span></div>
+<div data-track-id="4EGduKhpEdXZFsZELRkvfs"><span class="track-li" data-track-id="4EGduKhpEdXZFsZELRkvfs"><span class="title">Bow Down</span><span class="artists"> - Westside Connection</span></span></div>
+<div data-track-id="3rMyMv8EjKXoPnaRo2hdJN"><span class="track-li" data-track-id="3rMyMv8EjKXoPnaRo2hdJN"><span class="title">Stuntin' Like My Daddy</span><span class="artists"> - Birdman, Lil Wayne</span></span></div>
+<div data-track-id="7sLpSWxQazJzDVG6YGzlVs"><span class="track-li" data-track-id="7sLpSWxQazJzDVG6YGzlVs"><span class="title">99 Problems</span><span class="artists"> - JAY-Z</span></span></div>
+<div data-track-id="6e8Ou0wiqAzIpWb2eSxll8"><span class="track-li" data-track-id="6e8Ou0wiqAzIpWb2eSxll8"><span class="title">Miami</span><span class="artists"> - Will Smith</span></span></div>
+<div data-track-id="0rHJxNaQRMGK6Y4TUx3xRO"><span class="track-li" data-track-id="0rHJxNaQRMGK6Y4TUx3xRO"><span class="title">Castro</span><span class="artists"> - Yo Gotti, Kanye West, Big Sean, Quavo, 2 Chainz</span></span></div>
+<div data-track-id="5Tbpp3OLLClPJF8t1DmrFD"><span class="track-li" data-track-id="5Tbpp3OLLClPJF8t1DmrFD"><span class="title">Nuthin' But A "G" Thang</span><span class="artists"> - Dr. Dre, Snoop Dogg</span></span></div>
+<div data-track-id="2QUVk7QscEdZiHi7zs4ycM"><span class="track-li" data-track-id="2QUVk7QscEdZiHi7zs4ycM"><span class="title">Leather So Soft</span><span class="artists"> - Birdman, Lil Wayne</span></span></div>
+<div data-track-id="0CXVjQI9wsqaGeIARkkpYc"><span class="track-li" data-track-id="0CXVjQI9wsqaGeIARkkpYc"><span class="title">I Wanna Love You</span><span class="artists"> - Akon, Snoop Dogg</span></span></div>
+<div data-track-id="3jagJCUbdqhDSPuxP8cAqF"><span class="track-li" data-track-id="3jagJCUbdqhDSPuxP8cAqF"><span class="title">Work It</span><span class="artists"> - Missy Elliott</span></span></div>
+<div data-track-id="4VfojtYLYoADnN63NQ1GkN"><span class="track-li" data-track-id="4VfojtYLYoADnN63NQ1GkN"><span class="title">Lowrider</span><span class="artists"> - Cypress Hill</span></span></div>
+<div data-track-id="7nsDUqwT5JhLCqyFezAuC3"><span class="track-li" data-track-id="7nsDUqwT5JhLCqyFezAuC3"><span class="title">Young N*****</span><span class="artists"> - Gucci Mane, Waka Flocka Flame</span></span></div>
+<div data-track-id="23wfXwnsPZYe5A1xXRHb3J"><span class="track-li" data-track-id="23wfXwnsPZYe5A1xXRHb3J"><span class="title">The Way I Am</span><span class="artists"> - Eminem</span></span></div>
+<div data-track-id="0aBcG8VErKiZRIqyCIapu2"><span class="track-li" data-track-id="0aBcG8VErKiZRIqyCIapu2"><span class="title">New York</span><span class="artists"> - Ja Rule, Fat Joe, Jadakiss</span></span></div>
+<div data-track-id="0HOqINudNgQFpg1le5Hnqe"><span class="track-li" data-track-id="0HOqINudNgQFpg1le5Hnqe"><span class="title">Damn It Feels Good to Be a Gangsta</span><span class="artists"> - Geto Boys</span></span></div>
+<div data-track-id="0FoNL2JohSdDhABW82QJMc"><span class="track-li" data-track-id="0FoNL2JohSdDhABW82QJMc"><span class="title">One Mic</span><span class="artists"> - Nas</span></span></div>
+<div data-track-id="3iQHtjDo1jgcbjUPsh3Dkb"><span class="track-li" data-track-id="3iQHtjDo1jgcbjUPsh3Dkb"><span class="title">Time's Up</span><span class="artists"> - Jadakiss, Nate Dogg</span></span></div>
+<div data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="track-li" data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></span></div>
+<div data-track-id="5ry2OE6R2zPQFDO85XkgRb"><span class="track-li" data-track-id="5ry2OE6R2zPQFDO85XkgRb"><span class="title">Money In The Grave</span><span class="artists"> - Drake, Rick Ross</span></span></div>
+<div data-track-id="0I0wn4G67txQwENcmRH3d6"><span class="track-li" data-track-id="0I0wn4G67txQwENcmRH3d6"><span class="title">Caribou Lou</span><span class="artists"> - Tech N9ne</span></span></div>
+<div data-track-id="6IQKNwWjNm6xpF721NqoH5"><span class="track-li" data-track-id="6IQKNwWjNm6xpF721NqoH5"><span class="title">Money On My Mind</span><span class="artists"> - Lil Wayne</span></span></div>
+<div data-track-id="7IDV2MvSNxBCwqzsxmspLH"><span class="track-li" data-track-id="7IDV2MvSNxBCwqzsxmspLH"><span class="title">Jada's Got A Gun</span><span class="artists"> - Jadakiss, Eric McCaine, Antoine Stanton</span></span></div>
+<div data-track-id="57QFOU3f7O0gDLadxv5z8w"><span class="track-li" data-track-id="57QFOU3f7O0gDLadxv5z8w"><span class="title">Ice Cream Paint Job</span><span class="artists"> - Dorrough Music</span></span></div>
+<div data-track-id="0B2ZuTLZnWQ6gz8RlNwBu1"><span class="track-li" data-track-id="0B2ZuTLZnWQ6gz8RlNwBu1"><span class="title">On Fire</span><span class="artists"> - Lloyd Banks</span></span></div>
+<div data-track-id="5KUiLOgwUB2Y8dzTBv8j7R"><span class="track-li" data-track-id="5KUiLOgwUB2Y8dzTBv8j7R"><span class="title">Point of No Return</span><span class="artists"> - Immortal Technique</span></span></div>
+<div data-track-id="4TdUh482EQMbchz7IH5Kj1"><span class="track-li" data-track-id="4TdUh482EQMbchz7IH5Kj1"><span class="title">When I Die</span><span class="artists"> - Krayzie Bone, Fat Joe, Big Pun, Layzie Bone</span></span></div>
+<div data-track-id="1tkMs9wDPknQ3ZHcKDw1ES"><span class="track-li" data-track-id="1tkMs9wDPknQ3ZHcKDw1ES"><span class="title">Buy U a Drank</span><span class="artists"> - T-Pain, Yung Joc</span></span></div>
+<div data-track-id="0cNJ3huiV99wvUN1tmQLTL"><span class="track-li" data-track-id="0cNJ3huiV99wvUN1tmQLTL"><span class="title">Beamer, Benz, Or Bentley</span><span class="artists"> - Lloyd Banks, Juelz Santana</span></span></div>
+<div data-track-id="2eOuL8KesslTLQERQPu11D"><span class="track-li" data-track-id="2eOuL8KesslTLQERQPu11D"><span class="title">Bad Boy for Life</span><span class="artists"> - Diddy, Black Rob, Mark Curry</span></span></div>
+<div data-track-id="6tDxrq4FxEL2q15y37tXT9"><span class="track-li" data-track-id="6tDxrq4FxEL2q15y37tXT9"><span class="title">Dear Mama</span><span class="artists"> - 2Pac</span></span></div>
+<div data-track-id="4vHf3mf0iZgEmkdHyLTSE9"><span class="track-li" data-track-id="4vHf3mf0iZgEmkdHyLTSE9"><span class="title">Yung and Bhad</span><span class="artists"> - Bhad Bhabie, City Girls</span></span></div>
+<div data-track-id="2ptxIi8zQfkVfdB0aHTLu3"><span class="track-li" data-track-id="2ptxIi8zQfkVfdB0aHTLu3"><span class="title">Welcome To Atlanta Remix</span><span class="artists"> - Jermaine Dupri, Diddy, Snoop Dogg, Murphy Lee</span></span></div>
+<div data-track-id="4bUfMNNmiCmPXVyWzIfKeZ"><span class="track-li" data-track-id="4bUfMNNmiCmPXVyWzIfKeZ"><span class="title">E.I.</span><span class="artists"> - Nelly</span></span></div>
+<div data-track-id="62l1ZGNoUlJlVwhwMKu2T6"><span class="track-li" data-track-id="62l1ZGNoUlJlVwhwMKu2T6"><span class="title">Simon Says</span><span class="artists"> - Pharoahe Monch</span></span></div>
+<div data-track-id="4Mg3aeA9ZrEZrhL4ANs23u"><span class="track-li" data-track-id="4Mg3aeA9ZrEZrhL4ANs23u"><span class="title">Hello</span><span class="artists"> - Ice Cube, Dr. Dre, MC Ren</span></span></div>
+<div data-track-id="4x3gxNihgou3BJ8NmDj6Xi"><span class="track-li" data-track-id="4x3gxNihgou3BJ8NmDj6Xi"><span class="title">Tha Mobb</span><span class="artists"> - Lil Wayne</span></span></div>
+<div data-track-id="19OHDib8Jrqi3o2nm5lzdA"><span class="track-li" data-track-id="19OHDib8Jrqi3o2nm5lzdA"><span class="title">My N****</span><span class="artists"> - YG, Jeezy, Rich Homie Quan</span></span></div>
+<div data-track-id="5DTQC1UhuhvQ6NFKV99kI8"><span class="track-li" data-track-id="5DTQC1UhuhvQ6NFKV99kI8"><span class="title">C-Walk</span><span class="artists"> - Kurupt, Tray Dee, Slip Capone</span></span></div>
+<div data-track-id="6HL9fQAZ5jwajChlEIqVzf"><span class="track-li" data-track-id="6HL9fQAZ5jwajChlEIqVzf"><span class="title">Colombia Heights</span><span class="artists"> - Wale, J Balvin</span></span></div>
+<div data-track-id="3UmaczJpikHgJFyBTAJVoz"><span class="track-li" data-track-id="3UmaczJpikHgJFyBTAJVoz"><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></span></div>
+<div data-track-id="7vfvZp6KZJpxiaW6rI9ieM"><span class="track-li" data-track-id="7vfvZp6KZJpxiaW6rI9ieM"><span class="title">I Got 5 On It</span><span class="artists"> - Luniz</span></span></div>
+<div data-track-id="5STdMlrBf6pqWiNE7WqxSi"><span class="track-li" data-track-id="5STdMlrBf6pqWiNE7WqxSi"><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></span></div>
+<div data-track-id="7m97yKVzPpXV9Z4ezEziOD"><span class="track-li" data-track-id="7m97yKVzPpXV9Z4ezEziOD"><span class="title">Big Pimpin'</span><span class="artists"> - JAY-Z, UGK</span></span></div>
+<div data-track-id="7iXF2W9vKmDoGAhlHdpyIa"><span class="track-li" data-track-id="7iXF2W9vKmDoGAhlHdpyIa"><span class="title">Forgot About Dre</span><span class="artists"> - Dr. Dre, Eminem</span></span></div>
 </div>
 <div class="b">
-<div><span class="title">My Name Is</span><span class="artists"> - Eminem</span></div>
-<div><span class="title">Still Fly</span><span class="artists"> - Big Tymers</span></div>
-<div><span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span></div>
-<div><span class="title">Going Back to Cali</span><span class="artists"> - The Notorious B.I.G.</span></div>
-<div><span class="title">Consipracy Theory</span><span class="artists"> - Jedi Mind Tricks</span></div>
-<div><span class="title">Before I Go</span><span class="artists"> - Bizzy Bone</span></div>
-<div><span class="title">Where The Hood At</span><span class="artists"> - DMX</span></div>
-<div><span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span></div>
-<div><span class="title">Who Shot Ya?</span><span class="artists"> - The Notorious B.I.G.</span></div>
-<div><span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span></div>
-<div><span class="title">Freaky Girl</span><span class="artists"> - Gucci Mane</span></div>
-<div><span class="title">Stuntin' Like My Daddy</span><span class="artists"> - Birdman, Lil Wayne</span></div>
-<div><span class="title">Miami</span><span class="artists"> - Will Smith</span></div>
-<div><span class="title">Nuthin' But A "G" Thang</span><span class="artists"> - Dr. Dre, Snoop Dogg</span></div>
-<div><span class="title">I Wanna Love You</span><span class="artists"> - Akon, Snoop Dogg</span></div>
-<div><span class="title">Young N*****</span><span class="artists"> - Gucci Mane, Waka Flocka Flame</span></div>
-<div><span class="title">The Way I Am</span><span class="artists"> - Eminem</span></div>
-<div><span class="title">One Mic</span><span class="artists"> - Nas</span></div>
-<div><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></div>
-<div><span class="title">Money In The Grave</span><span class="artists"> - Drake, Rick Ross</span></div>
-<div><span class="title">Money On My Mind</span><span class="artists"> - Lil Wayne</span></div>
-<div><span class="title">On Fire</span><span class="artists"> - Lloyd Banks</span></div>
-<div><span class="title">When I Die</span><span class="artists"> - Krayzie Bone, Fat Joe, Big Pun, Layzie Bone</span></div>
-<div><span class="title">Beamer, Benz, Or Bentley</span><span class="artists"> - Lloyd Banks, Juelz Santana</span></div>
-<div><span class="title">Dear Mama</span><span class="artists"> - 2Pac</span></div>
-<div><span class="title">Welcome To Atlanta Remix</span><span class="artists"> - Jermaine Dupri, Diddy, Snoop Dogg, Murphy Lee</span></div>
-<div><span class="title">E.I.</span><span class="artists"> - Nelly</span></div>
-<div><span class="title">Tha Mobb</span><span class="artists"> - Lil Wayne</span></div>
-<div><span class="title">My N****</span><span class="artists"> - YG, Jeezy, Rich Homie Quan</span></div>
-<div><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></div>
-<div><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></div>
-<div><span class="title">Forgot About Dre</span><span class="artists"> - Dr. Dre, Eminem</span></div>
+<div data-track-id="0Fv6CfegUbD5Egs0dj8CVB"><span class="track-li" data-track-id="0Fv6CfegUbD5Egs0dj8CVB"><span class="title">My Name Is</span><span class="artists"> - Eminem</span></span></div>
+<div data-track-id="563vSy3HB5NHxel1VGQCW6"><span class="track-li" data-track-id="563vSy3HB5NHxel1VGQCW6"><span class="title">Still Fly</span><span class="artists"> - Big Tymers</span></span></div>
+<div data-track-id="7MDUVH4ITohsIjdynRwCJp"><span class="track-li" data-track-id="7MDUVH4ITohsIjdynRwCJp"><span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span></span></div>
+<div data-track-id="53duuSwaLOZuIrELvZXqLH"><span class="track-li" data-track-id="53duuSwaLOZuIrELvZXqLH"><span class="title">Going Back to Cali</span><span class="artists"> - The Notorious B.I.G.</span></span></div>
+<div data-track-id="2SQT63XxNkfhNiTsUWWCpN"><span class="track-li" data-track-id="2SQT63XxNkfhNiTsUWWCpN"><span class="title">Consipracy Theory</span><span class="artists"> - Jedi Mind Tricks</span></span></div>
+<div data-track-id="77sZLMXNccKxviCviwuKA2"><span class="track-li" data-track-id="77sZLMXNccKxviCviwuKA2"><span class="title">Before I Go</span><span class="artists"> - Bizzy Bone</span></span></div>
+<div data-track-id="6RUpJeXT6U4SPEafnr9Wr7"><span class="track-li" data-track-id="6RUpJeXT6U4SPEafnr9Wr7"><span class="title">Where The Hood At</span><span class="artists"> - DMX</span></span></div>
+<div data-track-id="771lQyKAtqXRpZ7iM4JsbP"><span class="track-li" data-track-id="771lQyKAtqXRpZ7iM4JsbP"><span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span></span></div>
+<div data-track-id="2KFg8kjYy0rYjWsXGhEQHN"><span class="track-li" data-track-id="2KFg8kjYy0rYjWsXGhEQHN"><span class="title">Who Shot Ya?</span><span class="artists"> - The Notorious B.I.G.</span></span></div>
+<div data-track-id="0ddXulCPG0YtkLVyyKIof8"><span class="track-li" data-track-id="0ddXulCPG0YtkLVyyKIof8"><span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span></span></div>
+<div data-track-id="5wTV2aPLlM3nB3GmEMiXZb"><span class="track-li" data-track-id="5wTV2aPLlM3nB3GmEMiXZb"><span class="title">Freaky Girl</span><span class="artists"> - Gucci Mane</span></span></div>
+<div data-track-id="3rMyMv8EjKXoPnaRo2hdJN"><span class="track-li" data-track-id="3rMyMv8EjKXoPnaRo2hdJN"><span class="title">Stuntin' Like My Daddy</span><span class="artists"> - Birdman, Lil Wayne</span></span></div>
+<div data-track-id="6e8Ou0wiqAzIpWb2eSxll8"><span class="track-li" data-track-id="6e8Ou0wiqAzIpWb2eSxll8"><span class="title">Miami</span><span class="artists"> - Will Smith</span></span></div>
+<div data-track-id="5Tbpp3OLLClPJF8t1DmrFD"><span class="track-li" data-track-id="5Tbpp3OLLClPJF8t1DmrFD"><span class="title">Nuthin' But A "G" Thang</span><span class="artists"> - Dr. Dre, Snoop Dogg</span></span></div>
+<div data-track-id="0CXVjQI9wsqaGeIARkkpYc"><span class="track-li" data-track-id="0CXVjQI9wsqaGeIARkkpYc"><span class="title">I Wanna Love You</span><span class="artists"> - Akon, Snoop Dogg</span></span></div>
+<div data-track-id="7nsDUqwT5JhLCqyFezAuC3"><span class="track-li" data-track-id="7nsDUqwT5JhLCqyFezAuC3"><span class="title">Young N*****</span><span class="artists"> - Gucci Mane, Waka Flocka Flame</span></span></div>
+<div data-track-id="23wfXwnsPZYe5A1xXRHb3J"><span class="track-li" data-track-id="23wfXwnsPZYe5A1xXRHb3J"><span class="title">The Way I Am</span><span class="artists"> - Eminem</span></span></div>
+<div data-track-id="0FoNL2JohSdDhABW82QJMc"><span class="track-li" data-track-id="0FoNL2JohSdDhABW82QJMc"><span class="title">One Mic</span><span class="artists"> - Nas</span></span></div>
+<div data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="track-li" data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></span></div>
+<div data-track-id="5ry2OE6R2zPQFDO85XkgRb"><span class="track-li" data-track-id="5ry2OE6R2zPQFDO85XkgRb"><span class="title">Money In The Grave</span><span class="artists"> - Drake, Rick Ross</span></span></div>
+<div data-track-id="6IQKNwWjNm6xpF721NqoH5"><span class="track-li" data-track-id="6IQKNwWjNm6xpF721NqoH5"><span class="title">Money On My Mind</span><span class="artists"> - Lil Wayne</span></span></div>
+<div data-track-id="0B2ZuTLZnWQ6gz8RlNwBu1"><span class="track-li" data-track-id="0B2ZuTLZnWQ6gz8RlNwBu1"><span class="title">On Fire</span><span class="artists"> - Lloyd Banks</span></span></div>
+<div data-track-id="4TdUh482EQMbchz7IH5Kj1"><span class="track-li" data-track-id="4TdUh482EQMbchz7IH5Kj1"><span class="title">When I Die</span><span class="artists"> - Krayzie Bone, Fat Joe, Big Pun, Layzie Bone</span></span></div>
+<div data-track-id="0cNJ3huiV99wvUN1tmQLTL"><span class="track-li" data-track-id="0cNJ3huiV99wvUN1tmQLTL"><span class="title">Beamer, Benz, Or Bentley</span><span class="artists"> - Lloyd Banks, Juelz Santana</span></span></div>
+<div data-track-id="6tDxrq4FxEL2q15y37tXT9"><span class="track-li" data-track-id="6tDxrq4FxEL2q15y37tXT9"><span class="title">Dear Mama</span><span class="artists"> - 2Pac</span></span></div>
+<div data-track-id="2ptxIi8zQfkVfdB0aHTLu3"><span class="track-li" data-track-id="2ptxIi8zQfkVfdB0aHTLu3"><span class="title">Welcome To Atlanta Remix</span><span class="artists"> - Jermaine Dupri, Diddy, Snoop Dogg, Murphy Lee</span></span></div>
+<div data-track-id="4bUfMNNmiCmPXVyWzIfKeZ"><span class="track-li" data-track-id="4bUfMNNmiCmPXVyWzIfKeZ"><span class="title">E.I.</span><span class="artists"> - Nelly</span></span></div>
+<div data-track-id="4x3gxNihgou3BJ8NmDj6Xi"><span class="track-li" data-track-id="4x3gxNihgou3BJ8NmDj6Xi"><span class="title">Tha Mobb</span><span class="artists"> - Lil Wayne</span></span></div>
+<div data-track-id="19OHDib8Jrqi3o2nm5lzdA"><span class="track-li" data-track-id="19OHDib8Jrqi3o2nm5lzdA"><span class="title">My N****</span><span class="artists"> - YG, Jeezy, Rich Homie Quan</span></span></div>
+<div data-track-id="3UmaczJpikHgJFyBTAJVoz"><span class="track-li" data-track-id="3UmaczJpikHgJFyBTAJVoz"><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></span></div>
+<div data-track-id="5STdMlrBf6pqWiNE7WqxSi"><span class="track-li" data-track-id="5STdMlrBf6pqWiNE7WqxSi"><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></span></div>
+<div data-track-id="7iXF2W9vKmDoGAhlHdpyIa"><span class="track-li" data-track-id="7iXF2W9vKmDoGAhlHdpyIa"><span class="title">Forgot About Dre</span><span class="artists"> - Dr. Dre, Eminem</span></span></div>
 </div>
 <div class="b">
-<div><span class="title">Still Fly</span><span class="artists"> - Big Tymers</span></div>
-<div><span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span></div>
-<div><span class="title">Consipracy Theory</span><span class="artists"> - Jedi Mind Tricks</span></div>
-<div><span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span></div>
-<div><span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span></div>
-<div><span class="title">Freaky Girl</span><span class="artists"> - Gucci Mane</span></div>
-<div><span class="title">Nuthin' But A "G" Thang</span><span class="artists"> - Dr. Dre, Snoop Dogg</span></div>
-<div><span class="title">Young N*****</span><span class="artists"> - Gucci Mane, Waka Flocka Flame</span></div>
-<div><span class="title">The Way I Am</span><span class="artists"> - Eminem</span></div>
-<div><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></div>
-<div><span class="title">On Fire</span><span class="artists"> - Lloyd Banks</span></div>
-<div><span class="title">When I Die</span><span class="artists"> - Krayzie Bone, Fat Joe, Big Pun, Layzie Bone</span></div>
-<div><span class="title">Dear Mama</span><span class="artists"> - 2Pac</span></div>
-<div><span class="title">E.I.</span><span class="artists"> - Nelly</span></div>
-<div><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></div>
-<div><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></div>
+<div data-track-id="563vSy3HB5NHxel1VGQCW6"><span class="track-li" data-track-id="563vSy3HB5NHxel1VGQCW6"><span class="title">Still Fly</span><span class="artists"> - Big Tymers</span></span></div>
+<div data-track-id="7MDUVH4ITohsIjdynRwCJp"><span class="track-li" data-track-id="7MDUVH4ITohsIjdynRwCJp"><span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span></span></div>
+<div data-track-id="2SQT63XxNkfhNiTsUWWCpN"><span class="track-li" data-track-id="2SQT63XxNkfhNiTsUWWCpN"><span class="title">Consipracy Theory</span><span class="artists"> - Jedi Mind Tricks</span></span></div>
+<div data-track-id="771lQyKAtqXRpZ7iM4JsbP"><span class="track-li" data-track-id="771lQyKAtqXRpZ7iM4JsbP"><span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span></span></div>
+<div data-track-id="0ddXulCPG0YtkLVyyKIof8"><span class="track-li" data-track-id="0ddXulCPG0YtkLVyyKIof8"><span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span></span></div>
+<div data-track-id="5wTV2aPLlM3nB3GmEMiXZb"><span class="track-li" data-track-id="5wTV2aPLlM3nB3GmEMiXZb"><span class="title">Freaky Girl</span><span class="artists"> - Gucci Mane</span></span></div>
+<div data-track-id="5Tbpp3OLLClPJF8t1DmrFD"><span class="track-li" data-track-id="5Tbpp3OLLClPJF8t1DmrFD"><span class="title">Nuthin' But A "G" Thang</span><span class="artists"> - Dr. Dre, Snoop Dogg</span></span></div>
+<div data-track-id="7nsDUqwT5JhLCqyFezAuC3"><span class="track-li" data-track-id="7nsDUqwT5JhLCqyFezAuC3"><span class="title">Young N*****</span><span class="artists"> - Gucci Mane, Waka Flocka Flame</span></span></div>
+<div data-track-id="23wfXwnsPZYe5A1xXRHb3J"><span class="track-li" data-track-id="23wfXwnsPZYe5A1xXRHb3J"><span class="title">The Way I Am</span><span class="artists"> - Eminem</span></span></div>
+<div data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="track-li" data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></span></div>
+<div data-track-id="0B2ZuTLZnWQ6gz8RlNwBu1"><span class="track-li" data-track-id="0B2ZuTLZnWQ6gz8RlNwBu1"><span class="title">On Fire</span><span class="artists"> - Lloyd Banks</span></span></div>
+<div data-track-id="4TdUh482EQMbchz7IH5Kj1"><span class="track-li" data-track-id="4TdUh482EQMbchz7IH5Kj1"><span class="title">When I Die</span><span class="artists"> - Krayzie Bone, Fat Joe, Big Pun, Layzie Bone</span></span></div>
+<div data-track-id="6tDxrq4FxEL2q15y37tXT9"><span class="track-li" data-track-id="6tDxrq4FxEL2q15y37tXT9"><span class="title">Dear Mama</span><span class="artists"> - 2Pac</span></span></div>
+<div data-track-id="4bUfMNNmiCmPXVyWzIfKeZ"><span class="track-li" data-track-id="4bUfMNNmiCmPXVyWzIfKeZ"><span class="title">E.I.</span><span class="artists"> - Nelly</span></span></div>
+<div data-track-id="3UmaczJpikHgJFyBTAJVoz"><span class="track-li" data-track-id="3UmaczJpikHgJFyBTAJVoz"><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></span></div>
+<div data-track-id="5STdMlrBf6pqWiNE7WqxSi"><span class="track-li" data-track-id="5STdMlrBf6pqWiNE7WqxSi"><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></span></div>
 </div>
 <div class="b">
-<div><span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span></div>
-<div><span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span></div>
-<div><span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span></div>
-<div><span class="title">Young N*****</span><span class="artists"> - Gucci Mane, Waka Flocka Flame</span></div>
-<div><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></div>
-<div><span class="title">When I Die</span><span class="artists"> - Krayzie Bone, Fat Joe, Big Pun, Layzie Bone</span></div>
-<div><span class="title">E.I.</span><span class="artists"> - Nelly</span></div>
-<div><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></div>
+<div data-track-id="7MDUVH4ITohsIjdynRwCJp"><span class="track-li" data-track-id="7MDUVH4ITohsIjdynRwCJp"><span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span></span></div>
+<div data-track-id="771lQyKAtqXRpZ7iM4JsbP"><span class="track-li" data-track-id="771lQyKAtqXRpZ7iM4JsbP"><span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span></span></div>
+<div data-track-id="0ddXulCPG0YtkLVyyKIof8"><span class="track-li" data-track-id="0ddXulCPG0YtkLVyyKIof8"><span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span></span></div>
+<div data-track-id="7nsDUqwT5JhLCqyFezAuC3"><span class="track-li" data-track-id="7nsDUqwT5JhLCqyFezAuC3"><span class="title">Young N*****</span><span class="artists"> - Gucci Mane, Waka Flocka Flame</span></span></div>
+<div data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="track-li" data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></span></div>
+<div data-track-id="4TdUh482EQMbchz7IH5Kj1"><span class="track-li" data-track-id="4TdUh482EQMbchz7IH5Kj1"><span class="title">When I Die</span><span class="artists"> - Krayzie Bone, Fat Joe, Big Pun, Layzie Bone</span></span></div>
+<div data-track-id="4bUfMNNmiCmPXVyWzIfKeZ"><span class="track-li" data-track-id="4bUfMNNmiCmPXVyWzIfKeZ"><span class="title">E.I.</span><span class="artists"> - Nelly</span></span></div>
+<div data-track-id="3UmaczJpikHgJFyBTAJVoz"><span class="track-li" data-track-id="3UmaczJpikHgJFyBTAJVoz"><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></span></div>
 </div>
 <div class="b">
-<div><span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span></div>
-<div><span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span></div>
-<div><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></div>
-<div><span class="title">E.I.</span><span class="artists"> - Nelly</span></div>
+<div data-track-id="771lQyKAtqXRpZ7iM4JsbP"><span class="track-li" data-track-id="771lQyKAtqXRpZ7iM4JsbP"><span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span></span></div>
+<div data-track-id="0ddXulCPG0YtkLVyyKIof8"><span class="track-li" data-track-id="0ddXulCPG0YtkLVyyKIof8"><span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span></span></div>
+<div data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="track-li" data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></span></div>
+<div data-track-id="4bUfMNNmiCmPXVyWzIfKeZ"><span class="track-li" data-track-id="4bUfMNNmiCmPXVyWzIfKeZ"><span class="title">E.I.</span><span class="artists"> - Nelly</span></span></div>
 </div>
 <div class="b">
-<div><span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span></div>
-<div><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></div>
+<div data-track-id="0ddXulCPG0YtkLVyyKIof8"><span class="track-li" data-track-id="0ddXulCPG0YtkLVyyKIof8"><span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span></span></div>
+<div data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="track-li" data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></span></div>
 </div>
 <div class="b">
-<div><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></div>
+<div data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="track-li" data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></span></div>
 </div>
