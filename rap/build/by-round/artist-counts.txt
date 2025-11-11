@@ -1,0 +1,344 @@
+  62 Drake
+  34 Lil Wayne
+  28 Gucci Mane
+  28 2 Chainz
+  26 Eminem
+  20 21 Savage
+  19 Future
+  19 50 Cent
+  16 The Notorious B.I.G.
+  15 Migos
+  15 JAY-Z
+  14 Snoop Dogg
+  13 Rick Ross
+  13 Dr. Dre
+  12 YG
+  11 Ludacris
+  11 Juicy J
+  11 Jadakiss
+   9 Post Malone
+   9 Metro Boomin
+   9 Big Sean
+   8 Quavo
+   8 Nate Dogg
+   8 Nas
+   8 Ice Cube
+   8 2Pac
+   7 Ty Dolla $ign
+   7 Travis Scott
+   7 Nelly
+   7 Lil Jon
+   7 Kurupt
+   7 Diddy
+   7 Birdman
+   7 Big L
+   6 Yung Gravy
+   6 Offset
+   6 Jeezy
+   6 Immortal Technique
+   6 Fat Joe
+   6 DMX
+   6 DJ Khaled
+   6 Big Pun
+   6 Bhad Bhabie
+   5 Wiz Khalifa
+   5 Tyga
+   5 Too $hort
+   5 The Weeknd
+   5 Megan Thee Stallion
+   5 Kanye West
+   5 Jeremih
+   5 Ja Rule
+   5 French Montana
+   5 Cypress Hill
+   4 Will Smith
+   4 Waka Flocka Flame
+   4 Tory Lanez
+   4 Nicki Minaj
+   4 Kodak Black
+   4 Jermaine Dupri
+   4 Jedi Mind Tricks
+   4 Jack Harlow
+   4 City Girls
+   4 Cam'ron
+   4 bbno$
+   4 A$AP Rocky
+   4 A$AP Ferg
+   3 Yo Gotti
+   3 Xzibit
+   3 Wale
+   3 Swae Lee
+   3 Skrillex
+   3 Rihanna
+   3 Rae Sremmurd
+   3 Pharrell Williams
+   3 N.W.A.
+   3 Mustard
+   3 Murphy Lee
+   3 Mobb Deep
+   3 Mike WiLL Made-It
+   3 Lloyd Banks
+   3 JUVENILE
+   3 Juelz Santana
+   3 Geto Boys
+   3 Gang Starr
+   3 Chris Brown
+   3 Chief Keef
+   3 Cardi B
+   3 Big Tymers
+   3 BABY GRAVY
+   2 Westside Connection
+   2 Warren G
+   2 UGK
+   2 Trey Songz
+   2 Shawnna
+   2 Riff Raff
+   2 Rich Homie Quan
+   2 Rich Brian
+   2 Remy Ma
+   2 Pusha T
+   2 Public Enemy
+   2 Pharoahe Monch
+   2 Outkast
+   2 MC Ren
+   2 Mase
+   2 Logic
+   2 Lil Pump
+   2 Khalid
+   2 Justin Bieber
+   2 Jibbs
+   2 Jewell
+   2 J. Cole
+   2 Iggy Azalea
+   2 Eve
+   2 Eazy-E
+   2 E-40
+   2 Doja Cat
+   2 DeJ Loaf
+   2 Dead Prez
+   2 David Banner
+   2 D12
+   2 Chance the Rapper
+   2 Akon
+   2 Afroman
+   1 Yung Wun
+   1 Yung Lean
+   1 Yung Joc
+   1 Young Thug
+   1 Young Money
+   1 Young Dolph
+   1 Young Buck
+   1 Yelawolf
+   1 Wu-Tang Clan
+   1 Wizkid
+   1 Wino
+   1 Wayniac
+   1 V-Nasty
+   1 Trina
+   1 Tray Dee
+   1 Toya
+   1 Tony Yayo
+   1 Tone-Loc
+   1 Three 6 Mafia
+   1 The Velvet Orchestra
+   1 The Game
+   1 The Alchemist
+   1 Tha Eastsidaz
+   1 Tech N9ne
+   1 Talib Kweli
+   1 T-Pain
+   1 Syleena Johnson
+   1 Styles P
+   1 Styles
+   1 Stephen Stills
+   1 Static Major
+   1 Stan Spit
+   1 St. Lunatics
+   1 Soulja Slim
+   1 Slip Capone
+   1 Sleepy Brown
+   1 Six-Two
+   1 Sheisty Khrist
+   1 Sean Paul
+   1 Sean Cruse
+   1 ScHoolboy Q
+   1 Schoolboy Q
+   1 Scarface
+   1 Savage
+   1 Sampha
+   1 Sage The Gemini
+   1 Ry SO Valid
+   1 Ruff Ryders
+   1 Royce Da 5'9"
+   1 Roscoe Dash
+   1 Rocks FOE
+   1 Rob49
+   1 RJ
+   1 Rico Nasty
+   1 Rich The Kid
+   1 Rich Boy
+   1 Remy Boyz
+   1 Reef The Lost Cauze
+   1 Redman
+   1 RBX
+   1 Rappin' 4-Tay
+   1 R. Kelly
+   1 Queen Pen
+   1 Quad City DJ's
+   1 Project Pat
+   1 Prodigy
+   1 Priest "Soopafly" Brooks
+   1 Preme
+   1 Polow Da Don
+   1 Pimp C
+   1 Petey Pablo
+   1 Paul Wall
+   1 Parliament Funkadelic
+   1 Parle
+   1 Outlawz
+   1 Olu Dara
+   1 Olivia
+   1 Ol' Dirty Bastard
+   1 OB OBrien
+   1 NLE Choppa
+   1 Nipsey Hussle
+   1 Nick Cannon
+   1 Natina Reed
+   1 Natalie La Rose
+   1 N.E.R.D
+   1 Mystikal
+   1 Ms. Lauryn Hill
+   1 Mos Def
+   1 Montell Jordan
+   1 Missy Elliott
+   1 Miss Jones
+   1 Miley Cyrus
+   1 mgk
+   1 Meek Mill
+   1 Master P
+   1 Mark Curry
+   1 Mario Winans
+   1 Mannie Fresh
+   1 Mally Mall
+   1 Majid Jordan
+   1 Madsonik
+   1 MadeinTYO
+   1 Luniz
+   1 Lord Flacko
+   1 Lookas
+   1 LL COOL J
+   1 Lil' Troy
+   1 Lil' Kim
+   1 Lil' Flip
+   1 Lil Yachty
+   1 Lil Uzi Vert
+   1 Lil Nas X
+   1 Lil Baby
+   1 Lil 1/2 Dead
+   1 Layzie Bone
+   1 Lady Levi
+   1 L.V.
+   1 Kyla
+   1 Kreayshawn
+   1 Krayzie Bone
+   1 Kool Moe Dee
+   1 Kno
+   1 Kill The Noise
+   1 Kid Ink
+   1 Kevin McCall
+   1 Kendrick Lamar
+   1 Kelly Rowland
+   1 Kelis
+   1 Kash Doll
+   1 K-Solo
+   1 Justin Timberlake
+   1 Junior M.A.F.I.A.
+   1 Joyner Lucas
+   1 John Legend
+   1 Jhené Aiko
+   1 Jenn Em
+   1 Jay Rock
+   1 Jay Electronica
+   1 J Balvin
+   1 ILOVEMAKONNEN
+   1 I-20
+   1 Hot Girl Meg
+   1 Hittman
+   1 Hit-Boy
+   1 GZA
+   1 Gwen Stefani
+   1 GloRilla
+   1 G-Eazy
+   1 Freekey Zeekey
+   1 Fredwreck Nassar
+   1 Flo Rida
+   1 FKA twigs
+   1 Fetty Wap
+   1 Faith Evans
+   1 Everlast
+   1 Eric McCaine
+   1 EPMD
+   1 Enya
+   1 Dru Hill
+   1 Drag-On
+   1 Dorrough Music
+   1 DJ Tazmania
+   1 DJ Snake
+   1 DJ Rell
+   1 DJ Felli Fel
+   1 DJ Clue
+   1 Die Antwoord
+   1 Dido
+   1 Diabolic
+   1 Detail
+   1 Desiigner
+   1 Daz
+   1 Das EFX
+   1 Damian Marley
+   1 Damani
+   1 Curren$y
+   1 Coolio
+   1 Commodo
+   1 City Spud
+   1 Chuck
+   1 Chrisette Michele
+   1 Chino Moreno
+   1 Chief Kamanchi
+   1 Charli xcx
+   1 Chamillionaire
+   1 Cedric Gervais
+   1 Case
+   1 Butch Cassidy
+   1 Busta Rhymes
+   1 Bun B
+   1 Bruno Mars
+   1 Brisco
+   1 Bobby V.
+   1 Bobby Shmurda
+   1 Blackstreet
+   1 Black Rob
+   1 Bizzy Bone
+   1 Biz Markie
+   1 Birdy Nam Nam
+   1 Big Syke
+   1 Big Shaq
+   1 Big K.R.I.T.
+   1 Big Daddy Kane
+   1 Beyoncé
+   1 Baby E
+   1 B-Real
+   1 AZ
+   1 Ashanti
+   1 Arizona Zervas
+   1 Antoine Stanton
+   1 Anita McCloud
+   1 Amil
+   1 Alicia Keys
+   1 Ali & Gipp
+   1 Ali
+   1 Alessia Cara
+   1 AG
+   1 A Boogie Wit da Hoodie
+   1 6LACK
+   1 6ix9ine
+   1 $hirak
