@@ -26,10 +26,7 @@
     background-color:#333;
 	font-size: 1.1vw;
 }
-.round-1 div { 
-    width: 80%;
-    cursor: url('./crosshairs.png') 16 16, auto;
-}
+.round-1 div { width: 80%; }
 
 .round-2 {
 	width: 33%;
@@ -45,10 +42,7 @@
     background-color:#222;
     font-size: 1.5vw;
 }
-.round-2 div {
-    width: 80%;
-    cursor: url('./crosshairs.png') 16 16, auto;
-}
+.round-2 div { width: 80%; }
 
 .rankings {
     /*width:36vw;*/
@@ -63,10 +57,7 @@
     background-color:#111;
     font-size: 2.2vw;
 }
-.rankings div {
-    width: 80%;
-    cursor: url('./crosshairs.png') 16 16, auto;
-}
+.rankings div { width: 80%; }
 
 
 @media screen and (max-width: 767px) {
@@ -94,6 +85,52 @@
 		height: 60vh;
 		font-size: 3vh;
 	}
+
+    .round-1 div li .title { text-shadow: 1px 3px #000; }
+
+    .round-1 div li:nth-child(1)  {  }
+    .round-1 div li:nth-child(2)  {  }
+    .round-1 div li:nth-child(3) * { color: #600; }
+    .round-1 div li:nth-child(4) * { color: #600; }
+
+    .round-1 div li:nth-child(1) .title { color: #ff3; }
+    .round-1 div li:nth-child(2) .title { color: #ff9; }
+    .round-1 div li:nth-child(3) .title { color: #f33; }
+    .round-1 div li:nth-child(4) .title { color: #f33; }
+
+    .round-1 div li:nth-child(1) .artists { color: #999; }
+    .round-1 div li:nth-child(2) .artists { color: #999; }
+    .round-1 div li:nth-child(3) .artists { color: #666; }
+    .round-1 div li:nth-child(4) .artists { color: #666; }
+
+    .round-2 div li .title { text-shadow:1px 3px #000; }
+
+    .round-2 div li:nth-child(1)  {  }
+    .round-2 div li:nth-child(2)  {  }
+    .round-2 div li:nth-child(3) * { color: #600; }
+    .round-2 div li:nth-child(4) * { color: #600; }
+
+    .round-2 div li:nth-child(1) .title { color: #ff3; }
+    .round-2 div li:nth-child(2) .title { color: #ff9; }
+    .round-2 div li:nth-child(3) .title { color: #f33; }
+    .round-2 div li:nth-child(4) .title { color: #f33; }
+
+    .round-2 div li:nth-child(1) .artists { color: #999; }
+    .round-2 div li:nth-child(2) .artists { color: #999; }
+    .round-2 div li:nth-child(3) .artists { color: #666; }
+    .round-2 div li:nth-child(4) .artists { color: #666; }
+
+    .rankings div li .title { text-shadow: 2px 3px #333; }
+
+    .rankings li:nth-child(1) .title { color: #ff0; }
+    .rankings li:nth-child(2) .title { color: #ff4; }
+    .rankings li:nth-child(3) .title { color: #ff8; }
+    .rankings li:nth-child(4) .title { color: #ffb; }
+
+    .rankings li:nth-child(1) .artists { color: #999; }
+    .rankings li:nth-child(2) .artists { color: #999; }
+    .rankings li:nth-child(3) .artists { color: #999; }
+    .rankings li:nth-child(4) .artists { color: #999; }
 }
 
 @media screen and (max-width: 479px) {

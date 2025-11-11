@@ -25,9 +25,20 @@
 
 /* iphone-specific -- DEVELOP IN CHROME LOL! :) */
 @media screen and (max-width: 767px) {
-    #knockout-round div ol {
-        border-left: 3px solid white;
-    }
+        #knockout-round div li:nth-child(1)  {  }
+        #knockout-round div li:nth-child(2)  {  }
+        #knockout-round div li:nth-child(3) * { color: #600; }
+        #knockout-round div li:nth-child(4) * { color: #600; }
+
+        #knockout-round div li:nth-child(1) .title { color: #ff3; }
+        #knockout-round div li:nth-child(2) .title { color: #ff9; }
+        #knockout-round div li:nth-child(3) .title { color: #f33; }
+        #knockout-round div li:nth-child(4) .title { color: #f33; }
+
+        #knockout-round div li:nth-child(1) .artists { color: #bbb; }
+        #knockout-round div li:nth-child(2) .artists { color: #bbb; }
+        #knockout-round div li:nth-child(3) .artists { color: #999; }
+        #knockout-round div li:nth-child(4) .artists { color: #999; }
 }
 
 
