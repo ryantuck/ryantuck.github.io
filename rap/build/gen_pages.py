@@ -167,7 +167,7 @@ def div_round_2(round_2):
 def div_rankings(rankings):
     return '\n\n'.join([
         '<div class="rankings">',
-        div(ol([entry_with_spans(s) for s in rankings])),
+        div(ol([transform.entry_with_spans(s) for s in rankings])),
         '</div>',
     ])
 

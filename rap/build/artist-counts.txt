@@ -51,7 +51,6 @@
    5 Ja Rule
    5 French Montana
    5 Cypress Hill
-   4 bbno$
    4 Will Smith
    4 Waka Flocka Flame
    4 Tory Lanez
@@ -62,6 +61,7 @@
    4 Jack Harlow
    4 City Girls
    4 Cam'ron
+   4 bbno$
    4 A$AP Rocky
    4 A$AP Ferg
    3 Yo Gotti
@@ -78,8 +78,8 @@
    3 Mobb Deep
    3 Mike WiLL Made-It
    3 Lloyd Banks
-   3 Juelz Santana
    3 JUVENILE
+   3 Juelz Santana
    3 Geto Boys
    3 Gang Starr
    3 Chris Brown
@@ -100,8 +100,8 @@
    2 Public Enemy
    2 Pharoahe Monch
    2 Outkast
-   2 Mase
    2 MC Ren
+   2 Mase
    2 Logic
    2 Lil Pump
    2 Khalid
@@ -114,14 +114,13 @@
    2 Eazy-E
    2 E-40
    2 Doja Cat
-   2 Dead Prez
    2 DeJ Loaf
+   2 Dead Prez
    2 David Banner
    2 D12
    2 Chance the Rapper
    2 Akon
    2 Afroman
-   1 mgk
    1 Yung Wun
    1 Yung Lean
    1 Yung Joc
@@ -162,9 +161,9 @@
    1 Sheisty Khrist
    1 Sean Paul
    1 Sean Cruse
+   1 ScHoolboy Q
    1 Schoolboy Q
    1 Scarface
-   1 ScHoolboy Q
    1 Savage
    1 Sampha
    1 Sage The Gemini
@@ -174,15 +173,15 @@
    1 Roscoe Dash
    1 Rocks FOE
    1 Rob49
+   1 RJ
    1 Rico Nasty
    1 Rich The Kid
    1 Rich Boy
    1 Remy Boyz
    1 Reef The Lost Cauze
    1 Redman
-   1 Rappin' 4-Tay
-   1 RJ
    1 RBX
+   1 Rappin' 4-Tay
    1 R. Kelly
    1 Queen Pen
    1 Quad City DJ's
@@ -201,11 +200,11 @@
    1 Olivia
    1 Ol' Dirty Bastard
    1 OB OBrien
+   1 NLE Choppa
    1 Nipsey Hussle
    1 Nick Cannon
    1 Natina Reed
    1 Natalie La Rose
-   1 NLE Choppa
    1 N.E.R.D
    1 Mystikal
    1 Ms. Lauryn Hill
@@ -214,6 +213,7 @@
    1 Missy Elliott
    1 Miss Jones
    1 Miley Cyrus
+   1 mgk
    1 Meek Mill
    1 Master P
    1 Mark Curry
@@ -226,6 +226,7 @@
    1 Luniz
    1 Lord Flacko
    1 Lookas
+   1 LL COOL J
    1 Lil' Troy
    1 Lil' Kim
    1 Lil' Flip
@@ -236,7 +237,6 @@
    1 Lil 1/2 Dead
    1 Layzie Bone
    1 Lady Levi
-   1 LL COOL J
    1 L.V.
    1 Kyla
    1 Kreayshawn
@@ -265,23 +265,28 @@
    1 Hot Girl Meg
    1 Hittman
    1 Hit-Boy
+   1 GZA
    1 Gwen Stefani
    1 GloRilla
-   1 GZA
    1 G-Eazy
    1 Freekey Zeekey
    1 Fredwreck Nassar
    1 Flo Rida
+   1 FKA twigs
    1 Fetty Wap
    1 Faith Evans
-   1 FKA twigs
    1 Everlast
    1 Eric McCaine
-   1 Enya
    1 EPMD
+   1 Enya
    1 Dru Hill
    1 Drag-On
    1 Dorrough Music
+   1 DJ Tazmania
+   1 DJ Snake
+   1 DJ Rell
+   1 DJ Felli Fel
+   1 DJ Clue
    1 Die Antwoord
    1 Dido
    1 Diabolic
@@ -291,11 +296,6 @@
    1 Das EFX
    1 Damian Marley
    1 Damani
-   1 DJ Tazmania
-   1 DJ Snake
-   1 DJ Rell
-   1 DJ Felli Fel
-   1 DJ Clue
    1 Curren$y
    1 Coolio
    1 Commodo
@@ -327,6 +327,7 @@
    1 Beyoncé
    1 Baby E
    1 B-Real
+   1 AZ
    1 Ashanti
    1 Arizona Zervas
    1 Antoine Stanton
@@ -336,9 +337,8 @@
    1 Ali & Gipp
    1 Ali
    1 Alessia Cara
-   1 AZ
    1 AG
    1 A Boogie Wit da Hoodie
-   1 6ix9ine
    1 6LACK
+   1 6ix9ine
    1 $hirak

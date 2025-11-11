@@ -69,10 +69,10 @@
 
 <div>
 
-1. <span class="title">Soldier</span><span class="artists"> - Eminem</span>
-2. <span class="title">Boyz-N-The-Hood</span><span class="artists"> - Eazy-E</span>
-3. <span class="title">New York</span><span class="artists"> - Ja Rule, Fat Joe, Jadakiss</span>
-4. <span class="title">Furthest Thing</span><span class="artists"> - Drake</span>
+1. <span class="track-li" data-track-id="5QD28FqaM3jTfsqWwvRZwv"><span class="title">Soldier</span><span class="artists"> - Eminem</span></span>
+2. <span class="track-li" data-track-id="4mSp2FCzwGUN58aurJawQq"><span class="title">Boyz-N-The-Hood</span><span class="artists"> - Eazy-E</span></span>
+3. <span class="track-li" data-track-id="0aBcG8VErKiZRIqyCIapu2"><span class="title">New York</span><span class="artists"> - Ja Rule, Fat Joe, Jadakiss</span></span>
+4. <span class="track-li" data-track-id="1kOMsxXInHtZNlzThiau7l"><span class="title">Furthest Thing</span><span class="artists"> - Drake</span></span>
 
 </div>
 
@@ -151,10 +151,10 @@
 
 <div>
 
-1. <span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span>
-2. <span class="title">N.Y. State of Mind</span><span class="artists"> - Nas</span>
-3. <span class="title">Yung and Bhad</span><span class="artists"> - Bhad Bhabie, City Girls</span>
-4. <span class="title">What's Your Fantasy</span><span class="artists"> - Ludacris, Shawnna</span>
+1. <span class="track-li" data-track-id="0ddXulCPG0YtkLVyyKIof8"><span class="title">What If</span><span class="artists"> - Jadakiss, Nas</span></span>
+2. <span class="track-li" data-track-id="0trHOzAhNpGCsGBEu7dOJo"><span class="title">N.Y. State of Mind</span><span class="artists"> - Nas</span></span>
+3. <span class="track-li" data-track-id="4vHf3mf0iZgEmkdHyLTSE9"><span class="title">Yung and Bhad</span><span class="artists"> - Bhad Bhabie, City Girls</span></span>
+4. <span class="track-li" data-track-id="4LwOrnuxJwR7C5Sw4liY4Z"><span class="title">What's Your Fantasy</span><span class="artists"> - Ludacris, Shawnna</span></span>
 
 </div>
 
@@ -233,10 +233,10 @@
 
 <div>
 
-1. <span class="title">White America</span><span class="artists"> - Eminem</span>
-2. <span class="title">Marvins Room</span><span class="artists"> - Drake</span>
-3. <span class="title">Shot For Me</span><span class="artists"> - Drake</span>
-4. <span class="title">#1 Stunna</span><span class="artists"> - Big Tymers, JUVENILE, Lil Wayne</span>
+1. <span class="track-li" data-track-id="15qrWkkYCfmtu1uRpGf48L"><span class="title">White America</span><span class="artists"> - Eminem</span></span>
+2. <span class="track-li" data-track-id="2z3htsNRuhDN923ITatc56"><span class="title">Marvins Room</span><span class="artists"> - Drake</span></span>
+3. <span class="track-li" data-track-id="6k7b4mcxLP5HPo6hNoXoM6"><span class="title">Shot For Me</span><span class="artists"> - Drake</span></span>
+4. <span class="track-li" data-track-id="7kBdenpTmgWfAz9clmBcok"><span class="title">#1 Stunna</span><span class="artists"> - Big Tymers, JUVENILE, Lil Wayne</span></span>
 
 </div>
 
@@ -315,10 +315,10 @@
 
 <div>
 
-1. <span class="title">Ruff Ryders Anthem</span><span class="artists"> - DJ Clue, DMX, Jadakiss, Styles, Eve, Drag-On</span>
-2. <span class="title">Damn It Feels Good to Be a Gangsta</span><span class="artists"> - Geto Boys</span>
-3. <span class="title">Dear Mama</span><span class="artists"> - 2Pac</span>
-4. <span class="title">Guilty Conscience</span><span class="artists"> - Eminem, Dr. Dre</span>
+1. <span class="track-li" data-track-id="0CT9dRh7mbYKGCPLwIcVqH"><span class="title">Ruff Ryders Anthem</span><span class="artists"> - DJ Clue, DMX, Jadakiss, Styles, Eve, Drag-On</span></span>
+2. <span class="track-li" data-track-id="0HOqINudNgQFpg1le5Hnqe"><span class="title">Damn It Feels Good to Be a Gangsta</span><span class="artists"> - Geto Boys</span></span>
+3. <span class="track-li" data-track-id="6tDxrq4FxEL2q15y37tXT9"><span class="title">Dear Mama</span><span class="artists"> - 2Pac</span></span>
+4. <span class="track-li" data-track-id="2iW8D4Vdy8lrOEBkYEJOzd"><span class="title">Guilty Conscience</span><span class="artists"> - Eminem, Dr. Dre</span></span>
 
 </div>
 
@@ -397,10 +397,10 @@
 
 <div>
 
-1. <span class="title">The Way I Am</span><span class="artists"> - Eminem</span>
-2. <span class="title">Oh No</span><span class="artists"> - Mos Def, Pharoahe Monch, Nate Dogg</span>
-3. <span class="title">My Name Is</span><span class="artists"> - Eminem</span>
-4. <span class="title">Ten Crack Commandments</span><span class="artists"> - The Notorious B.I.G.</span>
+1. <span class="track-li" data-track-id="23wfXwnsPZYe5A1xXRHb3J"><span class="title">The Way I Am</span><span class="artists"> - Eminem</span></span>
+2. <span class="track-li" data-track-id="3tC8SJpOwJhDg8WGG1NKGR"><span class="title">Oh No</span><span class="artists"> - Mos Def, Pharoahe Monch, Nate Dogg</span></span>
+3. <span class="track-li" data-track-id="0Fv6CfegUbD5Egs0dj8CVB"><span class="title">My Name Is</span><span class="artists"> - Eminem</span></span>
+4. <span class="track-li" data-track-id="1Z7C8ClE8UEaH70jCCeJH2"><span class="title">Ten Crack Commandments</span><span class="artists"> - The Notorious B.I.G.</span></span>
 
 </div>
 
@@ -479,10 +479,10 @@
 
 <div>
 
-1. <span class="title">Welcome To Atlanta Remix</span><span class="artists"> - Jermaine Dupri, Diddy, Snoop Dogg, Murphy Lee</span>
-2. <span class="title">Role Model</span><span class="artists"> - Eminem</span>
-3. <span class="title">Go To Church</span><span class="artists"> - Ice Cube, Lil Jon, Snoop Dogg</span>
-4. <span class="title">Down On Me</span><span class="artists"> - Jeremih, 50 Cent</span>
+1. <span class="track-li" data-track-id="2ptxIi8zQfkVfdB0aHTLu3"><span class="title">Welcome To Atlanta Remix</span><span class="artists"> - Jermaine Dupri, Diddy, Snoop Dogg, Murphy Lee</span></span>
+2. <span class="track-li" data-track-id="3zXGMmgIygV00eFxyqmbeO"><span class="title">Role Model</span><span class="artists"> - Eminem</span></span>
+3. <span class="track-li" data-track-id="3Feec7M9kLXDHag4iZcBxU"><span class="title">Go To Church</span><span class="artists"> - Ice Cube, Lil Jon, Snoop Dogg</span></span>
+4. <span class="track-li" data-track-id="0x3TibRgnSqzkcwrqBd4iX"><span class="title">Down On Me</span><span class="artists"> - Jeremih, 50 Cent</span></span>
 
 </div>
 
@@ -561,10 +561,10 @@
 
 <div>
 
-1. <span class="title">One Mic</span><span class="artists"> - Nas</span>
-2. <span class="title">Who Shot Ya?</span><span class="artists"> - The Notorious B.I.G.</span>
-3. <span class="title">You Ain't a Killer</span><span class="artists"> - Big Pun</span>
-4. <span class="title">Blow the Whistle</span><span class="artists"> - Too $hort</span>
+1. <span class="track-li" data-track-id="0FoNL2JohSdDhABW82QJMc"><span class="title">One Mic</span><span class="artists"> - Nas</span></span>
+2. <span class="track-li" data-track-id="2KFg8kjYy0rYjWsXGhEQHN"><span class="title">Who Shot Ya?</span><span class="artists"> - The Notorious B.I.G.</span></span>
+3. <span class="track-li" data-track-id="14Ai4sTxWbQpNymhpQKuES"><span class="title">You Ain't a Killer</span><span class="artists"> - Big Pun</span></span>
+4. <span class="track-li" data-track-id="2lMg3lCMOGistaWBNGjuT3"><span class="title">Blow the Whistle</span><span class="artists"> - Too $hort</span></span>
 
 </div>
 
@@ -643,10 +643,10 @@
 
 <div>
 
-1. <span class="title">Bad Boy for Life</span><span class="artists"> - Diddy, Black Rob, Mark Curry</span>
-2. <span class="title">Still Fly</span><span class="artists"> - Big Tymers</span>
-3. <span class="title">Tha Shiznit</span><span class="artists"> - Snoop Dogg</span>
-4. <span class="title">What's Beef?</span><span class="artists"> - The Notorious B.I.G.</span>
+1. <span class="track-li" data-track-id="2eOuL8KesslTLQERQPu11D"><span class="title">Bad Boy for Life</span><span class="artists"> - Diddy, Black Rob, Mark Curry</span></span>
+2. <span class="track-li" data-track-id="563vSy3HB5NHxel1VGQCW6"><span class="title">Still Fly</span><span class="artists"> - Big Tymers</span></span>
+3. <span class="track-li" data-track-id="1BZm0t49YEhM8xbTINoQKp"><span class="title">Tha Shiznit</span><span class="artists"> - Snoop Dogg</span></span>
+4. <span class="track-li" data-track-id="0S736hkRjkdmuvbZuvx1sh"><span class="title">What's Beef?</span><span class="artists"> - The Notorious B.I.G.</span></span>
 
 </div>
 
@@ -725,10 +725,10 @@
 
 <div>
 
-1. <span class="title">Push It</span><span class="artists"> - Rick Ross</span>
-2. <span class="title">Colombia Heights</span><span class="artists"> - Wale, J Balvin</span>
-3. <span class="title">Pillz</span><span class="artists"> - Gucci Mane</span>
-4. <span class="title">shining on my ex</span><span class="artists"> - BABY GRAVY, Yung Gravy, bbno$</span>
+1. <span class="track-li" data-track-id="39SQnz9u6zd91nZdaPmmJK"><span class="title">Push It</span><span class="artists"> - Rick Ross</span></span>
+2. <span class="track-li" data-track-id="6HL9fQAZ5jwajChlEIqVzf"><span class="title">Colombia Heights</span><span class="artists"> - Wale, J Balvin</span></span>
+3. <span class="track-li" data-track-id="34jo8lLdlFi2GoWJE7YeDv"><span class="title">Pillz</span><span class="artists"> - Gucci Mane</span></span>
+4. <span class="track-li" data-track-id="6xhw4aS2CiuHJRrqxoIzLn"><span class="title">shining on my ex</span><span class="artists"> - BABY GRAVY, Yung Gravy, bbno$</span></span>
 
 </div>
 
@@ -807,10 +807,10 @@
 
 <div>
 
-1. <span class="title">Leather So Soft</span><span class="artists"> - Birdman, Lil Wayne</span>
-2. <span class="title">Jada's Got A Gun</span><span class="artists"> - Jadakiss, Eric McCaine, Antoine Stanton</span>
-3. <span class="title">I'm On One</span><span class="artists"> - DJ Khaled, Drake, Rick Ross, Lil Wayne</span>
-4. <span class="title">Killa Cam / Roll That Skit</span><span class="artists"> - Cam'ron</span>
+1. <span class="track-li" data-track-id="2QUVk7QscEdZiHi7zs4ycM"><span class="title">Leather So Soft</span><span class="artists"> - Birdman, Lil Wayne</span></span>
+2. <span class="track-li" data-track-id="7IDV2MvSNxBCwqzsxmspLH"><span class="title">Jada's Got A Gun</span><span class="artists"> - Jadakiss, Eric McCaine, Antoine Stanton</span></span>
+3. <span class="track-li" data-track-id="608a1wIsSd5KzMEqm1O7w3"><span class="title">I'm On One</span><span class="artists"> - DJ Khaled, Drake, Rick Ross, Lil Wayne</span></span>
+4. <span class="track-li" data-track-id="4zukWwrha2XMpfHLr5Ot7j"><span class="title">Killa Cam / Roll That Skit</span><span class="artists"> - Cam'ron</span></span>
 
 </div>
 
@@ -889,10 +889,10 @@
 
 <div>
 
-1. <span class="title">The Next Episode</span><span class="artists"> - Dr. Dre, Snoop Dogg</span>
-2. <span class="title">C-Walk</span><span class="artists"> - Kurupt, Tray Dee, Slip Capone</span>
-3. <span class="title">Ice Cream Paint Job</span><span class="artists"> - Dorrough Music</span>
-4. <span class="title">Deuces</span><span class="artists"> - Chris Brown, Tyga, Kevin McCall</span>
+1. <span class="track-li" data-track-id="4LwU4Vp6od3Sb08CsP99GC"><span class="title">The Next Episode</span><span class="artists"> - Dr. Dre, Snoop Dogg</span></span>
+2. <span class="track-li" data-track-id="5DTQC1UhuhvQ6NFKV99kI8"><span class="title">C-Walk</span><span class="artists"> - Kurupt, Tray Dee, Slip Capone</span></span>
+3. <span class="track-li" data-track-id="57QFOU3f7O0gDLadxv5z8w"><span class="title">Ice Cream Paint Job</span><span class="artists"> - Dorrough Music</span></span>
+4. <span class="track-li" data-track-id="3QkXEz9TxApuk1JpDmeWnS"><span class="title">Deuces</span><span class="artists"> - Chris Brown, Tyga, Kevin McCall</span></span>
 
 </div>
 
@@ -971,10 +971,10 @@
 
 <div>
 
-1. <span class="title">Miami</span><span class="artists"> - Will Smith</span>
-2. <span class="title">No Frauds</span><span class="artists"> - Nicki Minaj, Drake, Lil Wayne</span>
-3. <span class="title">Lay Low</span><span class="artists"> - Snoop Dogg, Master P, Nate Dogg, Butch Cassidy, Tha Eastsidaz</span>
-4. <span class="title">I'm A Gangsta</span><span class="artists"> - Jadakiss, Parle</span>
+1. <span class="track-li" data-track-id="6e8Ou0wiqAzIpWb2eSxll8"><span class="title">Miami</span><span class="artists"> - Will Smith</span></span>
+2. <span class="track-li" data-track-id="0WtVtCK5SEFvyyA5V8D9CI"><span class="title">No Frauds</span><span class="artists"> - Nicki Minaj, Drake, Lil Wayne</span></span>
+3. <span class="track-li" data-track-id="0YHI5hydPPth6J5UOzdLDX"><span class="title">Lay Low</span><span class="artists"> - Snoop Dogg, Master P, Nate Dogg, Butch Cassidy, Tha Eastsidaz</span></span>
+4. <span class="track-li" data-track-id="6ybZQ56V37KE4XqaFtUgXN"><span class="title">I'm A Gangsta</span><span class="artists"> - Jadakiss, Parle</span></span>
 
 </div>
 
@@ -1053,10 +1053,10 @@
 
 <div>
 
-1. <span class="title">Back That Azz Up</span><span class="artists"> - JUVENILE, Lil Wayne, Mannie Fresh</span>
-2. <span class="title">Da Graveyard</span><span class="artists"> - Big L</span>
-3. <span class="title">What's The Difference</span><span class="artists"> - Dr. Dre, Eminem, Xzibit</span>
-4. <span class="title">Big Bank</span><span class="artists"> - YG, 2 Chainz, Big Sean, Nicki Minaj</span>
+1. <span class="track-li" data-track-id="6o2g1BJvtYQssH84kBYs7y"><span class="title">Back That Azz Up</span><span class="artists"> - JUVENILE, Lil Wayne, Mannie Fresh</span></span>
+2. <span class="track-li" data-track-id="04Rz403IY7QUqgfrTWX6OU"><span class="title">Da Graveyard</span><span class="artists"> - Big L</span></span>
+3. <span class="track-li" data-track-id="1SWVDBtw6h3tm9OehOkDhv"><span class="title">What's The Difference</span><span class="artists"> - Dr. Dre, Eminem, Xzibit</span></span>
+4. <span class="track-li" data-track-id="2RM4jf1Xa9zPgMGRDiht8O"><span class="title">Big Bank</span><span class="artists"> - YG, 2 Chainz, Big Sean, Nicki Minaj</span></span>
 
 </div>
 
@@ -1135,10 +1135,10 @@
 
 <div>
 
-1. <span class="title">Stan</span><span class="artists"> - Eminem, Dido</span>
-2. <span class="title">Consipracy Theory</span><span class="artists"> - Jedi Mind Tricks</span>
-3. <span class="title">Nuthin' But A "G" Thang</span><span class="artists"> - Dr. Dre, Snoop Dogg</span>
-4. <span class="title">Money On My Mind</span><span class="artists"> - Lil Wayne</span>
+1. <span class="track-li" data-track-id="3UmaczJpikHgJFyBTAJVoz"><span class="title">Stan</span><span class="artists"> - Eminem, Dido</span></span>
+2. <span class="track-li" data-track-id="2SQT63XxNkfhNiTsUWWCpN"><span class="title">Consipracy Theory</span><span class="artists"> - Jedi Mind Tricks</span></span>
+3. <span class="track-li" data-track-id="5Tbpp3OLLClPJF8t1DmrFD"><span class="title">Nuthin' But A "G" Thang</span><span class="artists"> - Dr. Dre, Snoop Dogg</span></span>
+4. <span class="track-li" data-track-id="6IQKNwWjNm6xpF721NqoH5"><span class="title">Money On My Mind</span><span class="artists"> - Lil Wayne</span></span>
 
 </div>
 
@@ -1217,10 +1217,10 @@
 
 <div>
 
-1. <span class="title">On Fire</span><span class="artists"> - Lloyd Banks</span>
-2. <span class="title">I'm Not a Player</span><span class="artists"> - Big Pun</span>
-3. <span class="title">Before I Go</span><span class="artists"> - Bizzy Bone</span>
-4. <span class="title">Play</span><span class="artists"> - David Banner</span>
+1. <span class="track-li" data-track-id="0B2ZuTLZnWQ6gz8RlNwBu1"><span class="title">On Fire</span><span class="artists"> - Lloyd Banks</span></span>
+2. <span class="track-li" data-track-id="0JyfYLKuXRmPhMkIPVstu5"><span class="title">I'm Not a Player</span><span class="artists"> - Big Pun</span></span>
+3. <span class="track-li" data-track-id="77sZLMXNccKxviCviwuKA2"><span class="title">Before I Go</span><span class="artists"> - Bizzy Bone</span></span>
+4. <span class="track-li" data-track-id="5CWyE2OcZI1HVnHBh4RrKF"><span class="title">Play</span><span class="artists"> - David Banner</span></span>
 
 </div>
 
@@ -1299,10 +1299,10 @@
 
 <div>
 
-1. <span class="title">My N****</span><span class="artists"> - YG, Jeezy, Rich Homie Quan</span>
-2. <span class="title">My Chain</span><span class="artists"> - Gucci Mane</span>
-3. <span class="title">Castro</span><span class="artists"> - Yo Gotti, Kanye West, Big Sean, Quavo, 2 Chainz</span>
-4. <span class="title">INDUSTRY BABY</span><span class="artists"> - Lil Nas X, Jack Harlow</span>
+1. <span class="track-li" data-track-id="19OHDib8Jrqi3o2nm5lzdA"><span class="title">My N****</span><span class="artists"> - YG, Jeezy, Rich Homie Quan</span></span>
+2. <span class="track-li" data-track-id="3l1zff3qLyCtxy40DtQdrP"><span class="title">My Chain</span><span class="artists"> - Gucci Mane</span></span>
+3. <span class="track-li" data-track-id="0rHJxNaQRMGK6Y4TUx3xRO"><span class="title">Castro</span><span class="artists"> - Yo Gotti, Kanye West, Big Sean, Quavo, 2 Chainz</span></span>
+4. <span class="track-li" data-track-id="5Z9KJZvQzH6PFmb8SNkxuk"><span class="title">INDUSTRY BABY</span><span class="artists"> - Lil Nas X, Jack Harlow</span></span>
 
 </div>
 
@@ -1381,10 +1381,10 @@
 
 <div>
 
-1. <span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span>
-2. <span class="title">The 4th Branch</span><span class="artists"> - Immortal Technique</span>
-3. <span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span>
-4. <span class="title">99 Problems</span><span class="artists"> - JAY-Z</span>
+1. <span class="track-li" data-track-id="7MDUVH4ITohsIjdynRwCJp"><span class="title">Dance with the Devil</span><span class="artists"> - Immortal Technique</span></span>
+2. <span class="track-li" data-track-id="4RNEfrpALlfQ46hWAamoH7"><span class="title">The 4th Branch</span><span class="artists"> - Immortal Technique</span></span>
+3. <span class="track-li" data-track-id="62duQFVb51gug9ajR6Qdiz"><span class="title">Gangsta Rap Made Me Do It</span><span class="artists"> - Ice Cube</span></span>
+4. <span class="track-li" data-track-id="7sLpSWxQazJzDVG6YGzlVs"><span class="title">99 Problems</span><span class="artists"> - JAY-Z</span></span>
 
 </div>
 
@@ -1463,10 +1463,10 @@
 
 <div>
 
-1. <span class="title">Crazy Rap (Colt 45 & 2 Zig Zags)</span><span class="artists"> - Afroman</span>
-2. <span class="title">Don't Tell 'Em</span><span class="artists"> - Jeremih, YG</span>
-3. <span class="title">Hello</span><span class="artists"> - Ice Cube, Dr. Dre, MC Ren</span>
-4. <span class="title">Regulate</span><span class="artists"> - Warren G, Nate Dogg</span>
+1. <span class="track-li" data-track-id="1ACZpHI5vZ5Ea4xGlkdGWM"><span class="title">Crazy Rap (Colt 45 & 2 Zig Zags)</span><span class="artists"> - Afroman</span></span>
+2. <span class="track-li" data-track-id="0Dc7J9VPV4eOInoxUiZrsL"><span class="title">Don't Tell 'Em</span><span class="artists"> - Jeremih, YG</span></span>
+3. <span class="track-li" data-track-id="4Mg3aeA9ZrEZrhL4ANs23u"><span class="title">Hello</span><span class="artists"> - Ice Cube, Dr. Dre, MC Ren</span></span>
+4. <span class="track-li" data-track-id="7nYvUtkQMx1v80S2FH2s9J"><span class="title">Regulate</span><span class="artists"> - Warren G, Nate Dogg</span></span>
 
 </div>
 
@@ -1545,10 +1545,10 @@
 
 <div>
 
-1. <span class="title">Hot N****</span><span class="artists"> - Bobby Shmurda</span>
-2. <span class="title">Simon Says</span><span class="artists"> - Pharoahe Monch</span>
-3. <span class="title">Money In The Grave</span><span class="artists"> - Drake, Rick Ross</span>
-4. <span class="title">Men In Black</span><span class="artists"> - Will Smith</span>
+1. <span class="track-li" data-track-id="19gEmPjfqSZT0ulDRfjl0m"><span class="title">Hot N****</span><span class="artists"> - Bobby Shmurda</span></span>
+2. <span class="track-li" data-track-id="62l1ZGNoUlJlVwhwMKu2T6"><span class="title">Simon Says</span><span class="artists"> - Pharoahe Monch</span></span>
+3. <span class="track-li" data-track-id="5ry2OE6R2zPQFDO85XkgRb"><span class="title">Money In The Grave</span><span class="artists"> - Drake, Rick Ross</span></span>
+4. <span class="track-li" data-track-id="2FK7fxjzQEXD7Z32HSF0Hl"><span class="title">Men In Black</span><span class="artists"> - Will Smith</span></span>
 
 </div>
 
@@ -1627,10 +1627,10 @@
 
 <div>
 
-1. <span class="title">Freaky Girl</span><span class="artists"> - Gucci Mane</span>
-2. <span class="title">Work Out</span><span class="artists"> - J. Cole</span>
-3. <span class="title">Without Me</span><span class="artists"> - Eminem</span>
-4. <span class="title">Going Back to Cali</span><span class="artists"> - The Notorious B.I.G.</span>
+1. <span class="track-li" data-track-id="5wTV2aPLlM3nB3GmEMiXZb"><span class="title">Freaky Girl</span><span class="artists"> - Gucci Mane</span></span>
+2. <span class="track-li" data-track-id="2wAJTrFhCnQyNSD3oUgTZO"><span class="title">Work Out</span><span class="artists"> - J. Cole</span></span>
+3. <span class="track-li" data-track-id="7lQ8MOhq6IN2w8EYcFNSUk"><span class="title">Without Me</span><span class="artists"> - Eminem</span></span>
+4. <span class="track-li" data-track-id="53duuSwaLOZuIrELvZXqLH"><span class="title">Going Back to Cali</span><span class="artists"> - The Notorious B.I.G.</span></span>
 
 </div>
 
@@ -1709,10 +1709,10 @@
 
 <div>
 
-1. <span class="title">Time's Up</span><span class="artists"> - Jadakiss, Nate Dogg</span>
-2. <span class="title">Stuntin' Like My Daddy</span><span class="artists"> - Birdman, Lil Wayne</span>
-3. <span class="title">Straight Outta Compton</span><span class="artists"> - N.W.A.</span>
-4. <span class="title">Platinum Plus</span><span class="artists"> - Big L, Big Daddy Kane</span>
+1. <span class="track-li" data-track-id="3iQHtjDo1jgcbjUPsh3Dkb"><span class="title">Time's Up</span><span class="artists"> - Jadakiss, Nate Dogg</span></span>
+2. <span class="track-li" data-track-id="3rMyMv8EjKXoPnaRo2hdJN"><span class="title">Stuntin' Like My Daddy</span><span class="artists"> - Birdman, Lil Wayne</span></span>
+3. <span class="track-li" data-track-id="4LujRMTMwAfFKjm45tixHY"><span class="title">Straight Outta Compton</span><span class="artists"> - N.W.A.</span></span>
+4. <span class="track-li" data-track-id="6QCqHKxXj1hn2Sr0CAwxz3"><span class="title">Platinum Plus</span><span class="artists"> - Big L, Big Daddy Kane</span></span>
 
 </div>
 
@@ -1791,10 +1791,10 @@
 
 <div>
 
-1. <span class="title">Tha Mobb</span><span class="artists"> - Lil Wayne</span>
-2. <span class="title">The Real Slim Shady</span><span class="artists"> - Eminem</span>
-3. <span class="title">Nonstop</span><span class="artists"> - Drake</span>
-4. <span class="title">Gin and Juice</span><span class="artists"> - Snoop Dogg</span>
+1. <span class="track-li" data-track-id="4x3gxNihgou3BJ8NmDj6Xi"><span class="title">Tha Mobb</span><span class="artists"> - Lil Wayne</span></span>
+2. <span class="track-li" data-track-id="3yfqSUWxFvZELEM4PmlwIR"><span class="title">The Real Slim Shady</span><span class="artists"> - Eminem</span></span>
+3. <span class="track-li" data-track-id="0TlLq3lA83rQOYtrqBqSct"><span class="title">Nonstop</span><span class="artists"> - Drake</span></span>
+4. <span class="track-li" data-track-id="39QBkWKnap8wRSW4WB9OK0"><span class="title">Gin and Juice</span><span class="artists"> - Snoop Dogg</span></span>
 
 </div>
 
@@ -1873,10 +1873,10 @@
 
 <div>
 
-1. <span class="title">Caribou Lou</span><span class="artists"> - Tech N9ne</span>
-2. <span class="title">I Can</span><span class="artists"> - Nas</span>
-3. <span class="title">Hustlin'</span><span class="artists"> - Rick Ross</span>
-4. <span class="title">King Kong</span><span class="artists"> - Jibbs, Chamillionaire</span>
+1. <span class="track-li" data-track-id="0I0wn4G67txQwENcmRH3d6"><span class="title">Caribou Lou</span><span class="artists"> - Tech N9ne</span></span>
+2. <span class="track-li" data-track-id="2NPxL1QqPrD1a7OLHjVcAP"><span class="title">I Can</span><span class="artists"> - Nas</span></span>
+3. <span class="track-li" data-track-id="3hQCHzkE5oSA3F1xM8bpcM"><span class="title">Hustlin'</span><span class="artists"> - Rick Ross</span></span>
+4. <span class="track-li" data-track-id="3FY0HrfhcG75h0UCTGpg4S"><span class="title">King Kong</span><span class="artists"> - Jibbs, Chamillionaire</span></span>
 
 </div>
 
@@ -1955,10 +1955,10 @@
 
 <div>
 
-1. <span class="title">E.I.</span><span class="artists"> - Nelly</span>
-2. <span class="title">Patiently Waiting</span><span class="artists"> - 50 Cent, Eminem</span>
-3. <span class="title">Bow Down</span><span class="artists"> - Westside Connection</span>
-4. <span class="title">Over Here Hustlin'</span><span class="artists"> - Birdman, Lil Wayne</span>
+1. <span class="track-li" data-track-id="4bUfMNNmiCmPXVyWzIfKeZ"><span class="title">E.I.</span><span class="artists"> - Nelly</span></span>
+2. <span class="track-li" data-track-id="6C781pluv3BPxGHHCUJNYc"><span class="title">Patiently Waiting</span><span class="artists"> - 50 Cent, Eminem</span></span>
+3. <span class="track-li" data-track-id="4EGduKhpEdXZFsZELRkvfs"><span class="title">Bow Down</span><span class="artists"> - Westside Connection</span></span>
+4. <span class="track-li" data-track-id="0J1mcDz3wZTdBeZ56ho8LN"><span class="title">Over Here Hustlin'</span><span class="artists"> - Birdman, Lil Wayne</span></span>
 
 </div>
 
@@ -2037,10 +2037,10 @@
 
 <div>
 
-1. <span class="title">Shook Ones, Pt. II</span><span class="artists"> - Mobb Deep</span>
-2. <span class="title">Quiet Storm</span><span class="artists"> - Mobb Deep</span>
-3. <span class="title">Dirt Off Your Shoulder</span><span class="artists"> - JAY-Z</span>
-4. <span class="title">Rap Game</span><span class="artists"> - D12, 50 Cent</span>
+1. <span class="track-li" data-track-id="33ZXjLCpiINn8eQIDYEPTD"><span class="title">Shook Ones, Pt. II</span><span class="artists"> - Mobb Deep</span></span>
+2. <span class="track-li" data-track-id="6nwAubYnLGl7F7cDuOoVLp"><span class="title">Quiet Storm</span><span class="artists"> - Mobb Deep</span></span>
+3. <span class="track-li" data-track-id="3IrkbGQCoEPAkzJ0Tkv8nm"><span class="title">Dirt Off Your Shoulder</span><span class="artists"> - JAY-Z</span></span>
+4. <span class="track-li" data-track-id="3WgTbafC5uRpdQdFndQYxE"><span class="title">Rap Game</span><span class="artists"> - D12, 50 Cent</span></span>
 
 </div>
 
@@ -2119,10 +2119,10 @@
 
 <div>
 
-1. <span class="title">Young N*****</span><span class="artists"> - Gucci Mane, Waka Flocka Flame</span>
-2. <span class="title">When I Die</span><span class="artists"> - Krayzie Bone, Fat Joe, Big Pun, Layzie Bone</span>
-3. <span class="title">Big Pimpin'</span><span class="artists"> - JAY-Z, UGK</span>
-4. <span class="title">Survival of the Fittest</span><span class="artists"> - Mobb Deep</span>
+1. <span class="track-li" data-track-id="7nsDUqwT5JhLCqyFezAuC3"><span class="title">Young N*****</span><span class="artists"> - Gucci Mane, Waka Flocka Flame</span></span>
+2. <span class="track-li" data-track-id="4TdUh482EQMbchz7IH5Kj1"><span class="title">When I Die</span><span class="artists"> - Krayzie Bone, Fat Joe, Big Pun, Layzie Bone</span></span>
+3. <span class="track-li" data-track-id="7m97yKVzPpXV9Z4ezEziOD"><span class="title">Big Pimpin'</span><span class="artists"> - JAY-Z, UGK</span></span>
+4. <span class="track-li" data-track-id="7N1Vjtzr1lmmCW9iasQ8YO"><span class="title">Survival of the Fittest</span><span class="artists"> - Mobb Deep</span></span>
 
 </div>
 
@@ -2201,10 +2201,10 @@
 
 <div>
 
-1. <span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span>
-2. <span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span>
-3. <span class="title">WW III</span><span class="artists"> - Ruff Ryders, Snoop Dogg, Scarface, Jadakiss, Yung Wun</span>
-4. <span class="title">Ready to Die</span><span class="artists"> - The Notorious B.I.G.</span>
+1. <span class="track-li" data-track-id="771lQyKAtqXRpZ7iM4JsbP"><span class="title">Fuck Tha Police</span><span class="artists"> - N.W.A.</span></span>
+2. <span class="track-li" data-track-id="5STdMlrBf6pqWiNE7WqxSi"><span class="title">Many Men (Wish Death)</span><span class="artists"> - 50 Cent</span></span>
+3. <span class="track-li" data-track-id="3vm7NBtMNULBDQ8yAwVoWC"><span class="title">WW III</span><span class="artists"> - Ruff Ryders, Snoop Dogg, Scarface, Jadakiss, Yung Wun</span></span>
+4. <span class="track-li" data-track-id="3UQAKY0SUEonxneROvv4jy"><span class="title">Ready to Die</span><span class="artists"> - The Notorious B.I.G.</span></span>
 
 </div>
 
@@ -2283,10 +2283,10 @@
 
 <div>
 
-1. <span class="title">I Wanna Love You</span><span class="artists"> - Akon, Snoop Dogg</span>
-2. <span class="title">Buy U a Drank</span><span class="artists"> - T-Pain, Yung Joc</span>
-3. <span class="title">Hard in Da Paint</span><span class="artists"> - Waka Flocka Flame</span>
-4. <span class="title">Ambitionz Az A Ridah</span><span class="artists"> - 2Pac</span>
+1. <span class="track-li" data-track-id="0CXVjQI9wsqaGeIARkkpYc"><span class="title">I Wanna Love You</span><span class="artists"> - Akon, Snoop Dogg</span></span>
+2. <span class="track-li" data-track-id="1tkMs9wDPknQ3ZHcKDw1ES"><span class="title">Buy U a Drank</span><span class="artists"> - T-Pain, Yung Joc</span></span>
+3. <span class="track-li" data-track-id="3XQY8kDjI8LARMIC9xkxQk"><span class="title">Hard in Da Paint</span><span class="artists"> - Waka Flocka Flame</span></span>
+4. <span class="track-li" data-track-id="5g9lS8deSIxItFBmZRC4vN"><span class="title">Ambitionz Az A Ridah</span><span class="artists"> - 2Pac</span></span>
 
 </div>
 
@@ -2365,10 +2365,10 @@
 
 <div>
 
-1. <span class="title">Get Your Roll On</span><span class="artists"> - Big Tymers</span>
-2. <span class="title">Lowrider</span><span class="artists"> - Cypress Hill</span>
-3. <span class="title">Where The Hood At</span><span class="artists"> - DMX</span>
-4. <span class="title">Feels</span><span class="artists"> - Tory Lanez, Chris Brown</span>
+1. <span class="track-li" data-track-id="4HpCT9jeCzBfpCaF3aTVWX"><span class="title">Get Your Roll On</span><span class="artists"> - Big Tymers</span></span>
+2. <span class="track-li" data-track-id="4VfojtYLYoADnN63NQ1GkN"><span class="title">Lowrider</span><span class="artists"> - Cypress Hill</span></span>
+3. <span class="track-li" data-track-id="6RUpJeXT6U4SPEafnr9Wr7"><span class="title">Where The Hood At</span><span class="artists"> - DMX</span></span>
+4. <span class="track-li" data-track-id="7D60mvrq5guYFUbt84FeVk"><span class="title">Feels</span><span class="artists"> - Tory Lanez, Chris Brown</span></span>
 
 </div>
 
@@ -2447,10 +2447,10 @@
 
 <div>
 
-1. <span class="title">Forgot About Dre</span><span class="artists"> - Dr. Dre, Eminem</span>
-2. <span class="title">Like A Pimp</span><span class="artists"> - David Banner, Lil' Flip</span>
-3. <span class="title">Drug Dealers Anonymous</span><span class="artists"> - Pusha T, JAY-Z</span>
-4. <span class="title">Point of No Return</span><span class="artists"> - Immortal Technique</span>
+1. <span class="track-li" data-track-id="7iXF2W9vKmDoGAhlHdpyIa"><span class="title">Forgot About Dre</span><span class="artists"> - Dr. Dre, Eminem</span></span>
+2. <span class="track-li" data-track-id="289MmJCmxYMxC54ZHcd9G0"><span class="title">Like A Pimp</span><span class="artists"> - David Banner, Lil' Flip</span></span>
+3. <span class="track-li" data-track-id="1b6rmL3VXBgYTbn61kM8wT"><span class="title">Drug Dealers Anonymous</span><span class="artists"> - Pusha T, JAY-Z</span></span>
+4. <span class="track-li" data-track-id="5KUiLOgwUB2Y8dzTBv8j7R"><span class="title">Point of No Return</span><span class="artists"> - Immortal Technique</span></span>
 
 </div>
 
@@ -2529,10 +2529,10 @@
 
 <div>
 
-1. <span class="title">Beamer, Benz, Or Bentley</span><span class="artists"> - Lloyd Banks, Juelz Santana</span>
-2. <span class="title">Aston Martin Music</span><span class="artists"> - Rick Ross, Drake, Chrisette Michele</span>
-3. <span class="title">Eazy-Duz-It</span><span class="artists"> - Eazy-E, Dr. Dre, MC Ren</span>
-4. <span class="title">I Got 5 On It</span><span class="artists"> - Luniz</span>
+1. <span class="track-li" data-track-id="0cNJ3huiV99wvUN1tmQLTL"><span class="title">Beamer, Benz, Or Bentley</span><span class="artists"> - Lloyd Banks, Juelz Santana</span></span>
+2. <span class="track-li" data-track-id="5W7xC99N2Zzfh69r7I7zWK"><span class="title">Aston Martin Music</span><span class="artists"> - Rick Ross, Drake, Chrisette Michele</span></span>
+3. <span class="track-li" data-track-id="1ohwrBQrxIlqMYfkoYERiN"><span class="title">Eazy-Duz-It</span><span class="artists"> - Eazy-E, Dr. Dre, MC Ren</span></span>
+4. <span class="track-li" data-track-id="7vfvZp6KZJpxiaW6rI9ieM"><span class="title">I Got 5 On It</span><span class="artists"> - Luniz</span></span>
 
 </div>
 
@@ -2611,10 +2611,10 @@
 
 <div>
 
-1. <span class="title">Got Ur Self A Gun</span><span class="artists"> - Nas</span>
-2. <span class="title">Gettin' Jiggy Wit It</span><span class="artists"> - Will Smith</span>
-3. <span class="title">Work It</span><span class="artists"> - Missy Elliott</span>
-4. <span class="title">Late Night Hour</span><span class="artists"> - Ice Cube, Pusha T</span>
+1. <span class="track-li" data-track-id="53GfRjenL5G5zEv60tyMc2"><span class="title">Got Ur Self A Gun</span><span class="artists"> - Nas</span></span>
+2. <span class="track-li" data-track-id="0weAUscowxeqDtpCgtbpgp"><span class="title">Gettin' Jiggy Wit It</span><span class="artists"> - Will Smith</span></span>
+3. <span class="track-li" data-track-id="3jagJCUbdqhDSPuxP8cAqF"><span class="title">Work It</span><span class="artists"> - Missy Elliott</span></span>
+4. <span class="track-li" data-track-id="5z5PkpuNNQNEd1OdizjtQz"><span class="title">Late Night Hour</span><span class="artists"> - Ice Cube, Pusha T</span></span>
 
 </div>
 

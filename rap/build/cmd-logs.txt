@@ -1252,3 +1252,332 @@
    87  git commit -m fresh
    88  git push origin master
    89  h 0 
+    1  l
+    2  ls
+    3  gs
+    4  make
+    5  gs
+    6  cd ../
+    7  make
+    8  gs
+    9  git add .
+   10  gs
+   11  git commit -m 'mobile copypasta'
+   12  l
+   13  l
+   14  cd build
+   15  make
+   16  v player.js
+   17  make
+   18  cd ..
+   19  make
+   20  l
+   21  cd build
+   22  l
+   23  v player.js
+   24  gs
+   25  cd ..
+   26  make
+   27  gs
+   28  git add .
+   29  gds
+   30  gs
+   31  git commit -m refactor
+   32  l
+   33  cd build
+   34  l
+   35  v Makefile
+   36  v gen_pages.py
+   37  make -B
+   38  v gen_pages.py
+   39  gs
+   40  make
+   41  cd ..
+   42  make
+   43  gs
+   44  git add .
+   45  gds
+   46  gs
+   47  git commit -m 'squad ids'
+   48  gs
+   49  cd ../../
+   50  l
+   51  cd ryantuck.github.io
+   52  l
+   53  ls
+   54  v professional.md
+   55  l
+   56  ls
+   57  cd rap/build
+   58  l
+   59  less knockout-results.json
+   60  less ../knockout-results-round-0.txt
+   61  jq . knockout-results.json
+   62  jq . knockout-results.json | jq '.[2:]'
+   63  jq . knockout-results.json | jq '.[2:] | .'
+   64  jq . knockout-results.json | jq '.[2:].[]'
+   65  jq . knockout-results.json | jq '.[2:] | .[]'
+   66  jq . knockout-results.json | jq '.[2:] | .[]' -r
+   67  jq . knockout-results.json | jq '.[2:] | .[]' -r | sort
+   68  v squad-round.css
+   69  v squad-round.css
+   70  gs
+   71  cd ..
+   72  make
+   73  gs
+   74  git add .
+   75  gds
+   76  git commit -m cursor
+   77  gs
+   78  h 0 
+   79  l
+   80  jq . knockout-results.json | jq '.[2:] | .[]' -r | sort
+   81  cd build
+   82  jq . knockout-results.json | jq '.[2:] | .[]' -r | sort
+   83  make tracks-by-round-knockout.txt
+   84  make tracks-by-round-knockout.txt
+   85  make tracks-by-round-knockout.txt
+   86  less tracks-by-round-knockout.txt
+   87  less squad-results.json
+   88  jq . squad-results.json
+   89  jq . squad-results.json | keys
+   90  jq . squad-results.json | jq values
+   91  jq . squad-results.json | jq values -C | less -r
+   92  jq . squad-results.json | jq '.[]' -C | less -r
+   93  jq . squad-results.json | jq '.[] | ."round-1"' -C | less -r
+   94  jq . squad-results.json | jq '.[]' -C | less -r
+   95  jq . squad-results.json | jq '.[].round_1' -C | less -r
+   96  jq . squad-results.json | jq '.[].round_1.[]' -C | less -r
+   97  jq . squad-results.json | jq '.[].round_1 | .[]' -C | less -r
+   98  jq . squad-results.json | jq '.[].round_1 | .[]' -C | less -r
+   99  jq . squad-results.json | jq '.[].round_1 | .[] | .[2:]' -C | less -r
+  100  jq . squad-results.json | jq '.[].round_1 | .[] | .[2:]' -C | less -r
+  101  jq . squad-results.json | jq '.[].round_1 | .[] | .[2:] | .[]' -r | less -r
+  102  jq . squad-results.json | jq '.[].round_1 | .[] | .[2:] | .[]' -r | sort | less -r
+  103  less bracket-results.json
+  104  jq .  bracket-results.json
+  105  jq .  bracket-results.json | jq .round-of-128
+  106  jq .  bracket-results.json | jq '."round-of-128"'
+  107  jq .  bracket-results.json | jq '."round-of-128"' -r
+  108  jq .  bracket-results.json | jq '."round-of-128" | .[]' -r
+  109  jq .  bracket-results.json | jq '."round-of-128" | .[]' | sort -r
+  110  jq .  bracket-results.json | jq '."round-of-128" | .[]' -r | sort
+  111  tldr grep
+  112  tldr diff
+  113  make bracket-round-of-128.txt
+  114  make bracket-round-of-64.txt
+  115  diff bracket-round-of-*
+  116  tldr diff
+  117  diff bracket-round-of-*
+  118  diff bracket-round-of-* | grep "^<"
+  119  diff bracket-round-of-* | grep "^<" | cut -c 3-
+  120  diff bracket-round-of-128.txt bracket-round-of-64.txt | grep "^<" | cut -c 3-
+  121  make bracket-round-of-x
+  122  make bracket-round-of-x
+  123  make tracks-by-round-bracket-x
+  124  make
+  125  make
+  126  make tracks-by-round-bracket-x
+  127  make tracks-by-round-bracket-x
+  128  cat tracks-by-round-*
+  129  bat tracks-by-round-*
+  130  make tracks-by-round-txt
+  131  make tracks-by-round-txt
+  132  bat tracks-by-round-*
+  133  less tracks-by-round-knockout.txt
+  134  less tracks-by-round-knockout.txt | rev | cut -d ' - ' -f 1 | rev
+  135  less tracks-by-round-knockout.txt | rev | cut -d " - " -f 1 | rev
+  136  less tracks-by-round-knockout.txt | rev | cut -c " - " -f 1 | rev
+  137  less tracks-by-round-knockout.txt | rev | cut -d "-" -f 1 | rev
+  138  l
+  139  ls
+  140  l
+  141  ls
+  142  v transform.py
+  143  less tracks-by-round-knockout.txt
+  144  less tracks-by-round-knockout.txt | sed -e 's/^.* - //' | less
+  145  cat tracks.jsonl | jq .title -r | head
+  146  cat tracks.jsonl | jq .title -r | grep " - "
+  147  cat track-str-id-map.json | jq keys -r | grep " - "
+  148  cat tracks.jsonl | jq .title -r | grep " - "
+  149  less tracks-by-round-knockout.txt | sed -e 's/^.* - //' | less
+  150  less tracks-by-round-knockout.txt | sed -e 's/^.* - //' | less
+  151  less tracks-by-round-knockout.txt | sed -e 's/^.* - //' | sort | less
+  152  less tracks-by-round-knockout.txt | sed -e 's/^.* - //' | sort | jq -r 
+  153  less tracks-by-round-knockout.txt | sed -e 's/^.* - //' | sort | jq -sr 
+  154  less tracks-by-round-knockout.txt | sed -e 's/^.* - //' | sort | jq -R -s 
+  155  cat tracks-by-round-knockout.txt | sed -e 's/^.* - //' | sort | jq -R -s 
+  156  cat tracks-by-round-knockout.txt | sed -e 's/^.* - //' | sort | jq -R 
+  157  cat tracks-by-round-knockout.txt | sed -e 's/^.* - //' | sort | jq -R | jq 'split(",")'
+  158  cat tracks-by-round-knockout.txt | sed -e 's/^.* - //' | sort | jq -R | jq 'split(",")'
+  159  cat tracks-by-round-knockout.txt | sed -e 's/^.* - //' | sort | jq -R | jq 'split(", ")'
+  160  cat tracks-by-round-knockout.txt | sed -e 's/^.* - //' | sort | jq -R | jq 'split(", ")' | jq '.[]'
+  161  cat tracks-by-round-knockout.txt | sed -e 's/^.* - //' | sort | jq -R | jq 'split(", ")' | jq '.[]' -r
+  162  cat tracks-by-round-knockout.txt | sed -e 's/^.* - //' | sort | jq -R | jq 'split(", ")' | jq '.[]' -r | sort | less
+  163  cat tracks-by-round-knockout.txt | sed -e 's/^.* - //' | sort | jq -R | jq 'split(", ")' | jq '.[]' -r | sort | uniq -c | sort -nr
+  164  cat tracks-by-round-knockout.txt | sed -e 's/^.* - //' | sort | jq -R | jq 'split(", ")' | jq '.[]' -r | sort | uniq -c | less
+  165  less artist-counts.txt
+  166  grep Drake artists-by-round-*
+  167  tldr grep
+  168  grep -Hn Drake artists-by-round-*
+  169  grep -Hn Drake artists-by-round-*
+  170  grep -H Drake artists-by-round-*
+  171  tldr grep
+  172  grep -o Drake artists-by-round-*
+  173  grep -o Drake artists-by-round-*
+  174  grep -o Drake artists-by-round-* | sort -nr
+  175  grep -o Drake artists-by-round-* | sort
+  176  grep -o Drake artists-by-round-* | sort | wc -l 
+  177  grep -o Drake artists-by-round-* | sort | uniq -c | wc -l
+  178  grep -o Drake artists-by-round-* | sort | uniq -c 
+  179  grep -o Drake artists-by-round-* | sort | uniq -c 
+  180  grep -o Drake artists-by-round-* | sort | uniq -c 
+  181  grep -o "Lil Wayne" artists-by-round-* | sort | uniq -c 
+  182  grep -o "Lil Wayne" artists-by-round-* | sort | uniq -c 
+  183  grep -o "Lil Wayne" artists-by-round-* | sort | uniq -c 
+  184  grep -o "Lil Wayne" artists-by-round-knockout.txt artists-by-round-round-1.txt artists-by-round-round-2.txt artists-by-round-bracket-128.txt
+  185  grep -o "Lil Wayne" artists-by-round-knockout.txt artists-by-round-round-1.txt artists-by-round-round-2.txt artists-by-round-bracket-128.txt | uniq -c
+  186  grep -o "Lil Wayne"artist-counts.txt artists-by-round-knockout.txt artists-by-round-round-1.txt artists-by-round-round-2.txt artists-by-round-bracket-128.txt | uniq -c
+  187  grep -o "Lil Wayne" artist-counts.txt artists-by-round-knockout.txt artists-by-round-round-1.txt artists-by-round-round-2.txt artists-by-round-bracket-128.txt | uniq -c
+  188  make artist-counts.txt
+  189  make artist-counts.txt
+  190  grep -o "Lil Wayne" artists-by-round-all.txt artists-by-round-knockout.txt artists-by-round-round-1.txt artists-by-round-round-2.txt artists-by-round-bracket-128.txt | uniq -c
+  191  make artist-counts.txt
+  192  make artist-counts.txt -B
+  193  grep -o "Lil Wayne" artists-by-round-all.txt artists-by-round-knockout.txt artists-by-round-round-1.txt artists-by-round-round-2.txt artists-by-round-bracket-128.txt | uniq -c
+  194  man grep
+  195  man grep
+  196  man grep
+  197  grep -o "Lil Wayne" artists-by-round-all.txt artists-by-round-knockout.txt artists-by-round-round-1.txt artists-by-round-round-2.txt artists-by-round-bracket-128.txt | uniq -c
+  198  grep -o "Lil Wayne" artists-by-round-all.txt artists-by-round-knockout.txt artists-by-round-round-1.txt artists-by-round-round-2.txt artists-by-round-bracket-128.txt  | uniq -c
+  199  make lil-wayne-by-round.txt
+  200  make lil-wayne-by-round.txt
+  201  make lil-wayne-by-round.txt
+  202  make lil-wayne-by-round.txt
+  203  make lil-wayne-by-round.txt
+  204  cat artists-by-round-all.txt
+  205  cat artists-by-round-all.txt | sort | uniq
+  206  cat artists-by-round-all.txt | sort | uniq | xargs -I % 
+  207  cat artists-by-round-all.txt | sort | uniq | xargs -I % echo 
+  208  cat artists-by-round-all.txt | sort | uniq | xargs -I % echo  %
+  209  cat artists-by-round-all.txt | sort | uniq | xargs -I % echo "%"
+  210  cat artists-by-round-all.txt | sort | uniq | jq -r | xargs -I % echo "%"
+  211  cat artists-by-round-all.txt | sort | uniq | jq -r 
+  212  cat artists-by-round-all.txt | sort | uniq | jq -R 
+  213  cat artists-by-round-all.txt | sort | uniq | jq -R | xargs -I % echo %
+  214  cat artists-by-round-all.txt | sort | uniq | jq -R 
+  215  make
+  216  cat artists-by-round-all.txt | sort | uniq | jq -R 
+  217  cat artists-by-round-all.txt | sort | uniq | jq -R | xargs -I % grep '%' artists-by-round-all.txt | uniq -c
+  218  cat artists-by-round-all.txt | sort | uniq | jq -R | xargs -I % grep '%' artists-by-round-all.txt artists-by-round-round-1.txt | uniq -c
+  219  v artists-by-round-knockout.txt
+  220  cat artists-by-round-bracket-1.txt
+  221  cat artists-by-round-bracket-2.txt
+  222  cat artists-by-round-bracket-4.txt
+  223  cat artists-by-round-bracket-8.txt
+  224  cat artists-by-round-bracket-16.txt
+  225  cat artists-by-round-bracket-32.txt
+  226  cat artists-by-round-bracket-64.txt
+  227  cat artists-by-round-bracket-128.txt
+  228  make lil-wayne-by-round.txt
+  229  cat artists-by-round-all.txt | sort | uniq -c | head -n 20
+  230  cat artists-by-round-all.txt | sort | uniq -c | sort -nr | head -n 20
+  231  cat artists-by-round-all.txt | sort | uniq -c | sort -nr | head -n 20
+  232  cat artists-by-round-round-1.txt | sort | uniq -c | sort -nr | head -n 20
+  233  cat artists-by-round-all.txt | sort | uniq -c | sort -nr | head -n 20
+  234  cat artists-by-round-knockout.txt | sort | uniq -c | sort -nr 
+  235  cat artists-by-round-all.txt | sort | uniq -c | sort -nr | head -n 20
+  236  cat artists-by-round-all.txt | sort | uniq -c | sort -nr | head -n 50
+  237  cat artists-by-round-all.txt | sort | uniq -c | sort -nr | head -n 50 | cut -c 5-
+  238  cat artists-by-round-all.txt | sort | uniq -c | sort -nr | head -n 50 | cut -c 6-
+  239  cat artists-by-round-all.txt | sort | uniq -c | sort -nr | head -n 50 | cut -c 6- | jq -R | xargs -I % echo %
+  240  cat artists-by-round-all.txt | sort | uniq -c | sort -nr | head -n 50 | cut -c 6- | jq -R | xargs -I % grep -o '%' artists-by-round-knockout.txt
+  241  cat artists-by-round-all.txt | sort | uniq -c | sort -nr | head -n 50 | cut -c 6- | jq -R | xargs -I % grep -o '%' artists-by-round-knockout.txt | uniq -c
+  242  cat artists-by-round-all.txt | sort | uniq -c | sort -nr | head -n 50 | cut -c 6- | jq -R | xargs -I % grep -o '%' artists-by-round-knockout.txt artists-by-round-round-1.txt | uniq -c
+  243  cat artists-by-round-all.txt | sort | uniq -c | sort -nr | head -n 50 | cut -c 6- | jq -R | xargs -I % grep -o '%' artists-by-round-knockout.txt artists-by-round-round-1.txt | uniq -c
+  244  cat artists-by-round-all.txt | sort | uniq -c | sort -nr | head -n 50 | cut -c 6- | jq -R | xargs -I % grep -o '%' artists-by-round-knockout.txt  | uniq -c
+  245  cat artists-by-round-all.txt | sort | uniq -c | sort -nr | head -n 50 | cut -c 6- | jq -R | xargs -I % grep -o '%' artists-by-round-knockout.txt   artists-by-round-round-1.txt artists-by-round-round-2.txt| uniq -c
+  246  cat artists-by-round-all.txt | sort | uniq -c | sort -nr | head -n 50 | cut -c 6- | jq -R | xargs -I % grep -o '%' artists-by-round-all.txt artists-by-round-knockout.txt   artists-by-round-round-1.txt artists-by-round-round-2.txt| uniq -c
+  247  cat artists-by-round-all.txt | sort | uniq -c | sort -nr | head -n 50 | cut -c 6- | jq -R | xargs -I % grep -o '%' artists-by-round-all.txt artists-by-round-knockout.txt   artists-by-round-round-1.txt artists-by-round-round-2.txt| uniq -c
+  248  cd
+  249  cd src/ryantuck.github.io/rap/build
+    1  cd src/ryantuck.github.io
+    2  l
+    3  ls
+    4  cd rap/build
+    5  v knockout-round.css
+    6  v header.md
+    7  gs
+    8  cd ..
+    9  make
+   10  gs
+   11  git add .
+   12  gds
+   13  gs
+   14  git commit -m fresher
+   15  cd build
+   16  l
+   17  jq . squad-results.json
+   18  make
+   19  make
+   20  make
+   21  make
+   22  make
+   23  make
+   24  make
+   25  l
+   26  ls
+   27  v Makefile
+   28  make artists-by-round-x
+   29  cat artists-by-round-* | sort | uniq -c | sort -nr | less
+   30  v artist-counts.txt
+   31  v Makefile
+   32  v Makefile
+   33  gs
+   34  make
+   35  cd ..
+   36  make
+   37  gs
+   38  cd build
+    1  l
+    2  cd dag
+    3  l
+    4  v parse.py
+    5  make
+    6  chrome dag.svg
+    7  less dag.gv
+    8  make
+    9  less dag.gv
+   10  make
+   11  make -B
+   12  make
+   13  make -B
+   14  less dag.gv
+   15  make -B
+   16  less dag.gv
+   17  cat ../Makefile
+   18  cat ../Makefile | grep "^[a-z]" | jq -R | python parse.py | jq '.[]' | jq -s
+   19  cat ../Makefile
+   20  cat ../Makefile | grep "^[a-z]" | jq -R 
+   21  cat ../Makefile | grep "^[a-z]" | jq - 
+   22  cat ../Makefile | grep "^[a-z]" | jq - r
+   23  cat ../Makefile | grep "^[a-z]" | jq -r
+   24  cat ../Makefile | grep "^[a-z]" | jq 
+   25  cat ../Makefile | grep "^[a-z]" | jq -R
+   26  cat ../Makefile | grep "^[a-z]" | jq -R | jq -r
+   27  cat ../Makefile | grep "^[a-z]" 
+   28  make -B
+   29  less dag.gv
+   30  make -B
+   31  make -B
+   32  make -B
+   33  cd ..
+   34  v transform.py
+   35  ack track-str-map
+   36  v transform.py
+   37  v gen_squads.py
+   38  gs
+   39  make
+   40  cd dag
+   41  make -B
+   42  cd ../
