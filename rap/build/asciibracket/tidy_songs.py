@@ -1,4 +1,4 @@
-import json
+import json, sys
 
 
 def _tidy_song(song):
@@ -11,7 +11,7 @@ def _tidy_song(song):
 
 
 def get_results():
-    data = json.load(open('../round-5-tournament/songs-by-round.json'))
+    data = json.loads('\n'.join(line for line in sys.stdin))
     return [
         [_tidy_song(s) for s in songs]
         for songs in data.values()
