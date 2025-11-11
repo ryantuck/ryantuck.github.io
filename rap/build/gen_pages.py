@@ -175,7 +175,9 @@ def squad_container(squad_name, results):
     round_1 = list(results['round_1'].values())
     round_2 = list(results['round_2'].values())
     rankings = list(results['rankings'].values())[0]
+    squad_num = int(squad_name.split('-')[1]) + 1
     return '\n\n'.join([
+        f'<div style="text-align:center"><h2>Squad {squad_num} / 32</h2></div>',
         '<div class="squad-container">',
         div_round_1(round_1),
         div_round_2(round_2),

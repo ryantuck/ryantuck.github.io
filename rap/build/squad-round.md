@@ -1,4 +1,6 @@
 <link rel="stylesheet" href="squad-round.css">
+<div style="text-align:center"><h2>Squad 1 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -79,6 +81,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 2 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -159,6 +163,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 3 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -239,6 +245,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 4 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -319,6 +327,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 5 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -399,6 +409,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 6 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -479,6 +491,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 7 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -559,6 +573,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 8 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -639,6 +655,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 9 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -719,6 +737,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 10 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -799,6 +819,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 11 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -879,6 +901,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 12 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -959,6 +983,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 13 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -1039,6 +1065,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 14 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -1119,6 +1147,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 15 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -1199,6 +1229,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 16 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -1279,6 +1311,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 17 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -1359,6 +1393,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 18 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -1439,6 +1475,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 19 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -1519,6 +1557,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 20 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -1599,6 +1639,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 21 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -1679,6 +1721,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 22 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -1759,6 +1803,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 23 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -1839,6 +1885,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 24 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -1919,6 +1967,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 25 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -1999,6 +2049,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 26 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -2079,6 +2131,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 27 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -2159,6 +2213,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 28 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -2239,6 +2295,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 29 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -2319,6 +2377,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 30 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -2399,6 +2459,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 31 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
@@ -2479,6 +2541,8 @@
 </div>
 
 <br>
+<div style="text-align:center"><h2>Squad 32 / 32</h2></div>
+
 <div class="squad-container">
 
 <div class="round-1">
