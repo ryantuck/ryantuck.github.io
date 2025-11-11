@@ -30,7 +30,20 @@ books : \
 	the-handmaids-tale.html \
 	identity.html \
 	snow-crash.html \
-	grapes-of-wrath.html
+	grapes-of-wrath.html \
+	flowers-for-algernon.html \
+	the-prince.html \
+	what-is-property.html \
+	to-kill-a-mockingbird.html \
+	a-fire-upon-the-deep.html \
+	a-portrait-of-the-artist-as-a-young-man.html \
+	beyond-good-and-evil.html \
+	i-know-why-the-caged-bird-sings.html \
+	notes-from-the-underground.html \
+	reflections-on-the-revolution-in-france.html \
+	speed-destruction-noise-war.html \
+	the-public-and-its-problems.html \
+	the-rights-of-man.html
 
 
 war-and-peace.html :
@@ -182,6 +195,75 @@ grapes-of-wrath.html :
 	rm -f $@
 	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
 	find books/grapes-of-wrath/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+flowers-for-algernon.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/flowers-for-algernon/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+the-prince.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/the-prince/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+to-kill-a-mockingbird.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/to-kill-a-mockingbird/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+what-is-property.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/what-is-property/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+a-fire-upon-the-deep.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/a-fire-upon-the-deep/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+a-portrait-of-the-artist-as-a-young-man.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/a-portrait-of-the-artist-as-a-young-man/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+beyond-good-and-evil.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/beyond-good-and-evil/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+i-know-why-the-caged-bird-sings.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/i-know-why-the-caged-bird-sings/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+notes-from-the-underground.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/notes-from-the-underground/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+reflections-on-the-revolution-in-france.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/reflections-on-the-revolution-in-france/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+speed-destruction-noise-war.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/speed-destruction-noise-war/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+the-public-and-its-problems.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/the-public-and-its-problems/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+the-rights-of-man.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/the-rights-of-man/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+
+
+
 
 
 
