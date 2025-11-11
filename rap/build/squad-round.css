@@ -59,7 +59,6 @@
 }
 .rankings div { width: 80%; }
 
-
 @media screen and (max-width: 767px) {
 	.squad-container { height: auto; }
 	.round-1 {
@@ -205,4 +204,8 @@
 .rankings:hover li:nth-child(2) .artists { color: #999; }
 .rankings:hover li:nth-child(3) .artists { color: #999; }
 .rankings:hover li:nth-child(4) .artists { color: #999; }
+
+.squad-container ol {
+    cursor: url('./crosshairs.png') 16 16, auto;
+}
 
