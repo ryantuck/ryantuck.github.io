@@ -29,3 +29,11 @@ document.querySelectorAll('li').forEach(item => {
 
     });
 });
+
+document.addEventListener('DOMContentLoaded', function() {
+    const allTracks = document.querySelectorAll('.track-li');
+    const idx = Math.floor(Math.random() * allTracks.length);
+    let trackId = allTracks[idx].dataset.trackId;
+    let url = 'https://open.spotify.com/embed/track/' + trackId;
+    document.getElementById('player').setAttribute('src', url);
+});
