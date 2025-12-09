@@ -43,6 +43,7 @@ books : \
 	reflections-on-the-revolution-in-france.html \
 	speed-destruction-noise-war.html \
 	the-public-and-its-problems.html \
+	civilization-and-its-discontents.html \
 	the-rights-of-man.html
 
 
@@ -260,6 +261,11 @@ the-rights-of-man.html :
 	rm -f $@
 	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
 	find books/the-rights-of-man/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
+
+civilization-and-its-discontents.html :
+	rm -f $@
+	echo "<link href="book-page.css?no=cache" rel="stylesheet" type="text/css" />" >> $@
+	find books/civilization-and-its-discontents/* | sort -V | xargs -I % echo '<img src="%" />' >> $@
 
 
 
