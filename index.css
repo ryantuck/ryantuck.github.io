@@ -24,8 +24,10 @@ body::before {
 
 #title {
   font-size: 5em;
-  color: blue;
+  color: #fff;
+    text-shadow: 10px 10px #000;
 }
+
 
 #person {
   cursor: pointer;
@@ -35,7 +37,8 @@ body::before {
   display: inline-block;
   vertical-align: top;
   margin: 5px;
-  box-shadow: 5px 5px 5px #0b0;
+  box-shadow: 10px 10px #000;
+  background-color: #000;
 }
 
 a:link {
