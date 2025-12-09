@@ -1,7 +1,7 @@
-/* @import url("https://github.com/ryantuck/roam-themez/raw/master/roam_1337_dark.user.css"); */
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono');
 
 * {
-  font-family: monospace;
+  font-family: "Syne Mono", monospace;
 }
 
 body {
@@ -35,6 +35,7 @@ body::before {
   display: inline-block;
   vertical-align: top;
   margin: 5px;
+  box-shadow: 5px 5px 5px #0b0;
 }
 
 a:link {
