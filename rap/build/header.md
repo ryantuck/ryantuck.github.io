@@ -30,6 +30,10 @@ By Ryan Tuck
     a:hover { color: #3f3; }
 </style>
 
+What's the best rap song of all time?
+
+I built this mega-tournament to figure it out.
+
 Peep da playlist on [Spotify](https://open.spotify.com/playlist/0myKzQgtb0t2V4ob1P7yn8?si=a2585398ae594ed4)
 
 ( Tap any track to preview )

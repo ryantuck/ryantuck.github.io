@@ -10,9 +10,15 @@
 
 <div style="font-size:2em;">
 
-512 tracks = 32 Squads x 16 tracks
+512 tracks = 32 Squads x 16 tracks each
 
-2x group rounds each whittles each squad down to its 4 dopest tracks
+First - 16 tracks shuffled into 4 groups
+
+Next - Best 8 tracks shuffled into 2 groups
+
+Finally - 4 best tracks are ranked and advance to bracket round
+
+After cookin' up the Squad Round, 512 tracks crystallize down into a pure product of only the 128 dopest tracks
 
 </div>
 

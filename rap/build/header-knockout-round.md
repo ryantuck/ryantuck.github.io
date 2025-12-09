@@ -9,9 +9,14 @@
 
 <div style="font-size:2em;">
 
-Whittle down field from 564 to a clean 512 tracks
+Whittle down field from 564 to a clean 512 tracks.
+
+Randomly-selected 26 groups of 4 tracks each. Top two advance.
+
+52 tracks eliminated before things get poppin'.
 
 </div>
+
 
 </div>
 </div>

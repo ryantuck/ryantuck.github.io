@@ -30,6 +30,10 @@ By Ryan Tuck
     a:hover { color: #3f3; }
 </style>
 
+What's the best rap song of all time?
+
+I built this mega-tournament to figure it out.
+
 Peep da playlist on [Spotify](https://open.spotify.com/playlist/0myKzQgtb0t2V4ob1P7yn8?si=a2585398ae594ed4)
 
 ( Tap any track to preview )
@@ -53,9 +57,14 @@ Peep da playlist on [Spotify](https://open.spotify.com/playlist/0myKzQgtb0t2V4ob
 
 <div style="font-size:2em;">
 
-Whittle down field from 564 to a clean 512 tracks
+Whittle down field from 564 to a clean 512 tracks.
+
+Randomly-selected 26 groups of 4 tracks each. Top two advance.
+
+52 tracks eliminated before things get poppin'.
 
 </div>
+
 
 </div>
 </div>
@@ -360,9 +369,15 @@ Whittle down field from 564 to a clean 512 tracks
 
 <div style="font-size:2em;">
 
-512 tracks = 32 Squads x 16 tracks
+512 tracks = 32 Squads x 16 tracks each
 
-2x group rounds each whittles each squad down to its 4 dopest tracks
+First - 16 tracks shuffled into 4 groups
+
+Next - Best 8 tracks shuffled into 2 groups
+
+Finally - 4 best tracks are ranked and advance to bracket round
+
+After cookin' up the Squad Round, 512 tracks crystallize down into a pure product of only the 128 dopest tracks
 
 </div>
 
