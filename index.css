@@ -18,7 +18,7 @@ body::before {
   height: 100vh;
   background-size: auto 150vh;
   background-position: top;
-  background-image: url('tree.jpeg');
+  background-image: url('2025-winter.jpeg');
   z-index: -1;
 }
 
