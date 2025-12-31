@@ -1,10 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Syne+Mono');
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
 
-* {
-  font-family: "Syne Mono", monospace;
-}
 
 body {
+  font-family: "Syne Mono", monospace;
   margin: 0;
 }
 
@@ -25,7 +24,7 @@ body::before {
 #title {
   font-size: 5em;
   color: #fff;
-    text-shadow: 10px 10px #000;
+  text-shadow: 10px 10px #000;
 }
 
 
@@ -38,8 +37,13 @@ body::before {
   vertical-align: top;
   margin: 5px;
   box-shadow: 10px 10px #000;
+}
+
+.img-div {
   background-color: #000;
 }
+
+a { text-decoration: none }
 
 a:link {
   color: darkslategray;
@@ -49,10 +53,28 @@ a:visited {
 }
 a:hover {
   color: #0f0;
+  text-decoration: underline;
 }
 
 
 #main {
   text-align: center;
   width: 100%;
+}
+
+.widget {
+  width: 300px;
+}
+
+#taylor-swift {
+  background-color: #828;
+  color: #fff;
+  font-family: "Borel", system-ui;
+
+  a { color: #fff }
+  a:hover { color: #fff }
+
+  &:hover {
+    background-color: #b6b;
+  }
 }
