@@ -5,116 +5,421 @@
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>country</title>
-  <style type="text/css">
-      code{white-space: pre-wrap;}
-      span.smallcaps{font-variant: small-caps;}
-      span.underline{text-decoration: underline;}
-      div.column{display: inline-block; vertical-align: top; width: 50%;}
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
 </head>
 <body>
 <style>
+    @import url('https://fonts.googleapis.com/css2?family=Diplomata&display=swap');
+
     body {
-        max-width: 800px;
+        text-align: center;
+        width: 800px;
         font-family: Rockwell, serif;
+
+        h1 { 
+            font-family: "Diplomata", serif;
+        }
+        h2 { 
+            font-family: "Diplomata", serif;
+        }
+        h3 { 
+            font-family: "Diplomata", serif;
+        }
     }
-    img { 
-        max-height: 600px; 
-        max-width: 100%;
-    }
+    img { width: 100%; }
 </style>
-<h1 id="country-music">Country Music</h1>
+<h1 id="a-yankees-guide-to-country-music">A Yankee’s Guide to Country
+Music</h1>
 <p>137 great country songs, bracket-style.</p>
-<p><a href="https://open.spotify.com/playlist/4s7ed8vbikQMKo6rgOWyMk">Spotify Playlist</a></p>
-<p>Six years of living in Nashville, Tennessee imprinted country music on my soul. In November 2023, I took stock of all the great country songs I had collected to date and hashed out the best of the best. A tournament seems more appropriate than trying to provide a linear rank, especially once you get into the long tail. Some matchups were no-brainers. Others were agonizing. Most decisions were made up by how close the song is to my heart, not what popular vote would say (apologies again to Miss Dolly Parton for knocking you out first round).</p>
-<p>If you’re a Yankee, I hope this helps you find your way around this beautiful genre of music I myself never grew up with. You may find it a breath of fresh and meaningful air compared to the all-too-common vapidity of lyrics in pop, electronic, and rap music.</p>
-<p>And if you’re from the South and you already know what’s good, feel free to roast me :)</p>
+<p><a
+href="https://open.spotify.com/playlist/4s7ed8vbikQMKo6rgOWyMk">Spotify
+Playlist</a></p>
+<p>Six years of living in Nashville, Tennessee imprinted country music
+on my soul. In November 2023, I took stock of all the great country
+songs I had collected to date and hashed out the best of the best. A
+tournament seems more appropriate than trying to provide a linear rank,
+especially once you get into the long tail. Some matchups were
+no-brainers. Others were agonizing. Most decisions were made up by how
+close the song is to my heart, not what popular vote would say
+(apologies again to Miss Dolly Parton for knocking you out first
+round).</p>
+<p>If you’re a Yankee, I hope this helps you find your way around this
+beautiful genre of music I myself never grew up with. You may find it a
+breath of fresh and meaningful air compared to the all-too-common
+vapidity of lyrics in pop, electronic, and rap music.</p>
+<p>And if you’re from the South and you already know what’s good, feel
+free to roast me :)</p>
 <h2 id="silverado-conference">Silverado Conference</h2>
 <figure>
-<img src="country-bracket-1.jpg" alt="silverado bracket" /><figcaption>silverado bracket</figcaption>
+<img src="country-bracket-1.jpg" alt="silverado bracket" />
+<figcaption aria-hidden="true">silverado bracket</figcaption>
 </figure>
 <h3 id="silverado-conference---west">Silverado Conference - West</h3>
-<p><strong><em>Deeper than the Holler - Randy Travis</em></strong> - I discovered Randy Travis early on living in Nashville. Classic country love song that never gets old.</p>
-<p><em>Chasin’ That Neon Rainbow - Alan Jackson</em> - I discovered Alan Jackson late, more classic country you’ll find playing every night down on Broadway.</p>
-<p><em>Friends in Low Places - The Deep Dixie Boys</em> - This classic honky tonk anthem lost in the first round, but should be in the top of anyone’s country karaoke repertoire.</p>
-<p><em>Space Cowboy - Kacie Musgraves</em> - A sad country song from one of the most prolific country singers out there.</p>
-<p><em>Kiss an Angel Good Mornin’ - Charlie Prine</em> - I may have suffered some recency bias since I discovered this in the last month or so living in Nashville, but what a love song.</p>
-<p><em>Knockin’ Boots - Luke Bryan</em> - One of the catchiest songs of all time.</p>
+<p><strong><em>Deeper than the Holler - Randy Travis</em></strong> - I
+discovered Randy Travis early on living in Nashville. Classic country
+love song that never gets old.</p>
+<p><em>Chasin’ That Neon Rainbow - Alan Jackson</em> - I discovered Alan
+Jackson late, more classic country you’ll find playing every night down
+on Broadway.</p>
+<p><em>Friends in Low Places - The Deep Dixie Boys</em> - This classic
+honky tonk anthem lost in the first round, but should be in the top of
+anyone’s country karaoke repertoire.</p>
+<p><em>Space Cowboy - Kacie Musgraves</em> - A sad country song from one
+of the most prolific country singers out there.</p>
+<p><em>Kiss an Angel Good Mornin’ - Charlie Prine</em> - I may have
+suffered some recency bias since I discovered this in the last month or
+so living in Nashville, but what a love song.</p>
+<p><em>Knockin’ Boots - Luke Bryan</em> - One of the catchiest songs of
+all time.</p>
 <h3 id="silverado-conference---east">Silverado Conference - East</h3>
-<p><strong><em>Silver Stallion - The Highwaymen</em></strong> - The Highwaymen are a Country super-group made up of Willie Nelson, Johnny Cash, Waylon Jennings, and Mearl Haggard. Open up the throttle on your pickup on a wide-open country road and let this outlaw country shred your soul, baby.</p>
-<p><em>Different for Girls - Dierks Bentley</em> - A feminist anthem about guys and gals breaking up, Dierks was in the steady rotation when I first moved to Nashville.</p>
-<p><em>God and Country Music - George Strait</em> - The King of Country had the most songs of any artist in this category and this is him at his best. This song has grown on me so much that it would probably win the whole thing if I did it again.</p>
-<p><em>When You Say Nothing At All - Allison Krauss</em> - A beautiful little love song.</p>
-<p><em>Build Me a Daddy - Luke Bryan</em> - Get the tissues ready, this one’s a doozy, I can’t even think about this song without getting all goosepimply.</p>
-<p><em>Three Wooden Crosses - Randy Travis</em> - More Randy Travis at his storytelling best about a farmer and a teacher, a hooker and a preacher, on a greyhound bus bound for Mexico.</p>
+<p><strong><em>Silver Stallion - The Highwaymen</em></strong> - The
+Highwaymen are a Country super-group made up of Willie Nelson, Johnny
+Cash, Waylon Jennings, and Mearl Haggard. Open up the throttle on your
+pickup on a wide-open country road and let this outlaw country shred
+your soul, baby.</p>
+<p><em>Different for Girls - Dierks Bentley</em> - A feminist anthem
+about guys and gals breaking up, Dierks was in the steady rotation when
+I first moved to Nashville.</p>
+<p><em>God and Country Music - George Strait</em> - The King of Country
+had the most songs of any artist in this category and this is him at his
+best. This song has grown on me so much that it would probably win the
+whole thing if I did it again.</p>
+<p><em>When You Say Nothing At All - Allison Krauss</em> - A beautiful
+little love song.</p>
+<p><em>Build Me a Daddy - Luke Bryan</em> - Get the tissues ready, this
+one’s a doozy, I can’t even think about this song without getting all
+goosepimply.</p>
+<p><em>Three Wooden Crosses - Randy Travis</em> - More Randy Travis at
+his storytelling best about a farmer and a teacher, a hooker and a
+preacher, on a greyhound bus bound for Mexico.</p>
 <h2 id="cold-beer-conference">Cold Beer Conference</h2>
 <figure>
-<img src="country-bracket-2.jpg" alt="cold beer conference" /><figcaption>cold beer conference</figcaption>
+<img src="country-bracket-2.jpg" alt="cold beer conference" />
+<figcaption aria-hidden="true">cold beer conference</figcaption>
 </figure>
 <h3 id="cold-beer---west">Cold Beer - West</h3>
-<p><strong><em>Every Little Honky Tonk Bar - George Strait</em></strong> - Friday night, it’s a given - I’ll be L-I-V-N livin’, till we dance on the bar and we’re sleepin’ it off in the caaarrrrrrrrr. Nothing captures the Honky Tonk spirit quite like this little diddy from George Strait.</p>
-<p><em>Time Marches On - Chase Adkins</em> - The best example of eternal storytelling country, and why the genre will still be recognizable fifty years from now.</p>
-<p><em>Good Ol’ Man - Drew Green</em> - Awesome one-hit-wonder dad country about a good ol’ boy just tryin’ to be a good ol’ man, there’s no better soundtrack to becoming a parent than this brand of country.</p>
-<p><em>Country On - Luke Bryan</em> - Yeehaw, as country as country gets, Luke Bryan never disappoints.</p>
-<p><em>Jolene - Dolly Parton</em> - Miss Dolly Parton lost in the first round to Luke Bryan and it’d be an affront to all country sensibilities if I didn’t mention this wonderful woman and this classic country ballad.</p>
-<p><em>Highwomen - The Highwomen</em> - A modern country super-group of gals including Marren Morris that makes awesome tracks on par with the great Highwaymen, this track probably could’ve gone far if it weren’t knocked out early.</p>
-<p><em>Good Directions - Billy Currington</em> - Billy Currington makes fun storytellin’ country that you can listen to just about anytime, and was the first country concert I ever went to.</p>
-<p><em>Toes - Zac Brown Band</em> - Y’all know this one, it’s great, had to include it, but ZBB got popped first round and I think they’ve got plenty better songs in their discography anyway.</p>
+<p><strong><em>Every Little Honky Tonk Bar - George Strait</em></strong>
+- Friday night, it’s a given - I’ll be L-I-V-N livin’, till we dance on
+the bar and we’re sleepin’ it off in the caaarrrrrrrrr. Nothing captures
+the Honky Tonk spirit quite like this little diddy from George
+Strait.</p>
+<p><em>Time Marches On - Chase Adkins</em> - The best example of eternal
+storytelling country, and why the genre will still be recognizable fifty
+years from now.</p>
+<p><em>Good Ol’ Man - Drew Green</em> - Awesome one-hit-wonder dad
+country about a good ol’ boy just tryin’ to be a good ol’ man, there’s
+no better soundtrack to becoming a parent than this brand of
+country.</p>
+<p><em>Country On - Luke Bryan</em> - Yeehaw, as country as country
+gets, Luke Bryan never disappoints.</p>
+<p><em>Jolene - Dolly Parton</em> - Miss Dolly Parton lost in the first
+round to Luke Bryan and it’d be an affront to all country sensibilities
+if I didn’t mention this wonderful woman and this classic country
+ballad.</p>
+<p><em>Highwomen - The Highwomen</em> - A modern country super-group of
+gals including Marren Morris that makes awesome tracks on par with the
+great Highwaymen, this track probably could’ve gone far if it weren’t
+knocked out early.</p>
+<p><em>Good Directions - Billy Currington</em> - Billy Currington makes
+fun storytellin’ country that you can listen to just about anytime, and
+was the first country concert I ever went to.</p>
+<p><em>Toes - Zac Brown Band</em> - Y’all know this one, it’s great, had
+to include it, but ZBB got popped first round and I think they’ve got
+plenty better songs in their discography anyway.</p>
 <h3 id="cold-beer---east">Cold Beer - East</h3>
-<p><strong><em>People are Crazy - Billy Currington</em></strong> - God is great, beer is good, and people are crazy, nothing truer was ever said in the world.</p>
-<p><em>Five More Minutes - Scotty McCreery</em> - Eternal country about time slippin’ by, heartbreaking, uplifting, awesome little country song.</p>
-<p><em>Springsteen - Eric Church</em> - Chief can really paint a picture of how beautiful it is to be young and how music can always bring you back.</p>
-<p><em>You’re Gonna Miss This - Trace Adkins</em> - Some more heartbreaking country about slowing down to take it all in.</p>
-<p><em>I Got a Car - George Strait</em> - I’ve cried drunk listening to how beautiful this love song is. I’ve listened to more George Strait than anything else since leaving Nashville. Tough first-round loss, would’ve probably gone far if it had an easier bracket.</p>
-<p><em>Wishful Drinking - Ingrid Andress, Sam Hunt</em> - This is kinda corny but I love this modern poppy country tune.</p>
+<p><strong><em>People are Crazy - Billy Currington</em></strong> - God
+is great, beer is good, and people are crazy, nothing truer was ever
+said in the world.</p>
+<p><em>Five More Minutes - Scotty McCreery</em> - Eternal country about
+time slippin’ by, heartbreaking, uplifting, awesome little country
+song.</p>
+<p><em>Springsteen - Eric Church</em> - Chief can really paint a picture
+of how beautiful it is to be young and how music can always bring you
+back.</p>
+<p><em>You’re Gonna Miss This - Trace Adkins</em> - Some more
+heartbreaking country about slowing down to take it all in.</p>
+<p><em>I Got a Car - George Strait</em> - I’ve cried drunk listening to
+how beautiful this love song is. I’ve listened to more George Strait
+than anything else since leaving Nashville. Tough first-round loss,
+would’ve probably gone far if it had an easier bracket.</p>
+<p><em>Wishful Drinking - Ingrid Andress, Sam Hunt</em> - This is kinda
+corny but I love this modern poppy country tune.</p>
 <h2 id="county-line-conference">County Line Conference</h2>
 <figure>
-<img src="country-bracket-3.jpg" alt="county line conference" /><figcaption>county line conference</figcaption>
+<img src="country-bracket-3.jpg" alt="county line conference" />
+<figcaption aria-hidden="true">county line conference</figcaption>
 </figure>
 <h3 id="county-line---west">County Line - West</h3>
-<p><strong><em>Made for You - Jake Owen</em></strong> - Like a ship without a sea, or a song without a melody, I don’t know where I’d be or what I’d do, cause I was made for you. This one almost made the cut for the string trio to play as we walked down the aisle, that’s how integral it is to the early Nashville falling in love story.</p>
-<p><em>All my Ex’s Live in Texas - George Strait</em> - Just a classic, feel-good, funny ballad that’ll never get old.</p>
-<p><em>Letter to Me - Brad Paisley</em> - If I can share this with my kids when they’re teenagers and going through tough stuff and it helps at all to cheer them up, I’ll write Brad Paisley a letter myself to thank him for writing one of the best timeless country songs of all time.</p>
-<p><em>Doin’ Life with Me - Eric Church</em> - Classic jam about friends and family and what’s important, Eric Church tugging on the ol’ heart strings like he does so well.</p>
-<p><em>In Case you Didn’t Know - Trent Tomlinson</em> - This was an early loss to another pretty great Blake Shelton track, but this was early Nashville for me and is a great love song that never gets old.</p>
-<p><em>May We All - Florida Georgia Line</em> - FGL is as bro country as it gets, and I came to realize that I really dig a lot of bro country. Feel good summer vibes, this is a classic.</p>
+<p><strong><em>Made for You - Jake Owen</em></strong> - Like a ship
+without a sea, or a song without a melody, I don’t know where I’d be or
+what I’d do, cause I was made for you. This one almost made the cut for
+the string trio to play as we walked down the aisle, that’s how integral
+it is to the early Nashville falling in love story.</p>
+<p><em>All my Ex’s Live in Texas - George Strait</em> - Just a classic,
+feel-good, funny ballad that’ll never get old.</p>
+<p><em>Letter to Me - Brad Paisley</em> - If I can share this with my
+kids when they’re teenagers and going through tough stuff and it helps
+at all to cheer them up, I’ll write Brad Paisley a letter myself to
+thank him for writing one of the best timeless country songs of all
+time.</p>
+<p><em>Doin’ Life with Me - Eric Church</em> - Classic jam about friends
+and family and what’s important, Eric Church tugging on the ol’ heart
+strings like he does so well.</p>
+<p><em>In Case you Didn’t Know - Trent Tomlinson</em> - This was an
+early loss to another pretty great Blake Shelton track, but this was
+early Nashville for me and is a great love song that never gets old.</p>
+<p><em>May We All - Florida Georgia Line</em> - FGL is as bro country as
+it gets, and I came to realize that I really dig a lot of bro country.
+Feel good summer vibes, this is a classic.</p>
 <h3 id="county-line---east">County Line - East</h3>
-<p><strong><em>Talladega - Eric Church</em></strong> - Eric Church at his best, painting a picture of a roadtrip with friends during the summer before the real world started.</p>
-<p><em>Amarillo by Morning - George Strait</em> - The first time I heard this was five beers deep in a smoke-filled haze at Santa’s Pub in Nashville and my classically-trained-opera-singing-friend whipped out this classic country ballad and brought the house down. Core memory.</p>
-<p><em>Slow Hand - Conway Twitty</em> - I discovered Conway Twitty once I started exploring the classics, and can’t believe I missed this one for so long. Play this one with your lover after a bottle of wine or two out on the front porch on a hot summer night to set the mood right ;)</p>
-<p><em>Colder Weather - Zac Brown Band</em> - There’s a lot of hurt in a ramblin’ man’s heart, and ZBB shows you exactly what it feels like.</p>
-<p><em>One Piece at a Time - Johnny Cash</em> - It took me a long time to discover Johnny Cash’s deep discography. Funny, light, upbeat storytelling country is his bread-and-butter, can’t recommend enough.</p>
-<p><em>Get Along - Kenny Chesney</em> - This is the boat rock anthem and some wholesome great advice from a country superstar.</p>
-<p><em>Burnin’ it Down - Jason Aldean</em> - Kinda corny but honestly this is some first date music that might seal the deal if you time it right, I unapologetically love this song.</p>
-<p><em>Whiskey Lullaby - Brad Paisley, Allison Krauss</em> - Woof, this is as brutal as it is beautiful.</p>
+<p><strong><em>Talladega - Eric Church</em></strong> - Eric Church at
+his best, painting a picture of a roadtrip with friends during the
+summer before the real world started.</p>
+<p><em>Amarillo by Morning - George Strait</em> - The first time I heard
+this was five beers deep in a smoke-filled haze at Santa’s Pub in
+Nashville and my classically-trained-opera-singing-friend whipped out
+this classic country ballad and brought the house down. Core memory.</p>
+<p><em>Slow Hand - Conway Twitty</em> - I discovered Conway Twitty once
+I started exploring the classics, and can’t believe I missed this one
+for so long. Play this one with your lover after a bottle of wine or two
+out on the front porch on a hot summer night to set the mood right
+;)</p>
+<p><em>Colder Weather - Zac Brown Band</em> - There’s a lot of hurt in a
+ramblin’ man’s heart, and ZBB shows you exactly what it feels like.</p>
+<p><em>One Piece at a Time - Johnny Cash</em> - It took me a long time
+to discover Johnny Cash’s deep discography. Funny, light, upbeat
+storytelling country is his bread-and-butter, can’t recommend
+enough.</p>
+<p><em>Get Along - Kenny Chesney</em> - This is the boat rock anthem and
+some wholesome great advice from a country superstar.</p>
+<p><em>Burnin’ it Down - Jason Aldean</em> - Kinda corny but honestly
+this is some first date music that might seal the deal if you time it
+right, I unapologetically love this song.</p>
+<p><em>Whiskey Lullaby - Brad Paisley, Allison Krauss</em> - Woof, this
+is as brutal as it is beautiful.</p>
 <h2 id="john-deere-conference">John Deere Conference</h2>
 <figure>
-<img src="country-bracket-4.jpg" alt="john deere conference" /><figcaption>john deere conference</figcaption>
+<img src="country-bracket-4.jpg" alt="john deere conference" />
+<figcaption aria-hidden="true">john deere conference</figcaption>
 </figure>
 <h3 id="john-deere---west">John Deere - West</h3>
-<p><strong><em>A Woman Like You - Lee Brice</em></strong> - A super simple timeless love song.</p>
-<p><em>Neon Moon - Brooks and Dunn</em> - The finest heartbreak country song you’ll ever listen to. The Kacie Musgraves cover is also amazing.</p>
-<p><em>Live Like You Were Dying - Tim McGraw</em> - Everyone’s heard this, it’s corny, it’s sincere, it’s a beautiful song about what’s important in life.</p>
-<p><em>It Won’t Be Like This For Long - Darius Rucker</em> - More country from the eternal viewpoint, I remember tearing up in a CVS parking lot listening to this after our daughter’s first doctors visit, thinking about how some day soon that little girl’s gonna be all grown up and gone. Songs like this really do help you cherish things in the best way, thank you Mr Rucker.</p>
-<p><em>Ragged Old Flag - Johnny Cash</em> - Man, if you want to get the chills thinking about America the beautiful, have I got a song for you.</p>
-<p><em>She’s Everything - Brad Paisley</em> - If you love your lady and everything she’s got going on, throw this pup on and show her how you feel.</p>
+<p><strong><em>A Woman Like You - Lee Brice</em></strong> - A super
+simple timeless love song.</p>
+<p><em>Neon Moon - Brooks and Dunn</em> - The finest heartbreak country
+song you’ll ever listen to. The Kacie Musgraves cover is also
+amazing.</p>
+<p><em>Live Like You Were Dying - Tim McGraw</em> - Everyone’s heard
+this, it’s corny, it’s sincere, it’s a beautiful song about what’s
+important in life.</p>
+<p><em>It Won’t Be Like This For Long - Darius Rucker</em> - More
+country from the eternal viewpoint, I remember tearing up in a CVS
+parking lot listening to this after our daughter’s first doctors visit,
+thinking about how some day soon that little girl’s gonna be all grown
+up and gone. Songs like this really do help you cherish things in the
+best way, thank you Mr Rucker.</p>
+<p><em>Ragged Old Flag - Johnny Cash</em> - Man, if you want to get the
+chills thinking about America the beautiful, have I got a song for
+you.</p>
+<p><em>She’s Everything - Brad Paisley</em> - If you love your lady and
+everything she’s got going on, throw this pup on and show her how you
+feel.</p>
 <h3 id="john-deere---east">John Deere - East</h3>
-<p><strong><em>Boy - Lee Brice</em></strong> - If Darius Rucker or Tim McGraw wrote the canonical girldad song, this is the canonical song about having a son, how he’s gonna be just like you, and how you’re gonna be there every step of the way. This one hits different.</p>
-<p><em>Pancho and Lefty - Mearl Haggard</em> - All the federales say they could’ve had him any day, they only let him slip away, out of kindness I suppose.</p>
-<p><em>Write this Down - George Strait</em> - George Strait, yet again.</p>
-<p><em>You Never Even Called Me By My Name - David Allen Coe</em> - You’re officially a Nashvillian if you know every word to this song and can belt it out along with everyone at Tequila Cowboy.</p>
-<p><em>Strawberry Wine - Deana Carter</em> - Country canon. I’ve got a core memory of twenty very drunk friends belting this out at a New Years party many moons ago. Is it my youth or the loss of my innocence I’ve been missing so much?</p>
-<p><em>Tim McGraw - Taylor Swift</em> - Track 1 from Taylor’s first album. This is one of her few pure country songs and is one of my absolute favorites of all time.</p>
+<p><strong><em>Boy - Lee Brice</em></strong> - If Darius Rucker or Tim
+McGraw wrote the canonical girldad song, this is the canonical song
+about having a son, how he’s gonna be just like you, and how you’re
+gonna be there every step of the way. This one hits different.</p>
+<p><em>Pancho and Lefty - Mearl Haggard</em> - All the federales say
+they could’ve had him any day, they only let him slip away, out of
+kindness I suppose.</p>
+<p><em>Write this Down - George Strait</em> - George Strait, yet
+again.</p>
+<p><em>You Never Even Called Me By My Name - David Allen Coe</em> -
+You’re officially a Nashvillian if you know every word to this song and
+can belt it out along with everyone at Tequila Cowboy.</p>
+<p><em>Strawberry Wine - Deana Carter</em> - Country canon. I’ve got a
+core memory of twenty very drunk friends belting this out at a New Years
+party many moons ago. Is it my youth or the loss of my innocence I’ve
+been missing so much?</p>
+<p><em>Tim McGraw - Taylor Swift</em> - Track 1 from Taylor’s first
+album. This is one of her few pure country songs and is one of my
+absolute favorites of all time.</p>
 <h2 id="the-final-eight">The Final Eight</h2>
 <figure>
-<img src="country-top-8.jpg" alt="country top 8" /><figcaption>country top 8</figcaption>
+<img src="country-top-8.jpg" alt="country top 8" />
+<figcaption aria-hidden="true">country top 8</figcaption>
 </figure>
-<p>Congratulations to Randy Travis for taking home the title with <em>Deeper than the Holler</em>. Country music is a lot of things but it’s mostly about writing love songs, and there’s no love song that’s more country than singing about how different you are than them city singers.</p>
+<p>Congratulations to Randy Travis for taking home the title with
+<em>Deeper than the Holler</em>. Country music is a lot of things but
+it’s mostly about writing love songs, and there’s no love song that’s
+more country than singing about how different you are than them city
+singers.</p>
 <h2 id="notable-omissions">Notable omissions</h2>
-<p>I knew going in that I hadn’t saved every great country song, so calling out some notable misses below seems appropriate.</p>
-<p><em>Heads Carolina, Tails California - ???</em> - I literally had the catchy cover in this batch but not the original catchy cover.</p>
-<p><em>My Little Girl - Tim McGraw</em> - can’t believe I missed this!</p>
-<p><em>Walking in Memphis - Marc Cohn</em> - Heard this one at Santa’s too.</p>
-<p><em>Nine to Five - Dolly Parton</em> - This is more poppy, but it’s still Dolly.</p>
+<p>I knew going in that I hadn’t saved every great country song, so
+calling out some notable misses below seems appropriate.</p>
+<p><em>Heads Carolina, Tails California - ???</em> - I literally had the
+catchy cover in this batch but not the original catchy cover.</p>
+<p><em>My Little Girl - Tim McGraw</em> - can’t believe I missed
+this!</p>
+<p><em>Walking in Memphis - Marc Cohn</em> - Heard this one at Santa’s
+too.</p>
+<p><em>Nine to Five - Dolly Parton</em> - This is more poppy, but it’s
+still Dolly.</p>
 </body>
 </html>

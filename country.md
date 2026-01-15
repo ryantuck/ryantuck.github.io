@@ -1,12 +1,25 @@
 <style>
+    @import url('https://fonts.googleapis.com/css2?family=Diplomata&display=swap');
+
     body {
+        text-align: center;
         width: 800px;
         font-family: Rockwell, serif;
+
+        h1 { 
+            font-family: "Diplomata", serif;
+        }
+        h2 { 
+            font-family: "Diplomata", serif;
+        }
+        h3 { 
+            font-family: "Diplomata", serif;
+        }
     }
-    img { max-height: 600px; }
+    img { width: 100%; }
 </style>
 
-# Country Music
+# A Yankee's Guide to Country Music
 
 137 great country songs, bracket-style.
 

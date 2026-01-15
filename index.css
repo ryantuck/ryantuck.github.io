@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Syne+Mono');
 @import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lacquer&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Diplomata&display=swap');
 
 
 body {
@@ -25,7 +27,7 @@ body::before {
 #title {
   font-size: 5em;
   color: #b0b;
-  text-shadow: 10px 10px #00b;
+  text-shadow: 2px 2px 2px #00b;
 }
 
 
@@ -87,6 +89,8 @@ a:hover {
   color: #bb0;
   font-family: "Lacquer", system-ui;
 
+  h2 { font-size: 2rem; }
+
   a { color: #fff }
   a:hover { color: #fff }
 
@@ -95,4 +99,49 @@ a:hover {
   }
 }
 
+#demigods {
+
+  background-color: #333;
+  font-family: "Orbitron", sans-serif;
+
+  width: 300px;
+  
+
+  h2 { 
+      color: #b0b; 
+      font-size: 2rem;
+    }
+
+  a { color: #b0b; }
+  a:hover { color: #f0f; }
+
+  p { color: #0b0; }
+
+  &:hover {
+    background-color: #333;
+  }
+}
+    
+#country {
+
+  background-color: #960;
+  font-family: "Diplomata", serif;
+
+  width: 300px;
+  
+
+  h2 { 
+      color: #fff; 
+
+    }
+
+  a { color: #fff; }
+  a:hover { color: #fff; }
+
+  p { color: #bbb; }
+
+  &:hover {
+    background-color: #630;
+  }
+}
 
