@@ -20,13 +20,13 @@ body::before {
   height: 100vh;
   background-size: auto 150vh;
   background-position: top;
-  background-image: url('2025-winter.jpeg');
+  background-image: url('summer.jpeg');
   z-index: -1;
 }
 
 #title {
   font-size: 5em;
-  color: #b0b;
+  color: #f00;
   text-shadow: 2px 2px 2px #00b;
 }
 
